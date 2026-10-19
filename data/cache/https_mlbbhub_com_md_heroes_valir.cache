@@ -1,0 +1,215 @@
+# Valir, Son of Flames
+
+> Valir is not a burst mage with a self-peel button. He is a bouncer who turns one corridor of the fight into a bad place to exist. The pick works when the enemy must walk through him to play the game, and it fails when the enemy can ignore that corridor and land on his face anyway.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Damage, Guard
+- Difficulty: Easy
+- Tier this patch: S
+- Win rate: 54.14%
+- Pick rate: 1.06%
+- Ban rate: 2.32%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/valir
+
+## Guide
+
+### Pick Valir when the enemy has to walk through fire
+
+Valir gets overpicked by players who see a strong lane and assume that means a safe blind pick. It does not. Patch 2.1.61 ([patch notes](/patch-notes)) made his lane smoother by lowering mana costs and improving the later recharge on Burst Fireball, but the buff did not change the real draft rule: Valir is good when the enemy engage is honest and front-to-back.
+
+Pick him into teams that need to enter fights on foot. [Fredrinn](/heroes/fredrinn), [Barats](/heroes/barats), [Thamuz](/heroes/thamuz), [Balmond](/heroes/balmond), [Alice](/heroes/alice), and [Hylos](/heroes/hylos) all hate walking through repeated slows, burn ticks, and a knockback that resets their first step. Pick him when Turtle and Lord fights will happen in ramps, bushes, and pit mouths where one enhanced Searing Torrent can cut the entrance in half. Pick him when your own roam or EXP gives you a real front line so you can play the second line instead of facechecking first.
+
+Do not blind-pick him into suppression or layered flank pressure. [Franco](/heroes/franco) suppresses and that is the one CC Valir's cleanse cannot remove. The revamped [Kaja](/heroes/kaja) is still a counter, just not through suppression: his Divine Binding locks a whole area and drags everyone inside, and Valir has no dash to escape the circle once it lands. [Hayabusa](/heroes/hayabusa), [Natalia](/heroes/natalia), and [Helcurt](/heroes/helcurt) do not care that the front door is on fire because they do not use the front door. [Lolita](/heroes/lolita) is also miserable because she changes your fireball lane into dead time and forces you to hold skills instead of shaping space.
+
+The clean way to think about the pick is simple: if the enemy must run at your team, Valir is one of the best punish mages in the role. If the enemy can jump past your zone or lock you with suppression, you are drafting a lane bully into the wrong game.
+
+### The one thing that actually makes Valir work
+
+Valir is not scary because of one combo. He is scary because he decides where the fight starts.
+
+Every part of the kit points at that job. Burst Fireball is not there to fish for highlight kills. It is there to keep one charge cycling while the other threatens the third passive stack. Searing Torrent is not a damage spell first. It is the line that tells divers, tanks, and bruisers to start over from farther away than they wanted. Vengeance Flame is not an "I got caught" panic button. It is the permission slip that lets Valir keep controlling space even after the enemy finally reaches him.
+
+Once that clicks, the hero stops looking like a poke mage and starts looking like a traffic controller. You are not trying to delete the first target you see. You are trying to force the enemy team to enter the fight in the order you want. Tanks go first, then fighters hesitate, then the backline has no clean angle because the first two bodies already lost tempo. That is how Valir wins fights that look slow on the scoreboard and impossible in real time.
+
+The practical corollary is brutal: if you throw both fireball charges into empty space, or spend Torrent for chip damage, you have deleted the threat that makes the enemy respect you. Valir without zone pressure is just a mage with no blink.
+
+### Mid lane: the first four minutes
+
+Valir's lane is about owning the first move, not about solo-killing the opposing mid. Hit level 4 with wave control, one side bush warded by your body position, and your defensive tool still available.
+
+1. **Start S1 and win the first shove from range.** Use the first fireball on the caster line or the enemy mid if they step too high, then hold the second charge as a threat instead of instantly dumping it. The goal is to make the opponent respect the stun setup while you clear first and move first.
+2. **Treat S2 as anti-gank insurance, not lane poke.** If the enemy roam is off-map and river vision is dark, do not cast Searing Torrent just to chunk the lane opponent. The spell matters more as the button that denies the first jungle step than as one extra trade spell.
+3. **Save battle-spell tempo for the first real rotation.** If you took Flicker, keep it for the first Turtle fight or the first dive that actually reaches you. If you took Flameshot into a slow lobby, spend it only on a guaranteed kill or to finish a fight around river. Burning spell tempo for a cute lane clip is how Valir arrives to minute three with priority but no safety.
+
+Your early roam pattern should be short and disciplined. Shove, show to the river entrance, threaten a fireball angle, then return if the side lane is not already committed. Valir is strong when he arrives second with wave done, not when he abandons mid first and gets collapsed in the jungle.
+
+### The power spike you are farming toward
+
+Valir's real two-item spike is **Glowing Wand plus Ice Queen Wand**, usually around the 7 to 9 minute window in a normal mid lane. That is the point where his damage-over-time control stops being annoying and starts being structurally unfair.
+
+Glowing Wand gives every repeated touch real health pressure and anti-heal. Ice Queen Wand makes every skill hit slow harder the longer the enemy stays in contact. Put those together with Valir's natural multi-hit pattern and something specific changes: one fireball is no longer just poke, and one enhanced Torrent is no longer just peel. They become a trap state. Anyone who keeps walking through the burn is getting slower, taking more chip, and healing less while your team repositions around them.
+
+This is why Valir feels oppressive around second Turtle and the first Lord setup when he is on curve. Before those two items, he is mostly buying time. After those two items, he is deciding whether tanks can cross a choke without arriving half-spent. That is the moment you start forcing objective fights instead of merely answering them.
+
+Do not mistake raw AP items for the first spike. Holy Crystal hits harder later, but it does not change the geometry of the fight. Glowing plus Ice Queen changes geometry. That is the point of the hero.
+
+### Teamfight positioning and target priority
+
+The common Valir mistake is trying to play him like a long-range finisher who always looks for the enemy backline first. That reflex loses fights. Your first job is to break the enemy entry, not to prove that you can reach their marksman.
+
+Three positioning rules matter every game:
+
+1. **Stand one layer behind your real frontliner, never at the mouth of the choke.** If you stand on the doorway yourself, you become the target that eats the engage. Stand behind the doorway so Searing Torrent throws the diver back through the space they just spent resources to cross.
+2. **Hold one fireball charge for contact.** Spending both S1 charges for poke removes the stun threat that keeps assassins and fighters honest. Valir with one charge loaded is a deterrent. Valir with zero is permission.
+3. **Peel the first body that commits, then turn forward.** If [Lapu-Lapu](/heroes/lapu-lapu), [Khaleed](/heroes/khaleed), or [Fredrinn](/heroes/fredrinn) steps in, hit that body first, stack passive, and make the engage fail. If you skip the diver to throw spells at the enemy marksman, you usually die with damage still available.
+
+Target priority changes only after the line is secure. Once the diver or tank has been pushed off, then you can walk up and keep fireballs on whoever got stranded behind them.
+
+If your support is [Diggie](/heroes/diggie) or [Mathilda](/heroes/mathilda), you can take a higher angle because they either deny the first commit or give you a reset path after it. If your support is [Estes](/heroes/estes) or [Floryn](/heroes/floryn), play tighter. Healing does not fix bad spacing against a hard flank.
+
+### Itemization: defaults vs flex slots
+
+Valir does not want six damage items. He wants two locked control items, the correct boots, and then enough flex to survive the way the enemy is actually trying to kill him.
+
+**The locked pair is Glowing Wand and Ice Queen Wand.** Glowing is mandatory because it turns every touch into real attrition and already gives you anti-heal through Lifebane. Ice Queen is mandatory because Valir's whole job improves when each repeat hit makes escape and re-entry slower. Do not reach for a second anti-heal item on top of Glowing Wand: Lifebane does not stack, so the extra slot buys nothing.
+
+**Boots are a game-state decision, not autopilot.** Demon Boots is the default because Valir still wins games by spamming waves into rotations, and running dry before an objective is a throw. Tough Boots is the answer when the enemy draft layers slows and CC hard enough that surviving the first touch matters more than mana comfort. Magic Boots is the greedy snowball pick only when you already know the fights will be short and your team controls the map.
+
+Then the real flex conversation starts:
+
+- **Genius Wand** when the enemy front line is still light on magic defense and you want the midgame spike to hurt immediately.
+- **Divine Glaive** when two or more enemy cores have already moved into magic resistance and your poke is starting to feel decorative.
+- **Holy Crystal** when your team already controls space and you need the follow-up damage to turn zoning into kills.
+- **Winter Crown** when the actual problem is one committed dive from [Hayabusa](/heroes/hayabusa), [Ling](/heroes/ling), [Natalia](/heroes/natalia), or [Saber](/heroes/saber). If the assassin is saving everything for you, this is often stronger than one more damage item.
+- **Immortality** or **Blood Wings** for the last slot, depending on what the game is asking. Immortality is for one-fight insurance when you are the obvious pick target. Blood Wings is for games where you are already spacing well and want the shield plus movement to keep control without giving up offense.
+
+Valir itemization should read like a conversation with the enemy draft, not a fixed shopping list.
+
+### Mistakes that lose Valir games
+
+**Dumping both fireball charges before the fight starts.** This is the classic impatience throw. The third passive stack and stun matter more than the first two poke hits. Hold one charge so the enemy has to respect the contact window instead of sprinting through it.
+
+**Using Searing Torrent as damage instead of as a gate.** If you cast S2 just because someone is visible, you often spend your best anti-dive tool on a target who was not actually threatening you. Save it for the body that matters, or for the angle that must be closed.
+
+**Pressing Vengeance Flame too early into lockdown drafts.** Valir can cleanse slows, stuns, and the usual engage clutter. He cannot cleanse [Franco](/heroes/franco) suppression, and the revamped [Kaja](/heroes/kaja) restraint is not something his cleanse escapes either. If you use your ult the moment you are brushed by minor CC, the real lockdown arrives five seconds later and you die with no answer.
+
+**Blind-picking him into the wrong flank pattern.** [Hayabusa](/heroes/hayabusa), [Natalia](/heroes/natalia), and [Helcurt](/heroes/helcurt) do not need to honor your front-facing zone. If two of those threats are already visible and your own team has no peel, stop trying to outplay draft phase.
+
+**Rotating before the wave is solved.** Valir looks like a hero who should constantly move first because his first two levels are strong. The problem is that his real value comes from arriving to river with spell charges, mana, and map shape in his favor. If you leave mid half-cleared and force a low-percentage side play, you lose plate pressure, lose first move on the reset, and often walk into fog with no Torrent available.
+
+### Key tips
+
+> [!TIP]
+> After level 4, try to enter every real fight with one Burst Fireball charge loaded, not zero. One loaded charge is what lets the second hit threaten the stun instead of just more poke.
+
+> [!NOTE]
+> Enhanced Searing Torrent is strongest when you cast it across the route the enemy wants to use next, not directly on the spot they are standing on now. Think exit path, not current location.
+
+> [!TIP]
+> Glowing Wand already applies Lifebane. In standard mid Valir games, that means your anti-heal slot is already solved and you can spend later gold on penetration, defense, or stasis instead of duplicating the job.
+
+> [!NOTE]
+> Against Franco, position as if your ultimate does not exist. It cleanses almost everything, but not suppression, and bad Valir players die because they forget that one exception. The revamped Kaja no longer suppresses, but his Divine Binding locks the area you are standing in, so the restraint is still not a "cleanse and walk away" situation.
+
+## Skills
+
+### Ashing (Passive)
+
+Valir's skills apply a stack of Ablaze to enemies hit, dealing them Magic Damage equal to 1 (+0.2% Total Magic Power)% of their Max HP per second for 3s. At 3 stacks, the fire detonates, dealing Magic Damage equal to 5 (+1% Total Magic Power)% of the target's Max HP and stunning them for 1s. A target can only be stunned by Valir's skills once every 7s.
+
+### Burst Fireball (Skill 1)
+
+Valir launches a fireball that explodes upon hitting the first target, dealing 235 (+80% Total Magic Power) Magic Damage and slowing them by 30% for 1s. The flame on the ground explodes after 1s, dealing 118 (+40% Total Magic Power) Magic Damage. Valir recharges 1 fireball every 9s (up to 2 charges). Hitting an enemy hero or legend creep with this skill immediately restores 1 charge, while hitting a minion restores 4s of the recharge time. Vengeance Flame: Increases the cast range of Burst Fireball by 30%.
+
+### Searing Torrent (Skill 2)
+
+Valir unleashes a torrent of flames in the target direction, dealing 200 (+60% Total Magic Power) Magic Damage and knocking them back to the end of its path. Vengeance Flame: The torrent forms a firewall at the end of its path that lasts 4s, dealing 100 (+30% Total Magic Power) Magic Damage to nearby enemies every 1s. Enemies hit by the torrent or the firewall are slowed by 25% for 1s.
+
+### Vengeance Flame (Ultimate)
+
+Valir removes all debuffs on himself and gains 40% Movement Speed that decays over 3s. Meanwhile, he conjures 4 Vengeance Flames that enhance Burst Fireball and Searing Torrent for 9s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, activate Valir's Ultimate to enhance his skills, then blast the enemy with his 1st Skill. If the enemy tries to get close, use his 2nd Skill to push them away, and hit them with his 1st Skill for high damage.
+- LANING COMBOS (laning): In the laning phase, harass enemies with Valir's 1st Skill until their HP is low, then cast his 2nd Skill to push them back and follow up immediately with his 1st Skill for burst damage.
+
+## Counters to Valir (pick these against Valir)
+
+- Helcurt (Assassin): +3.3 pp edge. Helcurt has a statistical edge over Valir based on ranked matchup data. Pick Helcurt to gain an advantage in draft.
+- Rafaela (Support): +3.3 pp edge. Rafaela has a statistical edge over Valir based on ranked matchup data. Pick Rafaela to gain an advantage in draft.
+- Kaja (Support): +3.2 pp edge. Kaja has a statistical edge over Valir based on ranked matchup data. Pick Kaja to gain an advantage in draft.
+- Mathilda (Support/Assassin): +2.9 pp edge. Mathilda has a statistical edge over Valir based on ranked matchup data. Pick Mathilda to gain an advantage in draft.
+- Natalia (Assassin): +2.7 pp edge. Natalia has a statistical edge over Valir based on ranked matchup data. Pick Natalia to gain an advantage in draft.
+- Gusion (Assassin): +2.2 pp edge. Gusion has a statistical edge over Valir based on ranked matchup data. Pick Gusion to gain an advantage in draft.
+- Novaria (Mage): +2.1 pp edge. Novaria has a statistical edge over Valir based on ranked matchup data. Pick Novaria to gain an advantage in draft.
+- Nolan (Assassin): +2.1 pp edge. Nolan has a statistical edge over Valir based on ranked matchup data. Pick Nolan to gain an advantage in draft.
+
+## Heroes Valir beats
+
+- Fredrinn (Fighter/Tank): +4.1 pp edge for Valir.
+- Alice (Tank/Mage): +3.7 pp edge for Valir.
+- Balmond (Fighter): +3.5 pp edge for Valir.
+- Leomord (Fighter): +3.3 pp edge for Valir.
+- Barats (Tank/Fighter): +3.0 pp edge for Valir.
+- Thamuz (Fighter): +2.9 pp edge for Valir.
+- Terizla (Fighter/Tank): +2.7 pp edge for Valir.
+- Tigreal (Tank): +2.7 pp edge for Valir.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/valir.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Control Default (Mid)
+
+- Items: Demon Boots, Glowing Wand, Ice Queen Wand, Genius Wand, Divine Glaive, Immortality
+- Core: Glowing Wand, Ice Queen Wand, Genius Wand
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Impure Rage
+- Battle spell: Flicker
+- Flex: Magic Boots over Demon Boots when Use when blue-side rotations are calm enough that cooldown tempo matters more than mana comfort.; Wishing Lantern over Genius Wand when Use when enemy tanks and fighters are the main targets standing inside repeated fireballs.; Blood Wings over Immortality when Use when Valir is not the first dive target and the last slot can stay shielded damage instead of revive insurance.
+- Total cost: 10900 gold
+
+Default ranked mid build for repeated burn, slow stacking, and safe peel when Valir must control river fights without running out of mana.
+
+### Frontline Burn Lantern (Mid)
+
+- Items: Magic Boots, Glowing Wand, Ice Queen Wand, Wishing Lantern, Divine Glaive, Holy Crystal
+- Core: Glowing Wand, Ice Queen Wand, Wishing Lantern
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Impure Rage
+- Battle spell: Flameshot
+- Flex: Demon Boots over Magic Boots when Use when extended side-lane defenses or low-blue games make mana more important than maximum cooldown pressure.; Genius Wand over Holy Crystal when Use when the enemy has multiple low-to-mid Magic Defense targets and your team benefits from stacked shred.; Blood Wings over Holy Crystal when Use when late fights are decided by whether Valir survives one gap-close after his ultimate cleanse.
+- Total cost: 12020 gold
+
+Front-to-back setup for durable drafts where Valir can keep the same target burning and slowed long enough for Wishing Lantern to matter.
+
+### Anti-Dive Utility (Mid)
+
+- Items: Tough Boots, Glowing Wand, Ice Queen Wand, Winter Crown, Divine Glaive, Immortality
+- Core: Glowing Wand, Ice Queen Wand, Winter Crown
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Flex: Magic Boots over Tough Boots when Use when the enemy dive is burst-heavy but not crowd-control-heavy enough to justify Fortitude.; Brute Force Breastplate over Immortality when Use against repeated physical skill damage when Valir needs cooldown, movement, and control-duration reduction before revive value.; Radiant Armor over Immortality when Use when repeated magic poke is forcing Valir out before objective fights start.
+- Total cost: 10790 gold
+
+Defensive utility build for assassin, hard-engage, or chain-control games where Valir's job is to live through the first commit and keep marking targets for allies.
+
+All builds for this hero: https://mlbbhub.com/builds/valir.
+
+## Synergies
+
+- Khaleed: Teaming up with Fighters with strong initiation like Khaleed and Yu Zhong can simultaneously enhance the entire team's combat potential.
+- Yu Zhong: Teaming up with Fighters with strong initiation like Khaleed and Yu Zhong can simultaneously enhance the entire team's combat potential.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

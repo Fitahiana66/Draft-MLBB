@@ -1,0 +1,210 @@
+# Zhask, The King of Swarms
+
+> Zhask is a control mage for players who want fights to happen on their square, not the enemy's. Patch 2.1.61 made him easier to cycle and a little easier to position, but that did not change the real test: can your draft buy enough time and bodyguard space for the spawn to matter?
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Chase, Damage
+- Difficulty: Hard
+- Tier this patch: A
+- Win rate: 52.61%
+- Pick rate: 0.34%
+- Ban rate: 0.39%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/zhask
+
+## Guide
+
+### Zhask belongs in the answer slot
+
+Zhask is not a blind-pick mid in patch 2.1.61 ([patch notes](/patch-notes)). Recent public tier lists place him in the niche bucket, not the draft-priority bucket, while broader win-rate snapshots still show that specialists convert games on him when the lobby gives him room. That is the correct way to think about this hero in the current environment: not weak, not universal, and very punishable when the enemy draft is allowed to touch him first.
+
+Pick Zhask when your team already has a real front line and a roam who understands peel. Tigreal, Edith, Minotaur, Gloo, and similar front-to-back tanks make his lane-to-objective transition cleaner because they force enemies to spend their first movement skill on the tank instead of the summoner standing behind it. He is also better when your side wants to hold river entrances and let the enemy walk into setup. Turtle fights, jungle ramps, and Lord chokes are where his kit reads clearly.
+
+Do not draft him just because the lane feels comfortable. Zhask becomes a trap when your own comp is double-squishy, when your roam only wants to engage forward, or when the enemy can reach mid from two angles at once. He also falls off sharply as a first-phase reveal. If the opponent still has room to answer with Helcurt, Hayabusa, Chou, Akai, Eudora, or any other hero that can either burst him before the full ultimate cycle or displace him away from the spawn, you are volunteering for a hard game.
+
+The simple disqualifier is this: if two enemy heroes can hit Zhask before they have to hit your front line, lock a different mage.
+
+### The spawn is not the point. The crossfire is.
+
+Most losing Zhask players think the summon is the hero. It is not. The hero is the angle created by Zhask and the Nightmaric Spawn attacking the same patch of ground from slightly different positions.
+
+That is why bad Zhask games look so helpless. The summon gets planted in the middle of lane, killed instantly, and the player concludes the hero has no damage. The real mistake happened earlier. A good spawn is not a turret you show to people. It is a question you place where the enemy wants to stand next, then punish the answer.
+
+Skill 2 is the clearest example. Mind Eater only becomes reliable crowd control when both Zhask and the spawn are aimed through the same lane of travel. If the summon is off to the side, you spent a spell for poke. If the summon is directly behind the target or covering the retreat line, you spent a spell for a real catch. Skill 3 works the same way. Hive Clones are not just chase damage. Missed clones become ground control, which means every escape route or flank path you seed ahead of time turns into a delayed tax on movement.
+
+Ultimate only amplifies that idea. Dominator's Descent is strongest when the setup already exists and the enhanced spawn is being asked to hold or extend a good angle. If you press it after the fight has already collapsed onto your body, you are using a power move as emergency medicine. Zhask rarely wins from there.
+
+### Laning: the first four minutes
+
+1. **Start Skill 1 and place it before the wave meets.** Zhask wins lane by making the first three minions awkward to approach. Drop the spawn slightly off-center so it can hit the wave and threaten the enemy mid at the same time. If you walk into the wave first and summon second, you give away the only lane edge this hero gets for free.
+2. **Play from the side brush, not from the middle of the lane.** Your first job is to create a straight line for double-hit Mind Eater, not to stand next to your summon. Step to the side, let the enemy decide whether to hit minions or respect the beam angle, and punish whichever answer leaves them exposed. Zhask looks much safer when he is a half-screen off-axis.
+3. **Save Flicker or Purify for the first committed dive, not for lane vanity.** Flicker is the default because it fixes bad spacing once. Purify is the better spell only when the enemy draft has telegraphed chain crowd control that your tank cannot body-block for you. Either way, spending battle-spell tempo to chase a small lane lead usually trades your next river fight away.
+
+Your first rotation should happen only after the next spawn timer is healthy and the lane is shoved. Zhask rotates badly when he is late and beautifully when he arrives first, plants the summon, and makes the other team walk through it.
+
+### The two-item window that actually changes the map
+
+Zhask's most honest spike is **Glowing Wand plus Genius Wand**, usually online around the 7 to 9 minute mark if mid lane went normally.
+
+This is the window where the enemy stops ignoring the summon. Glowing Wand gives every repeated hit a real afterburn and anti-heal tax, so walking through the spawn's beam pattern starts costing more than a casual trade. Genius Wand is what turns that pressure from annoying into threatening. Zhask hits in small, repeated packets, and that pattern stacks the defense shred naturally during the exact stretch where the target is still deciding whether to hold ground or retreat.
+
+Before these two items, Zhask mostly controls space with inconvenience. After them, he controls space with consequence. Squishies cannot sit in front of the spawn and clear it lazily anymore. Front liners still can, but they need help and they need to spend time. That difference is what opens turtles, side-river skirmishes, and the first real tower damage off a winning fight.
+
+Divine Glaive is not that first spike. It is the answer to what happens after enemies admit Zhask is a problem and start buying real magic defense. Buy it once the game has moved from "can they ignore me?" to "can they itemize me out?"
+
+### Teamfights are won before you press ultimate
+
+The wrong reflex is to blink the enhanced spawn directly at the enemy back line because the animation feels aggressive. That only works when the enemy has already lost the fight. In real games, Zhask wins by making the first two seconds unbearable, not by pretending he is an assassin.
+
+1. **Place the spawn on the fight's side door, not in its center.** Jungle entrances, mid-river ramps, and the edge of Lord pit are better than the obvious middle square. A side-door summon forces the enemy carry to choose between fighting your front line and respecting your beam lane. That split attention is the whole hero.
+2. **Use Mind Eater after the angle exists.** If the stun is your opener every fight, you are telegraphing the only clean piece of control in the kit. Wait until a target has committed to a path through the summon, then fire through that path. Zhask catches movement. He does not force movement by himself.
+3. **Ultimate to extend a winning square, not to invent one.** When the summon is already covering a choke, Dominator's Descent lets you hold that choke longer, reposition a little deeper, and turn retreat lines into kill lines. When the summon is dying in open space, ultimate only produces a larger target for the enemy to focus.
+
+If your roam is Diggie or Mathilda, you get one extra degree of greed. Diggie lets you survive the first punish window, while Mathilda gives you a real exit after overholding an angle. Without that kind of help, stay further back than you think and let the tank claim the front tile first.
+
+### Itemization: the locked start and the real conversations
+
+Zhask does not need a cute six-item fantasy. He needs a stable front half and honest reactions in the back half.
+
+**Boots first: Arcane Boots by default, Tough Boots only when the draft says so.** Arcane Boots are the normal buy because early magic penetration matters immediately in lane skirmishes. Tough Boots are worth the damage loss when the enemy comp is built around layered control and you know the first second of CC is what actually gets you killed.
+
+**Glowing Wand is the default first core item.** The Scorch burn and Lifebane anti-heal line up with how often Zhask tags people without fully committing. This is the item that makes the summon punish front liners who want to hold space forever.
+
+After that, the build becomes matchup work:
+
+**Genius Wand** when the enemy team is still light on magic defense and you expect repeated hits on the same target. This is the best "I am ahead of curve" second item because Zhask stacks it without effort.
+
+**Divine Glaive** when two or more enemies have already shown Athena's Shield, Radiant Armor, or naturally high magic resistance plus a defensive item. If the game has reached that state, raw damage text matters less than real penetration.
+
+**Holy Crystal** when you are allowed to free-hit from a safe line. Zhask scales brutally with flat Magic Power because the summon inherits a portion of his stats, and Holy Crystal multiplies the part of the kit that actually closes fights once the target has been held in place.
+
+**Blood Wings** when surviving the first dive matters as much as winning the damage race. The shield and movement burst are not luxury stats on Zhask. They are often the difference between getting a second spell cycle and getting deleted after the first.
+
+**Winter Crown** when the enemy has one clean burst commit that decides every fight. Hayabusa, Saber-style picks, and hard single-window dive drafts force Zhask to respect that timer. If one invulnerability active buys your tank enough time to reconnect the front line, the item paid for itself.
+
+### Mistakes that quietly throw Zhask games
+
+**Casting Mind Eater on cooldown.** Mind Eater is not your waveclear flex. It is the spell that turns positioning into a catch. When you fire it before the summon has the line, you tell the enemy exactly how much respect they need to give you, and the answer is usually "not much."
+
+**Ulting because you got jumped, not because you already own space.** Zhask players love believing the ultimate is a panic button because it feels dramatic. It is better understood as a confirmation tool. If the summon was badly placed before the ult, the ult usually just magnifies the mistake.
+
+**Trying to side-lane alone after the map opens.** Zhask can clear waves safely, but that does not make him a good long-lane holder without vision. Once outer towers fall, every side lane becomes a test of how fast the enemy can collapse on you. This hero wants grouped information and pre-planted terrain, not blind farm.
+
+**Blind-picking into Helcurt or hard displacement and hoping mechanics fix it.** Helcurt stops the reaction window Zhask needs. Akai can ruin the enhanced form by pinning or pushing him off the useful square. Chou can turn your whole ultimate into a bad relocation. These are not "play better" matchups. They are draft taxes.
+
+**Buying penetration too late or too early.** Divine Glaive as a reflex second item is greedy if nobody has magic defense yet, and delaying it forever is just as bad once tanks have started itemizing you. Zhask loses plenty of games in shop, not just on the map.
+
+### Key tips
+
+> [!TIP]
+> Place the spawn one step off the obvious line. If it sits exactly where the fight is supposed to happen, the enemy tank clears it first. If it sits on the side door, the carry has to think about it.
+
+> [!TIP]
+> Use Hive Clones on the path the assassin wants, not on the body already in front of you. The slow is worth more before contact than after contact.
+
+> [!NOTE]
+> Purify is the smarter spell only when the enemy draft is threatening layered crowd control that reaches you through the front line. In normal games, Flicker is still the cleaner answer because Zhask loses more fights to bad spacing than to one isolated stun.
+
+> [!NOTE]
+> If the summon dies instantly every fight, do not ask for more damage first. Ask whether you planted it too early, too centrally, or without a tank claiming vision. Zhask's bad fights usually start with a bad square.
+
+## Skills
+
+### Decimation (Passive)
+
+Upon death, Zhask summons a frenzied Nightmaric Spawn on the spot, which gradually loses HP over time until death.
+
+### Nightmaric Spawn (Skill 1)
+
+Zhask summons a Nightmaric Spawn that inherits 55% of his Max HP, Hybrid Defense, and Magic Power. It automatically fires Death Ray at nearby enemies, dealing 55 (+ 20%Magic Power) (+ 20% Extra Attack Speed) Magic Damage and slowing them by up to 30%. It disappears when Zhask moves too far away. Death Ray is considered a Basic Attack but cannot Crit. Fusion Enhanced: Nightmaric Spawn deals 180% damage and can be repositioned.
+
+### Mind Eater (Skill 2)
+
+Zhask fires a penetrating psychic beam in the target direction, dealing 300 (+100% Total Magic Power) Magic Damage. Afterward, the Nightmaric Spawn attacks enemies hit by Mind Eater, dealing 120 (+80% Total Magic Power) Magic Damage and stunning them for 0.5s. Fusion Enhanced: Mind Eater damage is increased to 540 (+180% Total Magic Power).
+
+### Hive Clones (Skill 3)
+
+Zhask releases a swarm of Hive Clones in the target direction. The clones explode upon hitting an enemy, dealing 55 (+18% Total Magic Power) Magic Damage and reducing their Movement Speed by 80% for 1s. If the Hive Clones hit no target, they burrow into the ground to ambush passing enemies. Fusion Enhanced: Zhask releases several swarms of Hive Clones. Subsequent damage to the same target decays to 20%.
+
+### Dominator's Descent (Ultimate)
+
+Zhask selects a target area to summon an enhanced Nightmaric Spawn and fuses with it. Nightmaric Spawn can inherit 100% of his attributes and get extra attributes. His skills are enhanced during the fusion period. Use Again: Zhask immediately gets off the Nightmaric Spawn and loses enhancement.
+
+Skill upgrade priority: 4-1-2-3.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Zhask should start by summoning his Nightmaric Spawn in a suitable location and use his Ultimate to fuse with it, then unleash his enhanced 2nd and 3rd Skill to stun and damage enemies, and follow up with Basic Attacks. If the enemy tries to flee, use his enhanced 1st Skill to blink toward them.
+- LANING COMBOS (laning): In the laning phase, Zhask should start with his 1st Skill to summon a Nightmaric Spawn next to the enemy and follow up with his 2nd Skill to stun the target, then use his 3rd Skill for more damage.
+
+## Counters to Zhask (pick these against Zhask)
+
+- Natan (Marksman): +2.9 pp edge. Natan has a statistical edge over Zhask based on ranked matchup data. Pick Natan to gain an advantage in draft.
+- Belerick (Tank): +2.8 pp edge. Belerick's CC abilities disrupt Zhask's aggressive playstyle, preventing clean dives and resets.
+- Alice (Tank/Mage): +2.8 pp edge. Alice's durability and kit give them a strong matchup advantage against Zhask throughout the game.
+- Estes (Support): +2.7 pp edge. Estes has a statistical edge over Zhask based on ranked matchup data. Pick Estes to gain an advantage in draft.
+- Baxia (Tank): +2.3 pp edge. Baxia's durability and kit give them a strong matchup advantage against Zhask throughout the game.
+- Vexana (Mage): +2.0 pp edge. Vexana has a statistical edge over Zhask based on ranked matchup data. Pick Vexana to gain an advantage in draft.
+
+## Heroes Zhask beats
+
+- Diggie (Support): +3.7 pp edge for Zhask.
+- Lolita (Support/Tank): +3.7 pp edge for Zhask.
+- Kaja (Support): +2.3 pp edge for Zhask.
+- Arlott (Fighter/Assassin): +2.0 pp edge for Zhask.
+- Valentina (Mage): +1.9 pp edge for Zhask.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/zhask.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Spawn Pressure (Mid)
+
+- Items: Magic Boots, Glowing Wand, Genius Wand, Lightning Truncheon, Holy Crystal, Divine Glaive
+- Core: Glowing Wand, Genius Wand, Lightning Truncheon
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Flicker
+- Flex: Arcane Boots over Magic Boots when Use when your team lacks early magic penetration and the enemy mid cannot force repeated all-ins before level 4.; Blood Wings over Holy Crystal when Use when assassins can reach Zhask before he fuses with Nightmaric Spawn.; Winter Crown over Holy Crystal when Use when one dive combo decides every objective fight and Flicker alone is not enough space.
+- Total cost: 11980 gold
+
+Default ranked setup built around repeated spawn hits: Glowing Wand applies anti-sustain, Genius Wand stacks shred, and Lightning Truncheon gives wave and pick burst once enemies stay inside the spawn zone.
+
+### Ultimate Tempo (Mid)
+
+- Items: Demon Boots, Glowing Wand, Fleeting Time, Holy Crystal, Divine Glaive, Lightning Truncheon
+- Core: Glowing Wand, Fleeting Time, Holy Crystal
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Flicker
+- Flex: Magic Boots over Demon Boots when Use when your lane support or blue buff access solves mana and you want faster spawn and ultimate cycles.; Blood Wings over Lightning Truncheon when Use when your lead is already secured and the only losing condition is dying before the second fused spawn.; Genius Wand over Holy Crystal when Use when your jungler or gold laner also deals meaningful magic damage and benefits from stacked Magic Defense reduction.
+- Total cost: 12040 gold
+
+Tempo build for skirmish-heavy games. Fleeting Time turns kills and assists into faster Dominator's Descent windows, while Demon Boots keeps repeated spawn placements from draining mana before objectives.
+
+### Anti-Dive Scaling (Mid)
+
+- Items: Tough Boots, Clock of Destiny, Lightning Truncheon, Winter Crown, Divine Glaive, Blood Wings
+- Core: Clock of Destiny, Lightning Truncheon, Winter Crown
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Purify
+- Flex: Arcane Boots over Tough Boots when Use when the enemy threatens damage but not enough crowd control to justify Tough Boots and Purify together.; Holy Crystal over Winter Crown when Use when your front line reliably blocks dive and Zhask can spend the fourth slot on damage instead of stasis.; Glowing Wand over Blood Wings when Use against sustain-heavy front lines where anti-heal matters more than a late shield.
+- Total cost: 10960 gold
+
+Defensive scaling setup for drafts with hard engage. Tough Boots, Purify, Clock of Destiny, and Winter Crown buy the time Zhask needs to fuse, reset position, and keep fighting around the enhanced spawn.
+
+All builds for this hero: https://mlbbhub.com/builds/zhask.
+
+## Synergies
+
+- Belerick: Zhask works best with heroes that can lock down enemies so he can have more time to deal damage, like Belerick and Lolita.
+- Lolita: Zhask works best with heroes that can lock down enemies so he can have more time to deal damage, like Belerick and Lolita.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

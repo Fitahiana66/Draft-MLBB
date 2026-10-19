@@ -1,0 +1,205 @@
+# Hilda, Power of Megalith
+
+> Hilda is not a tank in the Tigreal sense and not a damage roamer in the Popol sense. She is a bush-positioning mark builder whose ultimate turns into an execute only after the map gives her the free real estate to stack it. Pick her when the map has bushes that matter; bench her when the game happens on open river.
+
+## Snapshot
+
+- Role: Fighter, Tank
+- Lane: Roam, EXP
+- Specialty: Damage, Regen
+- Difficulty: Easy
+- Tier this patch: B
+- Win rate: 50.91%
+- Pick rate: 0.57%
+- Ban rate: 9.54%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/hilda
+
+## Guide
+
+### Is Hilda the right roam for this draft?
+
+Hilda needs two things from your draft and one thing from the enemy draft. From your side she needs a primary damage carry who is not also a diver ([Beatrix](/heroes/beatrix), [Melissa](/heroes/melissa), [Wanwan](/heroes/wanwan), backline [Layla](/heroes/layla)) so she has a reason to front for somebody, and she needs at least one teammate who stacks the Wilderness mark for her ([Lesley](/heroes/lesley)'s ult, [Valentina](/heroes/valentina), any hero landing consistent skill hits on a priority target). From the enemy side she needs at least one greedy carry who stands in bush range during objectives: a classic [Layla](/heroes/layla) / [Melissa](/heroes/melissa) / [Estes](/heroes/estes) backline that parks near Lord pit is her dream, because that is where her ult deletes someone from full.
+
+She is the wrong pick when the enemy draft has two of [Karrie](/heroes/karrie), [Kimmy](/heroes/kimmy), [Valir](/heroes/valir), [Franco](/heroes/franco), or [Baxia](/heroes/baxia). Karrie and Kimmy outrange her bush poke and kite the whole teamfight into open ground where she has no passive. Valir knocks her back the instant she commits S1. Franco hooks her out of bushes before she gets to enhance her basic. Baxia's passive is built to eat sustain heroes and his second skill ignores her S1 shield. If you cannot name which draft condition you are in right now, Hilda is the wrong pick and you should swap to a more flexible roamer like [Edith](/heroes/edith) or [Mathilda](/heroes/mathilda).
+
+### The one thing that makes Hilda work
+
+Hilda is a setup hero whose setup is invisible. Every basic attack and every skill hit plants a Wilderness mark on the target, and those marks convert her ultimate from a brief single-target stun into a percent-max-HP execute that shreds a chunk of the target's physical and magic defense. The fantasy the UI sells you is the ult slash. The actual game is the twelve seconds before the ult, where you are walking through bush lines stacking marks on the same squishy and nobody on the enemy team registers that anything is happening.
+
+The 2.1.30 rework ([patch notes](/patch-notes)) made this identity cleaner by separating her engage tools. Before the rework, her enhanced basic attack was chained to Skill 1, so committing S1 and committing the enhance cost the same cooldown. Now the enhanced basic lives on the passive and fires when you enter any bush, while S1 is a pure shield-plus-speed burst. That split is what makes her a roamer again instead of an EXP brawler: you can stack marks in bushes without spending your defensive cooldown, then save S1 for the moment the fight actually starts. Patch 2.1.88 ([patch notes](/patch-notes)) pushed that further by scaling the S1 shield up to nearly a third of her max HP at max rank (while shaving a little base HP and S2 burst), so S1 is now a genuine panic button rather than a token bubble. If you play her like a pre-rework bruiser who all-ins with S1 first, you are throwing the best thing about her kit.
+
+### Laning: the first 8 minutes
+
+You are roaming. You do not have a lane.
+
+1. **Start on gold lane for the first two waves.** Your enhanced bush basic slow locks the enemy jungler out of their red buff invade timing, and a level-2 S2 into the enemy marksman usually burns their battle spell. Leave before the third wave: you are not a gold lane tank, you are a harassment tax.
+2. **Rotate to EXP lane at 1:30 to contest blue buff side bushes.** The EXP laner wants vision and a shielded walk-up; you give both. If the enemy EXP is a ranged poker ([Gloo](/heroes/gloo), [Yve](/heroes/yve) pulled to EXP, [Valir](/heroes/valir)), do not stand in their lane, just clear the tri-bush line and leave.
+3. **First Turtle is yours to set up, not to smite.** Sit in the Turtle pit bush fifteen seconds before spawn, apply bush enhance on whoever contests, and pop S1 shield the moment your jungler starts damage. Do not ult the Turtle. Save the ult for the enemy jungler the moment they show up to contest; three marks plus ult deletes them from half HP.
+
+Battle spell is [Flicker](/spells) in ranked and [Sprint](/spells) only if the enemy draft has zero point-click CC. [Execute](/spells) belongs on EXP lane Hilda, not on roam Hilda; as a roamer your job is to land the engage and let your carry finish, not to steal the kill.
+
+### The power spike you are farming toward
+
+Two items. [Thunder Belt](/items/thunder-belt) and [Dominance Ice](/items/dominance-ice), in that order, ideally closed out by minute 9 to 10.
+
+Thunder Belt is not subtle about why it's on this hero. The Thunderbolt passive fires true damage scaled off your total hybrid defense every four seconds on basic attack, and Hilda's whole kit is designed around repeatedly applying the enhanced basic from bush. The item stacks hybrid defense permanently on hit, which means your Thunder Belt proc keeps getting stronger during the same fight. The 99% slow on the proc is also what lets you set up S2's third-strike knockback on a target who would otherwise dash out. Build the Ares Belt component first for the raw HP.
+
+Dominance Ice is your anti-dive sustain check and your grouped-fight defense anchor in one slot. Both passives are a short-range aura now: Fortress Shield stacks Hybrid Defense for every enemy hero within 5 units of you, and Lifebane cuts the Shield and HP Regen of those same enemies to 60% for as long as they stay close. Because you are the durable body the enemy assassin and marksman have to stand next to in order to reach your carry, the heroes who want to lifesteal off you are exactly the ones losing their sustain the moment they commit. (The anti-heal on your actual kill target is Sea Halberd's job, covered below.)
+
+The spike happens because after Thunder Belt and Dominance Ice you can commit S1 into a four-person cluster and survive the return fire while Thunderbolt ticks true damage every four seconds to everyone standing near your target. Before this spike you are a vision bot with a long-cooldown ult. After this spike you are the person who starts teamfights and lives through them.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a fed enemy assassin is to peel for your carry. On most tanks that reflex is correct. On Hilda it is usually wrong, because her peel is terrible (no point-click CC, only a flicker of a stun on a single-target ult, no displacement). She peels by threatening to delete the assassin's teammates from across the fight, not by body-blocking.
+
+1. **Do not initiate from the front.** Hilda has no front-to-back engage. Her S1 is a personal shield, not a team speed boost like [Atlas](/heroes/atlas) or [Mathilda](/heroes/mathilda). Walk to a flank bush, apply bush enhance on whichever backline carry is closest to your bush line, and open the fight by slow-locking them into your team's follow-up.
+2. **Your target is the highest-HP squishy, not the tank.** Her ult's bonus damage scales off the target's max HP, so in absolute terms it carves a bigger piece out of a beefy mage or marksman than out of a tank's even-larger pool padded by physical defense. Use ult on the juicy backline target, not the closest body.
+3. **S2 is a commitment tool, not a poke tool.** The lock-on does not break on the target using a dash or entering fog, so the full 3-strike chain lands even if they Flicker. Save S2 for the target you are about to ult; wasting S2 on the tank means you arrive at the execute window with 0 marks and an ult that only does its tiny base stun.
+
+The support-conditional edge case: if your main carry is [Ixia](/heroes/ixia) or any carry that wants a long front-to-back fight, you can flex into a peel-first role by sitting on top of them and saving S2 for the first diver in. If your carry is a flanker ([Fanny](/heroes/fanny), [Ling](/heroes/ling)), never peel; mirror-flank them and open on the same target.
+
+### Itemization: defenses lock, flex slot flexes
+
+Boots, Thunder Belt, and Dominance Ice are locked. Everything after that is a real conversation.
+
+- **Boots choice** is not automatic. [Tough Boots](/items/tough-boots) is the default vs any draft with one or more hard-CC heroes because 30% CC duration reduction keeps you mobile through the exact spells that shut you down (Franco hook, Khufra ult, Atlas ult). [Warrior Boots](/items/warrior-boots) is correct vs heavy early physical pressure (Aamon jungle, Lancelot). [Rapid Boots](/items/rapid-boots) is a tempo roam pick if and only if the game is likely to be decided before minute 10; the Side Effect speed loss on taking damage punishes the exact fights Hilda wants to be in.
+- **Versus physical burst**, close with [Antique Cuirass](/items/antique-cuirass) before [Blade Armor](/items/blade-armor). Antique Cuirass has higher HP and the Deter passive stacks, while Blade Armor is a niche pick vs auto-attack marksmen and actively worse vs skill-damage physicals.
+- **Versus magic burst**, [Athena's Shield](/items/athenas-shield) for single-threat mages ([Eudora](/heroes/eudora), [Lylia](/heroes/lylia)) and [Radiant Armor](/items/radiant-armor) for sustained magic DPS ([Valir](/heroes/valir), [Yve](/heroes/yve)). Don't build both; they cover different curves.
+- **Versus backline healing**, skip the third defensive item and go [Sea Halberd](/items/sea-halberd). This is the anti-heal that reaches the enemy backline against an enemy [Estes](/heroes/estes) or [Floryn](/heroes/floryn): Sea Halberd's Lifebane fires on whichever target Hilda actually damages, so it reaches across the fight, while Dominance Ice's Lifebane is a short 5-unit aura that only catches a healer standing close enough to you, which a backline healer rarely does. The two share the Lifebane name so the cut does not stack, but the attack stat on Sea Halberd is a real damage threat on her enhanced basic that Dominance Ice never provides.
+- **[Oracle](/items/oracle) is the sleeper pick** on bush-heavy maps. Oracle's 25% shield and HP regen boost multiplies her passive bush regen and her S1 shield; against a drafted anti-heal team it gets neutralized, but against a team with zero anti-heal you effectively double-dip on the entire shield stack. Most players slot [Immortality](/items/immortality) here by default, which is fine; Oracle is the upgrade when you are ahead and the enemy has no anti-heal.
+
+[Guardian Helmet](/items/guardian-helmet) is a sustain flex option, not a blanket skip. It costs 2500 gold and gives 1800 HP and 20 HP Regen. Recovery activates after five seconds out of combat and restores 2.5% Total HP per second. It has no reduced in-combat state. Defender works separately. When a single damage instance exceeds 500, it recovers 30 (+0.3% Total HP)% of the damage above 500 as HP.
+
+Hilda already heals in bushes, so judge Recovery as extra reset sustain rather than the whole reason to buy the item. Retreating into a bush is not enough to activate Recovery if you are still in combat. Defender adds a separate large-hit recovery effect that the old "useless in fights" advice ignored. Weigh both benefits against the Physical or Magic Defense slot you would give up. Neither makes Guardian Helmet mandatory.
+
+Emblem is [Tank Emblem](/emblems/tank) with the Concussive Blast core: the AOE magic damage proc on basic attack lines up perfectly with her bush enhance because the mark application fires on the same click. [Vitality](/emblems/tank) and [Tenacity](/emblems/tank) on the standard slots are correct; do not swap to Fighter Emblem, the lifesteal has no good source on her (her single-target damage is mostly ult burst).
+
+### Mistakes that lose Hilda games
+
+**Opening with S1 into the fight's front.** S1 is a short-lived personal shield. If you use it to walk into range, the shield is gone before the fight reaches its decision point and you die in the middle rows to the enemy follow-up. Walk into range through bushes, then pop S1 the instant the first enemy CC lands on you; you want the shield to absorb the first CC's damage, not to close the gap.
+
+**Ulting at 1 or 2 marks to secure a kill.** The ult's base damage alone will not kill a healthy mid-game squishy; the kill comes from the mark stacks shredding defense and feeding the percent-HP execute. Ulting on 2 marks turns what should be a massive chunk into a chip of damage. Hold ult until you have at least 4 marks, or until the target is already below the execute threshold and the brief stun lands the kill anyway.
+
+**Applying bush enhance on the tank.** The enhanced basic comes back on a short cooldown out of bush, which makes each one a precious resource. Every time you use it on the enemy tank instead of the enemy carry you are donating a mark stack to the target whose HP pool makes your ult worst. Walk past the tank to the bush that lets you tag the carry instead.
+
+**Forcing fights before Thunder Belt + Dominance Ice.** She has no item power spike before minute 8. A 4-minute gank with no items deals damage to nobody; you end up burning three battle spells for a kill trade that favors the enemy. Roam is farm for tempo objectives and vision, not for pre-6 ganks on other lanes. Let your carry power-farm and punish the map later.
+
+**Playing her like a tank.** She is not one. Her base durability is lower than any real main tank's, her S1 shield is a short-lived personal bubble rather than the team-wide engage walls [Johnson](/heroes/johnson) and [Khufra](/heroes/khufra) bring, and she has no peel CC. If your team draft needs a main tank, Hilda is not the answer. She is the answer when your team already has a main tank and you want a second durable body that deals real burst.
+
+### Key tips
+
+> [!TIP]
+> If you see an enemy backline carry walk into any bush on the map during objective setup, that is your window. Bush enhance + S2 lock-on + ult on a 4800-HP marksman from 100 to 0 is her single most-replicated highlight clip for a reason.
+
+> [!NOTE]
+> Your enhanced basic slow is strong and long enough to stand in for a teammate's slow item in the itemization math. If you're on a team with [Aulus](/heroes/aulus) or [Yu Zhong](/heroes/yu-zhong), you are already carrying the slow they would otherwise need to buy.
+
+> [!TIP]
+> S2's third strike has a knockback that places the target toward you, not away. Positioning before you press the third click decides whether the displacement lands the enemy into your team's follow-up or into their own safety. Always angle the third click so the line between you and the target points at your team.
+
+> [!NOTE]
+> Against a team with anti-heal ([Baxia](/heroes/baxia), [Sea Halberd](/items/sea-halberd), Dominance Ice spam), skip [Oracle](/items/oracle). The 25% shield and regen boost gets halved immediately on their first hit on you, and you paid 1860 gold for a defense item that gave you a passive that doesn't work.
+
+> [!WARNING]
+> Walking into a bush no longer grants a shield. Since the rework, entering a bush only arms your enhanced basic; your only shield is S1, and the 2.1.88 buff scaled it up to nearly a third of your max HP at max rank. So the answer to incoming burst is to press S1, not to dive into a bush expecting the old shield to save you. Plenty of old guides still describe the bush shield.
+
+## Skills
+
+### Blessing of Wilderness (Passive)
+
+Hilda recovers 2% HP per second while in the bush. Entering a bush enhances her next Basic Attack, which deals 110 (+130% Total Physical Attack)(+12*Hero Level) Physical Damage to the target, reduces the target's Movement Speed by 40%, and deals 40 (+100% Total Physical Attack)(+10*Hero Level) Physical Damage to enemies behind the target. After using the enhanced Basic Attack, this effect enters a 6s cooldown. Hilda's Basic Attack and skills apply a Wilderness Mark on hit, which lasts up to 4s and stacks up to 6 times. Each stack reduces the enemy hero's Hybrid Defense by 3%.
+
+### Combat Ritual (Skill 1)
+
+Hilda gains 60% Movement Speed for 3s and receives a shield that absorbs damage equal to 10% Max HP, lasting 3s.
+
+### Art of Hunting (Skill 2)
+
+Hilda locks onto an enemy target, dealing 200 (+90% Total Physical Attack) Physical Damage per hit. This skill can be cast up to 3 times. The 2nd attack deals extra damage to nearby enemies. The 3rd attack deals damage to the target and nearby enemies, knocking them back briefly.
+
+### Power of Wildness (Ultimate)
+
+Hilda launches a powerful slash at the target enemy, dealing 600 (+250% Extra Physical Attack) Physical Damage and stunning them for 0.2s. Nearby enemies take 60% of the damage. Each stack of Wilderness Mark increases Power of Wildness's damage by 2.5% of the target's Max HP. At max stacks, the extra damage increases to 20% of the target's Max HP.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Hilda should use her Ultimate to dive the back-row heroes, then use her 2nd Skill to deal damage and chase the enemy down with her 1st Skill.
+- LANING COMBOS (laning): In the laning phase, Hilda can use her 1st Skill to close in on a target enemy, and slow them with her Enhanced Basic Attack. She can then follow up with her 2nd Skill to chip away at her target and finish with her Ultimate.
+
+## Counters to Hilda (pick these against Hilda)
+
+- Karrie (Marksman): +3.2 pp edge. Across Hilda's measured matchups, Hilda is weakest in the early game. Apply pressure with Karrie before Hilda can scale.
+- Esmeralda (Tank/Mage): +3.1 pp edge. Across Hilda's measured matchups, Hilda is weakest in the early game. Apply pressure with Esmeralda before Hilda can scale.
+- Atlas (Tank): +2.9 pp edge. Across Hilda's measured matchups, Hilda is weakest in the early game. Apply pressure with Atlas before Hilda can scale.
+- Estes (Support): +2.6 pp edge. Across Hilda's measured matchups, Hilda is weakest in the early game. Apply pressure with Estes before Hilda can scale.
+- Kimmy (Marksman/Mage): +2.6 pp edge. Across Hilda's measured matchups, Hilda is weakest in the early game. Apply pressure with Kimmy before Hilda can scale.
+- Carmilla (Support/Tank): +2.3 pp edge. Across Hilda's measured matchups, Hilda is weakest in the early game. Apply pressure with Carmilla before Hilda can scale.
+- Aamon (Assassin): +2.1 pp edge. Across Hilda's measured matchups, Hilda is weakest in the early game. Apply pressure with Aamon before Hilda can scale.
+
+## Heroes Hilda beats
+
+- Yin (Fighter/Assassin): +2.9 pp edge for Hilda.
+- Granger (Marksman): +2.9 pp edge for Hilda.
+- Diggie (Support): +2.7 pp edge for Hilda.
+- Saber (Assassin): +2.7 pp edge for Hilda.
+- Helcurt (Assassin): +2.6 pp edge for Hilda.
+- Harley (Assassin/Mage): +2.6 pp edge for Hilda.
+- Vale (Mage): +2.1 pp edge for Hilda.
+- Nolan (Assassin): +1.8 pp edge for Hilda.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/hilda.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Invade Dire Hit (Roam)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Antique Cuirass, Athena's Shield, Immortality
+- Core: Thunder Belt, Dominance Ice, Immortality
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Sprint
+- Blessing: Dire Hit
+- Flex: Radiant Armor over Athena's Shield when Use against sustained magic poke or burn damage that keeps tagging Hilda before she can reset in a bush.; Blade Armor over Antique Cuirass when Use when a basic-attack marksman must hit Hilda during objective fights and chase exits.; Guardian Helmet over Athena's Shield when Use when the enemy magic threat is low and Hilda needs faster health resets between jungle invades.
+- Total cost: 10970 gold
+
+Default roam setup for invading and stacking Wilderness Mark on the enemy core. The bush-to-bush invade path keeps Force at full stacks, so Power of Wildness lands with the Dire Hit dump on top of it.
+
+### Roam Conceal Pickoff (Roam)
+
+- Items: Tough Boots, Dominance Ice, Thunder Belt, Radiant Armor, Antique Cuirass, Immortality
+- Core: Dominance Ice, Thunder Belt, Immortality
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Athena's Shield over Radiant Armor when Use against one-rotation magic burst that can kill Hilda before bush sustain matters.; Guardian Helmet over Radiant Armor when Use when rotations are constant and Hilda is winning by re-entering fights at higher health than the enemy roam.; Blade Armor over Antique Cuirass when Use against attack-speed carries that keep firing through Hilda's dive instead of relying on physical skills.
+- Total cost: 10700 gold
+
+Pickoff roam setup that trades some raw tank emblem bulk for faster rotations, Conceal windows, and Focusing Mark burst from allied follow-up.
+
+### EXP Bruiser Execute (EXP)
+
+- Items: Warrior Boots, Thunder Belt, War Axe, Oracle, Queen's Wings, Immortality
+- Core: Thunder Belt, War Axe, Oracle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Execute
+- Flex: Tough Boots over Warrior Boots when Use when crowd control or magic chip matters more than repeated physical lane trades.; Dominance Ice over Queen's Wings when Use against healing, shields, or attack-speed threats when anti-sustain matters more than low-health damage reduction.; Blade of Despair over Immortality when Use only from a clear lead when Hilda can reliably reach backline targets before final Lord fights.
+- Total cost: 10870 gold
+
+EXP setup for side-lane pressure where Thunder Belt and War Axe reward repeated contact before Execute closes the trade.
+
+All builds for this hero: https://mlbbhub.com/builds/hilda.
+
+## Synergies
+
+- Rafaela: Hilda works well with tanky heroes, which can create room for her to dish out more damage. Such as Atlas and Tigreal.
+- Franco: Hilda works well with tanky heroes, which can create room for her to dish out more damage. Such as Atlas and Tigreal.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

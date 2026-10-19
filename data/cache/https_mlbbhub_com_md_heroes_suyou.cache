@@ -1,0 +1,202 @@
+# Suyou, Mask of the Immortal
+
+> Suyou is not a blind-pick assassin. He is a tempo jungler who turns one bad rotation into a dead backliner, then looks ordinary when draft asks him to front-to-back through peel, crowd control, and layered magic damage. Pick him for fast river fights and side-angle entries, not for slow siege.
+
+## Snapshot
+
+- Role: Assassin, Fighter
+- Lane: Jungle
+- Specialty: Chase, Burst
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 49.59%
+- Pick rate: 0.76%
+- Ban rate: 0.94%
+- Released: 2024
+- Page: https://mlbbhub.com/heroes/suyou
+
+## Guide
+
+### Pick Suyou for tempo, not for comfort
+
+Suyou is strongest when the game gives him early access to two kinds of targets: a backline with weak escape tools, and a front-to-mid skirmish where his first combo does not get interrupted. That usually means he likes drafts where your roamer or mid can move first at the first Turtle, the enemy gold laner cannot self-peel on command, and the opposing jungle needs a second to wind up before fighting back.
+
+He is a strong pick when the enemy core damage comes from heroes like Xavier, Ixia, Cecilion, or other backliners that hate side entries and do not have instant repositioning. He also gets better when your own team gives him clean setup. Tigreal, Rafaela, Mathilda, and any midlaner that arrives first turn his first hold-cast into a kill instead of a trade.
+
+He becomes a trap when you lock him just because he feels safe in solo queue. If the enemy already shows Badang, Edith, Melissa, or multiple fast crowd-control buttons, Suyou's best hold-casts stop being pressure and start becoming invitations to get stuffed on entry. He is also a bad answer into magic-heavy drafts that make him walk through poke before he ever reaches a real target. The draft question is simple: can Suyou reach a priority hero before three control tools land on him? If the answer is no, pick a different jungler. Patch 2.1.88 ([patch notes](/patch-notes)) reduced his Skill 2 base damage, which narrows the early window where he could push marginal conditions. His best conditions are cleaner now, not looser.
+
+### The form switch is the whole hero
+
+Suyou does not work because his combo is flashy. He works because tap-cast and hold-cast solve different jobs, and good Suyou players stop mixing those jobs together.
+
+Tap-casts are for speed, reset angles, and finishing damage that cannot afford a long wind-up. Hold-casts are for commitment. Hold Skill 1 is the entry tool that actually starts a fight. Hold Skill 2 is the punish button when the target is already stuck in front of you. Hold Skill 3 is not a "combo finisher" at all. It is a ranged tax you collect before the fight starts or a snipe on someone already leaving.
+
+That is why Suyou feels so bad in the hands of players who press every skill the same way. If you hold everything, the enemy sees the fight coming and times their control on your approach. If you tap everything, you get mobility but not enough threat to force a collapse. The hero's real pattern is simple: use hold when the enemy is committed or hidden from vision, use tap when you need to finish, reposition, or leave.
+
+The most important button judgment is Skill 3. Tap Skill 3 is what lets Suyou cash out a kill and keep his bounty. The common mistake is spending it too early because the backward glide feels free. It is not free. Once it is gone, you are playing a short-range assassin with no clean second exit.
+
+### First four minutes: path like a jungler, not like a duelist
+
+The first four minutes decide whether Suyou gets to be the tempo hero he was picked for. He has all three skills by level 3 and does not wait for a traditional level-4 unlock, so the point is to reach that first full rotation without wasting HP or Retribution on vanity fights.
+
+1. **Start with Skill 2 and clear to level 3 before you posture for a real duel.** Suyou's early threat comes from having all three buttons online, not from raw burst. The 2.1.88 Skill 2 damage reduction made pre-spike skirmishes less forgiving, so the case for skipping early neutrals is stronger than before. If the enemy wants a random level-2 scrap and your mid has no lane control, finish the route.
+2. **Treat the first river contest as a numbers check, not a hero test.** If your mid and roam can move first, Suyou is excellent at contesting crab, buff entrances, and the first Turtle setup because he arrives with mobility, layered hits, and Retribution. If they cannot move, do not force a 1v2 because your hero "feels early."
+3. **Make the first gank about angle, not distance.** Charge Hold Skill 1 from fog, not from open river. If the enemy sees the charge bar, your best engage has already lost half its value. The clean gank is hold Skill 1 from brush, hold Skill 2 only after contact is guaranteed, one basic attack if the target is still in reach, then tap Skill 3 out before the counter-engage lands.
+
+Suyou's first objective window is the 2:00 Turtle fight, not some theoretical late-game flank. If you full-clear while your lanes have priority and still arrive late, you have misplayed the hero's best minutes.
+
+### The spike you are farming toward is Hunter Strike plus War Axe
+
+Suyou scales, but his cleanest ranked window is not full build. It is the two-item point where Hunter Strike and War Axe come online, usually around the 6 to 8 minute mark in a stable game.
+
+Hunter Strike matters because Suyou lands repeated hits in one entry. Once those hits stack, Hunter Strike gives him a sudden burst of movement speed that changes the whole fight. It lets him do the thing this hero is built for: reach the target, finish the exchange, and slide out before the enemy backline and roamer close the trap.
+
+War Axe matters for the opposite reason. Its stacked attack bonus, cooldown reduction, and full-stack true-damage rider reward staying in the fight for just a little longer than a normal assassin. That is exactly Suyou's lane between classes. He is not Saber deleting one person and disappearing. He is a skirmish assassin who wants one extended contact window, not three seconds of pure burst.
+
+When those two items are together, Suyou stops feeling like a hero that pokes and hopes. He starts feeling like a jungle bully. Your hold Skill 1 entry sticks better, your hold Skill 2 gets more value because you can stay in range long enough to finish it, and your exit is cleaner because Hunter Strike can carry the disengage. Before that spike, prioritize clean farm and first-objective fights. After that spike, start looking for second-wave entries every time the enemy mid or gold shows on a side lane without full cover.
+
+### Teamfights are lost when you hit the first body you see
+
+The wrong reflex on Suyou is to crash into the nearest frontliner because your hold Skill 1 can reach them first. That is how you turn a tempo assassin into a bad bruiser.
+
+Suyou wants the fight after the fight starts. Let the first layer of crowd control appear, then choose the angle the enemy backline forgot to respect. If Melissa has already spent her ultimate, if Badang has already punched forward, if the mage has used the escape spell, that is your green light. If those buttons are still up, wait or poke with hold Skill 3 and reposition.
+
+1. **Enter from the side brush or the wall seam, never from center lane.** Suyou's best engage is strong because it is hard to read from fog. From open mid, it is just a charge the whole enemy team can aim at.
+2. **Your first target is the damage source with the weakest peel, not always the squishiest hero.** An exposed Xavier is better than a Melissa standing inside her own barrier. A gold laner without Flicker is better than a tank who wants you to waste your cooldowns.
+3. **After the first cycle, leave unless the reset is obvious.** Suyou wins by taking one player off the map or forcing two to peel backward. If you stay in front of four people because hold Skill 2 healed you once, you are gambling the whole fight on a hero that is not built for long front-to-back brawls.
+
+There is one support-dependent exception. If your roam is Tigreal, Mathilda, or Rafaela and they are playing with you instead of diving somewhere else, you can take a longer second step into the fight because their lockdown or movement support buys the space Suyou normally has to create himself. Without that cover, play one clean entry and reset.
+
+### Itemization is three locked slots and the rest is a real argument
+
+The default shell is Ice Retribution on Tough Boots, Hunter Strike, and War Axe. Tough Boots is the usual start because the Fortitude passive cuts crowd-control and slow duration, which directly helps a hero whose best damage windows depend on getting through a hold-cast without losing tempo. If the enemy draft is overwhelmingly physical and light on control, Warrior Boots is acceptable, but that should be the exception.
+
+After the core, stop following static build orders and read the lobby. Queen's Wings is the standard fourth item when the enemy can answer your first dive with real damage. Its cooldown reduction, spell vamp, and low-HP damage reduction are exactly what Suyou wants when he needs to survive the second half of an engage. Brute Force Breastplate is the more utility-heavy option when the enemy has layered control and you need extra health, movement speed, and control-duration reduction more than raw damage.
+
+Blade of Despair is the greedy close when you are ahead and the enemy backline is already losing the map. Buy it when one clean catch decides the fight. Malefic Roar is the disciplined choice when the enemy frontline is stacking armor and your burst has started to bounce. Immortality is not a default damage slot, but it is often the correct late-game sixth if your team needs you to threaten the first angle and cannot afford your death to end the objective.
+
+If you are flexing him away from standard jungle patterns and the game has turned into repeated drawn-out skirmishes, Oracle is the niche buy that makes sense after you already have enough damage. It amplifies the healing and shielding Suyou plays around, but it is not a substitute for early tempo items. Build it only when the match has already told you survival matters more than first-contact burst.
+
+### These mistakes are what actually throw Suyou games
+
+**Charging into vision and calling it pressure.** Hold Skill 1 is threatening from fog because the target has to guess the timing. From open space, it is just telegraphed engage. If the enemy sees you charging, they save the exact spell that ruins your entry.
+
+**Using tap Skill 3 at the start of the combo.** That backward glide feels smooth, so newer Suyou players spend it too soon for style points. Then the kill survives, the roamer turns, and Suyou has no clean exit. Save tap Skill 3 for the moment you need to break the counterattack or finish from a safe line.
+
+**Blind-picking him into heavy control or magic spam.** Suyou can outplay a single answer. He hates drafts that stack several. If you already see Badang plus a zoning gold laner, or a mage core backed by layered control, you are forcing a hero whose best windows get narrower every minute.
+
+**Hitting tanks first just because they are closer.** Suyou is not the jungler you pick to grind through two frontliners forever. If your first contact is always the tank, your cooldowns disappear and the actual carries get to free-hit the fight. Use tanks as lanes to the backline, not as the main objective.
+
+**Farming one camp too many before Turtle.** Suyou's first real advantage is that he becomes a complete hero early. If you skip that timing to finish a greedy camp while your lanes already have move priority, you are choosing gold over the fight he was drafted to win.
+
+### Small edges that make Suyou look harder than he is
+
+> [!TIP]
+> If Badang, Edith, or Melissa still has the button that stops your entry, do not force hold Skill 2 after landing. Take the fast tap-cast damage, keep moving, and wait for the next angle.
+
+> [!TIP]
+> One extra basic attack after hold Skill 2 often matters more than greedily charging a second spell. It helps finish the exchange and can be the hit that turns Hunter Strike on for your exit path.
+
+> [!NOTE]
+> Hold Skill 3 is a setup tool, not proof that you have to commit. If the arrow chunks the target and the map state turns bad, take the health trade and leave. Suyou wins plenty of fights by forcing a recall instead of forcing a corpse.
+
+> [!TIP]
+> The best first ganks are on lanes where your roamer can arrive from a second angle. Suyou looks oppressive when the target has to choose between stepping into your hold Skill 1 line or away from allied follow-up.
+
+> [!NOTE]
+> When the game reaches late Lord dances, think like a collector, not a diver. Chip someone with hold Skill 3, disappear into fog, and make the enemy backline walk scared. The threat of the second angle is often stronger than the first engage.
+
+## Skills
+
+### Transient Immortal (Passive)
+
+Tap-casting any skill puts Suyou in Mortal Form, granting 40 Movement Speed and reducing the interval between his Basic Attacks. Hold-casting any skill puts Suyou in Immortal Form, increasing his Basic Attack damage to 125% and granting 20% Physical Damage Reduction. In this form, Suyou gains 1% Physical Damage Reduction for every 20 extra Physical Attack he has, up to 40%.
+
+### Blade Surge (Skill 1)
+
+Tap: Suyou throws his weapon in the target direction, dealing 250 (+100% Extra Physical Attack) Physical Damage to enemies in its path. Suyou then blinks to the weapon's location, catches it, and performs a slash in the opposite direction, dealing 375 (+150% Extra Physical Attack) Physical Damage. Hold: Suyou channels the Immortal's power and charges in the target direction, dealing 250 (+100% Extra Physical Attack) Physical Damage to enemies along the path. When hitting an enemy hero, he stops and stuns enemies in a rectangular area in front for 0.6s. The charge distance increases with the hold time. Suyou can be controlled while charging, but the skill cannot be interrupted.
+
+### Soul Sever (Skill 2)
+
+Tap: Suyou performs a sweeping attack with his weapon, dealing Physical Damage equal to 280 (+200% Extra Physical Attack) (+ 15% of target's lost HP) to enemies in a fan-shaped area. Hold: Suyou channels the power of the Immortal to perform 3 cleaves in a fan-shaped area. The first two strikes deal 225 (+80% Extra Physical Attack) Physical Damage each, while the final strike deals 360 (+128% Extra Physical Attack) Physical Damage and recovers 150 (+50% Extra Physical Attack) HP for himself.
+
+### Evil Queller (Ultimate)
+
+Tap: Suyou glides backward and swings his weapon in the target direction, dealing 420 (+120% Extra Physical Attack) Physical Damage to enemies in a rectangular area and on his path backward, and reducing their Movement Speed by 30% for 1.5s. Hold: Suyou uses the Immortal's power to shoot a deadly arrow in the target direction, dealing 580 (+165% Extra Physical Attack) Physical Damage to the target hit. The range increases with the hold time. Suyou can be controlled while charging, but the skill cannot be interrupted.
+
+Skill upgrade priority: 2-3-1-0-2/1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Hold-cast Skill 3 to poke before the team fight, then hold-cast Skill 1 to engage and control the enemy at their back, then hold-cast Skill 2 to deal massive damage. Then tap-cast Skill 3 to keep your distance from the enemy, and when the skill cooldown is up, tap-cast Skill 1 and Skill 2 to quickly kill the target.
+- LANING COMBOS (laning): Hold-casting Skill 1 in the Bush allows Suyou to attack unexpectedly and control the enemy; then hold-cast Skill 2 to deal massive damage and follow up the Basic Attack by tap-casting Skill 3 to leave the battlefield.
+
+## Counters to Suyou (pick these against Suyou)
+
+- Harith (Mage): +2.5 pp edge. Harith has a statistical edge over Suyou based on ranked matchup data. Pick Harith to gain an advantage in draft.
+- Joy (Assassin): +2.2 pp edge. Joy has a statistical edge over Suyou based on ranked matchup data. Pick Joy to gain an advantage in draft.
+- Odette (Mage): +1.7 pp edge. Across Suyou's measured matchups, Suyou is weakest once matches pass 16 minutes. Take the game long with Odette.
+- Harley (Assassin/Mage): +1.5 pp edge. Across Suyou's measured matchups, Suyou is weakest once matches pass 16 minutes. Take the game long with Harley.
+- Aamon (Assassin): +1.4 pp edge. Across Suyou's measured matchups, Suyou is weakest once matches pass 16 minutes. Take the game long with Aamon.
+
+## Heroes Suyou beats
+
+- Natalia (Assassin): +2.5 pp edge for Suyou.
+- Sun (Fighter): +2.3 pp edge for Suyou.
+- X.Borg (Fighter): +1.6 pp edge for Suyou.
+- Yin (Fighter/Assassin): +1.5 pp edge for Suyou.
+- Balmond (Fighter): +1.4 pp edge for Suyou.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/suyou.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Bruiser Default (Jungle)
+
+- Items: Tough Boots, Hunter Strike, War Axe, Queen's Wings, Blade of Despair, Malefic Roar
+- Core: Hunter Strike, War Axe, Queen's Wings
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Warrior Boots over Tough Boots when Use when the first two jungle fights are mostly physical damage and enemy control does not punish hold-cast entries.; Brute Force Breastplate over Blade of Despair when Use when Suyou must take repeated front-line contact before reaching the marksman or mage.; Immortality over Malefic Roar when Use for final Lord fights when a revive matters more than one last armor-piercing damage slot.; Sea Halberd over Malefic Roar when Use against high-HP sustain targets before they stack enough Physical Defense to demand Malefic Roar.
+- Total cost: 12130 gold
+
+Default jungle setup for games where Suyou needs Hunter Strike chase tempo, War Axe stacking, and Queen's Wings to survive the second skill cycle.
+
+### Jungle Snowball Execute (Jungle)
+
+- Items: Tough Boots, Hunter Strike, Sky Piercer, War Axe, Malefic Roar, Queen's Wings
+- Core: Hunter Strike, Sky Piercer, War Axe
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Blade of Despair over Queen's Wings when Use only when Suyou is ahead enough to protect Sky Piercer stacks and end fights before return damage lands.; Rose Gold Meteor over Queen's Wings when Use against magic burst when the Lifeline shield and movement burst protect the first dive better than Demonize.; Immortality over Queen's Wings when Use after Sky Piercer stacks become a shutdown risk and one revive can preserve objective tempo.
+- Total cost: 10620 gold
+
+High-tempo jungle setup for early-kill drafts where Flame Retribution and Sky Piercer turn Suyou's first clean pick into Turtle control.
+
+### EXP Sustain Frontline (EXP)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Queen's Wings, Brute Force Breastplate, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when shorter control chains make Fortitude less valuable.; Oracle over Brute Force Breastplate when Use when Suyou needs stronger Soul Sever healing and the main threat is mixed or magic damage.; Dominance Ice over Brute Force Breastplate when Use when enemy shield, HP regen, or attack-speed carries must hit Suyou during the first entry.; Athena's Shield over Immortality when Use against front-loaded magic burst that can remove Suyou before Vengeance and Queen's Wings stabilize the trade.; Malefic Roar over Immortality when Use when the enemy front line stacks Physical Defense and your team already has enough late-fight safety.
+- Total cost: 11050 gold
+
+EXP setup for drafts where Suyou has to absorb first contact with Vengeance, then use hold-cast damage reduction and spell vamp to keep fighting.
+
+All builds for this hero: https://mlbbhub.com/builds/suyou.
+
+## Synergies
+
+- Rafaela: Heroes that provide control (like Tigreal) make it easier for Suyou to deal massive damage; heroes that provide recovery and extra movement speed (like Rafaela) help Suyou kite better.
+- Tigreal: Heroes that provide control (like Tigreal) make it easier for Suyou to deal massive damage; heroes that provide recovery and extra movement speed (like Rafaela) help Suyou kite better.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

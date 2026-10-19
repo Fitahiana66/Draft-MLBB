@@ -1,0 +1,197 @@
+# Alpha, Blade of Enmity
+
+> Alpha is a bruiser for games where the enemy cannot end every fight in one clean burst. He is pickable when your team can start first or force clustered skirmishes, but he becomes a liability when anti-heal, long-range control, and mobile carries deny the repeated Beta hits that make him matter.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: Jungle, EXP
+- Specialty: Charge, Damage
+- Difficulty: Easy
+- Tier this patch: C
+- Win rate: 48.32%
+- Pick rate: 1.28%
+- Ban rate: 0.71%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/alpha
+
+## Guide
+
+### Pick Alpha when the fight has to stay messy
+
+Alpha is correct when the enemy draft has to walk into your team and stay there. He likes EXP lane matchups where both heroes trade around the wave, he likes jungle games where Turtle fights become tight circles, and he likes allied roams that start contact before he commits Spear of Alpha. The pick gets much worse when he is asked to be the only front line, because his engage moves him forward without giving him a clean exit.
+
+The clean Alpha game has two conditions. First, your team already has a tank, setter, or control mage that forces the first defensive spell. Second, the enemy damage dealers need time to kill you. If the enemy backline is Layla, Ixia, Hanabi, or a mage that needs a fixed casting lane, Alpha can punish the delay. If the backline is built around repeated dashes, instant burst, or long-range disengage, Alpha spends too much of the fight chasing instead of healing.
+
+Patch 2.2.16 ([patch notes](/patch-notes)) raised that floor. The laser now scales with total physical attack, so the levels and attack Alpha builds anyway keep it relevant, and Force Swing heals most on the first enemy it catches instead of paying out a full amount to every body in the fan. Both changes land in the early-to-mid game, which is exactly where this pick used to be easiest to punish.
+
+Avoid him into drafts that stack anti-heal early or make Force Swing impossible to land. Baxia, Valir, Pharsa, Karrie, Lunox, and coordinated Dominance Ice buyers all attack different pieces of the same plan: they either cut the healing, keep him outside swing range, or punish the forward ult. In those games Alpha is not secretly underrated. He is just the wrong tool.
+
+### Beta is the real damage engine
+
+Alpha works because Beta turns repeated contact into true damage. Every skill sends Beta into the same area or path, and the second Beta hit marks the target for follow-up lasers whenever Alpha damages them again. That means the hero is less about one perfect combo and more about keeping the same target inside a chain of skill hits, basics, and slows.
+
+Read the kit as a lock-on machine. Rotary Impact gives the ranged tag and slows the path. Force Swing is the sustain button. The heal is largest on the first enemy it catches and shrinks for each extra body, so one target is enough to justify the swing. Spear of Alpha is the commitment tool: it stuns, carries enemies through the leap, and gives Beta several chances to keep the mark active after landing.
+
+The practical rule is simple: Alpha wants the fight to last one more skill cycle. Armor does not solve Beta lasers, but control and spacing do. If the enemy can interrupt the swing, leave the fan hitbox, or burst Alpha before the next cast, the true damage never gets enough time to become the story of the fight.
+
+### EXP lane: the first five minutes
+
+1. **Start Force Swing and trade through the wave.** Stand where the fan catches minions and the enemy laner at the same time. You are buying lane health, not proving you can all-in at level one.
+2. **Use Rotary Impact to tag before you commit.** The ranged slow lets Beta begin the lock-on process without forcing Alpha past the river. If the enemy dashes out after the first tag, take the wave and keep your spell tempo.
+3. **Spend Vengeance only when the enemy has already chosen the fight.** Do not press it for chip damage. Hold it for the first real collapse, especially before Turtle, when the enemy EXP, jungle, and roam are all close enough to punish your swing delay.
+
+Jungle Alpha follows the same logic with different timing. Farm toward level four, use Retribution to keep the first objective honest, and gank lanes where the target has already used a dash or where your laner can add crowd control. If you ult first into a full-health mobile target, you are volunteering to chase through the enemy half of the map.
+
+### The two-item window that lets him stand there
+
+Alpha is farming toward **War Axe plus Queen's Wings**, usually around eight to ten minutes in a stable EXP game and earlier from a clean jungle path. War Axe gives the constant-cast stats he needs: attack, cooldown reduction, durability, and spell vamp. Queen's Wings adds the low-health survival window that lets him finish a second swing instead of dying during the first counter-burst.
+
+That two-item point changes the fight shape. Before it, Alpha should take short trades, defend wave control, and avoid ulting into three enemies unless the kill is guaranteed. After it, he can enter second, absorb the first answer, and turn the fight if Force Swing hits a cluster. The item spike does not make him immortal. It makes the enemy prove they can kill him before the next Beta cycle starts.
+
+Brute Force Breastplate is the common third item because Alpha naturally keeps its stacks active while casting and chasing. From there the build should answer the lobby instead of chasing raw attack. If your third and fourth items do not help you stay in range or survive control, Beta never gets to pay off.
+
+### Stop ulting like an assassin
+
+The common wrong reflex is to use Spear of Alpha as if Alpha were a backline assassin. He is not. The ult is a commitment tool for dragging one reachable target into a bad position, not a license to dive past every peel skill on the screen.
+
+1. **Enter after the first control spell is spent.** Let your roam, EXP partner, or mage force the enemy to answer. Alpha is strongest when he follows the fight, not when five enemies are staring at his landing point.
+2. **Ult across the fight, not through the whole team.** A sideways ult catches a flank target and lands Alpha near allies. A straight-line ult into the enemy backline usually lands him between the tank and the damage dealers with no swing angle.
+3. **Aim Force Swing at bodies, not pride.** Hitting the carry alone looks cleaner, but hitting three enemies is what keeps Alpha alive. If the carry is protected by a front line, swing through the front line and let Beta lasers keep working.
+
+Support-dependent edge case: Angela, Estes, Floryn, or a strong shielding roamer lets Alpha hold a deeper landing point because outside sustain covers the swing delay. A pick roamer like Franco or Chou does not. With them, Alpha should punish the hooked or kicked target instead of starting a second fight on his own.
+
+### Four locked ideas, then real flex slots
+
+The locked idea is not six fixed items. It is boots, War Axe, Queen's Wings, and enough cooldown or durability to keep Force Swing cycling. Tough Boots are the default into crowd control and magic pressure. Warrior Boots are fine in physical EXP lanes when the enemy control chain is light. Jungle Alpha should pair Retribution with a jungle blessing instead of pretending lane boots solve objective control.
+
+The first real flex is **Brute Force Breastplate versus Hunter Strike**. Brute Force is better when the enemy has to hit you and you need control duration reduction plus movement to keep casting. Hunter Strike is better when you are ahead, playing jungle tempo, or chasing mobile carries after the first lock-on.
+
+The second flex is your defensive answer. **Oracle** is for long mixed-damage fights where received healing matters. **Athena's Shield** is for front-loaded magic burst. **Radiant Armor** is for repeated magic ticks. **Antique Cuirass** is for physical skill burst that reaches you before Vengeance or Queen's Wings can stabilize the trade.
+
+The anti-sustain slot is a real conversation. **Dominance Ice** is better when the sustain threats are the ones who stay close enough to trade with you: its Lifebane cuts the shield and HP regen of every enemy within 5 units of Alpha to 60% of normal. **Sea Halberd** is better when you can reliably hit the healing target yourself and still need attack pressure, because hitting them cuts their shield and HP regen to 60% of normal for three seconds. Do not stack both for the same Lifebane passive unless the draft genuinely needs both application patterns.
+
+Damage greed has to earn its place. **Blade of Despair** and **Sky Piercer** are playable when Alpha is already ahead and your team can protect the first engage. They are bad panic buys when the real problem is anti-heal, control, or not reaching the target.
+
+### Mistakes that make Alpha disappear
+
+**Picking him as the only engage.** Alpha can start small fights, but he cannot replace a real front line into five ready cooldowns. If nobody else can force a reaction, your ult becomes a delivery service for enemy burst.
+
+**Swinging before Beta has set the target.** Force Swing is too important to waste as a blind opener. Use Rotary Impact, ultimate pressure, or a previous Beta pass to make the enemy commit first, then swing when the hitbox will heal and trigger follow-up damage.
+
+**Ignoring anti-heal on the scoreboard.** Dominance Ice, Sea Halberd, Baxia, and other heal reduction effects change the math immediately. If healing is cut, Alpha has to enter later and aim for shorter picks instead of front-lining the whole fight.
+
+**Chasing mobile carries after the first dash.** Alpha can punish a carry that has already spent mobility. He struggles when he burns ult before that dash is gone. Let your team force the movement skill, then use Spear of Alpha as the second layer.
+
+**Building pure damage because the lane went well.** A fed Alpha still dies if he cannot cast the second swing. Damage items are rewards for controlled games, not substitutes for the cooldown, durability, and healing amplification that keep his kit online.
+
+### Key tips
+
+> [!TIP]
+> In EXP lane, use the first two waves to learn whether the enemy laner respects Force Swing. If they keep standing in the minion line, trade health aggressively. If they sidestep the fan every time, freeze closer to tower and play for the first Turtle collapse.
+
+> [!NOTE]
+> Vengeance is strongest when it overlaps the enemy's committed damage, not when Alpha is walking in. Press it after the enemy has chosen to hit you, then answer with Force Swing while the damage reduction is still relevant.
+
+> [!TIP]
+> Jungle Alpha should gank lanes with fixed paths: gold laners under turret, mid mages after they clear, or EXP fighters fighting inside the wave. Do not waste the first ult on a hero who can leave before Beta finishes the lock-on.
+
+> [!NOTE]
+> Oracle is not a magic-defense habit item. Buy it when the fight is long enough for healing amplification to matter. Against one-shot magic, Athena's Shield usually solves the real problem sooner.
+
+## Skills
+
+### Beta, Advance! (Passive)
+
+When Alpha uses a skill, Beta will be summoned to attack. Enemies that are hit by Beta 2 time(s) will be Locked On. Locked On: After Alpha deals damage to the target, Beta will fire a laser at them, dealing 60 (+50% Total Physical Attack) (+8*Hero Level) True Damage and briefly applying a powerful slow effect. This skill only deals 75% damage to Creeps.
+
+### Rotary Impact (Skill 1)
+
+Alpha unleashes an energy wave in the target direction, dealing 100 (+90% Extra Physical Attack) Physical Damage to enemies in its path and slowing them by 40% for 1s. Beta then strafes enemies along the same path, dealing 60 (+30% Extra Physical Attack) True Damage.
+
+### Force Swing (Skill 2)
+
+After a short delay, Alpha swings his blade in the target direction, dealing 180 (+100% Total Physical Attack) Physical Damage to enemies in a fan-shaped area and recovering 80 (+40% Extra Physical Attack) HP for the first enemy hit (healing decays by 40% for each additional enemy hit). Beta then strafes enemies in the same area, dealing 60 (+30% Total Physical Attack) True Damage.
+
+### Spear of Alpha (Ultimate)
+
+Beta dives to the target location, dealing 100 (+20% Extra Physical Attack) Physical Damage to enemies hit and stunning them for 1s. Alpha then leaps towards the same location, knocking enemies in his path airborne and carrying them to the landing location. Alpha then slams down, dealing 250 (+100% Extra Physical Attack) Physical Damage and slowing the enemies by 40% for 1.5s. Beta then attacks the same area 5 times, dealing 15 (+30% Extra Physical Attack) True Damage each time.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Alpha's Ultimate to charge toward enemy's key target, and use his 2nd Skill, follow up with his 1st Skill to slow them and continuously dish out damage to the locked-on targets with Basic Attacks.
+- LANING COMBOS (laning): In the laning phase, slow the enemy with Alpha's 1st Skill, then hit them with his 2nd Skill to have Beta to lock on to them. Finish with Basic Attacks while Beta fires at the locked-on target.
+
+## Counters to Alpha (pick these against Alpha)
+
+- Benedetta (Assassin/Fighter): +3.7 pp edge. Benedetta's durability and kit give them a strong matchup advantage against Alpha throughout the game.
+- X.Borg (Fighter): +3.1 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Alpha throughout the game.
+- Diggie (Support): +2.7 pp edge. Diggie has a statistical edge over Alpha based on ranked matchup data. Pick Diggie to gain an advantage in draft.
+- Angela (Support): +2.5 pp edge. Angela has a statistical edge over Alpha based on ranked matchup data. Pick Angela to gain an advantage in draft.
+- Valir (Mage): +2.5 pp edge. Valir has a statistical edge over Alpha based on ranked matchup data. Pick Valir to gain an advantage in draft.
+- Lylia (Mage): +1.7 pp edge. Lylia has a statistical edge over Alpha based on ranked matchup data. Pick Lylia to gain an advantage in draft.
+- Lancelot (Assassin): +1.6 pp edge. Lancelot has a statistical edge over Alpha based on ranked matchup data. Pick Lancelot to gain an advantage in draft.
+
+## Heroes Alpha beats
+
+- Phoveus (Fighter): +3.6 pp edge for Alpha.
+- Barats (Tank/Fighter): +2.9 pp edge for Alpha.
+- Odette (Mage): +2.6 pp edge for Alpha.
+- Saber (Assassin): +2.3 pp edge for Alpha.
+- Fredrinn (Fighter/Tank): +2.2 pp edge for Alpha.
+- Terizla (Fighter/Tank): +1.9 pp edge for Alpha.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/alpha.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-06. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Sustain Default (EXP)
+
+- Items: Tough Boots, War Axe, Queen's Wings, Brute Force Breastplate, Oracle, Immortality
+- Core: War Axe, Queen's Wings, Brute Force Breastplate
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when the enemy control chain is light enough to skip Fortitude.; Dominance Ice over Oracle when Use when sustain fighters, attack-speed marksmen, or shield-heavy cores must damage you first.; Athena's Shield over Immortality when Use when a burst mage can remove you before Queen's Wings and Vengeance can stabilize the fight.; Antique Cuirass over Oracle when Use against repeated physical skill burst from fighters or assassins that reaches you before Force Swing lands.
+- Total cost: 10900 gold
+
+Default EXP lane setup for extended trades, second-entry teamfights, and games where Alpha must survive long enough for repeated Beta lasers.
+
+### Jungle Tempo Bruiser (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Queen's Wings, Brute Force Breastplate, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Seasoned Hunter, Brave Smite
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Oracle over Immortality when Use when objective fights are long and extra received healing matters more than a resurrection.; Dominance Ice over Brute Force Breastplate when Use when enemy sustain or attack-speed cores are forced to hit you during Turtle and Lord fights.; Radiant Armor over Immortality when Use against repeated magic damage that stacks across long objective fights.; Athena's Shield over Immortality when Use against burst magic that threatens the first jungle engage before Force Swing can heal.
+- Total cost: 11050 gold
+
+Jungle setup for Turtle tempo, reliable ganks after level four, and bruiser fights where Ice Retribution helps Alpha stay attached.
+
+### Damage Chase Flex (EXP)
+
+- Items: Warrior Boots, War Axe, Hunter Strike, Queen's Wings, Blade of Despair, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Flicker
+- Flex: Tough Boots over Warrior Boots when Use when crowd control or magic poke is the first thing stopping your ult follow-up.; Sea Halberd over Blade of Despair when Use when you can stay on a healing target and your team needs Lifebane from damage application.; Malefic Roar over Blade of Despair when Use when armor stacking is reducing your non-Beta damage before the target reaches execute range.; Rose Gold Meteor over Immortality when Use against mixed skirmish damage when a shield and movement burst saves the first chase better than a late revive.
+- Total cost: 12210 gold
+
+Snowball-oriented EXP build for games where another frontliner starts fights and Alpha can chase isolated carries after their escape is spent.
+
+All builds for this hero: https://mlbbhub.com/builds/alpha.
+
+## Synergies
+
+- Vexana: Alpha works well with heroes that can initiate with CC like Vexana and Selena. With their help, he'll have a much easier time landing his skills.
+- Selena: Alpha works well with heroes that can initiate with CC like Vexana and Selena. With their help, he'll have a much easier time landing his skills.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,222 @@
+# Lukas, Beast of Light
+
+> Lukas is an EXP bruiser built around one short window: land Flash Step, stack two basics, then cash out Flash Combo before the target can reset the trade. He looks like a blind-pick brawler, but he is better treated as a reactive side-lane pick who wants one reachable backliner, one honest melee lane, and teamfights that last longer than the first burst.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP, Jungle
+- Specialty: Regen, Damage
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 52.74%
+- Pick rate: 0.91%
+- Ban rate: 38.00%
+- Released: 2024
+- Page: https://mlbbhub.com/heroes/lukas
+
+## Guide
+
+### Pick Lukas for the second wave, not the first
+
+Lukas is strongest when your draft already has someone else to start the fight. He is not the clean first engager and not the fighter you lock just because the lane looks melee. He wins games when a tank or support forces the first cooldowns out, then he enters on a target that no longer has room to kite or peel.
+
+Pick him when the enemy backline has to stand and cast. Midlaners and marksmen that hold ground for damage give Lukas the trade pattern he wants: close with Flash Step, keep contact through the empowered basic attacks, then finish with a two-stack Flash Combo while Vengeance keeps him alive in the return fire. He also likes drafts that only have one real displacement tool, because once that one peel skill is spent, his transformed chase becomes much harder to stop.
+
+Avoid him when the lane itself is a stat check you do not actually win. Thamuz and Yu Zhong are both better at the long, ugly EXP trades Lukas players think they want, and both punish you for standing still long enough to finish the full combo. Avoid him when the enemy mid or roam can deny your entry on reaction. Valir is the obvious example because one knockback ruins your whole contact window. Fanny and Julian are the tempo version of the same problem: they only need to break your first entry once, then hit you before the next one exists.
+
+Patch 2.2.16 ([patch notes](/patch-notes)) aimed its buffs at this lane plan: a more reliable zero-stack Flash Combo, a larger heal, and faster Resolve from hitting heroes.
+
+### The real kit is a four-second trap
+
+The wrong way to understand Lukas is "fighter with two forms." The useful way to understand him is "fighter with one setup window." Everything important in the kit happens after Flash Step and before that four-second timer expires.
+
+Flash Step is the move that starts the argument. In human form it lets Lukas dash in, blink behind the target on the next basic attack, then fight with more range, more speed, and a lightning discharge. That discharge now fires once per Flash Strike window instead of on every basic, so the empowered auto is one heavier hit rather than a stream of lightning chip damage.
+
+The stack rule still decides the trade. Basic attacks build Flash Combo's stronger versions, and since 2.2.16 the zero-stack cast is a real option: the new fan-shaped hitbox makes it land without the setup. Use it to clip a wave or finish a target already leaving the trade. A committed hero trade still wants the stacked version, because the stun, the pull, and the control immunity all sit above zero. The target is to enter with Flash Step, get the empowered auto, squeeze in one more basic, and only then cash out Flash Combo at full value.
+
+That is the whole hero. When Lukas feels unbeatable, that sequence landed cleanly. When he feels mediocre, the player spent Flash Combo too early, or used Flash Step to touch a target they could not stay on.
+
+Sacred Beast form does not change the idea. It just raises the punishment for anyone still inside your space. The transformed Flash Step adds knockback on contact, the transformed Flash Combo becomes harder to interrupt, and the second cast of the ultimate gives you a ranged finisher that catches people who think they escaped after the melee exchange. Beast form is not a license to mash buttons. It is the same four-second trap with louder consequences.
+
+Once you read Lukas that way, his game plan becomes strict. You are not looking for random skirmishes. You are looking for one contact window where the target cannot leave before the second basic attack lands.
+
+### Laning: the first five minutes
+
+Lukas is stronger in lane when he trades less often. That sounds backwards until you remember that every real trade asks for a full setup window. Your first five minutes are about controlling where that window happens, not forcing it on cooldown.
+
+1. **Take Flash Step first and make the first trade short.** Dash in, trigger the empowered basic, and leave after one extra auto unless the enemy already burned their response. Lukas wins level 1 by tagging first and refusing the extended answer, not by trying to all-in before he has the full combo.
+2. **Hold the wave on your half after the first crash.** Lukas needs lane length. If you hard shove every wave, ranged lanes farm safely and sustain lanes get free resets. Keep the minions closer to your tower so Flash Step actually threatens a second basic attack before the enemy reaches safety.
+3. **Spend Vengeance to win one important trade, not to survive a lost one.** Vengeance is best when the enemy finally commits into your melee range and cannot disengage. Pop it as they answer your entry, not after you are already retreating. If you took Flicker instead, keep it for angle correction or anti-gank duty, not for cute level-2 kills.
+
+Skill order is simple in practice: max Flash Combo first, because that is the cash-out button that decides whether your entry mattered at all. Flash Step is still the lane starter, but the lane is won by how hard the exit hit lands.
+
+Do not confuse sustain with permission. Lukas can heal through his combo and he can now recover off minions as well, but that does not make every wave your fighting wave. If Thamuz or Yu Zhong is already standing on the minions, take the farm, take the HP back, and wait for help or item timing. A lost trade on this hero is expensive because your next one starts from farther away.
+
+### The spike you are farming toward
+
+The two-item spike is **War Axe plus Hunter Strike**, usually around minute 8 to 10 if the lane stayed even. That is the point where Lukas stops feeling like a lane bully with conditions and starts feeling like a real mid-game threat.
+
+War Axe gives him almost every stat he wants in one slot: HP, cooldown reduction, physical attack, and spell vamp. The passive is the important part. Fighting for a few seconds stacks extra physical attack, and at full stacks the item adds extra true damage based on the damage you already dealt. Lukas reaches that state naturally because his good trade pattern is already extended enough to build it.
+
+Hunter Strike is what turns that damage into actual stickiness. Lukas hits five times in a hurry. The empowered basic attack, the lightning discharge, and the multi-hit Flash Combo all stack the counter; the lightning now lands once instead of repeatedly, but the stacked combo carries the rest. Once the trigger fires, the target that barely escaped you at one item suddenly cannot reset the trade.
+
+Before this spike, farm and keep the lane stable. After it, start asking harder questions on the map. Contest the second Turtle. Cut a rotation through river when the enemy gold laner shows alone. Lukas does not scale by becoming cleaner. He scales by making his first contact harder to answer.
+
+### Teamfighting without wasting beast form
+
+The common bad reflex on Lukas is to transform early, run straight at the tank, and hope Beast form makes the rest solve itself. That is how you spend Resolve walking at people while the enemy still has every peel tool available.
+
+The correct reflex is to treat Beast form as the moment you cash in on a fight that has already started. Let the first CC land. Let the enemy marksman or mage show where they are actually standing. Then transform close enough that your first Flash Step matters immediately.
+
+Three positioning rules decide most late fights:
+
+1. **Stand one engage behind your frontliner.** Close enough to follow Atlas, Tigreal, or Khufra the moment they start, far enough that you do not eat the same opening control.
+2. **Transform on approach, not from fog three screens away.** Sacred Beast form burns time the moment it starts, and since 2.2.16 more of that time is refilled by hitting heroes and less comes back on its own. If you spend the first seconds walking, you are donating your best time for free.
+3. **Hit the closest target you can actually finish, not the tank you happened to touch first.** Lukas is not a front-to-back DPS machine. He wants one reachable victim. If the enemy roamer is the only body in range, take the short trade and leave. If the marksman steps one stride too close, that is the target.
+
+Target priority is usually backline first, but only when the entry is honest. Do not Flash Step through three people to prove a point. If the mage is standing next to their tank and Valir still has knockback, walk the angle wider or wait another beat. Lukas kills panic targets, not well-protected ones.
+
+There is one support-dependent exception. If your team has Mathilda or Angela, you can dive one layer deeper than normal because the exit is built into the comp. With most other supports, especially low-peel damage roams, your job is to enter, break one target's posture, and stay alive for the second rotation instead of trying to solo-win the fight in one transform.
+
+### Itemization: locked core, then real choices
+
+Lukas has a clear core and then a real conversation.
+
+**The core in EXP is boots, War Axe, Hunter Strike, and Queen's Wings.** War Axe and Hunter Strike are the spike. Queen's Wings is what lets you stay in the fight after you committed to the entry. The passive damage reduction at low HP is exactly the kind of second life Lukas needs while Vengeance, sustain, and Beast-form stats are all doing work at once.
+
+**Boots are matchup boots, not habit boots.** Tough Boots are the default when the enemy draft has Valir, Julian, or layered crowd control because Fortitude cuts CC and slow duration by 30%, which directly protects your contact window. Warrior Boots are better into physical mirror lanes and heavy basic-attack trades because Valor stacks extra physical defense while the duel is happening.
+
+After that, read the lobby:
+
+- **Oracle** when the enemy wins through poke or mixed damage and you expect long fights. Bless increases received shield and HP regen by 25%, which makes every successful combo feel larger and every reset safer.
+- **Brute Force Breastplate** when you need to keep moving through repeated short trades. Its stacks give adaptive attack, movement speed, and control-duration reduction at full value, which suits Lukas far better than standing still on raw armor alone.
+- **Sea Halberd** when the enemy draft is heal-and-shield first. Estes, Yu Zhong, Esmeralda, and sustain-heavy side lanes all become much easier to finish once Lifebane cuts their shield and HP regen effects for three seconds.
+- **Athena's Shield** when the real problem is burst magic, not the lane. Valir poke, Julian burst, and double-mage drafts all become playable once Athena's passive gives you that first three-second buffer against magic damage.
+- **Immortality** when the game will be decided by one Lord fight and you are the one expected to go in after the engage. If your death timer is the reason the fight ends, buy the resurrection and force the enemy to kill you twice.
+- **Antique Cuirass** when a physical-skill bruiser is doing most of the work against you. The passive cuts the attacker's physical damage after skill hits, which is better than raw HP when the problem is repeated skill bursts, not attrition.
+
+What should not happen is blindly stacking random offense after the core. Lukas is not short on damage once the first four slots are online. The real question is always the same: what is stopping your second basic attack from landing? Build for that answer.
+
+### Mistakes that throw winning Lukas games
+
+**Pressing Flash Combo before the setup is ready.** This is the pure mechanical throw. Lukas players panic, see a target in range, and cast the skill at zero or one stack. You spent the cash-out button before the trade existed. Build the window first, then spend it.
+
+**Transforming too early because you are eager to fight.** Sacred Beast form is not a stance you idle in. If you transform while still crossing river or walking around a wall, your strongest seconds disappear before contact. Start the form close to impact, not during the commute.
+
+**Trying to stat-check Thamuz or Yu Zhong in their preferred trade length.** This is the matchup mistake that keeps repeating. Lukas can beat many fighters in controlled bursts. He is much worse at the "stand here forever and see who outheals whom" contest against lane bullies built for exactly that job. Shorten the trade or leave it alone.
+
+**Shoving side lane without vision right after your spike.** Hunter Strike makes Lukas feel fast enough to escape anything. That feeling is false. If you push past river with no information on jungle or roam, all you did was donate your lead to the first collapse. Pressure the side lane, then leave before the map closes.
+
+**Entering through the obvious angle into Valir or heavy peel.** Lukas is not bad because enemies have answers. He is bad when you choose the one angle those answers were already waiting for. Walk the flank wider, wait for the peel skill, or hit someone else. Forcing the first target you wanted is how winning fights become highlight reels for the other team.
+
+### Key tips
+
+> [!TIP]
+> If you only need lane sustain, spend Flash Combo on the wave and take the HP back. The fan-shaped zero-stack cast and the larger heal make that play reliable, so you do not need to force a hero trade every time your health bar drops.
+
+> [!NOTE]
+> Shockwave Blast is better as a closer than an opener. Throwing it early gives mobile targets too much room to sidestep. Holding it until the enemy has already committed their dash or retreat path makes the explosion matter.
+
+> [!TIP]
+> Vengeance gets more value when you press it during the enemy's answer, not during your own engage. Let them believe the return trade is theirs, then turn the window once they are already inside your melee range.
+
+> [!TIP]
+> If the enemy backs off after your Flash Step auto and refuses the second hit, take the wave and the position win. Lukas does not need every entry to become an all-in. Sometimes the right combo is the one you did not finish.
+
+## Skills
+
+### Hero's Resolve (Passive)
+
+Lukas gains 0.5 Resolve per second and 3.5 Resolve when dealing damage to heroes. Upon reaching 100 Resolve, he can use Unleash the Beast to transform into Sacred Beast. Sacred Beast: Greatly increases combat attributes. He continuously consumes Resolve and ends when Resolve is depleted.
+
+### Flash Combo (Skill 1)
+
+Passive: Basic Attacks grant Vigor (up to 2 stacks), each stack lasting 4s. Vigor enhances Flash Combo. Lukas consumes all Vigor to unleash Pulverize, dealing 280 (+120% Total Physical Attack) Physical Damage and recovering 6% of his Max HP when hitting a hero or minion. 1 Stack: Lukas briefly stuns the target and spins his tonfa hammers to deal 80 (+45% Total Physical Attack) Physical Damage 3 times, pulling the enemy toward him. 2 Stacks: Lukas briefly stuns the target, then delivers 2 attacks dealing 50 (+20% Total Physical Attack) Physical Damage each. Afterward, he spins his tonfa hammers, dealing 80 (+45% Total Physical Attack) Physical Damage 3 times while gaining Control Immunity for the duration.
+
+### Flash Step (Skill 2)
+
+Lukas dashes in the target direction, empowering his next Basic Attack within 4s into Flash Strike. Flash Strike: Lukas dashes behind the enemy, dealing 60 (+125% Total Physical Attack) Physical Damage. He then gains 20% Movement Speed and Attack Speed for 4s. During this time, his next Basic Attack gains increased Attack Range and triggers a sacred lightning that deals 110 (+50% Total Physical Attack) extra Physical Damage.
+
+### Unleash the Beast (Ultimate)
+
+First Cast: Lukas transforms into his Sacred Beast form (briefly gains Control Immunity). His base Movement Speed is increased by 30, all attributes are increased by 15%, and his skills gain new effects. Use Again: Fires a Shockwave Blast in the target direction that explodes upon hitting an enemy hero or reaching its maximum range, dealing 450 (+155% Total Physical Attack) Physical Damage. All attributes: Max HP, Physical Attack, Physical Defense, Magic Defense, Attack Speed, and Attack Range.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- LANING COMBOS (laning): Lukas should use his 2nd Skill to close in on the enemy, then use the enhanced Basic Attack plus another Basic Attack to get 2 stacks of Vigor. Now use his fully powered 1st Skill to inflict high damage and stun and displace the target, then back off to avoid the enemy's counterattack.
+- TEAMFIGHT COMBOS (teamfight): In Sacred Beast form, use Lukas's 2nd Skill followed by an enhanced Basic Attack, then another Basic Attack to get 2 stacks of Vigor. Use his 1st Skill to inflict high damage and CC, and finish off with Shockwave Blast to devastate the enemy with a massive AOE attack.
+
+## Counters to Lukas (pick these against Lukas)
+
+- Valentina (Mage): +3.8 pp edge. Valentina has a statistical edge over Lukas based on ranked matchup data. Pick Valentina to gain an advantage in draft.
+- Baxia (Tank): +3.5 pp edge. Baxia's durability and kit give them a strong matchup advantage against Lukas throughout the game.
+- Zhuxin (Mage): +3.2 pp edge. Zhuxin has a statistical edge over Lukas based on ranked matchup data. Pick Zhuxin to gain an advantage in draft.
+- Phoveus (Fighter): +2.9 pp edge. Phoveus's durability and kit give them a strong matchup advantage against Lukas throughout the game.
+- Balmond (Fighter): +2.6 pp edge. Balmond's durability and kit give them a strong matchup advantage against Lukas throughout the game.
+
+## Heroes Lukas beats
+
+- Ling (Assassin): +3.1 pp edge for Lukas.
+- Natalia (Assassin): +2.2 pp edge for Lukas.
+- Aldous (Fighter): +2.1 pp edge for Lukas.
+- Fanny (Assassin): +2.0 pp edge for Lukas.
+- Sun (Fighter): +2.0 pp edge for Lukas.
+- Arlott (Fighter/Assassin): +1.8 pp edge for Lukas.
+- Chou (Fighter): +1.7 pp edge for Lukas.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/lukas.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Default Sustain (EXP)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Queen's Wings, Oracle, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Warrior Boots over Tough Boots when Use against physical EXP lanes when crowd control is not the main reason you die.; Antique Cuirass over Oracle when Use when a physical skill fighter or assassin is deleting you before sustain can matter.; Athena's Shield over Oracle when Use against one-shot magic engage that decides the fight before you can finish Flash Combo.
+- Total cost: 11040 gold
+
+Standard EXP build for extended trades: War Axe and Hunter Strike create the contact window, then Queen's Wings and Oracle keep Lukas alive after he commits.
+
+### EXP Anti-Sustain Frontline (EXP)
+
+- Items: Warrior Boots, War Axe, Hunter Strike, Dominance Ice, Queen's Wings, Immortality
+- Core: War Axe, Hunter Strike, Dominance Ice
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Tough Boots over Warrior Boots when Use when the enemy CC chain matters more than physical lane trading.; Sea Halberd over Dominance Ice when Use when you are reliably hitting the healing target yourself and need damage more than defensive anti-heal.; Brute Force Breastplate over Immortality when Use when the game is still mid-tempo and movement plus control-duration reduction beats a late revive.
+- Total cost: 11210 gold
+
+Anti-sustain EXP setup for regen fighters, shield supports, and attack-speed cores where Lukas must survive close enough to keep Lifebane active.
+
+### Jungle Tempo Dive (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Queen's Wings, Blade of Despair, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Brute Force Breastplate over Blade of Despair when Use when dives need repeated movement and control-duration reduction more than a finishing damage slot.; Malefic Roar over Blade of Despair when Use when the enemy front line stacks Physical Defense before you can reach the backline.; Rose Gold Meteor over Immortality when Use against mixed burst when a shield and speed burst helps you finish the first target before the revive slot matters.
+- Total cost: 12190 gold
+
+Jungle variant for tempo games where Ice Retribution helps Lukas hold contact after Flash Step and convert early skirmishes into backline dives.
+
+All builds for this hero: https://mlbbhub.com/builds/lukas.
+
+## Synergies
+
+- Atlas: Lukas's Sacred Beast form has extended attack range and enhanced mobility, which synergizes well with heroes possessing AOE CC, such as Atlas, Tigreal, and Gatotkaca.
+- Tigreal: Lukas's Sacred Beast form has extended attack range and enhanced mobility, which synergizes well with heroes possessing AOE CC, such as Atlas, Tigreal, and Gatotkaca.
+- Gatotkaca: Lukas's Sacred Beast form has extended attack range and enhanced mobility, which synergizes well with heroes possessing AOE CC, such as Atlas, Tigreal, and Gatotkaca.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

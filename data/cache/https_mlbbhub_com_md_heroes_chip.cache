@@ -1,0 +1,223 @@
+# Chip, Phase Technician
+
+> Chip does not tank for your team in the normal sense. He is a portal with a health bar, and the health bar exists only so he can deliver the portal into the right position. His whole kit asks one question: can your team convert a teleport drop into a kill before the portal expires, and if the answer is no, the pick is wasted regardless of how well you play the hero?
+
+## Snapshot
+
+- Role: Support, Tank
+- Lane: Roam
+- Specialty: Support, Crowd Control
+- Difficulty: Medium
+- Tier this patch: D
+- Win rate: 47.45%
+- Pick rate: 0.04%
+- Ban rate: 0.22%
+- Released: 2024
+- Page: https://mlbbhub.com/heroes/chip
+
+## Guide
+
+### When the Portal Beats the Pick
+
+Chip is correct when your team drafted a burst carry who needs a delivery mechanism and your jungler wants ganks set up in side lanes without walking there. Shortcut is a low-cooldown button that warps the entire map onto one target. That is the only reason to pick Chip, and it is a real reason, but only inside a comp that can finish the target before the portal expires.
+
+Chip's base HP and HP growth were raised to keep roamers durable under the wider Roaming attribute changes. It makes him a sturdier portal, but it does nothing for the core problem: a portal delivered into a comp that cannot finish is still a wasted pick.
+
+The comps where this works:
+
+1. **Fast-rotation gank comps** with a jungler whose kill pressure comes from being at the right lane at the right time (Gusion, Hayabusa, Fanny, Nolan). Shortcut turns their map reach from lane-wide to map-wide.
+2. **Catch comps** built around a burst carry you can teleport on top of a priority target (Beatrix, Wanwan, Lesley, Brody on a flank). The Main Portal immobilizes after a short delay. Your team lands through the Connecting Portal carrying a shield and Burst Movement Speed. The carry deletes the target.
+3. **Split-push rescue comps** where an allied side-laner (Masha, Roger, Yu Zhong) needs to farm out a wave and then rejoin the objective fight instantly. Drop a Connecting Portal near them, yank them back, and the enemy's numbers advantage disappears before they can convert.
+
+The comps where Chip is a trap:
+
+1. **Hyper-scaling carries that need minute 15 to contribute** (Layla, base Miya, Claude before his two-item spike). A portal that delivers a carry who cannot kill the target is a portal that delivered nothing.
+2. **Enemy lineups with hard lockdown** (Franco, Kaja, Khufra). Franco's hook into Bloody Hunt suppresses you for longer than Shortcut's cast time and longer than most teammates can react. Khufra's Bouncing Ball blocks your Overtime approach entirely. The revamped Kaja no longer suppresses: his Divine Binding is an area restraint that drags multiple enemies at once, which punishes the exact collapse-a-team-onto-a-portal play Chip wants to run. Purify does not remove Franco's suppression, and Diggie is the only economical answer to a Franco draft. Without a banned Franco or a Diggie on your team, pick a different roamer.
+3. **Dive comps with no real frontline** (no Atlas, no Johnson, no tank besides Chip). Chip is durable but has zero dash immunity outside Overtime. With nobody else to peel, you become a worse Tigreal who happens to have a teleport.
+
+Disqualifying test before you lock: name the exact enemy hero you are dropping the Main Portal on, and name the exact ally who will delete them. If the answer is "whoever is closest" or "we will see how fights develop," Chip is the wrong pick. Atlas is the safer answer.
+
+### The One Thing That Makes Chip Work
+
+Chip is not a tank. He is a hovercraft with a cargo bay, and the cargo is his teammates.
+
+Every piece of his kit serves one idea: reduce the time between your team occupying five different positions on the map and your team collapsing onto one target. Shortcut is the blunt version: a low-cooldown button that drops a Main Portal on an enemy and creates Connecting Portals next to every ally, letting the entire team teleport onto the target with a shield and burst speed. Why Walk? is the slow version: four fixed beacons you hop between when Shortcut is on cooldown so you are always the first body at the next objective. Even Overtime is a movement tool dressed as a skill: a burst of movement speed that ramps to a sprint and ends with a basic-attack knockback that serves as setup, not damage.
+
+The damage in Chip's kit is incidental. Crash Course chips a target for a flat hit plus a slice of their max HP, and the Main Portal adds a little magic damage that doubles on the delayed immobilize. You are building pure defense, so none of it ever becomes threatening. You will lose a 1v1 to a half-built Angela, every time.
+
+That is the point. Your team kills the target. You deliver them to the kill. If you are the one trying to finish kills on Chip, you already misread the hero.
+
+### Laning: the First Six Minutes
+
+1. **Take Crash Course at level 1 and contest the opposite-side jungle camp.** It is the cheapest skill in your kit to cast. The shield on hitting a hero grows with every additional enemy caught in it, which is enough to eat a jungler's first rotation. The mark plus basic-attack detonation applies a brief stun, and that stun is what lets your jungler actually land their opener on the invade.
+2. **Take Overtime at level 2 and lock in the gank sequence.** Before level 4, the flow is Overtime into position, Crash Course to mark the target, basic attack to detonate the mark for the stun, then the Overtime-empowered basic for the knockback toward your laner. Do not level Overtime before Crash Course. Without the mark and stun at level 1 and 2, your ganks do not stick.
+3. **Level 4 is not an upgrade. It is a new job.** Shortcut unlocks. Before level 4 you roam to protect lanes. After level 4 you roam to pick. Find the enemy jungler without vision, walk up in fog with Overtime ramping, and drop the Main Portal on them. Your team arrives through Connecting Portals with Burst Movement Speed and a shield. If you cannot name the exact version of this play you are going to run by minute 6, you have already wasted the hero's power window.
+
+### The Spike Is a Skill Unlock, Not an Item
+
+Chip has no two-item power spike in the way a marksman does. His defining spike is level 4, when Shortcut unlocks, and the real item behind it is Dominance Ice.
+
+You are not farming toward Shortcut. Shortcut is online the moment you hit level 4. You are farming toward being tanky enough to survive both sides of the portal. Chip's rotations put him in melee range of multiple enemies, and a tier-1 component does not keep him alive through a second engagement. Dominance Ice is the fix: 40 Physical Defense, 40 Magic Defense, and two passives built for the hero who stands in the middle of the enemy team. Fortress Shield raises his Hybrid Defense by 8 for each nearby enemy hero (up to 40), which means Chip gets tankier the deeper he portals. Lifebane reduces Shield and HP Regen of nearby enemies within 5 units to 60% of normal, which is why Chip crushes lineups built around Esmeralda, Estes, or Rafaela sustain.
+
+Once Dominance Ice lands around minute 7 to 9, your rotation cadence flips. You can portal into a fight, survive with Crash Course's shield and the hybrid defense stats, and still be healthy enough to kit through Overtime on the way out. Before this item you are a gank tool with one charge. After it you are a rotation engine.
+
+The other thing that changes at this point: the Main Portal inherits a large share of your attributes. As soon as you have Dominance Ice plus your second completed defensive item, the portal is tough enough to soak turret aggro for a few seconds during a dive. Before this, the portal dies on contact and the play collapses before your team finishes teleporting.
+
+### Where You Drop the Main Portal
+
+The reflex when a fight breaks out is to drop Shortcut on the closest enemy. That reflex is wrong. The Main Portal is a two-way door: the enemy team can walk through it with the same rules as your team.
+
+Three placement rules:
+
+1. **Drop the Main Portal behind the enemy backline, not on their tank.** Your team needs to teleport behind their marksman or mage, not on top of their Franco who will immediately hook the next ally to arrive. The delayed immobilize on the Main Portal catches a backline target who has no dash available, which is the usual state once they have spent their mobility tool repositioning.
+2. **Never drop it where the enemy can path cleanly from the portal to your base.** The Main Portal lingers for several seconds. Any enemy hero can stand on it briefly to return through a Connecting Portal near your base. If you panic-portal into a fight your team is already losing, the enemy assassin gets a free escort to your tier 2 turret while your team is scattered.
+3. **Start with Overtime, then cast Shortcut at the end of the ramp.** Shortcut needs a targeted enemy within casting range. Walking up to a Franco in fog without Overtime ready is how you get hooked. Pop Skill 2 first, ride the ramp to max speed, then cast Shortcut when you are already on top of the target and the enemy's reaction window has closed.
+
+If your team drafted a second sustain hero behind you (Angela, Estes, Rafaela) because you are filling the Tank slot instead of pure Roam, push the Main Portal one layer deeper than normal. The healer can peel the carries that arrive through the Connecting Portal, which means you can afford to drop Shortcut on the enemy jungler two lanes over instead of the safer midlane target. If your team has no second peel, play the safer Main Portal on the nearest isolated target and do not reach.
+
+### Itemization: Locked Slots and Real Choices
+
+Boots, Dominance Ice, and Immortality are locked. Everything in between is a real conversation.
+
+**Boots: Tough Boots over Warrior Boots in most games.** The 30 percent crowd control and slow duration reduction from Fortitude matters more than flat physical defense, because the threats that actually kill you are either suppression (Franco), hard CC chains (Tigreal, Aurora, Khufra), area restraints (the revamped Kaja), or slows that keep you from reaching casting range. Take Warrior Boots only when the enemy team is four deep in physical threats and your team already has magic defense answered elsewhere.
+
+**Dominance Ice first completed.** The balanced 40 Physical and 40 Magic Defense keeps Chip alive through portal rotations, and the Fortress Shield passive scales with the number of enemies he portals into. Lifebane's healing reduction aura punishes sustain-heavy lineups just by standing near them.
+
+Second defensive slot splits three ways:
+
+1. **Athena's Shield** against burst magic (Eudora, Aurora, Lylia, Vale). The 25 percent magic damage reduction for 3 seconds after being hit is a burst filter. Against sustained magic damage it falls off after one proc.
+2. **Radiant Armor** against magic poke (Pharsa, Valir, Cecilion, Chang'e). The stacking magic defense up to 6 stacks beats Athena's over extended fights because the stacks persist while poke keeps landing.
+3. **Antique Cuirass** when the enemy team carries two or more physical fighters (Paquito, Yu Zhong, Arlott, Benedetta) and you need the Deter physical-damage reduction stacking on them.
+
+**Flex slot around minute 15: Fleeting Time or Oracle.** Fleeting Time resets 30 percent of Shortcut's current cooldown on every kill or assist. It is a selfish pick that makes Chip feel twice as active in kill lanes. Oracle amplifies every received shield and HP regen effect by 25 percent, which means your Crash Course shield lasts longer, your Connecting Portal arrival shields land bigger, and Snack Time! heals more between fights. Fleeting Time is an agency pick. Oracle is a team pick. Choose based on whether your carries are already winning their lanes.
+
+**Immortality last.** Your job is to die first on purpose when you drop a portal on a bad angle, and sometimes that bad angle turns out to have been a 2-for-1 after the revive. Do not skip Immortality for a second magic defense item or a damage option.
+
+### Mistakes That Lose Chip Games
+
+1. **Dropping the Main Portal into a fight your team is already losing.** The Main Portal is a two-way door. If your team is down three kills and scattered across the map, the Connecting Portals save nobody, and the enemy team gains a return path to your base. Cast Shortcut only when you are actively setting something up. Never as a panic button.
+2. **Trying to escape with Why Walk? while in combat.** The skill explicitly cannot be cast in combat. Players discover this the first time they try it while being chased by a Ling, and by then they are already dead. Why Walk? is a rotation tool between fights. Flicker is your escape spell.
+3. **Forgetting the Main Portal is destructible even though it inherits a large share of your stats.** The portal tanks turret aggro for a few seconds during a dive, but enemies can damage it down. Placing it within turret range in a 2v4 scenario is asking for the portal to die before your team finishes channeling through it.
+4. **Leveling Overtime before Crash Course in the early game.** Overtime is mobility, not a threat. The kill combo requires the Crash Course mark plus basic-attack detonation to apply the stun. Without Skill 1 at level 2, your ganks do not convert. Max Crash Course first, then Shortcut at every ultimate-eligible level, then Overtime last.
+5. **Picking Chip into a Franco draft when your team does not have Diggie.** Franco's Bloody Hunt suppresses you after a successful hook. Suppression cannot be cleansed by Purify and cannot be blocked once it lands. The only reliable counter is Diggie's Young Again, applied preemptively when you see the hook start. Without that, you are a walking portal that never gets to cast. The revamped Kaja is a different threat: his Divine Binding is an area restraint that drags multiple enemies, so he punishes the whole collapse rather than singling you out, and he no longer forces the Diggie answer.
+
+### Key Tips
+
+> [!TIP]
+> Drop the Main Portal slightly behind the target, not directly on their current position. The delayed immobilize fires at the portal's center. An enemy who sidesteps forward escapes a portal centered on them. An enemy who sidesteps into an offset portal walks directly into the immobilize. One unit behind their path is the sweet spot.
+
+> [!NOTE]
+> Snack Time! saves your bite progress when combat interrupts it. When roaming through fog and taking incidental poke, you are banking bites for the next safe window. Do not recall reflexively on low HP. A full bag of banked bites finished out of combat heals a large share of your missing HP for free, and Oracle amplifies that heal by a further 25 percent.
+
+> [!TIP]
+> Ping or call Why Walk? before you press it. Teleporting to an objective beacon that your team does not follow is worse than not teleporting at all, because your team is now fighting 4v5 at the lane you left. The ultimate creates value only when the team moves with you.
+
+> [!NOTE]
+> If the enemy team locked Franco and your team has no Diggie, do not pick Chip. The correct response is to pick a different roamer. If your draft is already locked and you are on Chip, play from behind your own frontline and use Shortcut only from fog when the enemy Franco has already used his hook. Never walk toward him hoping Overtime is fast enough. Against the revamped Kaja, do not funnel the whole collapse through one portal while his Divine Binding is up: the area restraint drags every hero who arrives together.
+
+## Skills
+
+### Snack Time! (Passive)
+
+While out of combat, Chip takes a bite of potato chips every 2s. After 4 bites, he finishes a bag and recovers HP equal to 300 (+ 45% of his lost HP). After finishing a bag, Chip cannot eat again for 5s. (His bite count is retained if he enters combat before finishing the bag.)
+
+### Crash Course (Skill 1)
+
+Chip rams his hovercraft into the ground, dealing Magic Damage equal to 100 plus 4% of the target's Max HP and applying Chip's Mark on enemy units hit. Chip gains a 300 (+60% Total Magic Power) Shield upon hitting an enemy hero, which increases by 40% for each additional enemy hero hit. Chip's next Basic Attack will become ranged and also hit all nearby enemies with Chip's Mark, detonating the mark to deal 150 (+30% Total Magic Power) Magic Damage and stun each target for 0.6s.
+
+### Overtime (Skill 2)
+
+Chip rushes for 2s, gaining up to 65% extra Movement Speed, after which he maintains the max speed for 2s. Chip's next Basic Attack will cause him to charge at the enemy, dealing 200 (+30% Total Magic Power) Magic Damage and knocking them back slightly.
+
+### Shortcut (Skill 3)
+
+Chip drops the Main Portal on an enemy hero, dealing 200 (+60% Total Magic Power) Magic Damage and briefly slowing them by 25%. The Main Portal deals 2 times the damage and immobilizes them for 1s after a delay. Meanwhile, he creates Connecting Portals near allied heroes 10 units away and behind the allied Base. The Main Portal and Connecting Portals last up to 15s. Connecting Portal: Heroes (on both teams) can teleport from Connecting Portals to the Main Portal, and allied heroes gain Burst Movement Speed for 1.5s and a 500 shield. Main Portal: The Main Portal inherits 70% of Chip's attributes. Heroes can stand on the Main Portal for 2s to return to the Connecting Portal they came from. Casting skills or launching Basic Attacks will reset the stand time.
+
+### Why Walk? (Ultimate)
+
+Chip has 4 fixed Beacons on the map when the battle starts. Use this skill to teleport to any other Beacon. (This skill cannot be used in combat.)
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Chip's 2nd Skill preemptively to build up speed, then hit a target with his Basic Attack and deploy the Main Portal with his Ultimate. Follow up with his 1st Skill on the enemy and another Basic Attack to stun them while the Main Portal's delayed effect slows them, and continue the fight as allies portal in.
+- LANING COMBOS (laning): When ganking, use Chip's 2nd Skill to quickly get behind the target and knock them into your team with the enhanced Basic Attack, then follow up with his 1st Skill and another Basic Attack to stun them.
+
+## Counters to Chip (pick these against Chip)
+
+- Alice (Tank/Mage): +3.0 pp edge. Alice's durability and kit give them a strong matchup advantage against Chip throughout the game.
+- Carmilla (Support/Tank): +2.6 pp edge. Carmilla's durability and kit give them a strong matchup advantage against Chip throughout the game.
+- X.Borg (Fighter): +2.4 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Chip throughout the game.
+- Balmond (Fighter): +2.4 pp edge. Balmond's durability and kit give them a strong matchup advantage against Chip throughout the game.
+- Odette (Mage): +2.4 pp edge. Odette has a statistical edge over Chip based on ranked matchup data. Pick Odette to gain an advantage in draft.
+- Martis (Fighter): +2.0 pp edge. Martis's durability and kit give them a strong matchup advantage against Chip throughout the game.
+- Hanabi (Marksman): +2.0 pp edge. Hanabi has a statistical edge over Chip based on ranked matchup data. Pick Hanabi to gain an advantage in draft.
+- Vexana (Mage): +1.9 pp edge. Vexana has a statistical edge over Chip based on ranked matchup data. Pick Vexana to gain an advantage in draft.
+
+## Heroes Chip beats
+
+- Harith (Mage): +3.6 pp edge for Chip.
+- Diggie (Support): +3.4 pp edge for Chip.
+- Helcurt (Assassin): +2.8 pp edge for Chip.
+- Floryn (Support): +2.8 pp edge for Chip.
+- Zilong (Fighter/Assassin): +2.8 pp edge for Chip.
+- Selena (Assassin/Mage): +2.7 pp edge for Chip.
+- Grock (Tank/Fighter): +2.6 pp edge for Chip.
+- Kaja (Support): +2.3 pp edge for Chip.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/chip.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-08. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Conceal Pickoff Roam (Roam)
+
+- Items: Tough Boots, Dominance Ice, Fleeting Time, Athena's Shield, Antique Cuirass, Immortality
+- Core: Dominance Ice, Fleeting Time, Athena's Shield
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Radiant Armor over Athena's Shield when Use against sustained magic poke where Athena's one-rotation burst filter falls off.; Blade Armor over Antique Cuirass when Use when the enemy marksman is forced to auto-attack you during portal setup.; Oracle over Fleeting Time when Use when your team's sustain support needs amplified shields and you can sacrifice ult reset speed.
+- Total cost: 11200 gold
+
+Default ranked setup. Conceal lets you walk undetected into Shortcut range, and Support emblem with Pull Yourself Together keeps Flicker and equipment active skills cycling.
+
+### Encourage Frontline Roam (Roam)
+
+- Items: Tough Boots, Dominance Ice, Antique Cuirass, Radiant Armor, Guardian Helmet, Immortality
+- Core: Dominance Ice, Antique Cuirass, Guardian Helmet
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Athena's Shield over Radiant Armor when Use against one-rotation magic burst rather than sustained magic damage.; Blade Armor over Guardian Helmet when Use when a basic-attack marksman is the primary threat and return damage matters more than regen.; Warrior Boots over Tough Boots when Use against full-physical drafts where CC reduction is less valuable than stacking physical defense.
+- Total cost: 11380 gold
+
+Frontline variant for teams that need Chip to soak damage and provide Encourage aura during grouped fights rather than setting up solo pickoffs.
+
+### Purify Anti-CC Roam (Roam)
+
+- Items: Tough Boots, Dominance Ice, Athena's Shield, Antique Cuirass, Oracle, Immortality
+- Core: Dominance Ice, Athena's Shield, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Purify
+- Blessing: Conceal
+- Flex: Radiant Armor over Athena's Shield when Use against sustained magic poke that outlasts Athena's single burst-block window.; Blade Armor over Antique Cuirass when Use when the primary physical threat relies on basic attacks rather than skill damage.; Fleeting Time over Oracle when Use when CC is light enough that Purify is insurance rather than mandatory, and ult resets win more fights.
+- Total cost: 11010 gold
+
+Heavy CC counter build. Purify pre-cast gives 1.2 seconds of control immunity to get Shortcut off against Aurora, Tigreal, Ruby, and Khufra lock chains. Does not counter suppression from Franco or Kaja.
+
+All builds for this hero: https://mlbbhub.com/builds/chip.
+
+## Synergies
+
+- Alpha: Chip's Ultimate allows his team to group up from anywhere, so he works well with heroes who can't cross the map quickly but excel in teamfights, such as Alpha, Hanabi, and Kadita.
+- Hanabi: Chip's Ultimate allows his team to group up from anywhere, so he works well with heroes who can't cross the map quickly but excel in teamfights, such as Alpha, Hanabi, and Kadita.
+- Kadita: Chip's Ultimate allows his team to group up from anywhere, so he works well with heroes who can't cross the map quickly but excel in teamfights, such as Alpha, Hanabi, and Kadita.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

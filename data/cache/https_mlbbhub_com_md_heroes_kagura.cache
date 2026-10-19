@@ -1,0 +1,197 @@
+# Kagura, Onmyouji Master
+
+> Kagura is a displacement mage who happens to deal damage. Every other mid is priced on the burst they throw; Kagura is priced on the ground she controls with the Seimei Umbrella. The pick is only correct when your team specifically needs a pocket assassin who does not require peel to land her combo.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Poke, Finisher
+- Difficulty: Hard
+- Tier this patch: A
+- Win rate: 51.72%
+- Pick rate: 0.68%
+- Ban rate: 1.11%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/kagura
+
+## Guide
+
+### Is this a Kagura draft?
+
+Kagura is the right mid when three conditions are true at the same time: your team has at least one hard engage (Tigreal, Atlas, Khufra, or Franco as an ally who locks a 2-hero cluster), the enemy is stacking squishy backline with weak peel (Bruno plus Pharsa plus Estes type comps), and the enemy has nothing that suppresses or hard-CCs through her S2 cleanse.
+
+Her current kit math rewards this read. S1 is cheap and strong at low ranks, so her lane bully phase is real. Patch 2.2.16 ([patch notes](/patch-notes)) improved the umbrella itself: it now moves faster the farther it travels, so long-range pokes are harder to step out of and the reposition-then-teleport sequence sets up faster. The ultimate trades flat damage for a short cooldown and a small mana cost. The practical effect is more burst windows per fight and less penalty for missing one, which makes her more forgiving in the pocket-assassin role and less reliant on a single perfect one-shot.
+
+She is a trap pick against Franco, Akai, Barats in his giant form, Khufra bounce-ult, and a competent Lancelot or Saber who can dive her mid. If your tank is Baxia (no hard lock) or Gatotkaca (telegraphed pull), she has no engage partner and her damage gets kited out. If your team has zero peel in the mid-late game, you become the cooldown-check every time S2 is down.
+
+The disqualifying test: after the first three bans, ask yourself "who on my team locks the target before my S3 pull?" If you cannot name a specific teammate and a specific skill, Kagura is the wrong mid. Pharsa, Yve, or Valentina will give you more damage without needing a setup hero.
+
+### The umbrella is a second hero
+
+Kagura does not have a kit. She has two kits, and they swap based on whether she is holding the Seimei Umbrella or the umbrella is on the ground. Every other mage has a fixed rotation. Kagura decides, on every cast, which version of each button she wants.
+
+With the umbrella in hand, S1 is a long projectile poke, S2 is a Purify-dash, S3 is a self-centered AOE knockback. With the umbrella on the ground, S1 repositions the umbrella, S2 teleports her to it (through thin walls), S3 pulls enemies toward the umbrella and resets S1. Read those twice. The same buttons do completely different things. This is why teaching a new player "Kagura's combo" never works. There is no single combo. There is a decision tree where every rotation changes based on where the umbrella is and what the enemy just did.
+
+That decision tree rewards maxing S1 first instead of splashing points. The ultimate's short cooldown rewards throwing the umbrella out as a fishing tool rather than hoarding it for one big engage. If a pull misses or gets Flickered, the next one comes back up quickly.
+
+Her passive is why she can dive at all. Retrieving the umbrella gives a shield, a brief stun, and a hard slow to everything nearby. This is how she survives walking into melee: the moment she teleports or reels the umbrella back, the area around her is locked down long enough for the next skill to land. Lose track of the passive and you walk out of every fight at 10% HP without a shield.
+
+### Laning: the first six minutes
+
+1. **Max S1 first and use it as wave clear plus poke.** One cast clears the caster minions cleanly and leaves the enemy laner low if they stood in it. Throw it perpendicular to the wave so the projectile passes through minions and the enemy hero in the same cast.
+2. **Never teleport forward first.** The reflex is to press S2 the moment the umbrella lands on the enemy. Do not. If Ling, Saber, or Lancelot is on the enemy team, they are watching for exactly that. Throw S1, wait a beat, confirm whether the enemy committed, then S2 onto the umbrella only if the follow-up kill is guaranteed or the retreat path is clear.
+3. **Back off the river bush by 1:10.** Jungle invades from both sides land around 1:15-1:30 and Kagura has no escape until S2 unlocks at level 2. Hold the bush only if your jungler is actively watching the minimap, otherwise retreat to tower and let the first wave push to you.
+4. **Rotate after the third wave.** Kagura pushes hard with S1 and nobody can match her wave clear without burning mana they do not have. Use the tempo: shove mid, ping a roam, help the side that has an engage partner. Sitting in mid farming past minute 4 with a cleared wave is griefing the team.
+
+### The power spike you are farming toward
+
+Clock of Destiny plus Lightning Truncheon. Both completed. That is the spike.
+
+Clock of Destiny gives HP, mana, 10% CDR, a stacking hybrid defense buff while you are casting, and a low-HP self-heal passive. Lightning Truncheon adds more mana, more CDR, and the Resonate passive: every six seconds, the next damaging skill deals 120% of your total magic power as extra magic damage to up to three enemies and gives you a short 30% movement speed burst. Those two items together flip her from a pokey wave-clearer into someone who can one-shot a mid-HP marksman inside a single S3 pull.
+
+The target window is 9 to 12 minutes on a clean mid game (no deaths, first two buff stacks, one kill or two assists). The mechanical change at the spike is that the S3 pull now kills squishies on its own, instead of needing a full follow-up. You throw the umbrella, pull, and the target is dead before your second cast lands. Before this spike she is a setup mage. After this spike she is the executioner.
+
+Holy Crystal is the third item and it is non-negotiable. Its 21-35% magic power multiplier (scaling with level) is more damage per gold than any other item at the same price bracket once you already have 400-plus magic power from Clock and Truncheon. Skipping Holy Crystal for Ice Queen Wand or Genius Wand is a sub-Mythic habit that scales off a cliff past the 15-minute mark.
+
+### Teamfight positioning and target priority
+
+The reflex is to throw the umbrella at the backline first because the backline is the target. This reflex is wrong more often than right. The correct play is to position the umbrella where the fight is about to collapse, not where the target is standing right now.
+
+1. **Throw the umbrella past the target, not at them.** If you throw directly on the target, the S3 pull drags them a short distance toward the umbrella. Since the umbrella is at their feet, they barely move at all. If you throw past the target, the pull drags them through the umbrella landing point and into your team, where your tank's CC lands and your marksman's damage completes the kill. The pull uses the umbrella's position, not your cursor.
+2. **Hold S2 until after the enemy burns their escape.** Lancelot saves Flicker or Puncture for the moment Kagura teleports in. Same with Ling and Fanny. Let them see you walk forward with the umbrella thrown, wait for them to commit their escape or their dive, then S2 on top of the umbrella to land the passive stun and shield. S2 is a commit button, not an initiation button.
+3. **Never S3 into three enemies unless your tank is already inside with you.** The "no umbrella" S3 pulls enemies toward the umbrella. The "with umbrella" S3 shoves them away. If you hit three people with the knockback version and your tank is across the map, you become the closest target and the first one they focus. One clean 1v1 burst is worth more than a messy 1v3 that trades your life for a kill.
+
+Support-conditional edge case: if your support is Mathilda, you can push further up because her ult cleanses suppression and repositions you out of Franco and Akai. If your support is Estes or Angela, you still die to Franco, so respect the hook angles even if you think the umbrella gives you an escape.
+
+### Itemization: defaults vs flex slots
+
+Four locked slots, two real conversations. Locked: Magic Boots (CDR plus movement), Clock of Destiny, Lightning Truncheon, Holy Crystal. That core does not change based on the enemy.
+
+Slot 5 is the penetration question. Divine Glaive when any frontliner builds Athena's Shield, Oracle, or Radiant Armor; its Spellbreaker passive scales off the enemy's magic defense and caps at 20% penetration per target. Genius Wand when the enemy stacks multiple moderate-magic-defense targets (two junglers plus a support); the stacking magic defense debuff from Genius applies to every target you hit, not just the first. Default is Divine Glaive unless the loading screen shows two Radiant Armors.
+
+Slot 6 is the survival question. Winter Crown when the enemy has a single high-burst threat (Eudora ult, Gusion, Aamon) that you need to bait out. Activate Frozen the instant their screen animation tells you the burst skill is coming. Immortality when the enemy team is a wipe comp and you expect to die in every fight (Chou plus Selena plus Yin style). Concentrated Energy when your team is snowballing and you want the Recharge passive to stack magic power off your constant poking, then cash the full-stack magic damage bonus in the next fight.
+
+Ice Queen Wand is a trap at MLBB's rank brackets. The movement speed is nice, the slow barely matters because S1 already slows heavily, and the spell vamp does not save you from the ways Kagura actually dies, which are one Franco hook, one Eudora stun, or one Gusion combo. Buy one of the three slot-6 options above instead.
+
+Sky Piercer is the weakest common default. It looks great on paper (execute threshold, stacking bonus on kills) but it replaces a multiplier item with a flat damage item, and Kagura's problem at two items is not "I cannot finish" but "I cannot start the fight safely". Take it only in the burst-build swap when you are already 4-0 and want to close the match before minute 18.
+
+### Mistakes that lose Kagura games
+
+**Teleporting to the umbrella the moment it lands.** The S2 teleport is a commit button, not a mobility tool. Pressing it the instant the umbrella reaches its destination tells the enemy assassin exactly where you will be a third of a second from now. Throw the umbrella, step sideways, watch the enemy's reaction, and only teleport when you have confirmed the follow-up kill or the clean escape. The umbrella on the ground is a threat by itself; you do not always have to cash it in.
+
+**Using S2 to dodge Franco's hook.** S2 cleanses debuffs but does not cleanse suppression. Bloody Hunt locks you in place regardless of whether you press S2 mid-pull. If you see Franco positioned in a bush angle, walk forward with the umbrella in hand, not with the umbrella on the ground. At least then you have the cleanse-dash available the moment his Iron Hook lands.
+
+**Throwing the umbrella away before the fight starts.** Some players cast S1 across the map the second a teamfight begins, thinking it opens the combo. It does not. It hands the enemy assassin a free window: your only mobility is a fixed teleport back to the umbrella, your S3 is the delayed pull instead of the instant knockback, and the passive shield stays locked until you retrieve it. Hold the umbrella through the first engage, let your tank eat the CC, and cast once the target is locked and facing your team.
+
+**Ulting into three enemies without vision of the jungler.** The with-umbrella S3 knockback shoves enemies away from you. If the enemy jungler (Lancelot, Fanny, Aamon) was hiding in the fog on your flank, knocking the tank back isolates you from your own team and puts you exactly where their jungler wanted you. Scout with S1 first. The umbrella reveals a small area when thrown, which is usually enough to check a bush.
+
+**Playing mid the entire game.** Kagura's wave-clear lets her rotate every 90 seconds once Lightning Truncheon is online. If you are not leaving mid to help a sidelane or contest Turtle and Lord, you are playing 20% of the map. The mid laner most likely to win from a scoreline deficit is the one who is not in mid for half the game.
+
+### Key tips
+
+> [!TIP]
+> The S3 reset on S1 only triggers when you cast the "no umbrella" version of the ultimate. If the umbrella is still in your hand when you ult, you do not get the S1 reset. This is why pro players throw the umbrella first, then ult: the reset lets them chain a second S1 displacement immediately after the pull lands.
+
+> [!NOTE]
+> Kagura's S2 only passes through thin walls if the umbrella is already on the opposite side. This is how you escape jungle gank attempts at Turtle: throw the umbrella over the river wall first, then S2 to teleport through. Do not try to press S2 into terrain the umbrella did not land on; you will dash a short distance and die.
+
+> [!TIP]
+> Buy Enchanted Talisman as a temporary third item if you are running out of mana inside the first fights. It is not part of the final build, but its mana-regen passive keeps you casting during the 12-to-18 minute window when Clock and Truncheon are not yet stacked enough. Sell it around minute 22 for Holy Crystal.
+
+> [!NOTE]
+> Lethal Ignition is the correct Core talent pick for the Mage Emblem loadout on Kagura. Her kit naturally clears the "damage greater than 7% Max HP, three times within 5 seconds" trigger inside a single rotation: S1, S3 pull, S2 teleport, and the passive stun all tag the same target in under four seconds. The scorch is free adaptive damage on top.
+
+## Skills
+
+### Yin Yang Gathering  (Passive)
+
+Upon retrieving the Seimei Umbrella, Kagura gains a 450 (+80% Total Magic Power) shield, stuns nearby enemies for 0.5s, and slows them by 60% for 1s. Cooldown: 4.5s.
+
+### Seimei Umbrella Open  (Skill 1)
+
+Kagura sends the Seimei Umbrella to the target location, dealing 365 (+105% Total Magic Power) Magic Damage to enemies in its path and slowing them by 60% for 0.5s. The Umbrella will automatically return to Kagura when she's too far away. This skill deals 130% damage to non-hero enemies.
+
+### Rasho Umbrella Flee (Skill 2)
+
+Kagura removes all debuffs on her and leaps in the target direction, while leaving the Seimei Umbrella behind.
+
+### Yin Yang Overturn (Ultimate)
+
+Kagura invokes the power of the Seimei Umbrella, dealing 250 (+95% Total Magic Power) Magic Damage to nearby enemies, knocking them back, and slowing them by 60% for 0.5s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Kagura should place her Umbrella between the enemies with her 1st Skill, then use her Ultimate to reset the cooldown for her 1st Skill to be able to adjust the Umbrella location before teleporting to the Umbrella location to stun nearby enemies. She should then use her Ultimate + 2nd Skill combo to escape from the fighting zone.
+- LANING COMBOS (laning): Kagura can use her 1st Skill to poke the enemy with her Umbrella, then her 2nd Skill to teleport to the Umbrella's location, dealing more damage to the enemies and dash back by casting her 2nd Skill again.
+
+## Counters to Kagura (pick these against Kagura)
+
+- Harith (Mage): +2.5 pp edge. Across Kagura's measured matchups, Kagura is weakest once matches pass 16 minutes. Take the game long with Harith.
+- Odette (Mage): +2.1 pp edge. Across Kagura's measured matchups, Kagura is weakest once matches pass 16 minutes. Take the game long with Odette.
+- Phoveus (Fighter): +2.0 pp edge. Across Kagura's measured matchups, Kagura is weakest once matches pass 16 minutes. Take the game long with Phoveus.
+- Freya (Fighter): +1.7 pp edge. Freya's durability and kit give them a strong matchup advantage against Kagura throughout the game.
+- Esmeralda (Tank/Mage): +1.6 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Kagura throughout the game.
+- Thamuz (Fighter): +1.6 pp edge. Across Kagura's measured matchups, Kagura is weakest once matches pass 16 minutes. Take the game long with Thamuz.
+
+## Heroes Kagura beats
+
+- Lolita (Support/Tank): +4.0 pp edge for Kagura.
+- Valir (Mage): +1.9 pp edge for Kagura.
+- Sun (Fighter): +1.9 pp edge for Kagura.
+- Silvanna (Fighter): +1.7 pp edge for Kagura.
+- Hanzo (Assassin): +1.7 pp edge for Kagura.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/kagura.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Clock Burst (Mid)
+
+- Items: Arcane Boots, Clock of Destiny, Lightning Truncheon, Genius Wand, Divine Glaive, Holy Crystal
+- Core: Clock of Destiny, Lightning Truncheon, Genius Wand
+- Emblem: Mage Emblem with Rupture, Weapon Master, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Blood Wings over Holy Crystal when Use when late fights are decided by surviving the first dive after the umbrella combo lands.; Winter Crown over Holy Crystal when Use against Ling, Hayabusa, Saber, or any dive that can kill Kagura before she retrieves the umbrella.; Glowing Wand over Genius Wand when Use when your team lacks anti-heal into Estes, Floryn, Uranus, Ruby, or heavy shield drafts.
+- Total cost: 11940 gold
+
+Default ranked mid build that turns the Clock and Truncheon spike into reliable backline burst, then adds layered penetration for late magic defense.
+
+### Frontline CDR Burn (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Glowing Wand, Wishing Lantern, Divine Glaive, Holy Crystal
+- Core: Enchanted Talisman, Glowing Wand, Wishing Lantern
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Flameshot
+- Flex: Arcane Boots over Magic Boots when Use when the enemy has only one true frontline and early flat Magic Penetration can decide mid rotations.; Lightning Truncheon over Wishing Lantern when Use when enemy carries are the only targets that matter and your team already has tank damage.; Ice Queen Wand over Holy Crystal when Use when your team needs repeated umbrella slows to keep durable enemies inside follow-up damage.
+- Total cost: 12050 gold
+
+Cooldown and burn setup for long objective fights where Kagura needs more umbrella cycles, anti-sustain pressure, and current-HP damage.
+
+### Anti-Dive Safety (Mid)
+
+- Items: Tough Boots, Clock of Destiny, Lightning Truncheon, Winter Crown, Divine Glaive, Blood Wings
+- Core: Clock of Destiny, Lightning Truncheon, Winter Crown
+- Emblem: Mage Emblem with Rupture, Wilderness Blessing, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Arcane Boots over Tough Boots when Use when the enemy dive is damage-heavy but not crowd-control-heavy enough to justify Fortitude.; Genius Wand over Winter Crown when Use when the enemy cannot force Kagura's stasis and you need earlier Magic Defense shred.; Holy Crystal over Blood Wings when Use when your front line consistently peels assassins and the final slot can stay pure damage.
+- Total cost: 10960 gold
+
+Defensive mid build for suppressive pick comps and assassin-heavy drafts where one saved combo matters more than maximum damage.
+
+All builds for this hero: https://mlbbhub.com/builds/kagura.
+
+## Synergies
+
+- Atlas: Kagura works well with tank heroes with strong CC skills that allow her to deal more damage with her Ultimate, such as Atlas and Tigreal.
+- Tigreal: Kagura works well with tank heroes with strong CC skills that allow her to deal more damage with her Ultimate, such as Atlas and Tigreal.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

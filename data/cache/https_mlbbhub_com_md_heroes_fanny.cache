@@ -1,0 +1,206 @@
+# Fanny, Blade Dancer
+
+> Fanny does not walk. The moment she stops flying, she stops being Fanny. Every other assassin approaches from bushes or fog, but Fanny approaches from the air, and the mechanical demands of keeping her airborne are why most players who lock her end up feeding.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Chase, Finisher
+- Difficulty: Hard
+- Tier this patch: D
+- Win rate: 42.15%
+- Pick rate: 0.76%
+- Ban rate: 2.06%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/fanny
+
+## Guide
+
+### The two conditions that make Fanny playable
+
+Fanny is the highest skill-ceiling hero in Mobile Legends, and that alone makes her a trap pick in most drafts. Locking Fanny requires two non-negotiable conditions to be true at the same time. If either one fails, she is worse than any other jungler you could have picked.
+
+Condition one: the enemy team has no more than one anti-cable hero. Khufra's Bouncing Ball knocks you out of flight. Franco's hook grabs you mid-cable. Chou's kick interrupts your Tornado Strike on landing. Akai's Headbutt knocks you airborne mid-cable. Saber's targeted ult hits you regardless of flight state. One of these heroes is manageable because you can route around a single threat. Two or more means every gank route has a death trap on it.
+
+Condition two: your team can survive 4v5 for the first four minutes. Fanny farms slower than Ling or Hayabusa in the early levels because her cables need energy she does not have yet. She needs blue buff, she needs level 4 for multi-cable chains, and she needs her first item before she can kill anyone who built armor. If your mid and gold laners lose tower before you hit level 4, the game is likely over regardless of how well you fly.
+
+If both conditions are true and you have the cable mechanics to execute, Fanny can end games by the 10-minute mark. If either condition is false, pick someone else.
+
+### The one thing that makes Fanny work
+
+Fanny is a momentum hero. Not metaphorically. Literally. Her passive, Air Superiority, does two jobs at once: it turns flight speed into damage and it turns flight into an energy engine. Every enemy she hits while airborne picks up a Prey Mark stack, and her skill hits on a marked target restore energy. The faster she moves through the air, the harder she hits. This means the damage from a single cable into Tornado Strike is less than the damage from a triple-cable chain at max speed into the same target.
+
+Steel Cable is the entire hero. It shoots a cable to the first obstacle in the cast direction, pulls Fanny to it, and can be recast again while she stays airborne, with each successive cast in the same chain costing less energy than the last. When she passes through enemies mid-flight, Tornado Strike fires automatically. This is Fanny's core damage loop: cable, fly through enemy, Tornado Strike triggers, cable again, fly through enemy again, Tornado Strike triggers again. The more cables you chain without touching the ground, the faster you move and the more damage each pass does.
+
+Energy is the limiting factor, and the current kit turns it into a loop instead of a one-way drain. Fanny uses energy instead of mana, regenerates it slowly on the ground, and every cable in a chain costs less than the one before it, so long chains are more energy-efficient than short hops. Blue buff cuts cable cost further, which is the mechanical reason it is non-negotiable. What keeps a chain alive in a fight is the Prey Mark loop: skill hits on a marked target restore energy, so a chain that keeps passing through the same hero pays for itself, while a chain that spreads across a crowd drains faster. A Fanny who stops hitting marked targets runs out of energy in seconds.
+
+Cut Throat (ult) is a targeted leap that hits hardest when Prey Mark is already stacked on the target, which is exactly why you always pass through before you press it. It is not her main damage source. It is the finisher that confirms a kill after your cable passes have done the work.
+
+### Laning: the first four minutes
+
+Fanny jungles, and her opening clear is the most scripted sequence of any hero in the game.
+
+1. **Start at red buff, not blue.** This is counter-intuitive, but it is the right call: you take blue buff second, which means it lasts longer into your first gank rotation. If you take blue first, it expires while you are still clearing camps. Take red, clear the nearest small camp, take blue, clear the crab. You should be level 4 by roughly 1:50.
+2. **At level 4, you can chain four cables.** Before level 4 the energy cost is too high for extended chains and you lack the level-4 power bump. Level 4 is the mechanical unlock that turns Fanny from a slow jungle clearer into an assassin. Do not attempt a gank before level 4 unless the enemy literally walks into your flight path.
+3. **Your first gank target should be the lane closest to a wall corridor.** Fanny needs walls to cable. Open areas without walls nearby are harder to gank because your cable has nowhere to anchor. Look for the gold or EXP lane where walls are within cable range of the lane minions, and where the enemy laner is pushed past the river.
+
+If the enemy invades your blue buff at level 1 and steals it, do not contest solo. Retreat to the opposite jungle side, clear what you can, and wait for your blue buff to respawn at 2:00. A dead Fanny at level 1 is game over. A delayed Fanny is recoverable.
+
+### The power spike you are farming toward
+
+Fanny's first item is Blade of the Heptaseas. It packs 70 Physical Attack, 250 HP, and 15 Physical Penetration into one purchase, which is the stat profile Fanny actually needs: raw attack for Tornado Strike scaling, HP to survive tower aggro during dives, and flat penetration that matters most in the early game before enemies stack armor items. The Ambush passive is a conditional bonus: after 5 seconds without dealing or taking damage, the next basic attack deals extra physical damage and slows the target. It procs when Fanny cables to a wall near an enemy without passing through them, lands, and auto-attacks before the first cable pass. That setup is not always available in a fast gank, but when it is, the slow keeps the target in cable range for the follow-up chains. Master Assassin (the emblem talent) separately rewards isolation by dealing extra damage when only one enemy hero is nearby.
+
+The real spike is **Blade of the Heptaseas plus Malefic Roar**, usually completed around the 7-to-9-minute mark. Heptaseas provides the early stat bundle; Malefic Roar cuts through the armor that tanks and fighters stack in response to an early Fanny. At two items, cable passes through armored targets still deal real damage, and isolated squishies die before they can respond. This is the window where Fanny takes over games. Before two items she pokes. After two items she confirms kills fast enough to cash in on Killing Spree before the enemy team collapses.
+
+The third item is Hunter Strike for the CDR and the physical attack; its movement speed burst does not speed up the cables themselves, but it helps you walk between wall anchors while recovering energy. After three core items, the default finish is Blade of Despair for raw execute power plus Immortality for the safety net on failed dives.
+
+### Teamfight positioning and target priority
+
+The reflex when a teamfight starts is to cable into the middle of five enemies and hope that Tornado Strike AoE kills everyone. That reflex is how Fanny players die.
+
+Fanny is not a teamfight hero. She is a pick hero who operates before and around teamfights.
+
+Three positioning rules:
+
+1. **Arrive from outside the enemy's vision.** Fanny's cables are visible to the enemy. If they see you cabling in from two screens away, they have time to prepare CC. Start your cable chain from a wall that is behind fog of war or behind terrain the enemy cannot see. The first cable pass should be the one that hits the target, not the fourth.
+2. **Target the hero standing farthest from their team.** Fanny's Tornado Strike hits everything in her path, but her burst kills one target at a time. The marksman who stepped 3 units away from the tank is your target. The mage who stayed inside the tank's protection is not.
+3. **Leave after two cable passes if the target is not dead.** Fanny's energy drains fast. Two passes with Tornado Strike plus an ult finisher is your kill window. If the target survives that, you do not have the energy to disengage safely. Cable away to a wall, recover energy, and wait for the next opportunity.
+
+If the enemy groups tight and refuses to separate, do not engage. Fanny cannot teamfight into a disciplined 5-man ball. Split your map presence instead: push the opposite lane, force a response, and kill whoever rotates alone.
+
+### Itemization: defaults vs flex slots
+
+Fanny's build has three locked slots and three real conversations.
+
+**The three locks are Tough Boots (or Warrior Boots into full AD comps), Blade of the Heptaseas, and Malefic Roar.** Cost-efficient stats plus penetration. Without these you cannot kill targets fast enough to cash in on Killing Spree before the enemy collapses. Hunter Strike fills the fourth slot in almost every game: the CDR and the raw attack feed the cable loop, and the movement speed burst helps you reset between wall anchors.
+
+**The fifth slot defaults to Blade of Despair** for the raw physical attack and the sub-50% HP execute passive. Swap to Queen's Wings when you need damage reduction and spell vamp more than a final burst slot.
+
+**The sixth slot is Immortality** in most games. Fanny's playstyle involves tower dives and low-energy escapes. The resurrection gives you a second chance when a cable chain fails. Swap to Athena's Shield against front-loaded magic burst that can kill Fanny before the reset path is available.
+
+### Matchups that are not obvious
+
+**Diggie.** Not a counter in the traditional sense, but Diggie's egg form after death reveals your position on walls. A dead Diggie scouting your jungle entrance tells his team exactly which angle your cables will come from. The counter is to change your pathing when Diggie is in egg form near your approach route. Also, Time Journey (his ult) removes debuffs from allies and grants Control Immunity, which means your team's follow-up CC gets cleansed and the kill window shrinks.
+
+**Akai.** His Headbutt knocks you airborne mid-cable, and Heavy Spin keeps knocking you back on every pass while it runs, with Slow Immunity on top, so you cannot slow your way out of it. Do not fly through an Akai who has his spin up. Cable to a wall on his flank, wait for the spin to end, and only then pass through the lane corridor he is guarding.
+
+**Minsitthar.** His ult creates a no-movement-skill zone that disables your cables entirely. If Minsitthar ults in a teamfight, you cannot enter that zone. Target a hero outside the radius or wait for the field to fade. Most Minsitthar players drop the ult reactively, so bait it by cabling near the fight without committing, then enter after it fades.
+
+**Nana.** Molina (the bear trap) transforms you mid-flight and drops you to the ground. The hitbox is small but Nana players place it in common cable paths between walls. Watch for the bear placement and reroute cables to avoid it. A transformed Fanny in the middle of the enemy team dies instantly.
+
+**Paquito.** Looks like a free target because he has no anti-cable CC, but his Champ Stance keeps an enhanced punch ready every few casts and Heavy Left Punch shields him when it connects, so he survives your passes and can punch back hard if you land near him. Do not target Paquito while his enhanced punch is charged; wait until he spends it on your frontline first.
+
+### Key tips
+
+> [!TIP]
+> Take red buff before blue buff at the start of the game. Blue buff taken second lasts longer into your first gank rotation. This timing trick gives you about 15 extra seconds of blue buff when you actually need it (during the level 4 gank) instead of wasting it on the jungle clear.
+
+> [!NOTE]
+> Tornado Strike triggers automatically when Fanny passes through enemies during a cable flight. You do not need to press S1 manually during cables. Save the manual S1 for the moment you land, and let the auto-trigger handle the mid-air damage.
+
+> [!TIP]
+> Every cable in a chain costs less than the one before it, so long chains are more energy-efficient per cable than short ones. Never throw one cable and stop. Chain at least three to get the cost reduction working in your favor.
+
+> [!TIP]
+> When stealing the enemy blue buff, cable from a wall outside their vision into the buff area, Retribution the buff during the fly-through, and cable out the other side. Done correctly, the entire steal takes under 2 seconds and the enemy jungler cannot react. Practice the wall-to-buff cable angle in custom games until the pathing is automatic.
+
+## Skills
+
+### Air Superiority (Passive)
+
+During flight, Fanny deals 10%-20% extra damage to enemies hit (scales with flying speed) and applies a stack of Prey Mark to them (up to 2 stacks) on each attack. Her subsequent skill hits on marked enemy heroes restore 8 energy per stack for her. The energy restoration is reduced if she hits multiple enemy heroes within a short period of time.
+
+### Tornado Strike (Skill 1)
+
+Fanny whirls her blades, dealing 275 (+85% Total Physical Attack) Physical Damage to nearby enemies.
+
+### Steel Cable (Skill 2)
+
+Fanny shoots a cable in the target direction that pulls her to the first obstacle hit. She can cast this skill again within 2s until her energy runs out, and each successive recast within this period costs 2 less energy. Fanny automatically casts Tornado Strike upon hitting an enemy mid-flight, as long as her energy is sufficient.
+
+### Cut Throat (Ultimate)
+
+Fanny leaps at the target enemy hero or Creep with her blades, dealing 400 (+200% Extra Physical Attack) Physical Damage. Each stack of Prey Mark on the target increases this damage by 30%.
+
+Skill upgrade priority: 3-2-1-0-1/1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Fanny's 2nd Skill repeatedly to move around and use her 1st Skill when in the middle of the enemy. Look for low HP enemies to finish off with her Ultimate.
+- LANING COMBOS (laning): In the laning phase, use Fanny's 2nd Skill at walls to quickly maneuver around and use her 1st Skill when near the enemy. Keep using her 2nd Skill to pass through the enemy to automatically trigger her 1st Skill, and use her Ultimate to secure kills.
+
+## Counters to Fanny (pick these against Fanny)
+
+- Moskov (Marksman): +2.8 pp edge. Moskov has a statistical edge over Fanny based on ranked matchup data. Pick Moskov to gain an advantage in draft.
+- Badang (Fighter): +2.7 pp edge. Badang's durability and kit give them a strong matchup advantage against Fanny throughout the game.
+- Phoveus (Fighter): +2.6 pp edge. Phoveus's durability and kit give them a strong matchup advantage against Fanny throughout the game.
+- Bruno (Marksman): +2.6 pp edge. Bruno has a statistical edge over Fanny based on ranked matchup data. Pick Bruno to gain an advantage in draft.
+- Franco (Tank): +2.4 pp edge. Franco's durability and kit give them a strong matchup advantage against Fanny throughout the game.
+- Chou (Fighter): +2.2 pp edge. Chou's durability and kit give them a strong matchup advantage against Fanny throughout the game.
+- Lukas (Fighter): +2.0 pp edge. Lukas's durability and kit give them a strong matchup advantage against Fanny throughout the game.
+- Kalea (Support/Fighter): +2.0 pp edge. Kalea's durability and kit give them a strong matchup advantage against Fanny throughout the game.
+
+## Heroes Fanny beats
+
+- Granger (Marksman): +3.5 pp edge for Fanny.
+- Gloo (Tank): +2.9 pp edge for Fanny.
+- Yve (Mage): +2.9 pp edge for Fanny.
+- Clint (Marksman): +2.7 pp edge for Fanny.
+- Lolita (Support/Tank): +2.5 pp edge for Fanny.
+- Kimmy (Marksman/Mage): +2.5 pp edge for Fanny.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/fanny.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Pickoff Default (Jungle)
+
+- Items: Tough Boots, Blade of the Heptaseas, Malefic Roar, Hunter Strike, Blade of Despair, Immortality
+- Core: Blade of the Heptaseas, Malefic Roar, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Warrior Boots over Tough Boots when Use when the main interruption threat is physical damage rather than chain crowd control.; Queen's Wings over Blade of Despair when Use when Fanny needs damage reduction and spell vamp more than a final burst slot.; Athena's Shield over Immortality when Use against front-loaded magic burst that can kill Fanny before the reset path is available.
+- Total cost: 11850 gold
+
+Default jungle setup for pickoff games where Fanny can isolate side-lane targets, cash in Prey Mark damage, then reset with blue buff control.
+
+### Sustain Cable Bruiser (Jungle)
+
+- Items: Warrior Boots, War Axe, Queen's Wings, Brute Force Breastplate, Malefic Roar, Immortality
+- Core: War Axe, Queen's Wings, Brute Force Breastplate
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Warrior Boots when Use when suppressions, stuns, or slows are the reason cable exits fail.; Athena's Shield over Brute Force Breastplate when Use against burst mages who force Fanny to leave before War Axe and Queen's Wings can work.; Sea Halberd over Immortality when Use when allied anti-heal is missing and a healer or shield core keeps surviving cable passes.
+- Total cost: 11120 gold
+
+Bruiser jungle setup for CC-light drafts where Fanny can pass through the same fight repeatedly instead of relying on one clean execute.
+
+### Snowball Execute (Jungle)
+
+- Items: Tough Boots, Sky Piercer, Blade of the Heptaseas, Hunter Strike, Malefic Roar, Blade of Despair
+- Core: Sky Piercer, Blade of the Heptaseas, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Immortality over Blade of Despair when Use once shutdown risk is higher than the value of the last burst item.; Queen's Wings over Blade of Despair when Use when Fanny is ahead but still has to survive unavoidable counter-burst after diving.; Rose Gold Meteor over Blade of Despair when Use when magic burst is the only thing stopping snowball dives and Immortality is not yet needed.
+- Total cost: 11230 gold
+
+High-risk snowball setup for games where Fanny gets early kills, protects Sky Piercer stacks, and can end before grouped late-game fights.
+
+All builds for this hero: https://mlbbhub.com/builds/fanny.
+
+## Synergies
+
+- Minotaur: Fanny works best with heroes that can chain AOE CC to keep the enemy pinned, such as Minotaur and Gatotkaca, so she can deal damage without interruption.
+- Gatotkaca: Fanny works best with heroes that can chain AOE CC to keep the enemy pinned, such as Minotaur and Gatotkaca, so she can deal damage without interruption.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

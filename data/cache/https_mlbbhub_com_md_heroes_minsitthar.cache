@@ -1,0 +1,210 @@
+# Minsitthar, Courageous Warrior
+
+> Minsitthar is not a fighter who wins by out-trading you in a straight line. He is a jailer with a spear: he stacks Mark of the King until one enemy has to leave, then drops King's Calling to make leaving impossible. Pick him when the enemy carries live on movement skills, and build him for attack speed, not the old Thunder Belt tank.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP, Roam
+- Specialty: Initiator, Crowd Control
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 51.64%
+- Pick rate: 0.62%
+- Ban rate: 4.70%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/minsitthar
+
+## Guide
+
+### The draft: cage the carries who need a dash to live
+
+Minsitthar's ultimate does one thing, and it does it completely. King's Calling summons four Royal Guards into a field, and every enemy inside that field cannot use movement skills while it holds. Fanny cannot cable. Lancelot cannot Phantom Step. Benedetta cannot Alecto. Gusion cannot dash out, Hayabusa cannot shadow away, and Flicker goes dead the moment the field lands.
+
+So the draft question is concrete: count how many of the enemy's carries rely on a dash or blink to survive a teamfight. If the answer is two or more, Minsitthar is the correct EXP pick. Their escape plan becomes your win condition.
+
+The pick is a trap when the enemy's threat does not need to move. The cage denies mobility, not a stand-and-fight stat check. Against a comp that kills you by out-trading in place, you are picking a jailer for a fight that has no prisoner. Read the lane, not just the ults.
+
+Know the lane counters from the live data. Natalia, Aulus, X.Borg, and Yu Zhong all beat him on the EXP lane: Natalia silences before he stacks, Aulus and X.Borg out-trade Phalanx's window, and Yu Zhong wants the extended fight where Minsitthar's damage is still charging. Yin is a different kind of trap. His ult pulls one target into a private dimension, and King's Calling does not follow you in, so the fight you caged disappears.
+
+Draft him with a carry who loves a stationary target. Melissa and Hanabi are the measured synergies: both scale up the moment the cage stops someone from leaving their burst range.
+
+The test: if you cannot name two enemy heroes whose entire escape plan is a movement skill before the draft ends, Minsitthar is the wrong pick for that game.
+
+### Minsitthar works because the cage is also damage
+
+Minsitthar is not a burst fighter and he does not pretend to be one. He is a mark engine with a door that closes. Every basic attack and every skill applies a stack of Mark of the King, and at five stacks the next hit detonates: it deals physical damage, stuns the target, and heals Minsitthar. Everything else in his kit exists to make that detonation happen faster and on a target that cannot run.
+
+Spear of Glory is the setup, not the damage. It thrusts forward, and the enemy hit by the tip is stunned briefly; on the return pull, every enemy in the spear's path gets dragged back to Minsitthar. That is how the fight starts. The target comes to you, or a laner who overextended gets collected.
+
+Shield Assault is the engine. It releases a rectangular area of damage that slows everyone it hits, then puts Minsitthar into Phalanx: he takes less damage from the front and his basic attacks become sweeping hits across the rectangle in front of him. While Phalanx is up, you auto-attack in a fan and stack marks across every enemy in it at once. That is the whole hero in one button.
+
+The cage ties it together in a way the old kit never could. The Royal Guards inherit Minsitthar's equipment effects, so the field is not just lockdown. It is a second damage source that applies your on-hit items while the target cannot leave. You do not win fights by out-damaging anyone on the first swing. You win by controlling where the fight happens and detonating the marks before the exit opens.
+
+### Laning: the first six minutes
+
+1. **Take Shield Assault first and clear with the enhanced basics.** Phalanx's rectangular hits touch the whole wave at once, so you farm and trade with the same button. Walk up, release the slow, and keep the frontal damage reduction up for whatever the enemy laner throws back.
+2. **Unlock Spear of Glory at level 2 and hold it for the pull.** It is not a poke tool. Wait for the laner to step past the wave or overcommit to a trade, then drag them in and finish the exchange with Phalanx-enhanced basics. Throwing it on cooldown teaches the enemy where the hook edge is.
+3. **Level 4 is the first real kill window.** A laner pushed against the turret wall cannot escape a caged 1v1. Call your jungler for the rotation at this level, not before: the cage needs wall-adjacent space to matter, and showing the threat is worth more than a random early gank.
+
+### The spike you play for: Corrosion Scythe into Demon Hunter Sword
+
+Minsitthar's damage model is unusual for an EXP laner, and it is why attack speed, not raw attack, is his first stat. His damage runs through Mark of the King, and the mark engine needs swing rate to fire.
+
+The two-item spike is Corrosion Scythe into Demon Hunter Sword, usually around the eight to ten minute mark in a stable game. Corrosion Scythe gives the attack speed that feeds stacks and puts a slow on every hit, so a target that cannot dash cannot walk away either. Demon Hunter Sword adds current-HP damage and returns health on every basic, which is exactly the math Minsitthar needs once he is locked in a cage with a frontliner.
+
+This is the point where the Royal Guards stop being a delay tool. Because they inherit your equipment effects, the field starts applying Corrosion Scythe's slow and Demon Hunter Sword's on-hit damage to every enemy inside. The cage turns from lockdown into a damage zone.
+
+Golden Staff is the multiplier that makes the spike unfair: it triggers attack effects an extra time on its rhythm, which accelerates the mark count faster than any other item. But do not confuse confirmation with ignition. The game starts when Corrosion Scythe and Demon Hunter Sword both land. If you reach that spike late because you spent the early game chasing kills, Minsitthar feels weak, and that is not a mystery. It is the hero telling you that delayed stackers do not get to complain about damage.
+
+### Teamfight positioning: cage the carry, not the first body
+
+The common wrong reflex is to open the teamfight with King's Calling the moment an enemy enters range. If you cage at fight entry, the carry still has their movement skill ready. They spend it, the field holds nothing, and you burned your ult on a slow.
+
+The correct sequence is patience, and it is the same in every game:
+
+1. **Open with Shield Assault, not the ult.** Phalanx keeps you alive through the opening burst and stacks marks while the enemy carry decides what to do.
+2. **Track the movement skill, then cage its aftermath.** After Fanny cables once, after Lancelot dashes through your frontline, after Benedetta Alectos to reposition, that is the window. They are now on cooldown and out of position.
+3. **Drop King's Calling on the carry's current position, not where you want them.** The field is what it is the moment it lands. Put it on the target, not on a direction, and the Royal Guards do the rest for the field's full duration.
+
+Stay inside your own field. The guards attack everything in it, your enhanced basics keep stacking marks, and the moment you chase a target to the edge you trade all of that for nothing. If your support is Estes or Floryn, they can sit with you and sustain the whole cage. If your support is Diggie, do not charge in early: his Alarm Clock cleanses your lockdown and the fight unravels before it starts.
+
+### Itemization: the on-hit core and the real flex slots
+
+The locked core is Corrosion Scythe, Demon Hunter Sword, and Golden Staff. These three are not a suggestion. They are the stack engine, and skipping one of them is usually just another way of admitting you drafted the wrong hero.
+
+Boots first: Tough Boots is the default because the crowd control reduction keeps Minsitthar from being stopped mid-cage. Warrior Boots are correct into low-CC physical lanes where early armor matters more than tenacity.
+
+After the core, the conversations:
+
+- **Thunder Belt** is the survivability slot that still hits back. The true damage proc scales off defense, the HP keeps you alive after the cage commits, and it pairs cleanly with Phalanx's frontal reduction. Take it when the game needs a durable initiator rather than raw swing speed.
+- **Sea Halberd** is the anti-sustain answer. Take it when the enemy has heavy healing or shield comps: Estes, Floryn, Yu Zhong, or high-HP frontliners who would otherwise outlast the cage. Its Lifebane cuts their recovery while you stack.
+- **Rose Gold Meteor** is the magic-burst stop. Take it when mages can delete you before the cage resolves. The lifeline shield buys the seconds Phalanx needs to start reducing damage.
+- **Malefic Roar** is for armor stacks, not habit. Take it when the enemy frontline is buying physical defense specifically to survive the full King's Calling window.
+- **Immortality** is the late stabilizer. The revive converts the first cage into a real fight instead of a suicide, and your team fights inside the field while you come back.
+
+Emblems follow the build. Marksman emblem with Swift, Weapon Master, and War Cry is the default damage setup. Fighter emblem with Firmness, Festival of Blood, and Brave Smite is the frontline variant for games where you must check space before you cage. Tank emblem is the roam setup. Inspire is the default spell because swing speed is the engine. Flicker replaces it in the frontline and roam builds, where the Flicker-cage entry matters more than the extra attack speed.
+
+### Mistakes that lose Minsitthar games
+
+**Building like the old Minsitthar.** The hero's damage now runs through marks and attack speed, not defense. A build of Thunder Belt and Dominance Ice with no swing rate leaves the stack engine idle. You become a durable slow that cannot detonate, and the cage stops being threatening.
+
+**Caging before the carry spends their movement skill.** The most common mistake, and the one that makes Minsitthar feel useless. The ult is not an engagement opener. Open with Shield Assault, track the dash, and cage the aftermath. A cage that lands on a carry with their blink ready is a wasted ultimate.
+
+**Leaving your own field to chase.** The guards attack inside the ring, your enhanced basics stack marks there, and the moment you step out all of it stops. Hold the center and let the field do the chasing.
+
+**Throwing Spear of Glory as poke in lane.** It is the setup skill with a long early cooldown. Use it to collect an overextended laner or start the kill, and the enemy learns nothing. Use it on chip damage, and the enemy learns exactly where the hook edge is.
+
+**Pulling a target who wants to be inside your face.** Aulus, X.Borg, and Yu Zhong all beat you in the extended brawl that a pull hands them. Read the matchup before you hook. The correct target for the pull is the one who needs distance to survive, not the one who wants to close it.
+
+### Key tips
+
+> [!TIP]
+> Time Inspire with Phalanx. Both make your basic attacks the fastest stack engine in the kit, and together they fill five marks in a single cage window. Use them at the moment the field lands, not before it.
+
+> [!NOTE]
+> The Royal Guards inherit your equipment effects, so the cage is damage, not just lockdown. Your on-hit items apply through the guards' attacks, which is the whole reason the attack-speed core works.
+
+> [!TIP]
+> King's Calling stays active even after Minsitthar dies. Once the field is down, commit into it. Your team fights inside the cage while you are gone, and the guards keep attacking.
+
+> [!NOTE]
+> Shield Assault is canceled the moment you cast Spear of Glory or King's Calling. Front-load the Phalanx-enhanced basics before the follow-up, or the stance ends the instant the real combo starts.
+
+## Skills
+
+### Mark of the King (Passive)
+
+Minsitthar's Basic Attacks and skills apply a stack of Mark of the King, up to 5 stacks. Upon reaching max stacks, the next attack detonates all Mark of the King stacks, dealing Physical Damage equal to 400 (+6% Max HP) of Minsitthar's Max HP and stunning the target for 0.8s while healing Minsitthar for 400 (+6% Max HP) HP. Can only trigger once every 6s on the same target.
+
+### Spear of Glory (Skill 1)
+
+Minsitthar thrusts the Spear of Glory forward, dealing 175 (+40% Total Physical Attack) Physical Damage and slowing enemies hit by 30%. Enemy heroes hit by the spear tip are stunned for 0.3s. After a short delay, Minsitthar pulls the spear back, dealing 175 (+40% Total Physical Attack) Physical Damage to all enemies in its path and pulling enemy heroes toward him. Pulled heroes are stunned for up to 0.8s based on the distance pulled.
+
+### Shield Assault (Skill 2)
+
+Minsitthar awakens the power in his shield and releases it, dealing 100 (+45% Total Physical Attack) Physical Damage to all enemies in a rectangular area and slowing them by 80% (decaying rapidly over 2s). Meanwhile, he enters Phalanx state for 3s, reducing damage taken from the front by 25% and enhancing his Basic Attack to swiftly strike an area in front of him for 100 (+45% Total Physical Attack) Physical Damage per hit.
+
+### King's Calling (Ultimate)
+
+Minsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field and deal (+30% Total Physical Attack) Physical Damage to them. Enemies in the field are slowed by 30% and cannot use movement skills.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Minsitthar should use his 1st Skill to pull in multiple enemies before using his Ultimate to restrict their movement, and then use his 2nd Skill's enhanced Basic Attacks to deal AOE damage.
+- LANING COMBOS (laning): In the laning phase, Minsitthar should use his 1st Skill to pull the enemy to him and slow them with his 2nd Skill, before unleashing his enhanced Basic Attacks.
+
+## Counters to Minsitthar (pick these against Minsitthar)
+
+- Natalia (Assassin): +3.7 pp edge. Natalia has a statistical edge over Minsitthar based on ranked matchup data. Pick Natalia to gain an advantage in draft.
+- Yin (Fighter/Assassin): +2.8 pp edge. Yin's durability and kit give them a strong matchup advantage against Minsitthar throughout the game.
+- X.Borg (Fighter): +2.5 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Minsitthar throughout the game.
+- Aulus (Fighter): +2.1 pp edge. Minsitthar is countered by heroes with high Movement Speed, such as Zilong and Aulus, who can easily dodge his 1st Skill and run out of his Ultimate.
+- Belerick (Tank): +2.0 pp edge. Belerick's durability and kit give them a strong matchup advantage against Minsitthar throughout the game.
+- Yu Zhong (Fighter): +1.9 pp edge. Yu Zhong's durability and kit give them a strong matchup advantage against Minsitthar throughout the game.
+
+## Heroes Minsitthar beats
+
+- Freya (Fighter): +4.7 pp edge for Minsitthar.
+- Phoveus (Fighter): +3.6 pp edge for Minsitthar.
+- Harith (Mage): +3.4 pp edge for Minsitthar.
+- Martis (Fighter): +2.8 pp edge for Minsitthar.
+- Karrie (Marksman): +2.5 pp edge for Minsitthar.
+- Valentina (Mage): +2.3 pp edge for Minsitthar.
+- Hirara (Assassin): +1.9 pp edge for Minsitthar.
+- Julian (Assassin/Fighter): +1.8 pp edge for Minsitthar.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/minsitthar.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Inspire Phalanx DPS (EXP)
+
+- Items: Tough Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Thunder Belt, Immortality
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, War Cry
+- Battle spell: Inspire
+- Flex: Sea Halberd over Golden Staff when Use when healing, shields, or high-extra-HP frontliners matter more than maximum passive-stack speed.; Rose Gold Meteor over Immortality when Use against magic burst that hits before a late revive can convert into a second engage.; Malefic Roar over Immortality when Use when armor-stacking frontliners survive the full King's Calling window.; Warrior Boots over Tough Boots when Use into low-CC physical EXP lanes where early armor is more valuable than Fortitude.
+- Total cost: 10870 gold
+
+Default EXP damage setup. Corrosion Scythe, Demon Hunter Sword, and Golden Staff make Shield Assault and Inspire rapidly trigger Mark of the King while Thunder Belt and Immortality keep Minsitthar alive after the ult commits.
+
+### EXP Thunder Frontline (EXP)
+
+- Items: Tough Boots, Thunder Belt, Corrosion Scythe, Dominance Ice, Athena's Shield, Immortality
+- Core: Thunder Belt, Corrosion Scythe, Dominance Ice
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Radiant Armor over Athena's Shield when Use against repeated magic hits that stack through poke before the real engage starts.; Antique Cuirass over Athena's Shield when Use when physical skill burst is the reason Minsitthar dies before Phalanx state gets value.; Demon Hunter Sword over Dominance Ice when Use when your team already has reliable anti-heal and Minsitthar must threaten tanks inside the field.; Warrior Boots over Tough Boots when Use against physical lanes with light crowd control and no early magic burst.
+- Total cost: 10850 gold
+
+Durability-first EXP setup for games where Minsitthar must check space, start with Flicker angles, and keep anti-dash control available through long objective fights.
+
+### Conceal Anti-Dash Roam (Roam)
+
+- Items: Tough Boots, Thunder Belt, Corrosion Scythe, Dominance Ice, Radiant Armor, Immortality
+- Core: Thunder Belt, Corrosion Scythe, Dominance Ice
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Encourage over Conceal when Use when your team wants front-to-back DPS around Lord more than surprise engage angles.; Athena's Shield over Radiant Armor when Use against one-combo magic burst that reaches the roamer before Radiant Armor can stack.; Antique Cuirass over Radiant Armor when Use against physical skill assassins or EXP fighters that must spend skills into Minsitthar first.; Guardian Helmet over Immortality when Use when repeated rotations and bush checks matter more than a single late resurrection.
+- Total cost: 10580 gold
+
+Roam setup for anti-dash drafts. Conceal and Flicker create the King's Calling entry, while Thunder Belt and Tank Emblem keep Minsitthar useful after the first lockdown.
+
+All builds for this hero: https://mlbbhub.com/builds/minsitthar.
+
+## Synergies
+
+- Melissa: Minsitthar works best with high damage Marksmen, such as Melissa and Hanabi, because he can create more opportunities for them to deal damage.
+- Hanabi: Minsitthar works best with high damage Marksmen, such as Melissa and Hanabi, because he can create more opportunities for them to deal damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

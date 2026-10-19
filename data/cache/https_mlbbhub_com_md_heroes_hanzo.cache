@@ -1,0 +1,195 @@
+# Hanzo, Akuma Ninja
+
+> Hanzo's rework flipped his risk model. The body you once had to hide is now invincible the moment his ultimate is active, and the fragile thing is the ghost you pilot and the Energy that keeps it alive. Pick him as a jungler who hunts the enemy carry through walls and walks away untouched, as long as you never feed Hanekage a free death.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Poke, Burst
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 49.81%
+- Pick rate: 0.38%
+- Ban rate: 9.99%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/hanzo
+
+## Guide
+
+### Lock Hanzo when one carry can be cornered
+
+Hanzo is the right jungle pick when there is a single enemy carry your ghost can reach and kill, and a front line that cannot instantly delete Hanekage once it arrives. He wants immobile damage dealers who have to stand still to do their job: Layla, Lesley, Cyclops, Pharsa, a Wanwan who has not stacked her passive. Pair him with one peel or lockdown teammate who covers the moment you snap back to your body, and the payoff on every fight goes up.
+
+He is the wrong pick into drafts built to punish Hanekage inside his ultimate window. Each Hanekage death now doubles your ultimate cooldown (patch 2.1.88 ([patch notes](/patch-notes))), so a comp that can pin and burst the ghost taxes you twice for one mistake. Fanny and Helcurt out-duel and out-burst him in the jungle and contest the early objectives he needs. Khufra, Atlas, and Franco lock Hanekage in place long enough for a follow-up to delete it. Stacked physical defense (double tank with Antique Cuirass) blunts the single-target burst the whole pick is built around. If two of those problems are on the enemy side, the doubled-cooldown penalty turns every aggressive ult into a coin flip.
+
+The disqualifying test: before you lock him, name the one enemy hero Hanekage will isolate, and a path to reach them that does not run through a stun that kills the ghost. If you cannot name both, you do not have a Hanzo plan.
+
+### The one thing that makes Hanzo work
+
+Every other assassin commits one health bar to a dive. Hanzo commits two, and only one of them can die. When the ultimate is up he becomes Hanekage, his real body goes invincible where it stands, and he pilots a ghost that ignores terrain and moves faster than anything chasing it. The skill is not jumping in. The skill is spending Hanekage's life aggressively without ever letting it reach zero.
+
+Two meters run the whole hero. Energy is the clock: it drains every second the ghost is out and refills when Hanekage attacks heroes or objectives or stands near a kill, so a fight that connects funds the next one and a whiffed engage strands you. Dark Ninjutsu is the key: basics and skills stack it on a target, and Soul Snatch only lands its max-HP execute once the stacks are maxed. So a clean kill is a sequence, not a reflex. Stack the target, keep the Energy bar above empty, and confirm with the execute before the ghost or the clock runs out.
+
+This is why losing Hanekage is the worst thing that can happen to a Hanzo. The body surviving was never the achievement. Keeping the ghost alive, and keeping the cooldown short, is.
+
+### The first jungle cycle
+
+The early game is two fast clears that fund jungle equipment, then one ganking ultimate that turns invincibility into a kill before anyone has the items to punish you.
+
+1. **Open on the buff and devour it with Ninjutsu: Demon Feast.** Stacking Dark Ninjutsu to max unlocks the devour, which clears the camp and recovers 20% HP, so you start the second camp in good shape. Hold [Retribution](/spells) for the contested camp or the first crab, not the wave that was never going to be fought over.
+2. **Clear buff to crab to buff, then take the first ultimate as a gank.** Hanekage comes online and the first cast should hunt, not farm. Send the ghost through the jungle wall into an overextended laner, knock them with Black Mist, and convert before they can collapse on a body that cannot be hit anyway.
+3. **Watch the Energy bar before you commit, every time.** Hanekage ignores walls and outruns most chases, but the second the Energy empties your body is dragged to the ghost's position in the open. Start your exit while the bar still has room, so you re-form on your terms instead of being dumped into the enemy.
+
+### The spike that turns the ghost into a kill
+
+The window is your first two completed items, usually between minute seven and minute nine, and the line you draft decides what they unlock. On the burst build, [Blade of the Heptaseas](/items/blade-of-the-heptaseas) plus [Hunter Strike](/items/hunter-strike) gives you the burst and the Ambush opener that let Soul Snatch's max-stack execute actually delete a cornered carry instead of chunking it. On the on-hit build, [Corrosion Scythe](/items/corrosion-scythe) plus [Demon Hunter Sword](/items/demon-hunter-sword) turns Hanekage's basics into a grinder that shreds frontliners across a longer fight.
+
+Before this spike, the ultimate is a scouting and pick-setup tool that softens a target and runs. After it, the same ghost is a kill condition: a squishy at full HP who eats max Dark Ninjutsu stacks and a Soul Snatch is dead inside one Energy bar. The mechanical change is the execute crossing the line from "chips a third" to "removes from the threshold up," and everything in the draft plan above only pays off once it does.
+
+### Teamfight positioning and target priority
+
+The wrong reflex is to press the ultimate and dive the nearest tank because the invincible body makes it feel free. It is not free. The body is safe, but Hanekage is not, and a ghost that dies brawling the front line hands you a doubled cooldown and no kill. The ultimate is a scalpel aimed at one carry, not a brawl tool.
+
+1. **Enter from the angle that lands you on the back line.** Use the terrain-ignore and movement speed to skip the front entirely. Hanekage should arrive behind the enemy carry, not in front of their tank.
+2. **Treat the Energy bar as your exit timer.** Begin disengaging while it still has a cushion, so the ghost is recalling on your command rather than your body materializing in the middle of five enemies when the meter hits zero.
+3. **Never Black Mist into waiting lockdown.** The knock-up is how you confirm a target you already isolated, not how you open into a Khufra or Atlas who deletes the ghost on landing. Bait the stun with movement first, then commit.
+
+The edge case is the support you are paired with. With Diggie, Khufra, or Atlas on your side covering the re-form, you can push Hanekage deeper and stay out a beat longer because there is peel waiting when you snap back. Alone, keep a wider Energy buffer, because the body that lands in the open has nobody to buy it a second.
+
+### Itemization: two builds, two conversations
+
+The first slots are not a single locked path. They are a fork, and reading the enemy decides which prong you take. Against an isolated, squishy back line you want the burst line: [Blade of the Heptaseas](/items/blade-of-the-heptaseas), [Hunter Strike](/items/hunter-strike), and [Endless Battle](/items/endless-battle) for the cooldown, sustain, and one-shot setup that the pickoff identity runs on. Against a frontline-heavy enemy you have to grind through, the on-hit line of [Corrosion Scythe](/items/corrosion-scythe), [Demon Hunter Sword](/items/demon-hunter-sword), and [Golden Staff](/items/golden-staff) keeps Hanekage's basics shredding across the full fight. The later slots are where both lines converge into the same situational reads.
+
+- **Anti-sustain.** Build [Sea Halberd](/items/sea-halberd) the moment Estes, Esmeralda, Uranus, or a shield support keeps the carry alive past your first entry. Cutting their healing is the difference between a confirmed pickoff and a Hanekage that runs out of Energy mid-execute.
+- **Anti-armor.** [Malefic Roar](/items/malefic-roar) when the enemy stacks physical defense behind a double-tank front. The percent penetration is what keeps the single-target burst honest against Antique Cuirass.
+- **Body insurance.** [Immortality](/items/immortality) for the final Lord fights where one revive outvalues the last damage item, and a magic-burst item like Rose Gold Meteor when a mage can punish your body in the windows the ultimate is down. Remember the body is only invincible while Hanekage is out, so these slots cover laning, recalls, and the seconds after the Energy empties.
+- **Boots.** [Swift Boots](/items/swift-boots) is the default for the attack-speed tempo. Swap to [Tough Boots](/items/tough-boots) when chain crowd control keeps catching your body before the ghost fight even starts.
+
+### Mistakes that lose Hanzo games
+
+**Feeding Hanekage a death for a greedy kill.** This is the new cardinal sin. Since 2.1.88, a dead ghost doubles your ultimate cooldown, so chasing one extra basic onto a target who can punish you can leave you without an ultimate for the next two objective fights. Recall the moment the kill is not clean.
+
+**Spending the ultimate to fight the tank.** The invincible body makes diving the front line feel safe, but Hanekage dies in that brawl and you got nothing for it. Skip the tank, reach the carry, and leave.
+
+**Letting the Energy bar run dry inside a fight.** When Energy empties, your body is dragged to the ghost's position in the open, usually surrounded. Treat the meter as a countdown to disengage, not a resource to spend to the last point.
+
+**Casting Soul Snatch before max Dark Ninjutsu stacks.** Without full stacks, the dash does its base damage and nothing more, no max-HP execute. Land basics and Black Mist to stack the target first, then fire the execute. Reversing the order wastes the burst window the whole pick exists for.
+
+**Opening with Black Mist instead of confirming with it.** The knock-up hits hard and now lets you pick the landing spot (2.1.88), which tempts players into leading with it. Used as an opener it telegraphs the engage and feeds the ghost to whatever lockdown is waiting. It is the confirm on an already-isolated target, not the first button.
+
+### Key tips
+
+> [!WARNING]
+> A Hanekage death doubles your ultimate cooldown after patch 2.1.88. One greedy over-stay can leave you ghost-less through two fights. The exit is always cheaper than the kill you were not going to get.
+
+> [!NOTE]
+> Soul Snatch only executes once the target carries max Dark Ninjutsu stacks. Land basics and a Black Mist to stack first, then cast it. An early Soul Snatch is a wasted cooldown and a tipped-off enemy.
+
+> [!TIP]
+> Black Mist now lets you choose where you land within range (2.1.88). Use it to reposition onto the back-line carry mid-engage, not as a blind opener into the front. The displacement is your confirm, not your initiation.
+
+> [!TIP]
+> Hanekage can now Soul Snatch the Turtle and Lord, and basic attacks on objectives refund Energy. Contest from across the wall with the ghost while your body stays safe, and let the objective hits top your meter back up for the fight that follows.
+
+## Skills
+
+### Ame no Habakiri (Passive)
+
+Damage dealt by Hanzo's Basic Attacks and skills inflicts a stack of Dark Ninjutsu on the target, up to 5 stacks. Ninjutsu: Demon Feast can only be cast on targets with full stacks of Dark Ninjutsu.
+
+### Ninjutsu: Demon Feast (Skill 1)
+
+The skill can only be used on targets with max stacks of Dark Ninjutsu. When targeting a creep, Hanzo will immediately devour it and digest it over a period of time to recover 20% HP. When targeting the Turtle, Lord, or enemy heroes, he deals 600 (+120% Extra Physical Attack) Physical Damage, recovers 150 (+80% Total Physical Attack) HP, and reduces this skill's cooldown by 60%.
+
+### Ninjutsu: Dark Mist (Skill 2)
+
+Hanzo dashes in the target direction, leaving dark mist in front that deals 90 (+45% Extra Physical Attack) Physical Damage to enemies in the area every 0.5s, up to 5 times (this damage counts as Basic Attack damage but cannot Crit). The dark mist slows enemies in the area by 40% and grants Hanzo 20% Movement Speed.
+
+### Kinjutsu: Pinnacle Ninja (Ultimate)
+
+Hanzo charges into battle as Hanekage, consuming 170 Energy per second. He gains 20 Energy when a non-hero unit dies nearby and 200 Energy when it's a hero. He gains 15 Energy when attacking a hero, and 45 Energy when attacking the Turtle or the Lord. When Energy runs out, Hanzo's body will be slowly drawn to Hanekage's position. While in Hanekage form, Hanzo's body is invincible, while Hanekage ignores obstacles and gains 50% Movement Speed and 30% Attack Speed. Use Again or Upon Death: Hanekage returns to Hanzo's body, recovering 360 (+100% Extra Physical Attack) HP and becoming untargetable during the return. If Hanekage is killed, Hanzo will be slowed by 50% and revealed for 6s, and the skill's cooldown will be doubled.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Hanzo should activate his Ultimate from a safe position and engage as Hanekage. Use his 2nd Skill to dash in and knock enemies Airborne, then use his Black Mist and Basic Attacks to quickly stack his Passive and use his 1st Skill for maximum damage.
+- LANING COMBOS (laning): When ganking, Hanzo can use his 2nd Skill to close the distance, then stack his Passive with Basic Attacks and unleash his 1st Skill at max stacks for hefty damage. In teamfights, Hanzo should activate his Ultimate from a safe position and engage as Hanekage. Use his 2nd Skill to dash in and knock enemies Airborne, then use his Black Mist and Basic Attacks to quickly stack his Passive and use his 1st Skill for maximum damage.
+
+## Counters to Hanzo (pick these against Hanzo)
+
+- Natalia (Assassin): +4.9 pp edge. Across Hanzo's measured matchups, Hanzo is weakest in the early game. Apply pressure with Natalia before Hanzo can scale.
+- Ling (Assassin): +3.5 pp edge. Across Hanzo's measured matchups, Hanzo is weakest in the early game. Apply pressure with Ling before Hanzo can scale.
+- Kimmy (Marksman/Mage): +2.6 pp edge. Across Hanzo's measured matchups, Hanzo is weakest in the early game. Apply pressure with Kimmy before Hanzo can scale.
+- Mathilda (Support/Assassin): +2.3 pp edge. Mathilda's protective abilities and vision control make it difficult for Hanzo to find isolated targets.
+- Hirara (Assassin): +2.2 pp edge. Across Hanzo's measured matchups, Hanzo is weakest in the early game. Apply pressure with Hirara before Hanzo can scale.
+- Aldous (Fighter): +2.1 pp edge. Across Hanzo's measured matchups, Hanzo is weakest in the early game. Apply pressure with Aldous before Hanzo can scale.
+- Obsidia (Marksman): +1.7 pp edge. Across Hanzo's measured matchups, Hanzo is weakest in the early game. Apply pressure with Obsidia before Hanzo can scale.
+- Kagura (Mage): +1.7 pp edge. Across Hanzo's measured matchups, Hanzo is weakest in the early game. Apply pressure with Kagura before Hanzo can scale.
+
+## Heroes Hanzo beats
+
+- Diggie (Support): +3.2 pp edge for Hanzo.
+- Ixia (Marksman): +2.9 pp edge for Hanzo.
+- Balmond (Fighter): +2.8 pp edge for Hanzo.
+- Franco (Tank): +2.8 pp edge for Hanzo.
+- Bane (Fighter/Mage): +2.2 pp edge for Hanzo.
+- Cecilion (Mage): +1.6 pp edge for Hanzo.
+- Pharsa (Mage): +1.4 pp edge for Hanzo.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/hanzo.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle On-Hit Default (Jungle)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Malefic Roar, Hunter Strike
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Assassin Emblem with Swift, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Swift Boots when Use when slows, stuns, or magic poke keep catching Hanzo's body before the soul fight starts.; Sea Halberd over Hunter Strike when Use when sustain fighters or shield supports outlast the first Hanekage entry.; Wind of Nature over Hunter Strike when Use against physical divers who can reach the real body during Lord or base-defense fights.
+- Total cost: 11010 gold
+
+Default jungle setup for stacking Dark Ninjutsu quickly, abusing Basic Attack effects in Hanekage form, and cutting through frontliners after Golden Staff comes online.
+
+### Jungle Pickoff Burst (Jungle)
+
+- Items: Magic Boots, Blade of the Heptaseas, Hunter Strike, Endless Battle, Blade of Despair, Malefic Roar
+- Core: Blade of the Heptaseas, Hunter Strike, Endless Battle
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Magic Boots when Use when chain crowd control matters more than shaving seconds from Hanzo's non-ultimate skills.; Rose Gold Meteor over Blade of Despair when Use when magic burst is the only threat that can punish Hanzo's real body after he commits ultimate.; Immortality over Blade of Despair when Use for final Lord fights when one revive is worth more than the last burst spike.
+- Total cost: 12070 gold
+
+Burst jungle setup for isolated carry hunts where Hanzo needs Ambush, cooldown, and penetration more than extended on-hit DPS.
+
+### Jungle Snowball Execute (Jungle)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Sky Piercer, Malefic Roar
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Assassin Emblem with Swift, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Hunter Strike over Sky Piercer when Use when the early snowball fails and Hanzo needs reliable cooldown plus movement instead of execute stacks.; Wind of Nature over Sky Piercer when Use when protecting a shutdown is more important than raising the execute threshold.; Immortality over Sky Piercer when Use once death timers decide the game and losing Sky Piercer stacks would end Hanzo's tempo.
+- Total cost: 10500 gold
+
+High-risk snowball setup for games where Hanzo wins the first jungle cycle, invades with lane cover, and converts early kills into Sky Piercer pressure.
+
+All builds for this hero: https://mlbbhub.com/builds/hanzo.
+
+## Synergies
+
+- Aurora: Hanzo has high burst potential but needs time to stack his Passive, so he works best with heroes who can keep the enemy CC'd, like Aurora, Belerick, and Tigreal.
+- Belerick: Hanzo has high burst potential but needs time to stack his Passive, so he works best with heroes who can keep the enemy CC'd, like Aurora, Belerick, and Tigreal.
+- Tigreal: Hanzo has high burst potential but needs time to stack his Passive, so he works best with heroes who can keep the enemy CC'd, like Aurora, Belerick, and Tigreal.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,9 @@
+{
+  "name": "draft-mlbb-advisor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build & équipement adaptatif selon l'équipe adverse (données mlbbhub.com)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

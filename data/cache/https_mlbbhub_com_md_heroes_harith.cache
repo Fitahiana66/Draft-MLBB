@@ -1,0 +1,231 @@
+# Harith, Time Traveler
+
+> Harith is a hybrid dash-loop mage played in the Gold Lane, not a burst mage. He does not one-shot, he does not rotate cleanly for ganks, and he does almost nothing useful for the first six minutes. What he does do is turn a single skill cast into a two-minute cooldown cycle that an unprepared draft cannot peel off a backline.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Gold
+- Specialty: Chase, Damage
+- Difficulty: Medium
+- Tier this patch: D
+- Win rate: 45.97%
+- Pick rate: 0.14%
+- Ban rate: 0.05%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/harith
+
+## Guide
+
+### Who drafts Harith, and who gets punished for it
+
+Harith is a permission pick. Your draft has to earn him, because Harith does three things badly that most Gold laners do well: he does not farm fast early, he cannot clear waves safely under tower without blowing his only mobility, and he brings zero physical damage to the team total. Everything else about him is strong, but those three deficits mean you cannot just slot him in because "he scales."
+
+Pick him when your draft has:
+
+- A front-line tank who can absorb the first rotation of CC on him (Tigreal, Atlas, Hylos). Harith needs one teammate to eat Franco hooks and Khufra balls so he gets to dash, not get stunlocked.
+- A teammate with physical damage in the EXP lane or jungle (Yu Zhong, Paquito, Fredrinn, Baxia). Harith is pure magic damage and his passive is hybrid lifesteal, so the team needs someone to force Athena's Shield buys on the enemy before Harith's items come online.
+- Low enemy CC. If their draft has fewer than two reliable lockdowns, Harith's dash loop eats them alive. If it has more than three, he gets chain-CC'd out of every fight.
+
+Do not pick him into Khufra, Kaja, Franco, Phoveus, Natalia, or Aurora on the same enemy team. Khufra's Bouncing Ball turns Chrono Dash into a suicide button, Kaja's ultimate removes the one thing that makes Harith a hero, Phoveus gains attack speed and chase from every single one of your dashes, and Natalia's enhanced basic silences the entire rotation. Two of these on the same side is a trap. Three is a lost game at draft.
+
+Also skip him in drafts where your EXP or jungle is already pure magic (Luo Yi, Novaria, Gusion). A Harith team with no physical damage means the enemy builds two Athena's Shields and your late game goes nowhere.
+
+There is a jungle version of this pick, and it is real. The balance pass that made Harith a Gold Lane fixture also gave Synchro Fission extra damage against creeps and an official jungle slot. Jungle Harith is a tempo pick, not a power farmer. He is correct when your Gold lane can hold alone, your support roams early, and your team will fight the first two turtles, because Ice Retribution plus the rift is how he turns an early gold lead into ganks. He is a trap when your team needs a front-line initiator or a second source of sustained physical threat, because he brings neither.
+
+If you cannot name one teammate who soaks CC for him and one teammate who forces armor buys, Harith is the wrong pick.
+
+### The one thing that makes Harith work
+
+Harith is not a burst mage, he is a closed cooldown loop with mage scaling bolted to it. The whole kit is designed around one sentence in his ultimate tooltip: if he dashes through the Zaman rift, Synchro Fission's cooldown drops by 1 second and Chrono Dash's cooldown drops by 3 seconds. Chrono Dash already reduces its own cooldown every time the enhanced basic attack connects. Stack both effects and he dashes roughly every one to two seconds for the duration of the ultimate.
+
+That is the entire hero. He is not trying to kill you with one combo, he is trying to stay in melee range and dash-punch you to death while his passive pulls hybrid lifesteal off every enemy hero within range. The passive caps at five stacks for a large lifesteal pool, which is why Harith wants to be in the middle of the enemy team, not behind his own. He heals more the more enemies he is standing next to.
+
+Everything else follows from that. Synchro Fission exists to poke safely before committing and to stack Feather of Heaven attack speed from range. Chrono Dash's shield is his only defensive layer because he has no stun, no stasis, no real escape. The ultimate is not a damage button, it is a rift placement puzzle that decides whether he gets one dash or ten.
+
+A Harith who understands this does not play like Fanny or Ling. He plays like a bruiser who happens to use Magic Power, and he builds like one.
+
+### Laning: the first seven minutes
+
+Gold Lane Harith is weak until the Starlium Scythe timing. Farm patiently, do not trade into the enemy marksman's auto range, and do not burn Chrono Dash on waves.
+
+1. **Take Chrono Dash first at level 1.** The shield is the only thing keeping you alive against a jungle invade or an early rotation from the enemy mid. The dash is the only escape you have from now until level 4.
+2. **Clear the first wave with basic attacks and one Synchro Fission.** The phantom's return path clips the ranged minion, the explosion at the collision point finishes the melee creeps. Do not dash to clear, ever. You will get ganked.
+3. **At level 4, stop taking CS under tower and start looking for Synchro Fission pokes.** The enhanced basic from Chrono Dash plus one S1 explosion chunks most marksmen for roughly a third of their HP bar and gives you back part of the cooldown through the enhanced basic's dash reduction.
+4. **Burn Purify to save Chrono Dash, not the other way around.** If the enemy jungle arrives with a stun, Purify out of it and dash away afterwards. If you dash first, you have nothing left when the second CC hits.
+
+If you are the jungle version, the first seven minutes are about clear speed instead of wave control: Synchro Fission's creep damage plus Retribution clears camps fast enough to keep the Starlium timing on schedule. Gank only when your ultimate is up and your lane has the lockdown to finish the kill, and treat this route as the higher-variance one it is.
+
+Back for Starlium Scythe the moment you can afford it. The Crisis true damage and the hybrid lifesteal are what turn the dash loop into a kill loop, and the cooldown the old build wanted from Talisman comes instead from Magic Boots, the Mage emblem, and Starlium itself. A Harith with boots and Starlium is a different hero from the farmer who opened the game.
+
+### The power spike you are farming toward
+
+Starlium Scythe and Feather of Heaven. That is the spike, and it lands roughly around the eight to ten minute mark if you farm cleanly. Before Feather, Harith's enhanced basic is a single hit that chips for 10% of a squishy's bar. After Feather, that same enhanced basic adds extra magic damage per hit and starts stacking attack speed, which means the post-dash basic becomes a three-hit window inside one dash cooldown cycle. Hit once, auto-attack twice while the attack speed stack rolls, dash again, repeat.
+
+Starlium is the first buy after boots, and it is the member of the pair that makes the loop lethal. The Crisis passive applies true damage to the next basic attack after any skill cast, on a short cooldown. For a hero who casts two skills per cycle and dashes to reset them, that is close to free true damage on every rotation, and the movement speed burst it grants stacks with his ultimate's slow on enemies, so he outruns anyone who did not buy Sprint.
+
+Holy Crystal is the third spike and it lands around the twelve to fourteen minute mark. Its Mystery passive scales the whole build's magic power up at once, so the chip damage you have been farming with turns into real carry damage right as the enemy starts grouping for Lord. This is the difference between a Harith who pressures and a Harith who threatens.
+
+What changes mechanically at the two-item spike: Harith stops being a farmer and starts being a fight initiator. Before the spike he needs his team to engage first. After the spike he can dash into a five-stack, soak CC on his shield, and dash back out under the rift while his passive heals him up to full. The entire game before this window is about not dying. The entire game after it is about finding fights where you can stand inside three or four enemy heroes at once.
+
+Do not contest Lord before this spike. Do contest it after.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a Khufra or Franco on the enemy team is to play at max range and dash in only to finish. That reflex is wrong on Harith. His passive heals more the more enemies he is standing next to, and his ultimate's rift only resets cooldowns if he dashes through it. Playing Harith from the back is playing him like Pharsa, and he is not Pharsa.
+
+Three positioning rules that override instinct:
+
+1. **Place the rift on top of their squishies, not in front of your team.** The rift slows anyone inside it for a long duration. If you drop it at max range to block an engage, you waste the cooldown reset geometry. Drop it through the enemy carry and dash through it toward them. The slow catches them and you come out the back side with Chrono Dash already half off cooldown.
+2. **Target the second-squishiest hero, not the first.** Everyone on the enemy team will also target the squishiest hero, which means by the time you arrive they are half-dead and their support is already peeling. The marksman or support behind them is usually unattended. Dash past the carry, land the enhanced basic on the back hero, dash again through the rift, and you have cut the enemy team in half without dying.
+3. **Stay inside five enemies if the ground is safe.** Five stacks of Key Insight gives the full hybrid lifesteal cap. If the enemy has no lockdown left on cooldown, standing in the middle of their team is the highest-healing position on the map for you. The moment Khufra's ball comes back up, leave.
+
+If your support is Angela or Estes, you can commit to the second-target play because their shields and heals keep you alive through the return dash. If your support is Diggie or Rafaela, do not push past the first line. They cannot save you when the CC chain starts, and the second-target play requires at least one save to survive.
+
+### Itemization: defaults vs flex slots
+
+Four locked slots, two real conversations.
+
+**Locked**: Magic Boots (cooldown first; swap to Tough Boots when the draft runs three or more hard CC sources, or to Arcane Boots against a low magic-defense lane when early kill pressure matters), Starlium Scythe (hybrid lifesteal plus true damage on every post-skill basic), Feather of Heaven (attack speed plus on-hit magic, the foundation of the dash rotation), Holy Crystal (the mid-game damage multiplier).
+
+**Flex slots five and six** are the real conversations. First conversation, the damage slot:
+
+- **Divine Glaive** when the enemy has two or more magic defense items on the board. Spellbreaker scales with their defense, so the more they build against you, the more penetration you get back. Against Oracle plus Athena's Shield, this is mandatory, not optional.
+- **Wishing Lantern** when the enemy stacks HP frontliners and your own team protects your entry. Butterfly Goddess summons a spirit that deals a percent of the target's current HP every 800 magic damage, so the beefier the enemy, the better it performs.
+- **Winter Crown** when one hard engage can kill you before Zaman Force buys you dash space. Two seconds untargetable is a full cooldown cycle's worth of survival against a Saber or Kaja pick attempt.
+
+Second conversation, the survival slot:
+
+- **Concentrated Energy** when you are the only sustained DPS on the team and the enemy has no anti-heal. The Recharge passive at full stacks gives a flat magic damage increase on every output, and the HP is pure survivability for a hero who fights in melee. This is the default safe pick.
+- **Blood Wings** when the enemy has zero burst and you need the raw stat block plus shield movement.
+- **Immortality** for the last objective setup, when revive value beats any damage slot.
+- **Oracle** in very late games when shield value and mixed durability matter more than another damage item. Its Bless passive amplifies every Chrono Dash shield you stack.
+
+The weakest common default on Harith is Clock of Destiny. Guide pages keep recommending it because the stat line reads like a full mage meal: HP, mana, CDR, and a stacking passive. But the cooldown duplicates what Magic Boots, Starlium, Feather, and the emblem already provide, and the Destiny stacks are hybrid defense, a farm stat for a hero who should be fighting on the Starlium timing. Skip it unless your draft genuinely has no other source of late magic scaling.
+
+Battle spell is Purify against any draft with two or more CC sources, and Retribution when you take the jungle route. Do not bring Sprint. Your enhanced basic already applies a slow, and the rift slows everyone chasing you. Sprint is a wasted slot.
+
+Mage emblem with Inspire plus Bargain Hunter plus Impure Rage. Bargain Hunter compounds with the spike timing, Inspire adds cooldown reduction on top of the build, and Impure Rage restores mana on every skill hit so the dash loop stays online without camping for blue. If you are jungling, swap Bargain Hunter for Wilderness Blessing: the river and jungle speed matter more than the discount.
+
+### Mistakes that lose Harith games
+
+**Dashing into Khufra before his ball comes off cooldown.** Khufra's S2 is up roughly every eight seconds and it stops Chrono Dash mid-animation. Count his cooldowns before every engage. If you cannot see his ball being used on a creep or a teammate, assume it is ready and do not dash into range. Dashing into Khufra's ball is not a mistake, it is a guaranteed death.
+
+**Placing Zaman Force in front of your team instead of through the enemy.** The ultimate is a cooldown reset tool, not a zoning tool. If you drop it between your team and theirs, you are defending, which means you do not need the reset. Drop it behind the enemy carry so you dash through it toward them. A Harith who uses the ultimate defensively is a Harith who never gets to use it again.
+
+**Committing Synchro Fission from max range hoping to poke.** The phantom spawns at the target location and the two energy waves return to each other. At max range, the phantom is sitting in open vision and the enemy has two full seconds to side-step the collision. Cast Synchro Fission at medium range through a minion wave so the wave itself blocks the sidestep, or cast it after Chrono Dash so the enhanced basic slow holds them in the collision zone.
+
+**Building for burst with Lightning Truncheon or Genius Wand.** Harith does not burst. His whole damage profile is sustained magic plus hybrid true damage per basic. A Truncheon proc replaces a basic attack he was going to throw anyway, which wastes the Feather of Heaven stack and the Starlium Crisis window both. Stack sustain, not burst.
+
+**Forcing fights before the Starlium plus Feather timing.** A Harith with boots and Starlium but no Feather has the lifesteal but not the attack speed loop. A Harith with neither item has nothing to bring to a fight. If your team starts forcing objectives at the six-minute mark and you are one item behind, you lose the fight before the spike. Vote no, farm the next wave, back for Feather, and re-engage.
+
+### Key tips
+
+> [!TIP]
+> Hit the enemy blue buff on your second back if you are mana-gated. Harith burns through his mana pool faster than almost any mage because the rotation wants constant skill casts. Blue buff stolen at the five-minute mark is worth roughly a full item tier in uptime.
+
+> [!NOTE]
+> Chrono Dash goes through most thin walls. The river bush wall between Gold Lane and the bottom turret is dashable, which means a lost fight at the turtle pit can be escaped by dashing into the jungle, not back down the lane. Learn every wall on the map that Chrono Dash crosses. It is more walls than you think.
+
+> [!TIP]
+> The enhanced basic from Chrono Dash can proc on-hit effects that your skills cannot. Feather of Heaven's Affliction damage rides it, and it is also the basic that Starlium's Crisis true damage lands on after any skill cast. Do not skip the basic attack after every dash. It is half the damage output.
+
+> [!WARNING]
+> If the enemy support is Franco, play Chrono Dash as if it is a single charge spell. Franco's hook interrupts the dash animation mid-flight and yanks you directly into his team. One dash used aggressively with Franco's hook off cooldown is a dead Harith. Wait for the hook to be on a teammate or a creep before committing.
+
+## Skills
+
+### Key Insight (Passive)
+
+Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.
+
+### Synchro Fission (Skill 1)
+
+Harith creates a phantom of himself in a distant location. Harith and his phantom then release Synchro Fission toward each other, dealing 150 (+60% Total Magic Power) Magic Damage to all enemy units on the path. When the 2 energy waves collide, they explode, dealing 450 (+180% Total Magic Power) Magic Damage to all enemies in the area. This skill deals 60% extra damage to creeps (up to 1500 damage).
+
+### Chrono Dash (Skill 2)
+
+Harith dashes towards the target direction, gaining a 120 (+120% Total Magic Power) shield that stacks up to 3 times and enhancing his next Basic Attack. His enhanced Basic Attack deals 200 (+100% Total Physical Attack)(+60% Total Magic Power) Magic Damage and slows enemies by 40%. Hitting an enemy reduces the cooldown of Chrono Dash by 3s. The enhanced Basic Attack only deals 50 (+100% Total Physical Attack)(+100% Total Magic Power) Magic Damage to Turrets.
+
+### Zaman Force (Ultimate)
+
+Harith uses his Key to summon the Zaman Force, creating a multidimensional rift. Upon appearing, it reduces the cooldown of Chrono Dash by 4s. The rift continuously slows enemy heroes in the area by 40%. When Harith comes into contact with the rift using Chrono Dash, he absorbs its energy, reducing the cooldown of Synchro Fission by 1s and Chrono Dash by 3s. Harith gains 15% Resilience while on the rift.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, first use Harith's 2nd Skill to get close to the enemy, then follow up with the Ultimate, and start spamming his 1st and 2nd Skill. Dashing through the Ultimate not only reduces his skill cooldowns, but also allows Harith to get multiple enhanced Basic Attacks from his 2nd Skill.
+- LANING COMBOS (laning): In the laning phase, approach the enemy with Harith's 2nd Skill, hit them with an enhanced Basic Attack, then use his 1st Skill to chip away their HP.
+
+## Counters to Harith (pick these against Harith)
+
+- Phoveus (Fighter): +4.7 pp edge. Phoveus's durability and kit give them a strong matchup advantage against Harith throughout the game.
+- Edith (Tank/Marksman): +3.8 pp edge. Edith's durability and kit give them a strong matchup advantage against Harith throughout the game.
+- Chip (Support/Tank): +3.6 pp edge. Chip's CC abilities disrupt Harith's aggressive playstyle, preventing clean dives and resets.
+- Minsitthar (Fighter): +3.4 pp edge. Minsitthar's CC abilities disrupt Harith's aggressive playstyle, preventing clean dives and resets.
+- Odette (Mage): +2.4 pp edge. Odette has a statistical edge over Harith based on ranked matchup data. Pick Odette to gain an advantage in draft.
+- Akai (Tank): +2.3 pp edge. Akai's CC abilities disrupt Harith's aggressive playstyle, preventing clean dives and resets.
+
+## Heroes Harith beats
+
+- Lolita (Support/Tank): +4.4 pp edge for Harith.
+- Suyou (Assassin/Fighter): +2.5 pp edge for Harith.
+- Kagura (Mage): +2.5 pp edge for Harith.
+- Johnson (Tank/Support): +2.3 pp edge for Harith.
+- Karina (Assassin): +2.3 pp edge for Harith.
+- Clint (Marksman): +2.1 pp edge for Harith.
+- Lapu-Lapu (Fighter): +2.1 pp edge for Harith.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/harith.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Dash Loop Default (Gold)
+
+- Items: Magic Boots, Starlium Scythe, Feather of Heaven, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Starlium Scythe, Feather of Heaven, Holy Crystal
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Impure Rage
+- Battle spell: Purify
+- Flex: Concentrated Energy over Blood Wings when Use when fights last long enough for repeated Magic Damage to stack Recharge before the backline resets.; Winter Crown over Blood Wings when Use when one hard engage can kill you before Zaman Force gives enough dash space.; Arcane Boots over Magic Boots when Use against low-Magic-Defense lanes when early kill pressure matters more than reaching the cooldown loop faster.; Wishing Lantern over Blood Wings when Use only when HP-stacking frontliners are the real targets and your team already protects your entry.
+- Total cost: 12030 gold
+
+Default gold lane setup that reaches the Starlium plus Feather dash loop, then turns Holy Crystal and Divine Glaive into real carry damage.
+
+### Gold Anti-CC Sustain (Gold)
+
+- Items: Tough Boots, Starlium Scythe, Feather of Heaven, Holy Crystal, Concentrated Energy, Divine Glaive
+- Core: Starlium Scythe, Feather of Heaven, Holy Crystal
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Impure Rage
+- Battle spell: Purify
+- Flex: Blood Wings over Concentrated Energy when Use when the fight is decided by shield movement and burst spacing rather than extended Recharge stacks.; Winter Crown over Concentrated Energy when Use when Saber, Kaja, or a similar pick tool can force your Purify before the real burst lands.; Oracle over Concentrated Energy when Use in very late games when shield value and mixed durability matter more than another damage slot.; Magic Boots over Tough Boots when Use when the enemy has damage but not enough crowd control to justify Fortitude.
+- Total cost: 11940 gold
+
+Safer gold lane setup for CC-heavy drafts where Harith must survive the first lockout before chaining Chrono Dash shields.
+
+### Jungle Tempo (Jungle)
+
+- Items: Magic Boots, Starlium Scythe, Feather of Heaven, Holy Crystal, Divine Glaive, Winter Crown
+- Core: Starlium Scythe, Feather of Heaven, Holy Crystal
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Blood Wings over Winter Crown when Use when your lanes can cover your entry and you need movement plus shield tempo for repeated chases.; Concentrated Energy over Winter Crown when Use when objective fights are slow and you can keep landing enhanced basics without being burst first.; Arcane Boots over Magic Boots when Use when the first two ganks need flat Magic Penetration more than maximum cooldown cycling.; Immortality over Winter Crown when Use for the last objective setup when revive value is stronger than a stasis active.
+- Total cost: 11840 gold
+
+Jungle setup for protected drafts where Harith can farm Starlium Scythe quickly, contest with Ice Retribution, and chase inside Zaman Force.
+
+All builds for this hero: https://mlbbhub.com/builds/harith.
+
+## Synergies
+
+- Minsitthar: Harith pairs well with heroes who have AOE CC and can make it harder for enemies to escape his Ultimate's range, such as Minsitthar and Minotaur.
+- Minotaur: Harith pairs well with heroes who have AOE CC and can make it harder for enemies to escape his Ultimate's range, such as Minsitthar and Minotaur.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

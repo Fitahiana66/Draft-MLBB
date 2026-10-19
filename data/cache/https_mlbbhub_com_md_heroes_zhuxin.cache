@@ -1,0 +1,189 @@
+# Zhuxin, Beacon of Spirits
+
+> Zhuxin is a zone-control mage who wins teamfights by stretching them into channeled 4-second windows that most mid laners physically cannot survive. She rewards patience, punishes impatient teammates, and collapses against any draft that can close 4 meters on her while she's holding a button down. Knowing which bucket your current game is in decides whether you should lock her.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Damage, Crowd Control
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 50.23%
+- Pick rate: 0.17%
+- Ban rate: 0.31%
+- Released: 2024
+- Page: https://mlbbhub.com/heroes/zhuxin
+
+## Guide
+
+### Is this a Zhuxin game?
+
+The pick test for Zhuxin is simpler than for most mages: **does the enemy team have a way to close on a stationary target in under one second, and does your team have a peel tool for it?** If the answer is "yes, they do, and no, we don't," close the draft screen. This hero holds her S2 button for 3-4 seconds at a time. During that window she is a walking channel bar that a Hayabusa ult deletes before the butterflies even fill the bar.
+
+Lock Zhuxin when your team already has a front line (Tigreal, Khufra, Atlas, Gatotkaca) and the enemy mid lane is a poke mage, not a dive assassin. Valentina, Vale, Yve, Pharsa, Lylia: these are matchups where you out-range and out-duration them in lane and they cannot punish a channel from 6 meters away. She is also excellent into clustered comps: any draft with two melee fighters plus a tank basically signs up to eat a full 10-stack Lantern Flare release every fight.
+
+Do not pick Zhuxin when the enemy has stacked mobility and you have no peel. Hayabusa, Lancelot, Ling, Natalia, Saber, and Helcurt all either dodge her S2 channel entirely or silence her out of it. Picking Zhuxin into that lineup without a Khufra, Chou, or Minsitthar on your side is the draft equivalent of locking a turret and telling the enemy where it is. If you cannot point at the specific hero on your team whose job is to stop Lancelot from reaching you, Zhuxin is the wrong pick.
+
+### The one thing that makes Zhuxin work
+
+Zhuxin is not a mage who does damage. She is a mage who holds a button and tells an area of the map "you cannot be here for the next four seconds." Everything in her kit exists to extend that window and punish anyone who stays inside it.
+
+Lantern Flare is the core of the hero. It is not a skill you press and release. It is a channel where Zhuxin pilots a floating Spirit Lantern around the battlefield, ticking damage and stacking Soul Snare on anyone the lantern touches. At 10 stacks the target is suspended airborne, and when Zhuxin releases the button every suspended enemy gets hurled to wherever she points. The butterflies are the Mana-refund system that lets her hold the button long enough for 10 stacks to actually happen. The passive's per-butterfly Mana refund (buffed in patch 2.1.88 alongside a mana cost increase on S2) is the entire reason she can channel through a full fight without going dry.
+
+Her S1 and ultimate are in service of the channel, not alternatives to it. Fluttering Grace slows enemies in a fan, which pins them inside the lantern AoE for longer ticks. Crimson Beacon blinks her to a new position while a field follows her, which means the lantern can start channeling immediately after she repositions, and the field is adding its own Soul Snare stacks to anyone nearby. Read correctly, her ult is a repositioning tool for the channel, not a damage burst.
+
+### Laning: the first 4 minutes
+
+1. **Level 1: take S2, not S1.** The tick damage from the lantern clears the first caster wave faster than anything else she has and starts applying Soul Snare to the enemy laner if they step up to last-hit. Switch to S1 at level 2 only after the first wave is dead.
+2. **Sit at the back edge of the caster line and channel inward.** The Spirit Lantern floats in front of her; she does not need to walk up. Channeling from the back of your minion wave means enemy ganks from the river arrive too late and you can peel off the channel the instant vision on side-lane bushes blinks. Any Zhuxin who channels while standing on the inner tower side of the wave is playing her correctly.
+3. **Do not burn Flicker to engage before level 4.** Without S1 slow plus S2 stacks plus ult ready, Flicker-in kills are coincidences, not kill setups. Save Flicker for when a Lancelot or Natalia cracks onto you mid-channel; the escape value far outweighs the kill value in lane.
+
+### The power spike you are farming toward
+
+The inflection point is **Enchanted Talisman into Lightning Truncheon**, usually landing in the 7-to-9 minute window. The reason is not the damage numbers on the tooltips. It is the stacking of three separate mana-sustain systems.
+
+Patch 2.1.88 raised the S2 mana cost per tick, which makes pre-Enchanted-Talisman channels shorter and more punishing on misplayed initiations. The butterfly passive refund increased to compensate, but the tradeoff is unfavorable before the item lands. Rush Enchanted Talisman first; every game. After Enchanted Talisman, the 15% Max Mana regen every 10 seconds, stacked on top of the larger butterfly refund and the Lightning Truncheon 400 Mana pool, means a single channel can run 4-5 seconds. That is the threshold where 10 stacks stops being conditional on the enemy standing still and starts being conditional on the enemy leaving the fight entirely.
+
+Lightning Truncheon adds a second layer. Resonate triggers on the channel tick, which means roughly once every 6 seconds you get a free 120% Magic Power AoE pulse on top of whatever the lantern is already doing. Zhuxin does not want burst items before Truncheon; the only thing that scales her meaningfully is the channel uptime plus the movespeed the Resonate proc hands her, which in turn makes it easier to chase the lantern into the next position.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a Zhuxin ultimate is to flick the camera and ult-blink into the middle of the fight to catch multiple enemies. That reflex is usually wrong. Her ult is a repositioning tool first and a damage tool second.
+
+1. **Blink to the side of the fight, not into it.** Crimson Beacon gives her a shield and a damage field; what it does not give her is a get-out-of-jail button. If she blinks into the middle of a collapsing melee bracket, the shield eats one skill and then she is stationary while four heroes close 2 meters on her. Blink laterally (flank, cliff, or rear edge) so the lantern can channel inward while the enemy's front line is still facing your tank.
+2. **Aim the S2 release away from your team, not toward it.** The release hurls every captured enemy to the target point. Throwing them into your Tigreal or Chou turns your CC chain into a 2-second team kill window; throwing them back to their own team resets the fight. A surprisingly large number of Zhuxin players think the throw is a damage skill. It is a displacement skill that happens to do damage.
+3. **Stay 6 meters behind your tank.** The Spirit Lantern has a reach of roughly a screen and a half from her body. She does not need to be in melee range of anything. Any Zhuxin standing on her tank's shoulder is voluntarily moving into the kill range of the enemy's assassin for no reason.
+
+One conditional edge case: if your support is Estes or Angela, you get to channel from 2 meters closer because the heal or shield buys back the mistake. If your support is Diggie or Rafaela, you do not get that luxury and the 6-meter rule becomes 8 meters.
+
+### Itemization: 3 locked slots plus 3 real conversations
+
+Slot 1 is **Enchanted Talisman**, Slot 2 is **Lightning Truncheon**, Slot 3 is magic-regen boots. Those are not negotiable. Everything after that depends on the matchup.
+
+- **Slot 4 against high-magic-resist fronts (Esmeralda, Gloo, Hylos, Edith): [Divine Glaive](/items/divine-glaive).** The scaling magic pen matters more against stacked MD than raw Magic Power does, because her channel ticks are already small individually; they need to land as true-ish damage per tick, not big damage per tick.
+- **Slot 4 against burst comps (Eudora, Aurora, Saber): [Clock of Destiny](/items/clock-of-destiny).** The 400 HP plus stacking Hybrid Defense plus the under-50%-HP recovery passive is what lets her survive the one window where the enemy burst lands while she is mid-channel.
+- **Slot 5 is [Genius Wand](/items/genius-wand).** The 5% movespeed plus the magic defense shred from the passive is specifically designed for hero kits like hers that deal repeated ticks; by the third tick on a target the shred has already dropped their MR by 9 plus hero-level scaling.
+- **Slot 6 is the real conversation.** Default is [Blood Wings](/items/blood-wings) for the 800-plus shield and the raw Magic Power. Substitute [Holy Crystal](/items/holy-crystal) only when your front line is so good that she is never being touched, because Holy Crystal has zero defense. In practice, Blood Wings is correct in 80% of games.
+
+One thing worth calling out: Zhuxin does not want [Ice Queen Wand](/items/ice-queen-wand) even though it slows. The slow from S1 plus the CC from S2 is already more slow than her kit can use; you want the item slot spent on throughput, not more slow.
+
+### Mistakes that lose Zhuxin games
+
+1. **Channeling S2 before your tank engages.** The channel has a loud audio cue and a giant red AOE circle. If Zhuxin opens before the Tigreal flicker-ult, every enemy in the circle simply steps out of it and the channel is wasted. Her kit is a payoff, not an engage. Wait for the initiation, then channel into the CC chain that has already been started.
+2. **Holding S2 until 10 stacks in every situation.** 10 stacks is the ideal, but if a Lancelot is 0.5 seconds from your face and you are at 7 stacks on him, release early. 7 stacks does no airborne, but the release still throws him 4 meters backward with damage. A 7-stack release that stays alive is better than a 10-stack release that dies mid-channel.
+3. **Using Crimson Beacon to chase a single low-HP target.** Her ult is a full teamfight tool on a long cooldown. Using it to last-hit a Hayabusa who escaped at 200 HP is throwing away the only repositioning tool she has for the next minute. If the kill is not worth the cooldown, it is not worth the ult.
+4. **Not taking Flicker.** Some guides list Sprint as an alternative. It is not. Zhuxin's weakness is being caught mid-channel, and Flicker's instant blink through walls is the only tool in the battle-spell pool that gets her out from under a Lancelot or Fanny. Sprint does not clear a dash, Flicker does. Take Flicker on every single game.
+5. **Picking her when your team has no tank.** Zhuxin without a front line is a 4-second channel bar being handed to a dive comp gift-wrapped. The team composition test should be the first thing checked at the draft screen, not the last.
+
+### Key tips
+
+> [!TIP]
+> When channeling S2 near jungle walls, pilot the Spirit Lantern *through* the wall. The lantern ignores terrain, but enemies trying to close on Zhuxin do not. Channeling with a wall between her body and the target buys an extra 1-2 seconds of stacks on anyone forced to path around.
+
+> [!NOTE]
+> The Crimson Butterflies passive refunds mana from the total Mana spent channeling, not from the stacks applied. This means an interrupted channel that only hit 2 stacks still refunds butterflies based on the full 1-second worth of mana ticks consumed. Channel fearlessly on objectives even if no one is in range; the mana cost is not wasted.
+
+> [!TIP]
+> Crimson Beacon's field follows Zhuxin after the blink. Walking *while the field is active* drags the damage zone through multiple enemies rather than parking it. The field is a DPS tool you are moving, not a DoT you are standing in.
+
+> [!WARNING]
+> Any hero with a purify dispel (Khufra S1 airborne immunity, Martis Mortal Coil CC immunity, Saber ult untargetable, Chronowalk on Fredrinn) will walk out of a 10-stack release with zero damage taken. Do not count on the airborne in your combo plan against those picks; plan the fight around throwing them out of position instead.
+
+## Skills
+
+### Crimson Butterflies (Passive)
+
+Every time Zhuxin channels Lantern Flare, she converts the Mana spent into up to 15 Crimson Butterflies to follow her Spirit Lantern. After Zhuxin stops channeling Lantern Flare, the Crimson Butterflies will gradually disappear, each restoring 5% of her Max Mana. Zhuxin has a naturally high base Max Mana, but it doesn't scale with her level.
+
+### Fluttering Grace (Skill 1)
+
+Zhuxin deals 150 (+30% Total Magic Power) Magic Damage to all enemies in a fan-shaped area and applies 1 stack(s) of Soul Snare. Zhuxin also slows all enemy heroes hit by 20% and gains 20% of extra Movement Speed herself for 1.5s.
+
+### Lantern Flare (Skill 2)
+
+Hold: Hold the skill button to move the Spirit Lantern. It deals 35 (+30% Total Magic Power) Magic Damage to all enemies in range every 0.33s (Magic Bonus increases to 60% against minions) and applies Soul Snare to enemy heroes hit. When an enemy hero reaches 10 stacks of Soul Snare, the Crimson Butterflies capture them, pulling them airborne for 1s. Release: Throw all captured enemies to the target location, dealing 200 (+150% Total Magic Power) (+ 10% captured target's Max HP) Magic Damage to all enemies in the area. If an enemy is hit multiple times, subsequent damage decays by 80%. After a target is captured, Soul Snare cannot stack on them again for 4s. During this time, this skill deals 15% extra damage to that target.
+
+### Crimson Beacon (Ultimate)
+
+Zhuxin blinks to the target location, gaining a 400 (+100% Total Magic Power) shield and creating a field for 6s. The field deals 30 (+10% Total Magic Power) Magic Damage and applies 1 stack of Soul Snare to nearby enemies every 0.5s.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- LANING COMBOS (laning): In the laning phase, use Zhuxin's 1st Skill to slow the opponent and increase her own Movement Speed, then use her 2nd Skill from a safe position and try to hit the Minions and the opponent at the same time to both poke and clear the lane. Once the enemy has enough stacks, throw them into the Minions for additional damage.
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Zhuxin's Ultimate to blink into a good position, then follow up with her 1st Skill to slow the enemy team and use her 2nd Skill to build stacks at a safe distance. Try to capture as many enemies as possible with her 2nd Skill, then throw them out of position while also grouping them up.
+
+## Counters to Zhuxin (pick these against Zhuxin)
+
+- Dyrroth (Fighter): +2.5 pp edge. Dyrroth's durability and kit give them a strong matchup advantage against Zhuxin throughout the game.
+- Arlott (Fighter/Assassin): +2.4 pp edge. Arlott's durability and kit give them a strong matchup advantage against Zhuxin throughout the game.
+- Aurora (Mage): +2.3 pp edge. Aurora has a statistical edge over Zhuxin based on ranked matchup data. Pick Aurora to gain an advantage in draft.
+- Odette (Mage): +2.3 pp edge. Odette has a statistical edge over Zhuxin based on ranked matchup data. Pick Odette to gain an advantage in draft.
+- Saber (Assassin): +2.3 pp edge. Like most Mages, Zhuxin is countered by heroes with high mobility and burst, such as Fanny and Saber, who can quickly take her down.
+- Luo Yi (Mage): +2.2 pp edge. Across Zhuxin's measured matchups, Zhuxin is weakest once matches pass 16 minutes. Take the game long with Luo Yi.
+
+## Heroes Zhuxin beats
+
+- Lolita (Support/Tank): +6.4 pp edge for Zhuxin.
+- Khufra (Tank): +3.8 pp edge for Zhuxin.
+- Hylos (Tank): +3.7 pp edge for Zhuxin.
+- Gloo (Tank): +3.4 pp edge for Zhuxin.
+- Lukas (Fighter): +3.2 pp edge for Zhuxin.
+- Minotaur (Tank/Support): +2.9 pp edge for Zhuxin.
+- Johnson (Tank/Support): +2.8 pp edge for Zhuxin.
+- Leomord (Fighter): +2.6 pp edge for Zhuxin.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/zhuxin.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Control Default (Mid)
+
+- Items: Demon Boots, Clock of Destiny, Ice Queen Wand, Glowing Wand, Wishing Lantern, Divine Glaive
+- Core: Clock of Destiny, Ice Queen Wand, Wishing Lantern
+- Emblem: Mage Emblem with Agility, Bargain Hunter, Impure Rage
+- Battle spell: Flicker
+- Flex: Magic Boots over Demon Boots when Use when lane control is stable enough that cooldown tempo matters more than extra mana recovery.; Genius Wand over Glowing Wand when Use when your team has multiple magic damage sources and stacked Magic Defense reduction beats anti-sustain burn.; Blood Wings over Divine Glaive when Use when enemies are not buying heavy Magic Defense and the last slot needs shielded repositioning instead of penetration.
+- Total cost: 11060 gold
+
+Default ranked mid build for mana stability, slow stacking, repeated Soul Snare captures, and late penetration into front-to-back fights.
+
+### Frontline Lantern Damage (Mid)
+
+- Items: Demon Boots, Clock of Destiny, Glowing Wand, Ice Queen Wand, Wishing Lantern, Holy Crystal
+- Core: Clock of Destiny, Glowing Wand, Wishing Lantern
+- Emblem: Mage Emblem with Agility, Bargain Hunter, Impure Rage
+- Battle spell: Sprint
+- Flex: Divine Glaive over Holy Crystal when Use when enemy frontliners have enough Magic Defense that raw Magic Power no longer converts into real damage.; Genius Wand over Holy Crystal when Use when low-to-mid Magic Defense targets are being hit repeatedly by Lantern Flare and allied magic damage.; Winter Crown over Holy Crystal when Use when Zhuxin can carry the fight only if she survives one committed dive after the control core is online.
+- Total cost: 12090 gold
+
+Damage-forward setup for durable enemy drafts that must walk through repeated burn, slow, Soul Snare stacking, and Wishing Lantern triggers.
+
+### Anti-Dive Utility (Mid)
+
+- Items: Tough Boots, Clock of Destiny, Glowing Wand, Brute Force Breastplate, Winter Crown, Divine Glaive
+- Core: Clock of Destiny, Glowing Wand, Brute Force Breastplate
+- Emblem: Mage Emblem with Agility, Pull Yourself Together, Impure Rage
+- Battle spell: Purify
+- Flex: Ice Queen Wand over Brute Force Breastplate when Use when melee divers can be kited and extra slow control is worth more than physical durability.; Athena's Shield over Brute Force Breastplate when Use against magic burst that can force Zhuxin out before Lantern Flare stacks enough Soul Snare.; Immortality over Divine Glaive when Use when late fights are decided by surviving the first pick attempt rather than piercing a tank line.
+- Total cost: 10530 gold
+
+Defensive utility build for assassin, chain-control, or hard-engage games where Zhuxin must live through the first commit before controlling the fight.
+
+All builds for this hero: https://mlbbhub.com/builds/zhuxin.
+
+## Synergies
+
+- Cici: Zhuxin can provide great damage and CC, but she can't realize her potential until later in the game, so heroes with CC can help Zhuxin get through the early period. Zhuxin also works well with sustained damage heroes like Belerick, Kimmy, and Cici to dish out a surprising amount of damage.
+- Kimmy: Zhuxin can provide great damage and CC, but she can't realize her potential until later in the game, so heroes with CC can help Zhuxin get through the early period. Zhuxin also works well with sustained damage heroes like Belerick, Kimmy, and Cici to dish out a surprising amount of damage.
+- Belerick: Zhuxin can provide great damage and CC, but she can't realize her potential until later in the game, so heroes with CC can help Zhuxin get through the early period. Zhuxin also works well with sustained damage heroes like Belerick, Kimmy, and Cici to dish out a surprising amount of damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

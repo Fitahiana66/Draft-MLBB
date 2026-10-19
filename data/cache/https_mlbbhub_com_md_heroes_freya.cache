@@ -1,0 +1,209 @@
+# Freya, Valkyrie
+
+> Freya after the November 2025 rework is a different hero. The 6 Sacred Orb system turned her from a "spam skills for attack speed" duelist into a resource manager: stock orbs before the fight, burn them during Valkyrie state, run dry and you are a melee bruiser with no escape. Patch 2.1.88 shortened the Valkyrie window from 12 to 10 seconds and raised the cooldown, so the cost of wasting orbs or mistiming the dive is higher than ever ([patch notes](/patch-notes)).
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP, Jungle
+- Also played (MLBBHub editorial, not Moonton's listed lane): Gold
+- Specialty: Chase, Damage
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.08%
+- Pick rate: 0.70%
+- Ban rate: 1.90%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/freya
+
+## Guide
+
+### Is Freya the right lock for this draft?
+
+Freya wants three conditions on the board at the same time, and if any one of them is missing she trends toward a coin flip:
+
+1. **Your team has a primary engage** (Franco, Tigreal, Atlas, Khufra). Freya's S1 is a short leap, not a true engage. She wants to follow someone in after their CC lands, burn 6 orbs of ranged splash basics, and leave. If you are her only frontline, enemies just kite her until Valkyrie state expires.
+2. **The enemy draft has a squishy backline without hard displacement**. Lolita, Estes, Mathilda, a support-less Miya. Freya's ranged splash basics during ult delete heroes who cannot peel her off once she lands on top of them.
+3. **The enemy does not have Phoveus, Minsitthar, Franco, or Masha**. These four are not "respect them" counters. They are "she loses the game" counters, for reasons section 7 walks through.
+
+The disqualifying test: if the enemy has already locked Phoveus or Minsitthar, do not pick her. Neither counter is soft. Phoveus's Astaros' Gaze passive reduces his cooldowns every time you press S1, and Minsitthar's King's Calling zone disables your S1 and S2 outright. These are mechanical hard-locks, not skill matchups you can out-play.
+
+Good drafts to pair her with: Franco + Chang'e + Freya + Karrie + Estes (two frontline, one melts, one peels). Bad drafts: any composition where Freya is the lane bully and primary initiator at the same time.
+
+### The one thing that makes Freya work
+
+Freya is a meter that refills with basic attacks. Everything in her kit is downstream of that meter.
+
+The Power of Einherjar passive caps at 6 Sacred Orbs. Every basic attack generates one, and orbs regenerate slowly out of combat. Consuming one grants 100% attack speed on her next basic (a fully-stacked orb bar is roughly 1.5 seconds of uninterrupted empowered autos). Valkyrie Slash has no base cooldown at all but consumes 2 orbs per cast. Her ultimate dives onto a target area with Control Immunity, slows everyone in the landing path, and enters a 10-second Valkyrie state with ranged splash basics that deal bonus damage and recover HP.
+
+This is why she feels broken when she is strong and griefable when she is weak. If you walk into a fight with 6 orbs and ult ready, you are a melee hero who throws two S2 dashes and then unloads ten seconds of ranged splash autos that heal on every hit. If you walk in with 0 orbs, you are a bruiser with a jump-in shield and no damage amplifier. The gap between those two states is the entire hero.
+
+The rework's stated goal was fixing the "spam S2 to buff attack speed" problem. It succeeded. The new problem is that players treat the orb bar like mana (infinite) instead of like a charge counter (6, use carefully). Auto a jungle camp for 3 seconds before rotating to lane. That's the whole identity.
+
+### Laning: the first five minutes
+
+1. **Open with S1 at level 1 in the EXP lane**, S2 first if you are jungle. The skill upgrade priority for EXP is 3-2-1 (ult > S2 > S1), but level 1 S1 wins trades harder than level 1 S2 because the shield absorbs minion aggro and the airborne knock locks in your damage.
+2. **Stack the orb bar before the wave arrives.** Basic-attack the first minion wave fully to enter the meeting at 6 orbs. If your opponent is Paquito or Yu Zhong, do not trade without a full bar. A 6-orb empowered S2 into basic chain is roughly 40% of their HP at level 4; an empty-bar S2 is a tickle.
+3. **Burn Flicker over Retribution in EXP lane.** The old editorial recommended Retribution. Wrong for EXP Freya. Flicker is the gap-closer she does not have in her base kit: her S1 is telegraphed and dodgeable, her S2 needs orbs. Flicker-S1 is the actual engage. Keep Retribution for the jungle role only.
+
+The level 4 all-in is the first real power window. 6 orbs, rank 2 S1 up, ult just off cooldown. Walk into minion aggro, Flicker on top of them, S1 to knock airborne, S2 twice to dump orbs (burns 4 of 6), basic attack twice more for the last two orbs, then walk out. This kills most EXP laners without an escape skill and forces a recall from anyone with a dash.
+
+### The power spike you are farming toward
+
+Freya's spike is **War Axe plus attack-speed boots at around the 6-to-8 minute mark**, not a two-item damage spike like most fighters.
+
+War Axe's Fighting Spirit passive grants 12 extra Physical Attack per second for 4 seconds, stacking up to 6 times, with a 10% true damage bonus at full stacks. Freya stacks it faster than almost any other hero in the game because her ranged splash basics during Valkyrie state each count as separate attack instances. A full 6-stack proc on ult against a 5-man huddle applies true damage to everyone in the splash radius. This is the specific mechanical reason War Axe is non-negotiable on her: no other second item compounds her ult like it does.
+
+What changes at that spike: pre-War Axe, you have to commit your ult to secure a single kill. Post-War Axe, you cast ult on the front of a teamfight and three enemies take meaningful true-damage bleed for the full 10 seconds, not just your primary target. You stop needing to pick the right ult target and start just picking the most central one.
+
+Patch 2.1.88 raised the cooldown to 44-28 seconds (still starting after cast, not on cast), up from the 34-26 established in the 2.1.40 buff. At max rank, a 10-second active window plus 28 seconds of downtime gives you roughly 1.5 Valkyrie cycles per minute in the mid-game. Plan your objectives around those windows: turtle timing, lord timing, third-rotation ganks. If your ult is on cooldown, your job is split-push and wave-clear, not skirmish.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a stacked teamfight is to ult into the middle of it. That reflex is wrong more often than it is right.
+
+1. **Land ult behind the enemy frontline, not on top of it.** The dive slow on the landing path and the ranged splash basics are meant to deny the enemy backline from repositioning. If you land on the tank, the marksman just walks backward and you auto-attack a Khufra for 10 seconds. Aim for the gap behind their Gloo, between Clint and the wall.
+2. **Do not S1 to engage once you are in Valkyrie state.** S1 breaks the Valkyrie animation and you lose roughly 1.5 seconds of ranged splash basics. Save S1 for the moment their support dashes in to peel. You want the knock-airborne on the Estes, not on the tank you already landed next to.
+3. **Track your orb count during the ult.** Valkyrie state does not pause the passive. You are still spending orbs on S2, and you can still auto yourself to 0 orbs if you mash. The 100% attack speed buff from orb consumption during Valkyrie is the highest single damage moment in the kit. If you are about to execute a low-HP target, hold your next S2 so the orb-empowered basic lands first.
+
+Support-conditional edge case: if your support is Estes, you can push your ult landing spot 2-3 body-lengths deeper because his regen partially covers Freya's reduced sustain in Valkyrie state. If your support is Diggie or Mathilda, you do not get that depth. Land on the frontline edge instead of deep.
+
+### Itemization: two locked slots plus three real conversations
+
+Locked slots: **War Axe** and **Immortality**. Build them in every game, in that order, with War Axe first. The 220-1200 shield scale on Immortality respawn plus the 16% Max HP regen is mathematically worth more on Freya than on most fighters because her re-engage tool is her ult cooldown, which refreshes while dead.
+
+Flex slot 1, **attack-speed item**: Corrosion Scythe or Golden Staff. Corrosion gives you the slow on basics (80 extra physical damage, 8% slow, up to 5 stacks) which glues runners to you during Valkyrie state. Golden Staff's Endless Strike passive adds 80% attack speed on every third basic and extends the AS cap to 500%, which scales harder in 20+ minute games. Pick Corrosion if enemies have escape tools (Lancelot, Fanny). Pick Golden Staff if they do not and the game will go long.
+
+Flex slot 2, **second attack item**: Endless Battle or Haas's Claws. Endless Battle's Divine Justice passive triggers 60% Physical Attack as true damage on the first basic after a skill cast; Freya casts a skill every 1-2 seconds during Valkyrie state, so this passive fires roughly 6-8 times per ult. Haas's Claws is the crit-build path (20% crit, 15% AS, Frenzy stacks 20% AS on crits): pick it only if you are also running Golden Staff for the crit-to-AS conversion.
+
+Flex slot 3, **defensive**: Brute Force Breastplate if they have two or more physical threats; Oracle or Radiant Armor if they have two magic threats. Avoid stacking pure defense (Dominance Ice on Freya is a beginner trap: it is straight Physical and Magic Defense with no attack stats, and her kit's shield and Valkyrie-state healing already cover the survive-and-swing fantasy).
+
+Stacking conflict to know: **Corrosion Scythe and Feather of Heaven share the Impulse passive, which does not stack between items**. Never buy both. A common mistake is adding Feather on top of Corrosion expecting attack-speed compounding; you are paying 2000g for a 30% attack-speed boost that overwrites the one you already have.
+
+Boots: **Warrior Boots** (+18 physical defense, Valor passive for stacking defense under fire) for most games. **Swift Boots** only if you are ahead and split-pushing. Never Tough Boots; the dive's Control Immunity plus her own shield means raw magic defense is a worse return than movement speed.
+
+The weakest common default is **Blade of Despair**. It is the cargo-cult fighter item: +160 physical attack looks huge on paper, but Despair's passive only activates under 50% HP, which is the window Freya's enemies are usually already dead or disengaged. Build it fifth at earliest, and only if the game is over 20 minutes and you are ahead.
+
+### Mistakes that lose Freya games
+
+**Ulting Phoveus because he has low HP.** Every skill you cast near Phoveus reduces his cooldowns through Astaros' Gaze. Your S1 leap, your ult dive, even your S2 charge, all feed his CDR. When you ult him, you trigger his Infernal Pursuit counter-ult (Judgment), which smashes you for bonus damage scaled to your Max HP and heals him a slice of his missing health. The correct play against Phoveus is to **never initiate**. Let your tank engage, ult the enemy marksman instead, and ignore Phoveus entirely unless you have more than 50% HP advantage.
+
+**Engaging Minsitthar's ult zone.** King's Calling prevents movement skills for enemies inside the field. Freya's S1 and S2 are both movement skills. Inside his ult, you have 0 escape, 0 engage, and 0 gap-close. If you see Minsitthar ult, walk sideways out of the zone before casting anything. If he ults on top of your ult landing spot, your 10-second Valkyrie state becomes 10 seconds of basic-attacking royal guards.
+
+**Spending all 6 orbs to clear a wave 10 seconds before a teamfight.** The orb regen out of combat is slow. If you push a wave with 3 S2 casts (burning all 6 orbs) and your team engages at the Lord pit 10 seconds later, you arrive with an empty bar and no attack-speed empowerment. Keep 4 orbs in reserve whenever you see enemies missing on the minimap.
+
+**S1 as a dodge tool.** The leap looks like Chou's Jump Kick or Hayabusa's Quad Shadow. It is not. It is an 8-second cooldown CC tool, not an evasion. Using it to avoid a Franco hook that is already airborne does nothing (the hook tracks through the leap). Using it to engage before your damage is stacked burns the cooldown and leaves you stuck in melee with no follow-up.
+
+**Buying Retribution in EXP lane.** The old community build pattern pushed Retribution for "jungle flexibility." In the current patch, Freya is a 2-difficulty EXP/jungle hero with a clear lane identity. EXP Freya runs Flicker. Jungle Freya runs Retribution. Mixing them costs you the mode advantage of whichever lane you ended up in.
+
+### Key tips
+
+> [!TIP]
+> **Fighter Emblem with Brave Smite core is non-negotiable.** The Core talent heals 5% Max HP on skill damage with a 6-second cooldown. Freya casts damage-dealing skills every 2-3 seconds in a fight, so Brave Smite procs twice per Valkyrie window, partially replacing the HP regen the 2.1.61 patch took out of her ult.
+
+> [!NOTE]
+> **Freya's ult is castable during animations other heroes cannot act through.** You can cancel the end-lag of a basic attack by queuing ult instantly. This is roughly a 0.3-second cast-speed gain per fight opener and the single easiest mechanical improvement for new Freya players.
+
+> [!TIP]
+> **Her best matchups are heroes who need a full rotation to escape.** Against Harith, Kagura, and Yve (all heroes with dash-dependent kits), the live matchup data is genuinely in her favor: you can S1 into them before they have blink charges stacked, and a full bar of empowered basics kills them before their dash is back.
+
+> [!WARNING]
+> **Patch 2.1.88 cut the Valkyrie window from 12 to 10 seconds and raised the cooldown from 34-26s to 44-28s.** You have less damage output per ult and a longer wait between windows. The sustain nerfs from 2.1.61 (HP regen 60-120 down to 40-80) are still in effect on top of this. Do not play Freya as a face-tank: commit only when you can reach the backline cleanly and exit before the window runs out.
+
+> [!NOTE]
+> **The 3-2-1 skill order (Ultimate > S2 > S1) is correct for EXP lane, not jungle.** In jungle, run 2-3-1 to keep clear speed through S2 orb dumps before your first ult unlocks. Check which role you are before locking in level-up order.
+
+## Skills
+
+### Power of Einherjar (Passive)
+
+Freya gains 1 Sacred Orb with each Basic Attack (up to 6 Sacred Orbs). Consuming 1 Sacred Orb grants Freya 100% Attack Speed for her next Basic Attack (up to 6 stacks). While out of combat, Sacred Orbs regenerate gradually.
+
+### Leap of Faith (Skill 1)
+
+Freya leaps to the target area and strikes the ground with her shield, gaining 500 (+100% Total Physical Attack) shield and dealing 200 (+80% Extra Physical Attack) Physical Damage to enemies within while knocking them airborne for 0.4s.
+
+### Valkyrie Slash (Skill 2)
+
+Freya charges forward and slashes, dealing 150 (+50% Total Physical Attack) Physical Damage and slowing enemies by 30% for 0.5s. This skill has no base cooldown but consumes 2 Sacred Orbs per cast. It deals 50% damage to creeps.
+
+### Valkyrie Descent (Ultimate)
+
+Freya selects a target area and dives down as a Sacred Orb (gaining Control Immunity), dealing 300 (+75% Total Physical Attack) Physical Damage and 40% slow to enemies in her path and at the landing point for 2s. Upon landing, Freya enters the Valkyrie state for 10s, during which her Basic Attacks deal 30 extra damage (extra damage cannot Crit), she recovers 40 (+40% Total Physical Attack) HP per Basic Attack, and her Basic Attacks deal splash damage.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Use Freya's Ultimate to dive the enemy backline and start dealing Splash Damage. Use her 1st Skill to CC enemies and shield herself, then alternate between her 2nd Skill and AoE Basic Attacks to bring them down.
+- LANING COMBOS (laning): Use Freya's 1st Skill to close the gap on enemies and knock them Airborne while giving herself a shield. Use her 2nd Skill once followed by 2 enhanced Basic Attacks to make use of the Attack Speed bonus and generate more Sacred Orbs from her Passive.
+
+## Counters to Freya (pick these against Freya)
+
+- Phoveus (Fighter): +4.9 pp edge. However, all of Freya's skills have movement components, making her vulnerable to Phoveus's unique counter. Using her skills near Phoveus will allow him to quickly gain energy for his enhanced Basic Attacks. Freya is vulnerable to CC and movement-disabling effects, so Minsitthar and Obsidia's Ultimates can lock her down completely.
+- Minsitthar (Fighter): +4.7 pp edge. Minsitthar's CC abilities disrupt Freya's aggressive playstyle, preventing clean dives and resets.
+- Edith (Tank/Marksman): +1.8 pp edge. Edith's durability and kit give them a strong matchup advantage against Freya throughout the game.
+- Franco (Tank): +1.8 pp edge. Franco's durability and kit give them a strong matchup advantage against Freya throughout the game.
+- Esmeralda (Tank/Mage): +1.7 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Freya throughout the game.
+
+## Heroes Freya beats
+
+- Lolita (Support/Tank): +2.6 pp edge for Freya.
+- Masha (Fighter/Tank): +2.6 pp edge for Freya.
+- Yve (Mage): +2.5 pp edge for Freya.
+- Ling (Assassin): +2.2 pp edge for Freya.
+- Mathilda (Support/Assassin): +1.8 pp edge for Freya.
+- Kagura (Mage): +1.7 pp edge for Freya.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/freya.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Inspire Duelist (EXP)
+
+- Items: Tough Boots, Corrosion Scythe, Berserker's Fury, Endless Battle, Malefic Roar, Immortality
+- Core: Corrosion Scythe, Berserker's Fury, Endless Battle
+- Emblem: Assassin Emblem with Fatal, Weapon Master, War Cry
+- Battle spell: Inspire
+- Flex: Great Dragon Spear over Malefic Roar when Use when enemy armor is low and you need the post-ultimate movement speed to keep targets inside Valkyrie range.; Sea Halberd over Malefic Roar when Use against shield supports, healing EXP laners, or high-extra-HP frontliners before they finish two defense items.; Rose Gold Meteor over Immortality when Use against magic burst that hits before Immortality can convert into a useful second life.
+- Total cost: 11650 gold
+
+Default EXP lane setup for winning extended melee trades with Inspire, Corrosion Scythe uptime, and crit-backed basic attacks.
+
+### Jungle Tempo Cleanup (Jungle)
+
+- Items: Tough Boots, Corrosion Scythe, Sky Piercer, Endless Battle, Malefic Gun, Sea Halberd
+- Core: Corrosion Scythe, Sky Piercer, Endless Battle
+- Emblem: Assassin Emblem with Thrill, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: War Axe over Sky Piercer when Use when the early snowball is not secure and you need steadier stats for Turtle and Lord fights.; Malefic Roar over Malefic Gun when Use when the main targets already have high Physical Defense and extra range is less important than armor conversion.; Immortality over Sea Halberd when Use before late Lord fights when one failed dive would give away the map.
+- Total cost: 10750 gold
+
+Jungle Freya build for fast ganks, Ice Retribution chase control, and cleanup pressure after Corrosion Scythe starts sticking targets.
+
+### EXP Anti-Burst Bruiser (EXP)
+
+- Items: Tough Boots, Corrosion Scythe, War Axe, Queen's Wings, Oracle, Immortality
+- Core: Corrosion Scythe, War Axe, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Antique Cuirass over Oracle when Use against physical skill burst that reaches you before Oracle's shield and regen amp can matter.; Dominance Ice over Oracle when Use when an attack-speed lifesteal core must hit you first in the side lane or front line.; Malefic Roar over Immortality when Use when you are surviving the first engage but cannot finish armor-stacking frontliners.
+- Total cost: 11080 gold
+
+Defensive EXP setup for drafts where Freya must enter second, absorb the first burst window, and keep fighting through Valkyrie healing.
+
+All builds for this hero: https://mlbbhub.com/builds/freya.
+
+## Synergies
+
+- Belerick: In order for Freya to maximize her damage, she prefers heroes with CC like Belerick and Gatotkaca to lock down the enemy for her.
+- Gatotkaca: In order for Freya to maximize her damage, she prefers heroes with CC like Belerick and Gatotkaca to lock down the enemy for her.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

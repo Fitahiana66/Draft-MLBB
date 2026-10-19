@@ -1,0 +1,218 @@
+# Faramis, Soul Binder
+
+> Faramis is a resurrection button wrapped in a mage kit. Every skill exists to get his team back into a fight they should have lost, and the player's only real job is casting Nether Realm at the exact moment the teamfight is about to collapse. Draft him when your team groups; bench him when they do not.
+
+## Snapshot
+
+- Role: Support, Mage
+- Lane: Mid
+- Specialty: Guard, Charge
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 51.09%
+- Pick rate: 0.09%
+- Ban rate: 0.29%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/faramis
+
+## Guide
+
+### When the Faramis pick is right, and when it's a trap
+
+Faramis is a teamfight-only hero. He has no split-push, no side-lane contest, no solo duel threat. His entire value is a Specter state that lets four allies survive a lost fight and cast a second one with full HP bars. That ability only exists when the team is grouped inside a radius centered on Faramis. Stack that radius wrong and he casts a buff on himself.
+
+Lock Faramis when:
+
+1. Your team has a dive tank (Tigreal, Atlas, Khufra) plus a burst mage or carry who can convert a revived teammate into a kill chain.
+2. The enemy drafts an aggressive early-game composition that wants to fight around Turtle and Lord. Nether Realm punishes forced engages hardest when both teams commit to the same objective.
+3. Your comp needs anti-burst. The Specter HP buffer absorbs Eudora combos and assassin ult windows that would otherwise one-shot your carry.
+
+Bench Faramis when:
+
+1. Your team drafts split-push (Ling, Fanny, Harith). Faramis has no lane presence to enable side lanes and no solo threat to punish rotations.
+2. The enemy has Yin, Valentina, or Franco. The first two delete Nether Realm's teamfight window entirely; the third suppresses Faramis mid-cast.
+3. You are in solo queue brackets where teammates scatter. Four low-HP allies spread across the map cannot be saved by a fixed-radius zone.
+
+Test: name a 20-minute teamfight your draft wants to win at Lord pit with five bodies stacked. If you cannot name one, Faramis is the wrong pick. He is a comp-dependent hero, not a fill hero.
+
+### The one thing that makes Faramis work
+
+Faramis is not a mage and he is not a support in the normal sense. He is a second life with a cooldown. Every part of his kit bends toward keeping teammates vertical long enough for his ultimate to come back up.
+
+The passive is the quietest form of this. Vicious Retrieval drops soul fragments when Faramis's skills hit enemy heroes and summoned objects, and each absorbed fragment restores HP and banks permanent Magic Power toward a stack cap. Fully stacked that is a chunk of bonus Magic Power on an item slot he did not spend. More importantly, a full stack reduces his own respawn timer on death. Faramis is the only hero in the game whose death on a bad trade is a macro advantage.
+
+Shadow Stampede is a front-line delivery system. The movement speed burst plus terrain walk is how he arrives at the teamfight; the Nether Mark pull is how he glues the enemy together so Ghost Bursters can chain through three bodies at once. The skill looks like it is doing four things at once (closing distance, marking targets, grouping them, and then pulling them), but the real point is positioning Faramis dead-center in the next teamfight where the Nether Realm radius catches every ally.
+
+Ghost Bursters is the only skill that looks like raw damage, and even it is a stacking vehicle. Each hero hit bounces to two more, which means one cast into a grouped fight generates fragments against multiple targets at once.
+
+Nether Realm is the payoff. A Specter state with extra HP that scales with Magic Power, and a short Resurrection window when the buffer breaks. That window is the trick. It is not a guaranteed revive; the teammate who gets resurrected still dies if the fight is unwinnable. Faramis does not save teammates who should not have been in the fight. He saves teammates who were about to die in a fight they were about to win.
+
+### Laning: the first 6 minutes
+
+Faramis almost always roams. If you are locked into mid, clear waves with Ghost Bursters fanning through the minion stack and rotate as soon as the first tower trade opens up.
+
+1. **Take Shadow Stampede at level 1, Ghost Bursters at level 2.** S1 first gives you a level-1 gank tool: walk through the tri-bush wall at 0:20, tag whichever enemy is pushed up, and release the pull into your laner's combo. The movement speed burst beats most invade chases.
+2. **Stack soul fragments off enemy heroes, not minions.** The passive generates fragments only against enemy heroes and summoned objects, so the reliable early source is tagging the enemy mid or jungler with S1 during a rotation. By the 3-minute mark you should have 4 to 6 stacks from rotations alone, plus whatever drops off kills in your lane.
+3. **Default to Purify on the roam variant, not Flicker.** Against any draft with Franco, Silvanna, or Yin, Purify's Control Immunity is the answer to stuns and restrains that would cancel your ultimate mid-cast. Flicker repositions; it does not cleanse. Save Flicker for the mid-lane variant where escape matters more than cleanse.
+
+By the 4-minute mark you should have 6 to 10 soul stacks and one rotation-kill participation. If you have neither, you played the passive wrong.
+
+### The power spike you are farming toward
+
+Faramis's power spike is Enchanted Talisman plus Fleeting Time around the 9 to 11 minute mark.
+
+Enchanted Talisman solves the mana wall that nerfs built into his kit. A full rotation plus ultimate drains most of his pool at level 6, and the item's Max Mana regen every 10 seconds plus its CDR turns one full rotation from "I am dry until I recall" into "I can cast again in 9 seconds."
+
+Fleeting Time is the bigger flip. Its Timestream passive cuts 30% off Nether Realm's current cooldown on every kill or assist, which is a huge refund on an ultimate with a long base cooldown. Two assists inside the first minute after casting can cut the effective recast roughly in half. That is the difference between one teamfight save per Turtle fight and two.
+
+After this two-item spike Faramis can contest Turtle, save his team if the fight goes sideways, and rotate to mid or side lane with enough ult uptime to threaten another engage. Before this spike he is a single-fight cooldown on a body with no escape.
+
+### Teamfight positioning and target priority
+
+The reflex when Nether Realm is off cooldown is to cast it the moment the first ally drops below half HP. That reflex is wrong.
+
+1. **Cast Nether Realm when the second-lowest ally is below 30% HP, not the first.** A single dying teammate is an acceptable loss if the fight is winnable without them. Two low allies means the fight is about to collapse, which is the moment the Specter buffer actually converts a loss into a win instead of wasting the window on a solo death.
+2. **Your position at the moment of cast is the fixed center of the zone. Stand where you want the fight to happen, not where it currently is.** If your carry is fleeing backward, cast Nether Realm between her and the enemy so the Specter state keeps her alive during the retreat. If your dive tank is mid-commit onto a squishy, cast forward of the tank so the kill chase gets the resurrection buffer.
+3. **Do not chain Shadow Stampede immediately after Nether Realm.** The ultimate does not cleanse you, and leaving the zone on S1 strips Specter state off every ally who was tethered to your body instead of your cast location. Walk, do not dash, for the first 2 seconds after cast.
+
+If your support is Estes or Angela, you can cast Nether Realm earlier (their heals amplify on top of the Specter buffer) and commit further forward. If your support is Diggie or Rafaela, cast later and stay behind the tank line.
+
+### Itemization: defaults vs flex slots
+
+Two locked slots, four real conversations.
+
+Locked: **Enchanted Talisman** (mana and CDR) and **Fleeting Time** (ultimate reset). Skipping either of these breaks Faramis at the two-item spike. Both also rush cleanly: start Arcane Boots into Talisman, then build into Fleeting Time.
+
+Flex slot 1 is damage versus utility. **Lightning Truncheon** is the damage answer: its Resonate passive fires off a 120% Magic Power bounce across up to 3 enemies every 6 seconds, which pairs cleanly with Ghost Bursters' native splits. If the comp does not need that, skip Truncheon for **Oracle** instead. Oracle's Bless passive increases received shield and HP regen effects by 25%, which stacks on top of Nether Realm's Specter buffer. On a team built around a healer like Estes, Oracle turns Faramis into a walking HP amplifier.
+
+Flex slot 2 is the defense choice against the enemy carry. **Athena's Shield** if the burst is magic (Eudora, Lylia, Pharsa). **Antique Cuirass** if the physical damage is front-loaded (Martis, Aldous, Hayabusa). **Brute Force Breastplate** if the physical damage is sustained (Karrie, Layla, Wanwan), since the Brute Force stacks add CC reduction at max that helps against chase-down comps.
+
+Flex slot 3 is **Immortality** or a second defensive item. Immortality's revive plus Faramis's heavily reduced respawn timer at full passive stacks is the single most aggressive trade tool in the game: you die, you come back with a shield, and the follow-up respawn timer is nearly nothing. If your team cannot contest a dive, Immortality is correct. If the enemy has Karrie or anyone else stacking true damage through shields, skip it.
+
+Boot choice is **Tough Boots** when the enemy stacks CC (Khufra plus Atlas, Franco plus Silvanna) because the Fortitude passive cuts CC and slow duration by 30%. **Magic Boots** is the default when the draft is CC-light, since the extra 10% CDR accelerates the ultimate.
+
+The weakest common default is **Blood Wings** or **Holy Crystal** on a roam Faramis. The Magic Power scaling on Ghost Bursters is real, but neither item contributes to keeping teammates alive, which is the job you are paid to do. Stack raw Magic Power only on the mid-lane variant, and even then only after Enchanted Talisman and Fleeting Time.
+
+### Mistakes that lose Faramis games
+
+**Casting Nether Realm on the first low-HP ally instead of the second.** One dying teammate is not a collapsed fight. The Specter state pops off on a short resurrection that revives one player into a still-losing 4v5, and your team is now fighting without their ultimate for its long cooldown. Wait for a second ally to drop below 30%; that is when the zone actually converts a loss into a win.
+
+**Waiting the full duration of Shadow Stampede before pulling.** The skill can be manually re-activated to trigger the pull the instant the last target is marked. Holding it for the full window telegraphs the engage and lets Karrie or Wanwan walk out of the pull radius. Pull as soon as you have 2 or 3 enemies tagged; reliability beats perfection.
+
+**Forgetting the passive's generation window.** Vicious Retrieval only generates a soul fragment when a skill connects with an enemy hero, on a per-tag timer. Dumping S1 plus S2 on the same target within that window gives you one fragment, not two. Before a teamfight, top up stacks by poking the enemy backline with staggered S2 casts across different targets, not by unloading both skills into the tank.
+
+**Opening onto Franco while Bloody Hunt is up.** Iron Hook drags you into his team, but Bloody Hunt, Franco's ultimate, suppresses and cannot be cleansed. Engaging while Bloody Hunt is available means your Nether Realm gets cancelled mid-cast. Track Franco's ult timer. If Bloody Hunt is up, wait for his team to commit the ultimate elsewhere, then cast Nether Realm reactively.
+
+**Bringing Flicker into a Valentina draft.** Flicker saves Faramis the individual but not Nether Realm the teamfight tool. Valentina's "I Am You" copies your ultimate and casts it for her own team, flipping the teamfight window onto the other side. Against Valentina, the answer is tracking her ultimate timer and baiting her to copy a different skill first; a blink does not solve the core problem.
+
+### Key tips
+
+> [!TIP]
+> At a full stack of soul fragments, your respawn timer collapses. Aggressive trades at Lord fight become mathematically correct: you are back on the map while the enemy jungler is still in the death timer, and your team picks up Lord uncontested. Faramis is one of the only heroes whose death can be a macro advantage.
+
+> [!NOTE]
+> Shadow Stampede's terrain walk is not an escape tool. Using it to run away when flashed by an enemy will pull you back into the enemies you tagged during escape, since the pull fires on every marked target when Shadow state ends. Terrain walk is an engage, not a disengage.
+
+> [!TIP]
+> The Specter state ends the moment an ally walks outside the Nether Realm circle. If your carry flees the zone to "get to safety," she loses the shield buffer and dies outside. Ping the zone at cast and tell your team to hold ground inside it.
+
+> [!NOTE]
+> Nether Realm's HP buffer scales with Magic Power, so a fully-stacked Faramis who also built Lightning Truncheon turns the Specter buffer into a noticeably thicker survival window. Magic Power on Faramis scales team survival, not just his own damage.
+
+## Skills
+
+### Vicious Retrieval (Passive)
+
+When Faramis's skills deal damage to enemy heroes and summoned units, they leave behind Soul Fragments. Absorbing a Soul Fragment recovers 100 (+50% Total Magic Power) HP and grants 2 Magic Power (up to 40 stacks). Upon death, he consumes the absorbed Soul Fragments to reduce the respawn timer, each reducing the timer by 3% (up to 90%). He can gain up to 1 Soul Fragment from the same enemy hero using skills every 4s. Enemies that die around Faramis also have a chance to drop Soul Fragments.
+
+### Shadow Stampede (Skill 1)
+
+Faramis enters the Shadow state for 3s, gaining 70% Movement Speed, 25 Hybrid Defense, and 20% Cooldown Reduction of this skill. He also gains the ability to move through terrain. Enemy heroes he touches take 250 (+60% Total Magic Power) Magic Damage and are marked with a Nether Mark. Upon leaving the Shadow state, Faramis pulls all the marked enemy heroes toward him, dealing 250 (+60% Total Magic Power) Magic Damage. Use Again: Ends the Shadow state early to pull marked enemy heroes toward him. Soul Fragment absorption range is increased while this skill is active.
+
+### Ghost Bursters (Skill 2)
+
+Faramis gathers Nether energy in a fan-shaped area ahead, dealing 330 (+144% Total Magic Power) Magic Damage to enemies within. The energy will then split and bounce to nearby enemies, dealing 200 (+86% Total Magic Power) Magic Damage (splits up to 2 time(s) on enemy hero hits and 1 time(s) on non-enemy hero hits).
+
+### Nether Realm (Ultimate)
+
+Faramis turns his surroundings into the Nether Realm for 6s. Allied heroes within (including himself) enter the Specter state, gaining 400 (+ 10 (+5% Total Magic Power)%) extra HP and 50% extra Movement Speed for 1s. When the Specter state breaks, heroes within clear all debuffs and enter a brief Resurrection state for 1.3s. The Specter state immediately ends if the allied hero leaves the Nether Realm.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Faramis' Ultimate to protect his allies, then get close to the enemy and apply Nether Marks with his 1st Skill. Activate the 1st Skill again to pull them over and follow up with his 2nd Skill for additional damage.
+- LANING COMBOS (laning): In the laning phase, use Faramis' 1st Skill to get close to the enemy and hit them with his 2nd Skill while applying a Nether Mark with the 1st Skill. Then, use his 1st Skill again to pull the enemy back to him.
+
+## Counters to Faramis (pick these against Faramis)
+
+- Julian (Assassin/Fighter): +3.5 pp edge. Across Faramis's measured matchups, Faramis is weakest in the early game. Apply pressure with Julian before Faramis can scale.
+- Estes (Support): +3.4 pp edge. Across Faramis's measured matchups, Faramis is weakest in the early game. Apply pressure with Estes before Faramis can scale.
+- Angela (Support): +3.1 pp edge. Across Faramis's measured matchups, Faramis is weakest in the early game. Apply pressure with Angela before Faramis can scale.
+- Alice (Tank/Mage): +3.0 pp edge. Across Faramis's measured matchups, Faramis is weakest in the early game. Apply pressure with Alice before Faramis can scale.
+- Yve (Mage): +2.7 pp edge. Across Faramis's measured matchups, Faramis is weakest in the early game. Apply pressure with Yve before Faramis can scale.
+- Bane (Fighter/Mage): +2.6 pp edge. Across Faramis's measured matchups, Faramis is weakest in the early game. Apply pressure with Bane before Faramis can scale.
+- Xavier (Mage): +2.5 pp edge. Across Faramis's measured matchups, Faramis is weakest in the early game. Apply pressure with Xavier before Faramis can scale.
+- Thamuz (Fighter): +2.1 pp edge. Across Faramis's measured matchups, Faramis is weakest in the early game. Apply pressure with Thamuz before Faramis can scale.
+
+## Heroes Faramis beats
+
+- Gloo (Tank): +7.0 pp edge for Faramis.
+- Sun (Fighter): +3.7 pp edge for Faramis.
+- Ling (Assassin): +2.6 pp edge for Faramis.
+- Wanwan (Marksman): +2.2 pp edge for Faramis.
+- Roger (Fighter/Marksman): +2.0 pp edge for Faramis.
+- Lancelot (Assassin): +1.9 pp edge for Faramis.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/faramis.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-12. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Ultimate Tempo (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Fleeting Time, Glowing Wand, Divine Glaive, Blood Wings
+- Core: Enchanted Talisman, Fleeting Time, Glowing Wand
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Tough Boots over Magic Boots when Use when chain crowd control is the real threat and you can still reach cooldown cap through items.; Winter Crown over Blood Wings when Use when a dive assassin can kill Faramis before Nether Realm is cast.; Ice Queen Wand over Blood Wings when Use when your team needs repeated slows to keep marked targets inside follow-up damage.
+- Total cost: 10950 gold
+
+Default mid setup that rushes mana, cooldown, and ultimate resets before adding anti-sustain damage and late magic scaling.
+
+### Roam Purify Utility (Roam)
+
+- Items: Tough Boots, Enchanted Talisman, Fleeting Time, Dominance Ice, Oracle, Immortality
+- Core: Enchanted Talisman, Fleeting Time, Dominance Ice
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Purify
+- Blessing: Encourage
+- Flex: Athena's Shield over Oracle when Use against single-cycle magic burst that reaches Faramis before the first objective fight starts.; Antique Cuirass over Oracle when Use when physical skill damage from divers is forcing early Nether Realm casts.; Radiant Armor over Oracle when Use against sustained magic poke that chips Faramis before he can hold a defensive ult angle.
+- Total cost: 10810 gold
+
+Roam setup for CC-heavy drafts where Purify protects the ultimate cast and defensive items keep Faramis near the carry line.
+
+### Mid Frontline Burn (Mid)
+
+- Items: Arcane Boots, Enchanted Talisman, Fleeting Time, Glowing Wand, Wishing Lantern, Divine Glaive
+- Core: Enchanted Talisman, Fleeting Time, Glowing Wand
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Lightning Truncheon over Wishing Lantern when Use when enemy backliners matter more than frontliner HP and your team already has tank damage.; Blood Wings over Wishing Lantern when Use when late fights are decided by Faramis staying alive after casting Nether Realm.; Winter Crown over Divine Glaive when Use when one delayed stasis buys more value than extra penetration into magic defense.
+- Total cost: 11080 gold
+
+Anti-frontline mid setup that keeps the cooldown core, then adds burn, current-HP pressure, and penetration for grouped objective fights.
+
+All builds for this hero: https://mlbbhub.com/builds/faramis.
+
+## Synergies
+
+- Leomord: Faramis works well with heroes that are designed to dive into the enemy, such as Leomord and Martis, as he'll be able to maximize the life-saving effect of his Ultimate.
+- Martis: Faramis works well with heroes that are designed to dive into the enemy, such as Leomord and Martis, as he'll be able to maximize the life-saving effect of his Ultimate.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

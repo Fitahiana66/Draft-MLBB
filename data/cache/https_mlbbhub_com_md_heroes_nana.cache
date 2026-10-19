@@ -1,0 +1,197 @@
+# Nana, Feline Wizard
+
+> Nana is a CC battery disguised as a mage: the metric that matters is how often Molina transforms a key target, not how much damage she deals. She plays mid lane or roamer, and the two roles are not interchangeable. The difference between a Nana that wins and one that feeds is whether Molina is waiting where the enemy arrives.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Poke, Burst
+- Difficulty: Easy
+- Tier this patch: C
+- Win rate: 47.51%
+- Pick rate: 2.06%
+- Ban rate: 4.17%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/nana
+
+## Guide
+
+### Who drafts Nana, and what they are counting on
+
+Nana has a clear condition for being the right pick: the enemy team has at least two non-mobile carries who cannot reliably dodge Molina Smooch. Lesley, Bruno, Clint, Odette during her own setup, Wanwan before she stacks her passive. Heroes who cannot dash out of Molina's seek window. Against that kind of backline, Nana provides CC that fires nearly as often as a targeted silence.
+
+The draft also requires your own frontline to exist. Nana has 250 base movement speed and no dash. She survives through her passive and positioning, not through escape tools. A team with four damage dealers and no tank means Nana will spend her Flicker on the first engage, her passive on the second, and be dead weight afterward.
+
+Four enemy heroes that most reliably invalidate Molina Smooch: Lancelot (his S2 makes him untargetable for the whole animation, and his ultimate is invincible, so a well-timed Molina mid-combo connects with nothing), Hayabusa (extremely mobile and near-impossible to track through Shadow Kill), Atlas (his S2 only gives slow immunity, but the Fatal Links channel ignores everything short of Suppression, so he can walk in and start the pull through a Molina that should have stopped him), and Fanny (cable movement outpaces Molina's seek window entirely). When three or more of these appear on the enemy team, the pick shifts from reliable to a coin flip.
+
+The disqualifying test: if you cannot name two specific enemy heroes that Molina will reliably tag in a given draft, Nana is the wrong choice for that game.
+
+### It is always about where you drop Molina
+
+Most Nana players treat Molina Smooch as a reactive tool: someone jumps the carry, throw Molina at where they landed. That version misses more than it lands. Molina drops at a location, then seeks and chases the nearest enemy hero in the area. By the time an assassin has already dived, they are already past the drop point.
+
+The correct mental model: Molina Smooch is pre-placed, not thrown. Drop it at the bush entrance before the enemy jungler starts their rotation. Drop it at the Lithowanderer position before a contest. Drop it at your marksman's feet 3 seconds before you expect a dive. Molina that is waiting when the enemy arrives almost always lands. Molina thrown at someone already moving away almost never does.
+
+At max rank, Molina Smooch's cooldown is short enough that you can cycle Molina nearly continuously through a late-game teamfight. The value is not in landing one perfect transformation per fight. It is in having a Molina stationed somewhere useful at almost all times.
+
+The secondary effect that gets underrated: every Molina hit reduces the target's magic defense for the duration. When your team sees Molina land, every magic dealer on your side has a window of amplified damage on that target. Ping the transformed hero immediately and let your team push through it.
+
+### Laning: the first 8 minutes
+
+1. **Level 1, take S1 and clear to the wall.** Magic Boomerang hits on the way out and on the return, so a shallow pass through the wave catches the full line twice. Stand at the edge of wave range and angle the throw so the return arc passes through stragglers. Do not take S2 at level 1 without a target to pre-place it on: it costs mana and provides nothing for solo wave management.
+2. **Level 2, take S2 and move toward the river bush.** Before the second wave reaches your tower, drop Molina in the bush nearest the enemy mid. If the enemy comes to contest the first Lithowanderer, Molina is already seeking. This forces them to forfeit the creep or get tagged. Many players keep walking because they do not see Molina waiting in the brush.
+3. **Level 4, consolidate mana before rotating.** S1's mana cost climbs at every rank, and spamming S1 into the wave twice per wave will leave you dry by the time you are level 4. Hit the wave once cleanly per rotation, and wait until Enchanted Talisman is finished before treating mana as renewable. Your first rotation to assist the jungler or side lane should come after that item, not before.
+
+### The eight-minute power window
+
+Enchanted Talisman plus Genius Wand. Both items should be in your inventory by the 8-9 minute mark on mid lane, a minute or two later as roamer.
+
+Enchanted Talisman solves both of Nana's early problems at once: the CDR brings S2 off cooldown faster, and the Mana Spring passive restores mana in the background so you stop going dry mid-rotation. With this item alone, Molina Smooch cycles fast enough that you are never caught without one ready when a fight finds you.
+
+Genius Wand stacks magic defense reduction per skill hit on enemy heroes, up to 3 stacks. Combined with Molina Smooch's own magic defense reduction on the tagged target, you are stripping resistance from two directions simultaneously. The enemy tank with 80 magic defense takes meaningfully more damage from everything your team throws at them than their stat screen suggests.
+
+Before this two-item combination, Nana is a poke tool. After it, she is a fight starter.
+
+### Where to stand, and what you are aiming at
+
+The common reflex is to treat Nana as a backline caster: maximum range, throw S1 into the fight, and hope Molina finds someone. That pattern produces a low S2 hit rate because Molina's seek window expires against anyone already in motion at the moment of contact.
+
+Three rules for positioning in teamfights:
+1. **Position at mid-range, not max range.** Molina needs to reach the target area, land, and seek the nearest enemy within chase distance. From maximum range you are dropping Molina on a position the enemy has already moved out of. From mid-range you can place it just ahead of where they will be when they reach your carry.
+2. **Ult into a CCed target, not a moving one.** Molina Blitz fires three Molinas at the target area. The stun requires hitting any hero twice. Against a running target the three strikes land in different positions. Against an Atlas-locked or Tigreal-knocked-up cluster, all three overlap and the stun fires. Wait for your tank's CC before pressing your ultimate.
+3. **Use Molina's Gift to escape, not to re-engage.** When the passive triggers, you are untargetable and gain a large movement speed bonus for the duration. The instinct is to turn and fight. Do not. The passive is on a long cooldown, so burning the window on a counter that fails leaves you with no out and a long stretch of vulnerable Nana. Use the window to reach your team or a turret.
+
+The edge case: if your support is Estes or Angela, position one tier closer than you otherwise would. Sustained healing lets you absorb a poke hit and stay in position rather than retreating, which directly improves Molina placement accuracy.
+
+### Itemization: three locked slots, three conversations
+
+Three items are fixed regardless of enemy composition: Arcane Boots, Enchanted Talisman, Genius Wand. The order is boots first, then Talisman, then Genius Wand. Playing roamer: swap Arcane Boots for Demon Boots and take the Encourage enchant, which hands nearby allies bonus magic power that scales with your roam gold plus a flat attack-speed share, worth more to the team than the flat magic penetration you give up.
+
+The remaining three slots are situational:
+
+- **Glowing Wand** when the enemy team has meaningful healing or sustain (Estes, Esmeralda, Uranus, Diggie). The Burn passive deals 1.5% of the target's max HP per second, and the Lifebane component cuts their healing by 50% for 3 seconds on hit. This handles anti-sustain without requiring a dedicated anti-heal item.
+- **Ice Queen Wand** when you want sustained slowing pressure across rotations. The slow stacks per skill hit and the spell vamp provides recovery through repeated trading. Better when you are already ahead and dictating the pace of fights.
+- **Lightning Truncheon** when you are the primary mage and not roaming. Every 6 seconds, your next skill chains additional magic damage to up to 3 nearby enemies. With S1's short cooldown you will trigger this passive regularly. Particularly strong against compositions that group up.
+- **Holy Crystal** when the game extends past 15 minutes and you have not built it yet. Pure scaling: extra magic power percentage that increases with hero level. Buy it fifth or sixth, not fourth. At the fourth slot you still have two items left, and Glowing Wand or Ice Queen Wand provide more practical value than raw scaling at that stage of the game.
+- **Divine Glaive** against enemies who are actively stacking magic defense (Athena's Shield plus Radiant Armor on the same target). The Spellbreaker passive converts their own magic defense into additional magic penetration for you, up to 20% extra. Against average compositions, Genius Wand's stacking handles enough. Only build this when a specific tank is becoming unkillable.
+
+### Five mistakes that lose Nana games
+
+**Throwing S2 reactively instead of predictively.** An assassin jumps your carry, and you throw Molina at where they just landed. Molina takes a moment to seek and another to chase, by which time the assassin has already repositioned or spent a dash. The fix is dropping Molina at your carry's position 3-5 seconds before an expected dive. If Molina is already seeking when the jump starts, it almost always connects.
+
+**Ulting into a spread fight.** Molina Blitz's stun requires hitting a hero twice. Against a team running in 4 different directions, your three Molinas land on 3 separate targets and no stun fires at all. Save the ult for after your engage tank initiates: the full stun on a grouped cluster is a teamfight-winning CC chain, not a slow you can use whenever.
+
+**Playing through Lancelot without adjusting.** Lancelot's S2 makes him untargetable for the whole animation, and his ultimate makes him invincible, so a Molina that starts seeking mid-combo connects with nothing. The counter is baiting his S2 first with a Magic Boomerang poke, then dropping Molina once he has already spent the window. Against Hayabusa, pre-place Molina at the likely exit point of Shadow Kill rather than trying to track him through it.
+
+**Underestimating S1's mana hunger.** S1's mana cost climbs at every rank, and players who chain-throw it into waves will go dry at level 4-5. Get Enchanted Talisman as the first completed item, not the second. Do not chain-throw S1 into waves in the early levels.
+
+**Burning Flicker offensively when the passive is down.** Molina's Gift is on a long cooldown. During that window Nana is a squishy 250-movement-speed mage with Flicker as her only escape. Using Flicker to close distance for a Molina placement or to chase a low-HP enemy during that window leaves you with no way out if the fight turns. Track the passive timer. When it is down, Flicker stays on escape duty.
+
+### Key tips
+
+> [!TIP]
+> Molina that misses still waits on the ground and chases the nearest enemy hero who comes into range, so pre-place S2 in a bush or chokepoint before a fight starts, not after. A Molina stationed at the right location before the engage is almost always a landing Molina.
+
+> [!NOTE]
+> The magic defense reduction on a Molina tag applies to all allied magic damage, not just yours. When Molina lands, ping the transformed target immediately so your teammates know the damage window is open.
+
+> [!TIP]
+> Molina Blitz's stun fires when any enemy hero takes two Molina hits. In a 1v2 or open teamfight, aim at the center of the cluster and let the three Molinas overlap naturally. Against a single target, strafe them slowly so all three land in a narrow corridor rather than spreading apart.
+
+> [!NOTE]
+> When Molina's Gift triggers, you become untargetable and gain a large movement speed bonus for the duration. Do not Flicker during it. Walk out of the danger zone first, then use Flicker only if the immunity ends and you still need to cover more distance.
+
+## Skills
+
+### Molina's Gift (Passive)
+
+Upon taking fatal damage, Molina's Gift removes all debuffs from Nana and transforms her for 2s. While transformed, Nana is immune to all damage, gains 30% Movement Speed, and recovers 10% Max HP per second, but cannot cast skills. This effect can trigger only once every 150s.
+
+### Magic Boomerang (Skill 1)
+
+Nana hurls her Magic Boomerang in the target direction, dealing 300 (+100% Total Magic Power) Magic Damage to enemies it hits as it travels out and returns. The first enemy hit takes full damage. Damage is reduced by 10% each additional enemy hit, up to a maximum total reduction of 70%.
+
+### Molina Smooch (Skill 2)
+
+Nana throws Molina at the target location, dealing 250 (+50% Total Magic Power) Magic Damage to enemies within range and Transforming enemy heroes hit into small animals. If Molina does not hit an enemy hero, she will remain on the ground and chase the nearest enemy hero that comes into range, Transforming the first enemy hero she touches. Transform: Reduces the target's Movement Speed by 50% and Magic Defense by 30% for 1.5s. Transformed heroes cannot attack or use skills.
+
+### Molina Blitz (Ultimate)
+
+Nana summons Molina to strike the target area 3 times, each dealing 440 (+140% Total Magic Power) Magic Damage and slowing enemies in the area by 30% for 1s. Consecutive hits from Molina Blitz on the same enemy stun them for 1s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Nana can use her 2nd Skill to slow the enemy first so she can hit and stun them with her Ultimate. She can then use her 1st Skill to finish off the low HP enemy.
+- LANING COMBOS (laning): In the laning phase, Nana can use her 2nd Skill to harass enemy heroes and her 1st Skill to damage both enemy Minions and heroes, allowing her to poke enemies while farming.
+
+## Counters to Nana (pick these against Nana)
+
+- Gloo (Tank): +2.5 pp edge. Gloo's durability and kit give them a strong matchup advantage against Nana throughout the game.
+- Atlas (Tank): +2.3 pp edge. Atlas's durability and kit give them a strong matchup advantage against Nana throughout the game.
+- Hylos (Tank): +2.0 pp edge. Hylos's durability and kit give them a strong matchup advantage against Nana throughout the game.
+- Esmeralda (Tank/Mage): +1.7 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Nana throughout the game.
+- Akai (Tank): +1.7 pp edge. Akai's durability and kit give them a strong matchup advantage against Nana throughout the game.
+- Yi Sun-shin (Assassin/Marksman): +1.5 pp edge. Yi Sun-shin has a statistical edge over Nana based on ranked matchup data. Pick Yi Sun-shin to gain an advantage in draft.
+
+## Heroes Nana beats
+
+- Odette (Mage): +2.8 pp edge for Nana.
+- Lolita (Support/Tank): +2.1 pp edge for Nana.
+- Saber (Assassin): +1.8 pp edge for Nana.
+- Dyrroth (Fighter): +1.6 pp edge for Nana.
+- Silvanna (Fighter): +1.5 pp edge for Nana.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/nana.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Burst Pickoff (Mid)
+
+- Items: Arcane Boots, Genius Wand, Wishing Lantern, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Genius Wand, Wishing Lantern, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Weapon Master, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Magic Boots over Arcane Boots when Use when lane is safe and more frequent Molina Smooch setups matter more than early flat Magic Penetration.; Glowing Wand over Wishing Lantern when Use when healing, shields, or HP-stacking frontliners keep surviving after the first transform combo.; Winter Crown over Blood Wings when Use when one assassin can reach Nana before Molina Smooch or Flicker creates enough space.
+- Total cost: 12010 gold
+
+Default ranked mid build that turns Molina Smooch's Magic Defense cut into a fast pickoff window before adding late Magic Power and shield value.
+
+### Cooldown Zone Control (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Lightning Truncheon, Glowing Wand, Fleeting Time, Divine Glaive
+- Core: Enchanted Talisman, Glowing Wand, Fleeting Time
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Lethal Ignition
+- Battle spell: Flameshot
+- Flex: Holy Crystal over Fleeting Time when Use when your team needs higher burst per transform instead of ultimate reset tempo from assists.; Ice Queen Wand over Lightning Truncheon when Use when enemies keep walking out of Molina Blitz and your team needs extra slow control.; Blood Wings over Divine Glaive when Use when enemies are not stacking Magic Defense and Nana needs shielded movement between poke trades.
+- Total cost: 11100 gold
+
+Control setup for games where Nana wins by spamming Molina zones, collecting assists, and keeping objective entrances unsafe.
+
+### Anti-Dive Survival (Mid)
+
+- Items: Tough Boots, Enchanted Talisman, Glowing Wand, Winter Crown, Divine Glaive, Immortality
+- Core: Enchanted Talisman, Glowing Wand, Winter Crown
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Purify
+- Flex: Blood Wings over Immortality when Use when poke and chip damage are the problem but the enemy lacks the lockdown to force a death timer trade.; Magic Boots over Tough Boots when Use when enemy dive is damage-heavy but not control-heavy enough to justify Fortitude plus Purify.; Ice Queen Wand over Divine Glaive when Use when enemies have low Magic Defense but your team needs longer slows after Molina Smooch lands.
+- Total cost: 10820 gold
+
+Defensive mid build for hard engage games where Nana must survive the first lockout, keep Molina active, and still mark targets for allies.
+
+All builds for this hero: https://mlbbhub.com/builds/nana.
+
+## Synergies
+
+- Rafaela: Nana works best with heroes with CC skills, that will help her get the kills, such as Rafaela and Franco.
+- Franco: Nana works best with heroes with CC skills, that will help her get the kills, such as Rafaela and Franco.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

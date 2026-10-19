@@ -1,0 +1,221 @@
+# Gloo, Swamp Spirits
+
+> Gloo is a lockdown tank that wins fights by turning an enemy carry into a piece of his own equipment. Two nerf rounds across patches 2.1.61 and 2.1.88 cut his passive damage reduction, his S1 goo chip, and his attach regen, but the goo-reset loop keeps him a contested roam or exp lane pick when the draft is right. When it isn't, he is one of the easiest tanks to kite into irrelevance.
+
+## Snapshot
+
+- Role: Tank
+- Lane: Roam, EXP
+- Specialty: Regen, Control
+- Difficulty: Medium
+- Tier this patch: S
+- Win rate: 54.39%
+- Pick rate: 0.73%
+- Ban rate: 38.38%
+- Released: 2021
+- Page: https://mlbbhub.com/heroes/gloo
+
+## Guide
+
+### Is this a Gloo draft?
+
+Gloo is a conditional pick, not a flex tank. Patches 2.1.61 and 2.1.88 ([patch notes](/patch-notes)) both landed on him: the passive damage reduction per stack was trimmed first, then the S1 goo chip and the regen during the attach followed. Each nerf shifts more weight onto target selection and away from raw durability, which was already the point. He rewards drafts that already have damage and punishes drafts that need their frontliner to also be a threat. Before you lock him in, your team should have at least one proper damage dealer, because Gloo's output after the core build is chip and chip only. The attach redirect means nothing if your team can't punish the host.
+
+Pick Gloo when:
+
+- The enemy team has a stationary ranged carry (Cecilion, Kagura, Yve, Valir, Wanwan in peak-damage stance) that cannot dash out of a multi-second attachment
+- Your team has already locked reliable follow-up burst (Harith, Eudora, Beatrix, Claude)
+- Your composition needs a second engage beyond the roam and your exp lane is happy to not carry
+- The enemy tank is a peel-only pick (Estes, Angela, Rafaela) with no counter-initiate
+
+Skip Gloo when:
+
+- The enemy exp laner is Yu Zhong, Dyrroth, or Thamuz. Each of them trades through Gloo's goo sustain and has the early damage to push him off the wave by minute four
+- The enemy carry is Fanny, Ling, or Hayabusa. The attach loses its value the instant they dash; the damage redirect needs a target that stays in place
+- Your team already has another engage tank (Atlas, Tigreal). Two main tanks is one too many, and Gloo is the weaker option in a dive comp
+- Your jungler is burst-reliant (Lancelot, Hayabusa) and needs a setup tank that stuns on demand. Gloo's CC is short and conditional on stacking Sticky first
+
+If you cannot name which of those conditions your current draft is in, Gloo is the wrong pick. Lock a more flexible option and save him for a draft where the attach has a real target to live on.
+
+### Gloo is a parasite tank, not a frontliner
+
+Gloo does not block damage for his team the way Tigreal or Atlas does. He converts someone else's mistake into his own survival. Every skill in his kit exists to set up one moment: attaching to an enemy hero and transferring most of the damage he takes onto them.
+
+The passive stacks on hit. Slam-Slam puts a goo puddle on the ground at range, and Gloo can walk through it to refund the cooldown and heal. Spread-Spread fans a wave of smaller goos forward and, if they connect with a placed Goo, dashes Gloo to it and drags enemies in the path. These are not separate abilities, they are a loop. You cast S1 at range, walk into your own goo to reset it, cast again, hit the target to stack Sticky, then ultimate. Every cast feeds the next. Max stacks unlock the attach, the attach gives you a second life on the host, and the host dying drops the ultimate's cooldown so low that you can chain a second attach in the same skirmish.
+
+The correct mental model is not tank. It is parasite. Your team kills things and you ride along. The difference from a real frontliner is that your entire value depends on picking the right host. Attach to a dasher and you wasted the ultimate. Attach to a carry your team is already focusing and you doubled their damage by feeding it back into the kill. The skill ceiling on Gloo is almost entirely in target selection.
+
+### Laning: the first six minutes
+
+Gloo has one of the most forgiving laning phases of any exp tank, but only if you respect the goo-reset loop. Do not play him like a brawler.
+
+1. **Level 1: take S1 and nothing else.** Cast the slam on the back row of the minion wave, then walk through the goo when it lands. You clear the wave, reset the cooldown, and heal back anything you took from a level-1 trade. Do not spend mana on S2 at level 1; the poke is weaker and the mana cost will dry you out before level four.
+2. **Level 2: add S2 only for escapes.** The dash-to-goo is your only out against a level-2 all-in from Yu Zhong or Thamuz. Place S1 behind you, bait the commit, then S2 backward onto your own goo. If you are not being dove, keep S2 at one point and max S1 first. The cooldown scaling on S1 is what keeps the loop running.
+3. **Level 4: your first ultimate is not a kill.** It is a turret-hug threat. Stack Sticky to max, attach to the enemy exp laner, and force them to either back off or die under your turret. You do not need to win the 1v1. You need to delay them off the wave long enough for your jungler to invade or your mid to rotate.
+4. **Minutes 4 to 6: rotate for Turtle, not kills.** Gloo's level-four attach on a clumped Turtle contest is stronger than any random gank. Walk down river with your jungler, wait for the smoke, and ult whichever enemy commits first. The damage redirect during a buff fight is the biggest swing Gloo has in the early game.
+
+Take Flicker, not Arrival. Flicker covers the positioning failure of initiating without a goo placed, and it doubles as the only real escape Gloo has against a counter-gank after S2 is on cooldown.
+
+### The two-item spike that changes Gloo's fight math
+
+Gloo's identity flips at Cursed Helmet plus Glowing Wand. That usually lands between the 9 and 11 minute mark on a standard exp farming pattern.
+
+Before the spike, Gloo is a tax. He survives fights but does not pressure them. The ultimate is a peel-and-delay tool. S1 clears waves and heals.
+
+After the spike, three things change at once. Cursed Helmet's Burning Soul adds a percent-max-HP magic burn to everything near you, which means standing in the middle of a teamfight is now active damage instead of passive soaking. Glowing Wand's Scorch layers a second percent-max-HP burn onto any hero you hit with a skill, and its Lifebane passive slashes the target's heals and shields. Together, the two items turn the attach from "delay this carry" into "kill this carry while I am stuck to them." Your basic attacks during the attach scale with total magic power, and Glowing Wand is the only magic-power defense item in the core build.
+
+This is the minute window you are playing the whole laning phase for. If you hit it ahead and your jungler is farmed, force a Lord contest at minute 12 and win it on the strength of the attach alone. If you hit it even, you are finally a real teamfight threat instead of a bodyguard. If you hit it behind, you are already on damage control and need to play peel-only until Antique Cuirass and Oracle close the gap.
+
+### Teamfight positioning and attach targets
+
+The reflex when you see an enemy carry burst down your marksman is to attach to whoever did the burst. That reflex is usually wrong. The burst already happened. The attach redirects future damage, not past damage, and the enemy who just deleted your carry is about to reposition out of your team's range.
+
+Three positioning rules:
+
+1. **Attach to the target your team is already shooting.** The damage redirect only matters if damage keeps arriving. The correct host is whichever enemy your marksman has been auto-attacking for the last three seconds: a stationary mage, a kited marksman, a tank who has already burned mobility.
+2. **Never attach to a diver who still has their escape skill up.** Ling with Tempest of Blades ready, Fanny with cables stocked, Hayabusa with his ultimate available: all of them leave the second you attach and waste your entire window. Wait for the escape cooldown to be visibly spent, then attach on the next engage.
+3. **During the split form, your job is peel, not chase.** The extra movement speed feels like a chase tool. It is not. Use it to place goo in front of your backline so the enemy diver runs through it, then S2-pull yourself back to peel. Chasing in split form burns the duration without a payoff.
+
+If your support is Estes or Floryn, you can attach earlier and hold the host longer because the sustain covers the moment after the attach ends when Gloo is briefly vulnerable. If your support is Diggie or Rafaela, time the attach later and closer to full health. The difference in your survival post-ultimate is almost entirely your support's heal radius.
+
+### Itemization: three locked slots, three real conversations
+
+Warrior Boots, Cursed Helmet, and Antique Cuirass are locked. Everything else is a flex slot with a specific condition.
+
+Flex one, magic damage slot. **Glowing Wand** is the default when the enemy has a healer or sustain comp (Estes, Mathilda, Rafaela, Floryn, or a carry like Alucard or Esmeralda). The Lifebane passive cuts their heals for three seconds, which is the difference between killing the attached host and watching them full-heal through your window. Swap to **Concentrated Energy** when the enemy has no healer and you want more basic-attack scaling during the attach. Do not run both. Concentrated Energy's ramp wastes on a Glowing Wand build.
+
+Flex two, defensive response slot. **Blade Armor** against basic-attack marksmen (Wanwan, Karrie, Claude): the reflect and the slow-on-reflect punish exactly the auto-attack rotation a marksman is shredding you with. **Athena's Shield** against burst mage comps (Eudora, Lylia, Valentina) for the Shield passive that kicks in before incoming magic damage resolves. **Radiant Armor** against damage-over-time mages (Julian, Cecilion, Yve) because the stacking magic defense ramps faster than a single big shield threshold. Pick one.
+
+Flex three, sustain amplifier or emergency slot. **Oracle** when your team has Estes or Rafaela; the Bless passive multiplies the sustain you are already receiving. **Immortality** when you are behind and getting picked off before fights start. **Brute Force Breastplate** when the enemy has Tigreal or Franco and you need the control-duration reduction at full stacks to survive the second link in a chained CC.
+
+**Guardian Helmet** is a sustain flex option for Gloo, not an automatic skip. It costs 2500 gold and gives 1800 HP and 20 HP Regen. Recovery activates after five seconds out of combat and restores 2.5% Total HP per second. It has no reduced in-combat state. Defender works separately. When a single damage instance exceeds 500, it recovers 30 (+0.3% Total HP)% of the damage above 500 as HP.
+
+Do not plan an uninterrupted goo-reset brawl around Recovery. It stays off while Gloo remains in combat, but Defender means taking damage is not, by itself, a reason to reject Guardian Helmet. The item has no Physical or Magic Defense, so weigh its HP and recovery against the resistance slot you would give up. It is a situational choice, not a reason to discard the defenses the enemy draft calls for.
+
+Tank Emblem with Vitality, Tenacity, and Concussive Blast is standard. Concussive Blast's bonus magic damage on basic attack triggers during the attach, which stacks with Cursed Helmet's burn for a small but real damage add. Fighter Emblem trades the defensive stats you need to survive the attach for offensive stats the kit does not scale with. Tank Emblem only.
+
+### Mistakes that lose Gloo games
+
+**Attaching the ultimate to a target whose escape is still up.** This is the single most common Gloo misplay below Mythic rank. Ling jumps into your backline, gets max stacks on your marksman in half a second, you ult him, he presses Tempest of Blades and leaves, and your entire window is a wasted walk. Watch the diver's escape cooldown in the combat log or on the status ring. Wait it out, then attach on the follow-up engage.
+
+**Tossing S1 goo into a wave you will not walk back to.** The healing and cooldown reset only trigger if Gloo touches the goo. If you slam the back row of an enemy wave while retreating, the goo lands behind enemy lines, detonates on its own timer, and heals nothing. Place goo where your path will cross it in the next few seconds, not where the damage pattern looks cleanest.
+
+**Engaging a fight with two or three Sticky stacks instead of max.** Every stack lowers the target's damage dealt to you. Engaging at low stacks means you are taking near-full damage from the hero your kit is supposed to tank. Stack through two S1-plus-S2 rotations at range first, then commit. The cost is a couple of seconds. The survival difference is the entire fight.
+
+**Picking Gloo into Yu Zhong, Dyrroth, or Natan.** The counter snapshot above shows the win rate. The reason those matchups are bad is that each of those heroes clears waves faster than Gloo heals back through goo, which shoves him off experience and denies the farm lead his scaling needs. If the draft gave you one of these matchups and you already locked Gloo, play fully defensively under turret and accept the lane loss. Trying to trade is how the matchup gets worse.
+
+**Dashing S2 through three enemies for the highlight clip.** The Spread-Spread dash is a commitment animation. Using it as an entry tool into the enemy team with no goo behind you and no teammate following up is a guaranteed deletion. S2 is an exit and a setup, not a dive. If you find yourself dashing in first with no goo placed, you are about to die.
+
+### Key tips
+
+> [!TIP]
+> Place S1 goo in unwarded river brush near the Turtle pit. The explosion triggers on enemy entry and works as a free vision ping. This is the cheapest information-gathering tool any tank has in the first ten minutes.
+
+> [!NOTE]
+> The ultimate cooldown drops dramatically if your attached host dies. In coordinated fights this means you can chain a second attach in the same skirmish. Call it in voice or ping the cooldown so your team knows a second ultimate is live.
+
+> [!TIP]
+> Use S2's dash window to bait lock-on skills. Franco hook, Hayabusa ultimate, Lolita ultimate, Saber ultimate: all of them can miss during the dash if you time the cast against the enemy's commit animation. Front-load S2 when you see one of these heroes lining up their signature engage.
+
+> [!NOTE]
+> Against a pure poke comp (Cecilion, Kagura, Xavier), save the ultimate for after the enemy mage has committed to a cast animation. The attach forces them to either interrupt the channel themselves or eat most of it through the damage redirect.
+
+## Skills
+
+### Stick, Stick (Passive)
+
+Gloo's skills apply a stack of Sticky to enemies on hit, decreasing their Movement Speed by 4% for 6s (up to 5 stacks). Each Sticky stack on an attacker reduces their damage dealt to Gloo by 3%.
+
+### Slam, Slam (Skill 1)
+
+Gloo reaches out and slams the ground, dealing 80 (+80% Total Magic Power) Magic Damage to enemies hit. A Goo is left at the end location, which explodes after 3s, dealing 250 (+12% Extra Max HP) Magic Damage to nearby enemies and immobilizing them for 0.8s. Touching the Goo detonates it immediately and resets this skill's cooldown. Gloo also recovers 2.5% Max HP if the explosion hits an enemy (doubled if it hits an enemy hero).
+
+### Spread, Spread (Skill 2)
+
+Gloo splits into Goos, dealing 100 (+80% Total Magic Power) Magic Damage to enemies in a fan-shaped area and immobilizing them for 0.5s. For the next 4s, Gloo gains 10% Movement Speed and deals 80 (+15% Total Magic Power) Magic Damage every 0.25s to enemies it touches. If this skill hits a Goo, Gloo charges toward it, dragging enemies in its path along for a distance.
+
+### Grab, Grab (Ultimate)
+
+Unlocked when an enemy hero reaches max Sticky stacks. Gloo attaches itself to the target for up to 9s, recovering 20% Max HP. While attached, Gloo's Basic Attacks deal 30 (+50% Total Magic Power) (+6% Extra Max HP) Magic Damage, and it transfers 80% of the damage it takes (excluding Turret damage) to the host. If the host dies while Gloo is attached, this skill's cooldown is reduced to 5s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Gloo can use his 1st + 2nd skill combo to close in on the enemy and immobilize them. Then his 1st Skill and Ultimate to add more Sticky stacks to enemy heroes, and attach himself with his Ultimate to the enemy hero with max Sticky stacks. Once ready, Gloo can use the combo to deal damage and move the host out of position. Finally, he can use the refreshed 1st Skill and his Basic Attacks to finish off the host.
+- LANING COMBOS (laning): In the laning phase, Gloo should use his 1st Skill to attack the target enemy and create a Goo, then he can use his 2nd Skill to target the Goo to bring the target to its location and trigger an explosion. Touching the Goo will also reset Gloo's 1st Skill, allowing him to use it again to deal damage.
+
+## Counters to Gloo (pick these against Gloo)
+
+- Faramis (Support/Mage): +7.0 pp edge. Faramis has a statistical edge over Gloo based on ranked matchup data. Pick Faramis to gain an advantage in draft.
+- Moskov (Marksman): +4.5 pp edge. Moskov has a statistical edge over Gloo based on ranked matchup data. Pick Moskov to gain an advantage in draft.
+- Natan (Marksman): +3.9 pp edge. Natan has a statistical edge over Gloo based on ranked matchup data. Pick Natan to gain an advantage in draft.
+- Alice (Tank/Mage): +3.9 pp edge. Alice's durability and kit give them a strong matchup advantage against Gloo throughout the game.
+- Lunox (Mage): +3.7 pp edge. Lunox has a statistical edge over Gloo based on ranked matchup data. Pick Lunox to gain an advantage in draft.
+- Fredrinn (Fighter/Tank): +3.6 pp edge. Fredrinn's durability and kit give them a strong matchup advantage against Gloo throughout the game.
+- Vexana (Mage): +3.6 pp edge. Vexana has a statistical edge over Gloo based on ranked matchup data. Pick Vexana to gain an advantage in draft.
+- Masha (Fighter/Tank): +3.5 pp edge. Masha's durability and kit give them a strong matchup advantage against Gloo throughout the game.
+
+## Heroes Gloo beats
+
+- Aamon (Assassin): +4.4 pp edge for Gloo.
+- Jawhead (Fighter): +3.7 pp edge for Gloo.
+- Johnson (Tank/Support): +3.5 pp edge for Gloo.
+- Lesley (Marksman/Assassin): +3.3 pp edge for Gloo.
+- Karina (Assassin): +2.9 pp edge for Gloo.
+- Yin (Fighter/Assassin): +2.7 pp edge for Gloo.
+- Harley (Assassin/Mage): +2.6 pp edge for Gloo.
+- Chang'e (Mage): +2.6 pp edge for Gloo.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/gloo.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-02. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Burn Attach (EXP)
+
+- Items: Tough Boots, Cursed Helmet, Glowing Wand, Oracle, Antique Cuirass, Immortality
+- Core: Cursed Helmet, Glowing Wand, Oracle
+- Emblem: Basic Common Emblem with Agility, Wilderness Blessing, Impure Rage
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when crowd control is light and the first two waves are decided by basic physical trades.; Athena's Shield over Antique Cuirass when Use when one burst mage can remove Gloo before the attach target is punished.; Radiant Armor over Antique Cuirass when Use against repeated magic ticks or poke that keeps landing during Lord dances.; Brute Force Breastplate over Antique Cuirass when Use when movement speed, cooldown reduction, and control-duration reduction matter more than physical skill mitigation.
+- Total cost: 10810 gold
+
+Default EXP setup that turns Gloo's S1 reset loop and attach window into sustained magic pressure without giving up the defenses needed to stay mounted.
+
+### Roam Conceal Pickoff (Roam)
+
+- Items: Rapid Boots, Cursed Helmet, Glowing Wand, Oracle, Guardian Helmet, Immortality
+- Core: Cursed Helmet, Glowing Wand, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Tough Boots over Rapid Boots when Use when crowd control chains are stopping Gloo before he can stack Sticky and attach.; Encourage over Conceal when Use as the roam blessing when your team groups front-to-back and does not need hidden pickoff angles.; Antique Cuirass over Guardian Helmet when Use when physical skill damage is killing Gloo during the first contact rather than after the fight resets.; Radiant Armor over Guardian Helmet when Use against sustained magic damage that follows Gloo through the attach and detach cycle.
+- Total cost: 11190 gold
+
+Roam setup for pickoff drafts where Conceal and Flicker create the angle, then repeated magic damage marks the host for allied follow-up.
+
+### EXP Anti-Physical Wall (EXP)
+
+- Items: Warrior Boots, Cursed Helmet, Glowing Wand, Chastise Pauldron, Antique Cuirass, Immortality
+- Core: Cursed Helmet, Glowing Wand, Chastise Pauldron
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Flex: Tough Boots over Warrior Boots when Use when the physical threats are backed by enough stuns or slows to stop the attach setup.; Dominance Ice over Glowing Wand when Use when Gloo is mostly soaking basic attacks before attaching and the enemy sustain comes from heroes still hitting him. The two Lifebanes do not stack, so take the reactive one.; Blade Armor over Antique Cuirass when Use against crit or basic-attack marksmen who cannot avoid hitting Gloo during Vengeance.; Athena's Shield over Antique Cuirass when Use when a burst mage, not physical skill damage, is the reason Gloo dies before the host falls.
+- Total cost: 11070 gold
+
+Physical-heavy EXP variant for games where Gloo must be the first body hit and Vengeance buys enough time for the attached target to collapse.
+
+All builds for this hero: https://mlbbhub.com/builds/gloo.
+
+## Synergies
+
+- Eudora: Gloo works best with high burst damage heroes, as they can quickly take down the enemy hero that he brings back with his Ultimate. Like Eudora and Saber.
+- Saber: Gloo works best with high burst damage heroes, as they can quickly take down the enemy hero that he brings back with his Ultimate. Like Eudora and Saber.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T10:05:35.871Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

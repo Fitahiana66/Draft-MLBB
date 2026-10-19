@@ -1,0 +1,221 @@
+# Ling, Cyan Finch
+
+> Ling is not a blind-pick assassin right now. He is a conditional jungle carry whose games are won before the first teamfight, when the draft either gives him safe blue buff cycles and open backline angles or denies both and turns him into a wall-hopping spectator.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Chase, Burst
+- Difficulty: Medium
+- Tier this patch: A
+- Win rate: 52.61%
+- Pick rate: 0.69%
+- Ban rate: 0.68%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/ling
+
+## Guide
+
+### When Ling actually owns the map
+
+Ling is still a real pick, but only if you draft him like a specialist instead of a comfort default. The current jungle pool rewards early invade, fast first rotation, and heroes who can fight over river space without needing a perfect first clear. Ling does none of that for free. He needs blue buff, he needs time, and he needs enemy backliners who cannot punish the first jump with point-and-click control. Patch 2.1.88 ([patch notes](/patch-notes)) sped up his early-to-mid clear and shaved the cooldown on his real damage button, which shortens the stretch where he is behind, but it did not touch the draft conditions he depends on.
+
+Pick him when three conditions line up at once. First, the enemy roam and jungler are not built to live in your jungle from minute one. Second, the enemy backline is reachable once one peel spell is gone. Third, your own side lanes can survive a quieter early game while you finish the first real damage breakpoint. If even one of those conditions is missing, the game becomes harder than it needs to be.
+
+That is why Ling works better as a late rotation pick than a first-phase flex. He is strongest into drafts that look stable on paper but actually hide slow backliners and weak blue-side contest. He is much worse into Hilda-style invade pressure, Franco hooks parked around jungle entrances, Khufra holding the wall lanes, or Saber waiting for the first honest dive. Those heroes do not merely "counter mobility." They tax the exact resource Ling needs to function, which is clean access to space.
+
+If you cannot point to the enemy hero you plan to kill first and the enemy hero you need to avoid until they spend a cooldown, do not lock Ling. Pick something less conditional.
+
+### The one idea that makes Ling work
+
+Ling is not a front-to-back assassin. He is a cooldown thief.
+
+The hero looks like pure mechanics because he spends half the game on walls, but the real job is much simpler than that. Wait until one important answer is gone, drop onto the target that can no longer defend itself, then use Tempest of Blades to break the return hit and turn one kill into a reset. Everything in his kit feeds that pattern.
+
+Finch Poise is not just mobility. It is angle control. The wall gives Ling faster Lightness recovery, extra movement speed, and half-stealth, which means he decides where the fight starts. Defiant Sword is not just a dash. Cast from a wall, it is his actual entry tool, and because it is treated like a Basic Attack it benefits from on-hit item logic in ways normal assassin buttons do not. Tempest of Blades is not the flashy finisher most players think it is. It is the part of the combo that buys time, knocks the center target up, and drops the edge swords that let Ling continue or leave.
+
+That is why bad Ling games look so helpless. If he jumps before the answer spell is spent, he gets controlled on landing and dies. If he waits correctly, the whole fight looks unfair because he arrives after the enemy already used the one tool that was supposed to stop him.
+
+Treat Ling as a hero who punishes impatience, including your own.
+
+### Laning: the first five minutes
+
+Ling does not lane, but his first five minutes are still a lane phase in the strategic sense. This is the stretch where you decide whether the map will keep feeding you camps or whether you will spend the next six minutes fixing a broken start.
+
+1. **Start Defiant Sword, secure blue first, and take Finch Poise at level two.** Ling's first skill priority is simple: S2 first for clear speed, S1 second for wall access, then keep maxing S2 because it is your real damage button. Do not get cute with level-one invade routes unless your roam is already screening blue. Your first job is to leave minute one with your buff intact and your map options open.
+2. **Touch lane waves only when the lane state demands it.** After the first clear, do not stand in a side lane trimming minions just because the gank failed. If the enemy did not die and your laner is still present, leave the wave alone and keep your camp cycle clean. Ling gains more from hidden tempo than from one extra melee minion, and showing on a wave tells the whole map where your next wall route starts.
+3. **Spend Retribution to protect tempo, not to look efficient.** Saving Retri for blue security, Lithowanderer control, or the first Turtle fight is better than shaving one second off an uncontested camp. If the enemy draft threatens invade, hold the spell until the contest point. If the fight never comes, fine. The spell bought you safety by existing.
+
+The early rule is brutal but correct: if a gank does not pay for itself immediately, it was probably a mistake. Ling cannot afford decorative rotations.
+
+### The power spike you are farming toward
+
+Ling's real game starts at **Berserker's Fury plus Endless Battle**, usually around the 8:30 to 10:30 window in an even match. The 2.1.88 clear buff matters most right here: a faster camp cycle is the difference between hitting that window on schedule and arriving two minutes late as a part-time carry, so use the extra clear speed to bank gold, not to start fishing for early kills you do not need yet.
+
+Berserker's Fury is the first item that makes his passive matter in a threatening way. Ling multiplies the crit chance he buys from all sources, so one real crit item turns random chip damage into credible kill pressure. Endless Battle is what makes the short trade pattern complete. It adds movement speed, cooldown reduction, hybrid sustain, and a true-damage follow-up after a skill cast, which is exactly the kind of compact burst window Ling wants.
+
+Before these two items, your dives ask the enemy to misplay. After these two items, one clean wall entry can force a defensive spell from a marksman or mage immediately, and that is enough for Ling because his whole kit is built around chasing the second mistake after the first panic button is gone.
+
+This is also why Blade of the Heptaseas is no longer the default fantasy spike for him. The Ambush proc still hurts, and it is a real snowball option when the enemy draft is three squishies with no invade. But in normal games Ling needs his damage to stay relevant after the first touch, not just on the first touch. Berserker plus Endless gives him that. Heptaseas mostly gives him a highlight clip.
+
+If your first two items are late because your blue was contested or your early route got broken, stop pretending you are the primary carry for the next few minutes. Play for cleanup, steals, and numbers advantages until the spike is real.
+
+### Teamfight positioning and target priority
+
+The wrong reflex on Ling is to ult first into the enemy backline because it looks safe. It is not safe. It is loud, predictable, and it tells the entire enemy team where you plan to land.
+
+The correct reflex is to start above the fight, wait for one important answer to show, and only then drop onto the most reachable valuable target.
+
+1. **Wait on the off-angle wall, not the obvious one.** If the whole enemy team can see the wall you are camping, you are not threatening anything. Enter from the diagonal wall behind the objective pit, the lane cut, or the jungle lip that forces the backline to turn late.
+2. **Kill the reachable carry, not the most famous carry.** If the enemy marksman is protected by three bodies and the mage stepped one screen too far forward, the mage is the correct target. Ling is not graded on killing the most expensive hero. He is graded on removing one damage source and leaving alive.
+3. **Use Tempest of Blades to break the answer, not to announce the engage.** The best Ling ults come after the first return spell, not before it. You jump in, force the panic reaction, then ult through the punish, touch a blade, and either finish or escape. That sequencing is what separates the assassin from the donor.
+
+The support-dependent edge case matters. If Mathilda or Angela is effectively attached to your entry, you can take a deeper second jump because the reset has cover behind it. If your team offers no follow-up and no save, one kill is enough. Touch a blade, reset Defiant Sword, and leave. Greed is how Ling throws winning fights.
+
+### Itemization: defaults vs flex slots
+
+Ling's build is not six locked slots. It is a fixed core with a set of very real draft conversations.
+
+**The true core is Berserker's Fury and Endless Battle.** Those two items give him the crit pressure, movement, and short-burst bite that the hero actually scales with. **Tough Boots** is the default boot because a controlled Ling is just a squishy melee creep. **Warrior Boots** only makes sense when the enemy damage is overwhelmingly physical and their threat is repeated chip rather than layered control.
+
+From there, read the lobby instead of copying a build card:
+
+- **Windtalker** is the normal third damage slot in even games. The crit chance is worth extra on Ling because of his passive, the movement speed keeps his wall-to-wall tempo high, and the cheap curve helps him arrive at his midgame before the map closes.
+- **Blade of Despair** is the greed buy when you are ahead and the enemy backline is already struggling to survive the first jump. Buy it when your problem is not access, only finishing power.
+- **Malefic Roar** is mandatory once two enemies start stacking real armor or the front line has become the bodyguard wall you must cut through. If Antique Cuirass and physical defense are buying the enemy marksman extra time, this is the answer.
+- **Sea Halberd** is the underrated fix against sustain drafts. Estes, Floryn, heavy shield teams, and drain fighters all get much harder to burst if you only build selfish damage. Ling wants fights to stay short, and anti-heal keeps them short.
+- **Rose Gold Meteor** is the flex against burst magic when you still need an attacking item instead of a pure panic slot. The shield and movement burst are both useful on a hero who lives or dies by surviving the counterhit.
+- **Immortality** is the last-slot insurance when one death can end the game or when you are the only realistic re-entry threat on your team. It is not a "safe by default" buy. It is a late-game permission slip.
+
+For emblems, Assassin Emblem with Rupture, Master Assassin, and Killing Spree is still the cleanest fit because Ling wants penetration, isolated-target damage, and post-kill movement to leave the scene. For battle spell upgrades, Ice Retribution is the default because stolen movement speed solves more real chases than extra damage does. Flame Retribution is the snowball choice when you are already winning entries.
+
+### Mistakes that lose Ling games
+
+**Showing on a lane wave after every failed gank.** This is the macro error that quietly ruins Ling games. The moment you reveal yourself catching a wave your next route becomes obvious, your jungle timers desync, and the enemy invade window gets easier to read. If the kill did not happen, leave.
+
+**Ulting before the enemy spends the answer spell.** Ling players lose fights by treating Tempest of Blades like a starting pistol. When you ult first, the enemy still has every crowd-control tool ready for your landing. Make them panic first, then break the punish with ult.
+
+**Entering through the counter side of the map.** If Franco is holding the river wall or Khufra is shadowing the front entrance, do not force the heroic line anyway. Rotate longer and arrive late from the clean side. Ling is one of the few heroes who can afford the scenic route. Use that privilege.
+
+**Forcing the protected marksman when the mage is free.** This is the classic highlight-chasing mistake. The correct Ling target is the hero you can actually delete and exit from, not the hero the replay thumbnail would prefer. One kill that survives the reset is worth more than a failed dive on the dream target.
+
+**Building for fantasy damage when the lobby asks for utility.** Raw attack numbers look good in isolation, but they do not solve armor, sustain, or burst magic. If the enemy team is surviving because of healing, build Sea Halberd. If you are getting erased by magic burst, build Rose Gold Meteor. If armor is the issue, buy Malefic Roar. Refusing to adapt is not confidence. It is trolling with expensive icons.
+
+### Key tips
+
+> [!TIP]
+> After ulting, touch the nearest edge sword first unless the kill is literally free in front of you. The sword reset is what turns one entry into an exit route or a second kill. Ignoring it is how Ling dies in the middle of his own best spell.
+
+> [!NOTE]
+> If the enemy already saw which wall you are using, the angle is usually dead. Back off, take one more wall, and re-enter from a direction that delays their target lock. Ling's threat drops the moment the map can point at him.
+
+> [!TIP]
+> Ice Retribution is strongest on the first target that tries to run after your landing, not as a random opener on the first body you touch. Use it when movement decides whether the kill sticks.
+
+> [!NOTE]
+> Blue buff is not just comfort on Ling. It is the difference between choosing your path and accepting whatever ground route the enemy allows. If blue is under threat, play around that fact before you think about hero kills.
+
+> [!NOTE]
+> Since patch 2.1.88, Tempest of Blades briefly reveals every enemy it lands on. Read that flash. It tells you who actually got caught, where a missing assassin was hiding, and whether the follow-up jump is safe before you commit the reset.
+
+## Skills
+
+### Cloud Walker (Passive)
+
+Ling's superb Lightness Skill allows him to leap among walls. He gains 4 extra Lightness Points per second when he's on a wall and 5 extra Lightness Points each time he deals damage. Ling gains 1.6 times Crit Chance from all sources but only has 140% Crit Damage.
+
+### Finch Poise (Skill 1)
+
+Passive: Ling's Crit Chance is increased by 2.5%. Active: Ling leaps onto the designated wall and enters the Half-Stealth state, restoring Lightness Points faster and gaining 30% Movement Speed. Taking damage causes him to leave Half-Stealth. Being controlled makes him fall to the ground and slows him by 30% for 2s. When he uses this skill to jump from one wall to another, it does not trigger cooldown and refreshes Half-Stealth.
+
+### Defiant Sword (Skill 2)
+
+Ling charges in the target direction and stabs nearby enemies, dealing them 300 (+50% Total Physical Attack) Physical Damage. If Ling casts this skill when he's on the wall (no energy cost), he'll dash to the target location on the ground, dealing 300 (+50% Total Physical Attack) Physical Damage to enemies in the area and slowing them by 30% for 1.5s. Defiant Sword is regarded as Basic Attack.
+
+### Tempest of Blades (Ultimate)
+
+Ling leaps into the air, becoming invincible and gaining 10% extra Movement Speed for 1.5s. He ignores obstacles when in the air. He then lands on the ground, dealing 250 (+100% Total Physical Attack) Physical Damage to enemies in the area and slowing them by 40% for 1.5s, knocking those in the center airborne for 1s, and creating a Sword Field for 8s. Four Tempest of Blades will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of Finch Poise by 4s, reset the cooldown of Defiant Sword, and gain 25 Lightness Points.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Ling should move onto the wall with his 1st Skill, then use his 2nd Skill to land on enemy back-row heroes. Once landed, Ling should attack the target heroes with his Basic Attacks, and then cast his Ultimate to avoid incoming damage. He should then follow his targets when in the air to deal damage and knock them airborne. He can then dash with his 2nd Skill between the Tempest Blades to reset its cooldown and restore Lightness Points.
+- LANING COMBOS (laning): In the laning phase, Ling should use his 1st Skill to leap onto the wall, and strike down with his 2nd Skill to deal damage to the target enemy and slow them. Follow up with Ling's Basic Attacks and his 2nd Skill to chase down the enemy hero.
+
+## Counters to Ling (pick these against Ling)
+
+- Natalia (Assassin): +5.0 pp edge. Natalia has a statistical edge over Ling based on ranked matchup data. Pick Natalia to gain an advantage in draft.
+- Saber (Assassin): +4.0 pp edge. Saber has a statistical edge over Ling based on ranked matchup data. Pick Saber to gain an advantage in draft.
+- Lukas (Fighter): +3.1 pp edge. Lukas's sustain and durability allow them to outlast Ling's burst combos and win extended trades.
+- Bruno (Marksman): +2.9 pp edge. Bruno has a statistical edge over Ling based on ranked matchup data. Pick Bruno to gain an advantage in draft.
+- Cyclops (Mage): +2.9 pp edge. Cyclops has a statistical edge over Ling based on ranked matchup data. Pick Cyclops to gain an advantage in draft.
+- Faramis (Support/Mage): +2.6 pp edge. Faramis's protective abilities and vision control make it difficult for Ling to find isolated targets.
+- Floryn (Support): +2.5 pp edge. Floryn's protective abilities and vision control make it difficult for Ling to find isolated targets.
+- Freya (Fighter): +2.2 pp edge. Freya's durability and kit give them a strong matchup advantage against Ling throughout the game.
+
+## Heroes Ling beats
+
+- Hanzo (Assassin): +3.5 pp edge for Ling.
+- Gloo (Tank): +3.4 pp edge for Ling.
+- X.Borg (Fighter): +3.4 pp edge for Ling.
+- Atlas (Tank): +3.3 pp edge for Ling.
+- Silvanna (Fighter): +3.1 pp edge for Ling.
+- Novaria (Mage): +2.7 pp edge for Ling.
+- Gord (Mage): +2.5 pp edge for Ling.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/ling.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Crit Reset Default (Jungle)
+
+- Items: Tough Boots, Berserker's Fury, Haas's Claws, Endless Battle, Blade of Despair, Malefic Roar
+- Core: Berserker's Fury, Haas's Claws, Endless Battle
+- Emblem: Assassin Emblem with Fatal, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Magic Boots over Tough Boots when Use when the enemy draft lacks reliable knockdown control and shorter Finch Poise cycles matter more than tenacity.; Immortality over Malefic Roar when Use for final Lord fights when one revive protects Ling's wall exit better than another armor-piercing damage slot.; Rose Gold Meteor over Malefic Roar when Use against magic burst that can catch Ling after Tempest of Blades ends but before he reaches the next wall.
+- Total cost: 12510 gold
+
+Default jungle setup for crit-reset fights where Ling farms Berserker's Fury and Haas's Claws, then uses Endless Battle procs through Defiant Sword.
+
+### Snowball Execute (Jungle)
+
+- Items: Magic Boots, Sky Piercer, Berserker's Fury, Haas's Claws, Endless Battle, Blade of Despair
+- Core: Sky Piercer, Berserker's Fury, Haas's Claws
+- Emblem: Assassin Emblem with Fatal, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Tough Boots over Magic Boots when Use when early kills are available but enemy CC can knock Ling off a wall before he cashes Sky Piercer stacks.; Malefic Roar over Blade of Despair when Use when tanks buy armor early and the execute threshold is not reachable through raw attack alone.; Immortality over Blade of Despair when Use once Sky Piercer stacks are valuable enough that shutdown protection beats the last burst slot.
+- Total cost: 11960 gold
+
+High-risk snowball setup for games where Ling can score early side-lane kills, protect Sky Piercer stacks, and end before grouped control shuts down wall dives.
+
+### Anti-Armor Objective (Jungle)
+
+- Items: Tough Boots, Berserker's Fury, Endless Battle, Malefic Roar, Sea Halberd, Immortality
+- Core: Berserker's Fury, Endless Battle, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Haas's Claws over Sea Halberd when Use when the enemy lacks heavy healing or shielding and Ling needs crit sustain more than anti-regen pressure.; Blade of Despair over Immortality when Use when Ling is ahead, the enemy backline is still reachable, and the game can end before one revive is needed.; Wind of Nature over Immortality when Use against physical burst carries when a timed damage immunity saves Ling's post-ultimate landing better than a delayed revive.
+- Total cost: 11650 gold
+
+Anti-armor setup for objective fights where Ling must still threaten carries while cutting through high-defense front liners and sustain supports.
+
+All builds for this hero: https://mlbbhub.com/builds/ling.
+
+## Synergies
+
+- Angela: Ling works best with support heroes with CC abilities, that make Ling more flexible in different situations. Such as Angela and Khufra.
+- Khufra: Ling works best with support heroes with CC abilities, that make Ling more flexible in different situations. Such as Angela and Khufra.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

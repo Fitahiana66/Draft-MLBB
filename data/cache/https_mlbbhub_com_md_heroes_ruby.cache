@@ -1,0 +1,212 @@
+# Ruby, Little Red Hood
+
+> Ruby is not a pure all-in bruiser, but she hits harder now than her reputation suggests. She is a control fighter who wins by taking short trades, resetting with passive dashes, then dragging the next fight to a pace the enemy backline hates. Pick her when your team needs layered crowd control with a real damage threat behind it from EXP lane, not when the draft is begging for a solo carry.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP
+- Also played (MLBBHub editorial, not Moonton's listed lane): Roam
+- Specialty: Crowd Control, Regen
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 49.53%
+- Pick rate: 0.32%
+- Ban rate: 0.27%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/ruby
+
+## Guide
+
+### When Ruby actually fixes a draft
+
+Ruby is a rising EXP choice after patch 2.1.88 ([patch notes](/patch-notes)), which deliberately raised her damage threat while trimming the lifesteal she banks at full health. EXP lane still rewards the two things she has always done well, sustain and crowd control, but now she punishes the trades she wins instead of merely surviving them. What still does not suit her is being treated like a blind first-phase answer into every ranged poke lane on the board.
+
+Pick Ruby when the enemy draft wants to walk into you. Melee-heavy fronts, dive junglers, and short-range carries give her the kind of fights she can control. She is also a clean answer when your team already has a real tank and needs a second engager who can peel after the first contact. In those games Ruby does two jobs at once: she slows the first entry with Be Good!, then punishes the second entry with the pull and stun chain from S2 into ult.
+
+Pick her when your support or roamer can follow a grouped engage immediately. Pharsa, Cecilion, Estes, and Mathilda all turn her pull into something more than displacement. If your team has no follow-up damage and no one to stand in front of her, Ruby's control window becomes cosmetic and the pick loses half its value.
+
+Avoid Ruby when the enemy can stop her approach before she reaches pull range. Valir is a problem because the lane becomes a patience test you do not control. Kaja turns every front-foot step into a suppression threat. Phoveus punishes the passive dash pattern that makes Ruby feel safe in normal matchups. Baxia and anti-heal heavy comps do not remove her from the game, but they do change it from a long-trade lane into a short-trade lane. If you still intend to brawl through that, you are picking the wrong hero.
+
+The simplest draft test is this: if the fight you expect is front-to-back and crowded, Ruby makes sense. If the fight you expect is long-range poke into disengage, she does not.
+
+### The one thing that makes Ruby work
+
+Ruby is not a flat lifesteal fighter. She is a displacement engine whose sustain scales with danger and whose skills now actually hurt.
+
+Her passive is the whole story. Basic attacks do not trigger her lifesteal pattern, but her skills do, and every skill cast gives her a short dash plus temporary defense that stacks. The 2.1.88 change matters here: she no longer banks big heals while she is healthy, but the lower her HP drops, the harder her lifesteal ramps. That rewards the exact thing she is built for, staying in a fight that is going badly until it turns. If you stand still and try to auto like a standard bruiser, you have turned off the part of the kit that matters.
+
+Be Good! is lane control and, after the buff, real damage. The swing plus shockwave lets Ruby tag a wave and the enemy EXP laner at the same time, and the slow is what sets the next angle. Don't Run, Wolf King! is the actual trade reset. The double swing interrupts movement, tugs people back into your space, and buys time for the passive dash out. I'm Offended! is no longer just engage. It is a heavy, long-cooldown commitment that both straightens a messy front line and deletes a real chunk of whoever it catches, so you spend it on the fight that matters, not the first one you see.
+
+That is why Ruby feels oppressive in the right game and mediocre in the wrong one. She does not win by walking up and stat-checking. She wins by making the enemy spend movement and spacing twice in the same trade while she slides out, drops low, and heals harder the deeper the fight goes.
+
+### Laning: the first five minutes
+
+1. **Start with S1 and make the first wave do double duty.** Hit the melee minions and clip the enemy EXP laner with the same Be Good! cast. Ruby does not need a flashy level 1. She needs the wave moving on her terms and the opponent slowed long enough to think twice about stepping forward for the next last hit.
+2. **Take S2 at level 2 and hold it until they cross your line.** The mistake is throwing Don't Run, Wolf King! the moment it comes up. Let them walk into the minion wave first, then use the pull and double stun when they have already committed their step. That is the trade Ruby wins most often because the return path is simple: cast, dash sideways, reset.
+3. **Save Flicker or Vengeance for the first real skirmish, not for lane vanity.** Flicker matters when it converts an ult into a numbers advantage around Turtle. Vengeance matters when the enemy jungler finally joins the lane and tries to burst through your control window. Burning either spell for a tiny solo kill before minute 5 usually turns the next objective fight into a bad one.
+
+Freeze the lane if your jungler is pathing top side. Thin the wave and keep the fight near your turret if the enemy mid is missing. Ruby can survive pressure better than many EXP laners, but she still loses if she spends S2 into fog and the counter-gank arrives before the passive dash is back.
+
+### The two-item window that decides her game
+
+Ruby's first real spike is **War Axe plus Queen's Wings**, usually around the 8 to 10 minute mark in a stable EXP game.
+
+War Axe gives her exactly what early Ruby wants: HP, cooldown reduction, spell vamp, and a stacking damage passive that rewards staying in contact. Ruby does not burst people in one clean rotation. She keeps touching the fight long enough for the stack count to matter, then forces you to keep fighting while her cooldowns come back. War Axe is the item that makes those repeated half-commits hurt.
+
+Queen's Wings is what turns that pressure into survival with teeth. The spell vamp and cooldown reduction keep the passive dash loop running, and Demonize triggers below 40% HP: 30% damage reduction for three seconds plus two seconds knocked off her cooldowns, exactly when the reworked low-HP lifesteal is ramping hardest. It rewards the same behavior Ruby already rewards, staying low and staying in, so once it lands, matchups that were merely annoying in lane become manageable and the burst window that used to end her after the first control chain starts closing on its own.
+
+This is the window where Ruby stops being "hard to kill" and becomes "hard to play into." Before these two items, she can start fights but cannot always stay in them. After them, she can take first contact, live through the answer, and force a second crowd-control cycle before the enemy carry is comfortable again.
+
+Dominance Ice is the alternative second item when the enemy draft is built around sustain or shields. Its passives punish anyone who stays near her: Fortress Shield stacks Hybrid Defense for every enemy hero in range, and Lifebane cuts their Shield and HP Regen to 60% of normal, so the anti-sustain idea survives. But as a default it is the wrong second buy: it gives no spell vamp or cooldown reduction, and Ruby's engine needs both. Take Queen's Wings second, then buy Dominance Ice third when the team is not already covering anti-heal.
+
+### Teamfight positioning and target priority
+
+The common Ruby mistake is opening every fight with Flicker-Ult just because the combo exists. That is highlight behavior, not consistent winning behavior, and after the 2.1.88 cooldown change a wasted ult leaves you without your biggest swing for a long stretch of the fight.
+
+Ruby is usually better as the second touch in a fight, not the first. Let the tank or jungler force the first turn of heads, then enter once the enemy backline has taken one step forward or one step sideways. That is when her pull changes from a gimmick into a punish.
+
+1. **Stand one skill-length behind your first engager.** Close enough to follow instantly, far enough that you do not eat the same first wave of crowd control. Ruby wants to arrive after the enemy commits, not before.
+2. **Pull across your team, not deeper into theirs.** If your ult drags people toward a wall, a turret, or the rest of your lineup, it is good. If it drags you past the midpoint with no help behind you, it is self-sabotage. The direction of the pull matters more than the number of targets.
+3. **Use the passive dash sideways more often than forward.** After S1 or S2, the instinct is to chase with the dash. In real teamfights the better dash is usually diagonal or sideways, because it keeps the enemy carry inside your control radius while moving you out of the cleanest return damage angle.
+
+If your support is Mathilda, Angela, or Estes, Ruby can take a much greedier first step because there is actual follow-through behind it. If your support is Diggie into anti-engage or your backline is the real win condition, hold Ruby as peel and let the enemy walk into S2 first. She is one of the few EXP laners who can play either job in the same draft.
+
+### Itemization: locked slots and real flexes
+
+Ruby's build is not six locked items. It is a skeleton with a few conversations that matter every game.
+
+**Boots first.** Tough Boots is the default when the enemy has layered magic CC or a Valir style lane that tries to keep you out forever. Warrior Boots are better when the real problem is physical poke and repeated side-lane trading. Magic Boots only make sense when the enemy has low hard CC and you know you can spend the extra cooldown speed aggressively instead of using it to die faster.
+
+**War Axe is the non-negotiable first damage item.** Ruby wants the HP, cooldown reduction, spell vamp, and stacking combat pattern. If you skip it, you delay the point where her repeated short trades start converting into actual lane control.
+
+After War Axe, the second slot is the Queen's Wings versus Dominance Ice call from the spike section. From the third item on, the conversations are short:
+
+- **Dominance Ice** when the enemy has sustain or shields and your teammates are not already covering anti-heal. Its Fortress Shield and Lifebane passives work as a short-range aura, so they punish every enemy who stays close to her, not just whoever lands a hit.
+- **Queen's Wings** when you took Dominance Ice second and still want the low-HP survival layer that lets the second crowd-control cycle land.
+- **Brute Force Breastplate** when the enemy comp is mobile and you need movement speed plus control duration reduction to stay glued to the second target after your first catch.
+- **Athena's Shield** against burst mages who are trying to end your engage before Ruby can start healing through the fight.
+- **Blade Armor** against crit-heavy marksmen who insist on hitting the front line first.
+- **Immortality** when the game is being decided by one late Lord fight and your job is simply to force the enemy carry to answer you twice.
+
+Oracle is the item players buy too casually on Ruby. It is still usable for the balanced defenses and cooldown reduction, especially with heal or shield supports, but do not pretend it is mandatory. The tooltip boosts received shield and HP regen effects. That is valuable in the right team, but it is not a free pass to ignore the actual threat profile in front of you.
+
+### Mistakes that lose Ruby games
+
+**Dashing on autopilot into Phoveus.** Ruby's passive dash is what keeps her clean in normal fights, but it also feeds exactly the kind of target Phoveus wants to see. If he is in the game, every passive slide needs intent. Cast, hold the angle, and only dash when it changes the trade. Mindless movement turns a playable matchup into a free ult battery for him.
+
+**Starting on Valir after he still has ult.** This is the classic impatience throw. Valir wants Ruby to overcommit into the cleanse and knockback. Make him spend that button first. Walk at him with S1 slow, threaten S2 range, and commit the real engage only after the reset is gone.
+
+**Using S2 for poke instead of for commitment.** Don't Run, Wolf King! is Ruby's most important lane cooldown because it decides who owns the distance after contact. If you throw it for a tiny health lead and the enemy jungler appears five seconds later, the lane is over. Save S2 for the step that matters.
+
+**Taking long trades into Baxia or stacked anti-heal.** Ruby can still function into anti-heal, but the fight pattern changes. Against Baxia, Dominance Ice mirrors, or heavy ranged anti-heal, your job is not to prove your sustain is bigger. Your job is to take one clean crowd-control trade, back off on the passive dash, and re-enter on the next cooldown cycle.
+
+**Forcing the first Turtle fight with no wave control.** Ruby is strong around early objective scrambles, but only if the side wave is already solved. Rotating first while a stacked wave crashes into your turret means you lose gold, EXP, and sometimes the turret plate on top. Clear, move, then look for the pull angle. Do not turn good skirmish strength into bad macro.
+
+### Key tips
+
+> [!TIP]
+> Ruby's safest engage often starts with S1, not ult. The slow makes the enemy reveal their escape direction first, which gives you a cleaner S2 or Flicker-Ult line afterward.
+
+> [!NOTE]
+> If Purify is still up on the enemy carry, Ruby's job is often to pull the front line first and force the cleanse early. The second control cycle is the one that wins the fight.
+
+> [!TIP]
+> Flicker-Ult is strongest when you drag enemies sideways into your team, not straight backward into yourself. The angle matters more than the distance.
+
+> [!NOTE]
+> Vengeance is the better spell when you expect Ruby to absorb the first burst window. Flicker is better when your draft already has front line and needs one sharp catch to start the fight.
+
+## Skills
+
+### Let's Dance! (Passive)
+
+Ruby's skills have a 75% Spell Vamp Ratio (her Basic Attacks cannot trigger Lifesteal). For every 1% HP lost, her Spell Vamp Ratio increases by 1%, up to 150%. After each skill cast, Ruby can dash to another location and gain 8-25 Hybrid Defense (scales with level) for 4s (stacks up to 3 times).
+
+### Be Good! (Skill 1)
+
+Ruby swings her scythe, dealing 280 (+110% Total Physical Attack) Physical Damage to enemies hit. She then unleashes a shockwave in the same direction, dealing 140 (+55% Total Physical Attack) Physical Damage to enemies hit and slowing them by 40% for 1s.
+
+### Don't Run, Wolf King! (Skill 2)
+
+Ruby swings her scythe around herself twice, each swing dealing 60 (+55% Total Physical Attack) Physical Damage to nearby enemies, stunning them for 0.5s, and slowly pulling them toward her.
+
+### I'm Offended! (Ultimate)
+
+Ruby sweeps her scythe in the target direction, dealing 600 (+200% Total Physical Attack) Physical Damage to enemies hit, pulling them toward her, and stunning them for 0.5s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Ruby's 1st Skill to slow the enemy at a distance, and close in with her Passive dash. Then use her 2nd Skill to stun the enemies in range and use her Ultimate to pull back those who try to escape.
+- LANING COMBOS (laning): In the laning phase, Use Ruby's 1st Skill to slow down the enemy, and the dash from her Passive to get closer. Then cast Ruby's Ultimate to pull the enemy into melee range and her 2nd Skill to keep them stunned. Finally, spam her Basic Attacks to finish them off.
+
+## Counters to Ruby (pick these against Ruby)
+
+- X.Borg (Fighter): +3.0 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Ruby throughout the game.
+- Phoveus (Fighter): +2.5 pp edge. Phoveus's durability and kit give them a strong matchup advantage against Ruby throughout the game.
+- Terizla (Fighter/Tank): +2.1 pp edge. Terizla's durability and kit give them a strong matchup advantage against Ruby throughout the game.
+- Balmond (Fighter): +2.0 pp edge. Balmond's durability and kit give them a strong matchup advantage against Ruby throughout the game.
+- Gord (Mage): +1.9 pp edge. Gord has a statistical edge over Ruby based on ranked matchup data. Pick Gord to gain an advantage in draft.
+
+## Heroes Ruby beats
+
+- Sun (Fighter): +3.8 pp edge for Ruby.
+- Gloo (Tank): +3.4 pp edge for Ruby.
+- Lunox (Mage): +2.4 pp edge for Ruby.
+- Argus (Fighter): +2.3 pp edge for Ruby.
+- Karina (Assassin): +2.0 pp edge for Ruby.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/ruby.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Sustain Control (EXP)
+
+- Items: Tough Boots, War Axe, Queen's Wings, Oracle, Dominance Ice, Immortality
+- Core: War Axe, Queen's Wings, Oracle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when crowd control is light and early armor decides whether Ruby can hold the wave.; Athena's Shield over Dominance Ice when Use against one-shot magic burst that can remove Ruby before Queen's Wings or Brave Smite can stabilize the fight.; Antique Cuirass over Dominance Ice when Use when the main threat is repeated physical skill damage rather than healing, shields, or attack speed.; Brute Force Breastplate over Dominance Ice when Use when Ruby needs movement speed and control-duration reduction to keep spacing through long objective fights.
+- Total cost: 11040 gold
+
+Default EXP setup for games where Ruby farms War Axe into Queen's Wings, then uses Flicker angles to turn sustain into reliable crowd control.
+
+### EXP Vengeance Brawler (EXP)
+
+- Items: Warrior Boots, War Axe, Queen's Wings, Brute Force Breastplate, Antique Cuirass, Immortality
+- Core: War Axe, Queen's Wings, Brute Force Breastplate
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Tough Boots over Warrior Boots when Use when crowd control or magic poke matters more than the first physical lane trades.; Dominance Ice over Antique Cuirass when Use when the enemy EXP, roamer, or marksman depends on healing, shields, or attack speed to win extended fights.; Oracle over Antique Cuirass when Use when anti-sustain is already covered and extra received healing plus cooldown reduction will decide Ruby's second skill cycle.; Blade Armor over Antique Cuirass when Use when a basic-attack marksman has to hit Ruby during Vengeance before your back line can answer.
+- Total cost: 11230 gold
+
+Durable EXP setup for physical-heavy drafts where Ruby is expected to absorb the first hit instead of spending Flicker for the opening catch.
+
+### Roam Catch Frontline (Roam)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Oracle, Antique Cuirass, Immortality
+- Core: Thunder Belt, Dominance Ice, Oracle
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Rapid Boots over Tough Boots when Use when the enemy has limited crowd control and Ruby's main job is arriving first for river vision and Conceal catches.; Athena's Shield over Antique Cuirass when Use when one burst mage decides the fight before Ruby can chain her pull and second-skill stun.; Radiant Armor over Antique Cuirass when Use against repeated magic poke or burn that keeps hitting Ruby through Lord and inhibitor setups.; Brute Force Breastplate over Antique Cuirass when Use when movement speed and control-duration reduction matter more than pure physical skill mitigation.
+- Total cost: 10680 gold
+
+Roam setup for drafts that need Ruby as a catch-and-peel frontliner rather than a side-lane bruiser.
+
+All builds for this hero: https://mlbbhub.com/builds/ruby.
+
+## Synergies
+
+- Pharsa: Ruby works best with heroes who can deal high AOE burst damage. Their skills can deal more damage to enemies who are stunned and pulled by her 2nd and Ultimate skills. Such as Pharsa and Kadita.
+- Kadita: Ruby works best with heroes who can deal high AOE burst damage. Their skills can deal more damage to enemies who are stunned and pulled by her 2nd and Ultimate skills. Such as Pharsa and Kadita.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

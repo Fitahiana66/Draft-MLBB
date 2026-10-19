@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Draft &amp; Build Advisor — MLBB</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">⚔</div>
+    <div>
+      <h1>Draft <span class="amp">&amp;</span> Build Advisor</h1>
+      <p class="subtitle">Ton build adapté à l'équipe adverse — pour ne plus crafter à l'aveugle</p>
+    </div>
+  </div>
+  <div class="top-meta" id="topMeta">Données MLBBHub en chargement…</div>
+</header>
+
+<nav class="topnav">
+  <a class="nav-link active" href="/index.html">🧩 Conseiller build</a>
+  <a class="nav-link" href="/simulateur.html">⚖ Simulateur 5v5</a>
+  <a class="nav-link" href="/pick.html">🎯 Pick &amp; Ban</a>
+</nav>
+
+<main>
+  <section class="panel">
+    <div class="grid-pickers">
+      <div class="field">
+        <label for="myHero">Ton héros</label>
+        <input id="myHero" list="heroList" placeholder="Ex : Chou" autocomplete="off">
+        <select id="buildVariant" hidden></select>
+        <div class="hint" id="myHeroInfo"></div>
+      </div>
+      <div class="field">
+        <label>Équipe adverse <span class="muted">(1 à 5)</span></label>
+        <div class="enemy-row">
+          <input class="enemy" list="heroList" data-i="0" placeholder="Ennemi 1" autocomplete="off">
+          <input class="enemy" list="heroList" data-i="1" placeholder="Ennemi 2" autocomplete="off">
+          <input class="enemy" list="heroList" data-i="2" placeholder="Ennemi 3" autocomplete="off">
+          <input class="enemy" list="heroList" data-i="3" placeholder="Ennemi 4" autocomplete="off">
+          <input class="enemy" list="heroList" data-i="4" placeholder="Ennemi 5" autocomplete="off">
+        </div>
+      </div>
+    </div>
+    <datalist id="heroList"></datalist>
+    <div class="actions">
+      <button id="btnAnalyze" class="primary">Analyser le matchup</button>
+      <button id="btnClear" class="ghost">Effacer</button>
+    </div>
+    <div id="status" class="status" hidden></div>
+  </section>
+
+  <section class="panel help-panel">
+    <details>
+      <summary>Comment lire le résultat ? (build, ajustements, swaps)</summary>
+      <div class="help-body">
+        <p><b>① Ton build conseillé (référence)</b> — les 6 items dans l'ordre de craft, poste 1 → poste 6. <b>Quand tu es à l'aise (avantage), tu le suis tel quel.</b> La colonne de droite donne le coût de l'item et le total cumulé. Juste en dessous : le bloc <b>Emblème & talents</b> — toutes les variantes de build (clique pour changer), et un sélecteur du <b>talent core (slot 3)</b> avec l'explication de son effet (les talents sont un vivier commun depuis la refonte).</p>
+        <p><b>② Progression : menaces & proies à chaque palier</b> — ton avantage évolue au fil du build. Pour chaque palier (« après l'item N », jusqu'à l'item suivant) : à gauche les héros à <b>craindre</b> (rouge), à droite ceux que tu <b>domines</b> (vert). La liste se met à jour quand ton nouvel item contre leur profil (défense magique/physique, anti-soin, anti-crit, pénétration) et selon ton taux de victoire par durée. Le chiffre = ton avantage estimé en points de pourcentage.</p>
+        <p><b>③ Ajustements (poste par poste)</b> — à appliquer <b>si tu es désavantagé ou face aux menaces</b>. Chaque ligne = un poste : <i>« Poste 5 : item A → item B »</i>, avec la raison et le surcoût. Comme au football, on change des postes : <b>les postes non cités ne changent pas</b>. « Automatique » = déclenché par la composition, « Prioritaire » = recommandation selon la situation.</p>
+        <p><b>④ Plan de partie (situation)</b> — dit si tu es en <b>avantage / équilibré / désavantagé</b>, la posture à adopter, l'<b>ordre de craft ajusté</b> (avec les postes remplacés) et surtout <b>quels items du build sont annulés</b>. En bas, si la partie s'annonce courte (≈ 9-12 min) ou que tu farms peu, la liste « priorise » te donne les 2-3 items à viser en premier.</p>
+        <p><b>⑤ Remplacements conditionnels</b> — des variantes <b>non nécessaires ici</b> : elles ne s'activent que si un cas précis se présente (ex. « s'il y a un soigneur : remplacer X par Y »). Tu peux les ignorer si le cas ne se produit pas. Le texte source en anglais est replié sous « détail d'origine (EN) ».</p>
+        <p class="muted">Le compromis est assumé : un build défensif rend ton héros plus durable mais moins capable de tuer. À l'inverse, ne rajoute pas de défense si tu as l'avantage — tu perdrais ta capacité à conclure.</p>
+      </div>
+    </details>
+  </section>
+
+  <section id="results"></section>
+
+  <section class="panel glossary-panel">
+    <details>
+      <summary>Glossaire — tous les rôles et termes de build expliqués</summary>
+      <div id="glossary" class="glossary"></div>
+    </details>
+  </section>
+</main>
+
+<footer>
+  Données : <a href="https://mlbbhub.com" target="_blank" rel="noopener">mlbbhub.com</a>
+  — statistiques ranked (GMS/MAPI Moonton) actualisées quotidiennement.
+  Cite toujours la page, jamais un chiffre recopié.
+</footer>
+
+<script src="/fr.js"></script>
+<script src="/engine.js"></script>
+<script src="/app.js"></script>
+</body>
+</html>

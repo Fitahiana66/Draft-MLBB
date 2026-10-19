@@ -1,0 +1,204 @@
+# Brody, The Lone Star
+
+> Brody is the marksman you draft when every basic attack has to land harder than the other guy's, not faster. He trades attack speed for the heaviest per-hit number in the role, a ramping passive that rewards staying on a single target, and an ultimate that detonates harder the lower your enemies' health drops. No crit scaling, one stun, zero room for error.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Burst, Finisher
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 50.65%
+- Pick rate: 0.87%
+- Ban rate: 2.02%
+- Released: 2020
+- Page: https://mlbbhub.com/heroes/brody
+
+## Guide
+
+### When Brody is the pick
+
+Brody is a draft-check, not a blind first-lock. He wins when the enemy team has to stand in one place to deal damage and your team can keep assassins off him long enough to stack marks. Patch 2.1.67 ([patch notes](/patch-notes)) reworked Abyss Impact to scale with passive stacks instead of pierce count, pushed the lost-HP component on Torn-Apart Memory to ten percent at max rank, and shaved base HP and movement speed. The draft filters are stricter than before 2.1.67 because Brody is squishier and his early-game damage no longer spikes off a stacked wave.
+
+**Good Brody drafts**: the enemy lineup fields a marksman who auto-attacks from a fixed position (Hanabi, Miya, Layla, Ixia) and a mage without a dash (Eudora, Aurora, Vexana, Gord). Your side brings a roamer who locks targets down (Tigreal, Atlas, Minsitthar, Johnson) and a support who can peel or amplify your basic attacks (Rafaela, Angela, Estes). The thesis is simple: your roamer holds them still, you stack marks, and no one on their side can leave before Torn-Apart Memory detonates.
+
+**Bad Brody drafts**: two or more assassins (Ling, Lancelot, Hayabusa, Natalia stacked) or a Khufra on the enemy side. Khufra alone is a reason to swap: Bouncing Ball knocks any blink airborne, and Corrosive Strike, your only escape, gets cancelled the instant you dash across him. Franco in the support slot turns every wave into a recall decision because one landed hook kills you before Bloody Hunt wears off. Chou on the EXP lane is a third soft veto: his two-stage knockup into Way of the Dragon ignores your dash timing and the follow-up damage deletes your post-2.1.67 smaller HP pool before Flicker comes off cooldown.
+
+If the enemy has two working dash-in threats and no one on your side is built to intercept them, Brody is the wrong pick. The same passive that punishes stationary targets also punishes you against mobility. The disqualifying test: "Can I name two heroes on my team whose job it is to body-block for me?" If the answer is zero, lock someone else.
+
+### The one thing that makes Brody work
+
+Brody is not a marksman who scales on attack speed or crit. He is a marksman whose damage is architecturally baked into his passive, and the entire itemization philosophy follows from that single fact.
+
+Every basic attack carries a hero-level-scaling flat damage component on top of his physical attack multiplier. The level-scaling half of that formula cannot be critically struck, which means Berserker's Fury multiplies only half his damage while costing a full item slot. Malefic Roar and raw physical attack multiply all of it. This is not a preference, it is math, and ignoring it is how most Brody players cap their damage ceiling without realising.
+
+The kit serves one compounding attack sequence: Abyss Impact applies a mark and slows. Basic attacks apply more marks and grant movement speed per stack. Corrosive Strike dashes in, stuns, applies a mark, and grants a second reposition step. Torn-Apart Memory detonates all marks on every target in range, with per-stack damage that scales on lost HP. The 2.1.67 rework also made Abyss Impact itself scale with passive stacks: firing S1 at a four-mark target hits harder than firing it at a fresh one. The change means S1 is no longer a wave-alignment poker. It is a second stage of the mark-amplified combo. Fire it after the first two autos, not before.
+
+Every ability in the kit generates marks because the mark is the multiplier. At full stacks on a target, Brody hits harder and moves faster against them. The whole kit is one sequence, not five separate buttons. If you are pressing abilities on cooldown instead of stacking toward the detonation, you are playing a different hero.
+
+### Laning: the first six minutes
+
+Gold lane, solo, and your goal before the 6-minute mark is to reach level 5 without dying, clear waves cleanly, and exit the lane with an XP lead and both summoner spells intact.
+
+1. **Take Abyss Impact at level 1 and fire it through the wave to last-hit and poke simultaneously.** After 2.1.67, the old pierce-bonus-per-enemy-hit mechanic is gone. Hitting five minions no longer amps S1 damage. Aim it to secure the last three creeps from the first wave plus a mark on the enemy laner. Greed on perfect alignment now costs you a wasted cooldown and lost gold.
+2. **Never Corrosive Strike forward unless the kill is confirmed and the jungler is on vision.** The cooldown is longer than any early-game trade window, and the dash is your only self-peel. If the enemy roamer rotates during your dash, you have no escape, and Brody's post-2.1.67 HP pool dies in one hook or CC chain. Hold it. The one exception: your roamer has landed a guaranteed setup (Franco hook, Tigreal Flicker-ult), the enemy laner is below 40% HP, and the enemy jungler is showing on the opposite side of the map.
+3. **Level 1: Abyss Impact. Level 2: Corrosive Strike. Level 3: Abyss Impact. Level 4: Torn-Apart Memory at minute 2:00 to 2:30.** Max S1 first after ultimate priority. The 2.1.67 mana rebalance flattened S1's cost curve, so max-rank casts cost less than they used to and the rank points pay off.
+4. **Push hard on the third wave around the 1:45 mark, then back off.** That is when the enemy jungler hits level 4 and looks to gank. If your roamer is present, trade into the tier one turret. If your roamer is rotating, freeze the wave near your tower. You do not win 1v2 dives on Brody, especially after the 2.1.67 base defense nerf.
+
+### The power spike you are farming toward
+
+The spike that flips Brody from farmer to killer is Endless Battle completing, somewhere between the 8 and 11 minute mark depending on how many turret plates you secured.
+
+Before Endless Battle, Brody's kit is functional but incomplete. His basic attacks hurt but lack sustain, his mark stacking takes too long to matter in a fight, and his ultimate's lost-HP component fires on enemies who have not yet bled enough. After Endless Battle, every post-skill basic attack within a short window procs true damage that ignores armor, plus the item grants hybrid lifesteal and a movement speed burst on trigger. The combo becomes: auto, auto (two marks), S1 (third mark plus slow), auto with Divine Justice proc (true damage), S2 dash-stun (fourth mark), auto with Divine Justice again, ult detonation. The sequence deletes a frontliner without Brute Force Breastplate in under four seconds.
+
+The second spike arrives with Malefic Roar at the 12 to 14 minute mark. Armor Buster converts enemy physical defense into percentage penetration, which is the difference between tickling a Khufra and killing him. Without Malefic Roar, a tank with Antique Cuirass and Blade Armor walls Brody completely. With it, the raw physical attack from Blade of Despair converts into real damage on armored targets.
+
+The danger window is the 5 to 8 minute gap between lane phase ending and Endless Battle finishing. A smart enemy jungler invades during this window. If they wait until Endless Battle completes, the game is already drifting in your direction. Protect that window above all else: take jungle camps, avoid mid-river fights, and do not answer a gank unless your roamer has already succeeded.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a clumped enemy team is to fire Abyss Impact at the nearest tank and start auto-attacking. That reflex loses the teamfight on Brody.
+
+Torn-Apart Memory hits every marked target in its lock-on radius, and the 2.1.67 patch pushed the per-stack lost-HP component to ten percent at max rank. The optimisation is to spread marks across multiple enemies before casting ult, and to cast it when those enemies are already bleeding, not at full health. A four-enemy fight where three targets carry two or three marks each and are below half HP detonates for far more total damage than a four-mark ult on one full-HP tank.
+
+1. **Open with Abyss Impact through the clump, not at a single target.** Aim for the line that touches three or more enemies. Two marks on three bodies is a stronger pre-ult state than four marks on one body, because the ult's lost-HP scaling now rewards breadth over depth. The exception is when a single enemy carry is already at 30% HP: in that case, stack all four marks on them and detonate immediately.
+2. **Corrosive Strike is your assassin button, not your initiate button.** Your role in the fight starts with Abyss Impact, then basic attacks from behind your frontline. The dash-stun stays on standby until Ling or Lancelot appears. Dashing forward at full HP with no stun held means you die to the counter-engage before your second auto lands. The stun window is short, but paired with the movement speed from the second dash step, it buys enough time for your support to shield or heal.
+3. **Cast Torn-Apart Memory only after two or more marked enemies have dropped below half HP.** The lost-HP component is tiny at full health and massive on a wounded target after 2.1.67. Wasting the cast on healthy enemies means the next engagement happens without your biggest cooldown. If the fight is a poke war and no one is bleeding, hold it. A held ultimate is a threat the enemy has to play around. A wasted one is a timer you handed them for free.
+
+The support-conditional edge case: if your support is Estes, his sustained heal + link bolt lets you push further forward and commit to longer fights because the heal covers the HP gap between your auto wind-ups. If your support is Diggie, you do not get that same sustain, and you should stay at max S1 range, kite with mark speed, and only commit forward once Torn-Apart Memory is ready to detonate. Match positioning to the peel you actually have, not the peel you wish you had.
+
+### Itemization: defaults vs flex slots
+
+Brody has three locked items and three real conversations. The locked three are Endless Battle, Blade of Despair, and Malefic Roar. Skip any of those and your damage profile breaks.
+
+The first conversation is the boot slot. **Swift Boots** is the default because the 15% attack speed offsets the wind-up penalty, which is worth more than defense on a hero who wins by landing autos faster between skill casts. **Tough Boots** comes in against three or more hard CC threats (Chou + Khufra + Aurora, or similar). The 30% CC reduction is the difference between getting chain-locked during Corrosive Strike's wind-up and escaping. **Warrior Boots** is almost never correct. Physical defense on a hero who dies to CC, not basic attacks, is protection against the wrong threat.
+
+The second conversation is the fourth item slot. **Wind of Nature** is the pick against two or more physical damage dealers who can reach you (Yi Sun-shin, Claude, Beatrix, Lancelot). The active's physical immunity is a full fight reset against sustained dive. **Brute Force Breastplate** replaces it when the threat is burst magic or mixed damage, the Adaptive Attack stacks fill naturally from your mark-accumulated auto sequence, and the full-stack control-duration reduction is a real answer to the CC chains that kill you. **Sea Halberd** enters the conversation when the enemy has a healer (Estes, Rafaela, Floryn) or a shield-support (Mathilda) that keeps the first target alive through your marks.
+
+The third conversation is the fifth slot. **Immortality** is the standard closer. The resurrect matters more on Brody than most marksmen because his wind-up makes him easier to catch than a Claude or a Beatrix, and his first death to an assassin usually happens before his defensive item completes. **Rose Gold Meteor** replaces Immortality against heavy magic burst (Eudora, Aurora, Kadita) where the Lifeline shield stops the one-shot before the revive ever triggers. **Hunter Strike** is the greedier sixth when you want mobility and cooldown reduction and the enemy has no assassination threat: its movement speed trigger on five damage instances stacks fast on a hero whose full combo fires seven or more damage events.
+
+**Berserker's Fury** is the item worth naming as a trap. Some guide sites still list it as core. It is not. The level-scaling component of Brody's passive cannot critically strike. Berserker's multiplies half his formula at the cost of a full item slot. Endless Battle's true damage proc multiplies the whole formula. When in doubt between the two, Endless Battle wins every time.
+
+**Emblem**: Assassin Emblem. Rupture (adaptive penetration, compounds with Malefic Roar), Master Assassin (amplified damage on isolated targets, which is the entire point of his dash-stun pick pattern), and Killing Spree (post-kill HP restore and movement burst turns a secured pick into a safe reset). The Marksman Emblem with Fatal plus Weapon Master gives Brody almost nothing because crit is a dead stat on him. Battle spell is Flicker every game. Purify only ever replaces it against comps that chain cleansable hard CC, and never against suppression: Purify cannot break a Franco, Kaja, or Baxia lock, so a suppression-heavy draft is a Flicker-and-positioning problem, not a Purify one.
+
+### Mistakes that lose Brody games
+
+**Dashing in with Corrosive Strike at zero marks.** The stun window is short. Using it on an unmarked target means you land the stun, auto twice, reach three marks as the stun ends, and the enemy dashes out. Correct order: two basic attacks plus Abyss Impact first to pre-load marks, then dash for the stun as the third or fourth mark, finish with one auto and ultimate. Pre-stacking is the difference between a kill confirmed and a dash wasted.
+
+**Firing the ultimate at full-HP targets to open a fight.** After the 2.1.67 buff, the lost-HP component is the largest damage slice on Torn-Apart Memory, and on a full-HP target that slice is zero. Wasting the cast on a healthy enemy means the next fight happens without your biggest tool. Save it for the cleanup phase or the second rotation of a two-engage fight. If the enemy is all full HP and you cannot reach anyone to auto them down first, your team is not ready to fight and your ult is not the button that changes that.
+
+**Dashing across Khufra's Bouncing Ball.** Corrosive Strike qualifies as a blink. When Khufra activates Bouncing Ball, any dash over him gets knocked airborne, turning your escape into a CC window the enemy team converts into a kill. If you see Khufra rolling toward you, do not dash. Walk perpendicular, burn Flicker if needed, and wait out Bouncing Ball's duration. The dash returns to being safe the moment the ball ends.
+
+**Forcing fights before Endless Battle completes.** Brody with one item loses to every other marksman at one item because the attack speed penalty is not yet compensated by the true damage proc. If the enemy initiates at the 5 to 7 minute mark, decline. Farm side-lane camps, clear mid from range with S1, and wait. The one permissible exception: a confirmed pick from your roamer where the kill is guaranteed before your damage matters (a landed Franco hook into turret, a perfect Atlas ult onto three).
+
+**Applying all four marks on one target in a multi-target fight.** The 2.1.67 ult buff rewards spreading marks because the lost-HP scaling fires per stack per target. Four marks on one three-quarter-HP tank hits less total damage than two marks on each of three wounded enemies. Spread marks with basic attacks across the front line during the poke phase, then detonate across all of them. The only time you stack four on one enemy is when a single carry is already near death and the cleanup guarantees a numbers advantage.
+
+### Key tips
+
+> [!TIP]
+> After 2.1.67, Abyss Impact's damage scales with your own passive stacks on the target. If the enemy already carries three or four marks, your S1 hits noticeably harder than it did at zero stacks. Fire your second S1 cast around peak marks rather than spamming it on cooldown.
+
+> [!NOTE]
+> Torn-Apart Memory locks onto every marked target in range, not just the one you are autoing. If you have two marks on the enemy jungler, two on the mage, and zero on the tank because you ignored the tank, the ult fires on all four targets simultaneously. The pre-ult job is to mark bodies, not to tunnel one.
+
+> [!TIP]
+> The movement speed bonus from Abyss Mark is the passive's second half and the one most Brody players ignore. At four stacks, you move significantly faster while fighting that target. This is what lets you kite a Lancelot who just burned his immunity. If you are standing still during the mark-accumulation auto sequence, you are wasting the passive.
+
+> [!WARNING]
+> If the enemy draft has Khufra plus any second lock-down roamer (Franco, Tigreal, Atlas), swap out of Brody at draft. Bouncing Ball plus a follow-up hook or Flicker-ult kills you before Corrosive Strike comes off cooldown, and no amount of skill compensates for your only escape being countered by a passive ability.
+
+## Skills
+
+### Abyss Corrosion (Passive)
+
+With his Basic Attacks resonated with the Abyss Power within his body, Brody is able to move while winding up his Basic Attacks (which will be interrupted when casting skills), at the cost of having longer Basic Attack Animation and lower Attack Speed Bonus. Each Basic Attack deals (+140% Total Physical Attack) (+45*Hero Level) Physical Damage (of which the damage scaling with level cannot be critical), increases Movement Speed by 30% (which will decay rapidly in 1.2s), and applies 1 stack of Abyss Mark on the enemy, capped at 4 stacks. Each stack of Abyss Mark increases Brody's damage against the target by 5% and his Movement Speed by 5%.
+
+### Abyss Impact (Skill 1)
+
+Brody launches a shockwave in the target direction, dealing 200 (+170% Total Physical Attack) Physical Damage and slowing enemies by 30% for 1.2s while applying one stack of Abyss Mark. For each enemy hit by the shockwave, they take an extra 5% slow and one extra Abyss Mark stack (capped at 45% slow and 4 stacks).
+
+### Corrosive Strike (Skill 2)
+
+Brody dashes to an enemy, dealing 200 (+70% Total Physical Attack) Physical Damage to the target, stunning the target for 0.8s, and applying 1 stack of Abyss Mark on the target. Upon hitting the target, he is able to move one more time in the movement direction, gaining 45% Movement Speed that will decay rapidly in 1.2s.
+
+### Torn-Apart Memory (Ultimate)
+
+Brody locks onto all enemies within 8 unit(s), dealing 216 (+165% Extra Physical Attack) Physical Damage to them. For each target with Abyss Mark stacks, all stacks are consumed, dealing additional Physical Damage equal to 94 (+72% Extra Physical Attack) (+ 4% of the target's lost HP) per stack.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Brody should prioritize using his 1st Skill and Basic Attack, to apply Abyss Marks on enemy heroes outside of the battle area. He can then use his Ultimate and Basic Attack to deal heavy damage and his 2nd Skill and Basic Attack to chase down enemies on the run.
+- LANING COMBOS (laning): Brody can regularly use his 1st Skill and Basic Attacks to clear lanes and poke the enemy heroes. Once enemy heroes are low on HP, Brody can use his 2nd Skill to close in and stun them, then cast his Ultimate to try to finish them off.
+
+## Counters to Brody (pick these against Brody)
+
+- Wanwan (Marksman): +2.3 pp edge. Brody is countered by heroes with CC immunity and multiple movement abilities, because they can quickly close in on Brody, giving him no chance to stack the Abyss Mark. Such as Martis and Wanwan.
+- Masha (Fighter/Tank): +2.2 pp edge. Across Brody's measured matchups, Brody is weakest once matches pass 16 minutes. Take the game long with Masha.
+- Barats (Tank/Fighter): +2.1 pp edge. Barats's durability and kit give them a strong matchup advantage against Brody throughout the game.
+- Saber (Assassin): +2.0 pp edge. Across Brody's measured matchups, Brody is weakest once matches pass 16 minutes. Take the game long with Saber.
+- Khufra (Tank): +1.9 pp edge. Across Brody's measured matchups, Brody is weakest once matches pass 16 minutes. Take the game long with Khufra.
+- Kadita (Mage/Assassin): +1.7 pp edge. Kadita's burst damage can eliminate Brody before they can deal sustained damage in team fights.
+
+## Heroes Brody beats
+
+- Karina (Assassin): +4.4 pp edge for Brody.
+- Belerick (Tank): +3.2 pp edge for Brody.
+- Natalia (Assassin): +2.8 pp edge for Brody.
+- Irithel (Marksman): +2.7 pp edge for Brody.
+- Helcurt (Assassin): +2.2 pp edge for Brody.
+- Gusion (Assassin): +1.8 pp edge for Brody.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/brody.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-07. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Default (Gold)
+
+- Items: Swift Boots, Endless Battle, Blade of Despair, Malefic Roar, Brute Force Breastplate, Immortality
+- Core: Endless Battle, Blade of Despair, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Flicker
+- Flex: Wind of Nature over Brute Force Breastplate when Use against two or more physical divers who can reach you through your frontline.; Sea Halberd over Brute Force Breastplate when Use when the enemy has a healer or shield support keeping the first target alive.; Rose Gold Meteor over Immortality when Use against magic burst that kills you before Immortality revives.
+- Total cost: 12100 gold
+
+Balanced gold lane setup. Brute Force Breastplate covers the survivability gap while its Adaptive Attack stacks compound with Brody's mark-accumulated auto sequence. Immortality is the standard late-game closer.
+
+### Maximum Burst (Gold)
+
+- Items: Swift Boots, Endless Battle, Blade of the Heptaseas, Blade of Despair, Malefic Roar, Hunter Strike
+- Core: Endless Battle, Blade of Despair, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Flicker
+- Flex: Brute Force Breastplate over Blade of the Heptaseas when Use when the enemy has an assassin or burst mage that can reach you before you finish the carry.; Immortality over Hunter Strike when Use in the very late game when a single death decides the match.; Sea Halberd over Blade of the Heptaseas when Use when a healer, shield support, or high-HP fighter is preventing marks from sticking.
+- Total cost: 12070 gold
+
+Full-damage setup for games where you have double frontline peel and can afford to skip defense. Heptaseas' Ambush passive resets between mark-stacking sequences. Malefic Gun extends your range and adds flat penetration.
+
+### Anti-Dive Survival (Gold)
+
+- Items: Tough Boots, Endless Battle, Blade of Despair, Malefic Roar, Wind of Nature, Rose Gold Meteor
+- Core: Endless Battle, Blade of Despair, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Purify
+- Flex: Brute Force Breastplate over Wind of Nature when Use when the main threat is magic burst rather than physical dive.; Immortality over Rose Gold Meteor when Use when fights go past 15 minutes and the revive timer matters more than the Lifeline shield.; Swift Boots over Tough Boots when Use when the enemy CC count is low enough to survive without the CC reduction.
+- Total cost: 11830 gold
+
+Defensive setup for CC-heavy or dive-heavy drafts where surviving the first lockout matters more than maximizing the sixth damage slot. Purify plus Tough Boots plus Wind Chant active gives three survival layers against chain-CC engage.
+
+All builds for this hero: https://mlbbhub.com/builds/brody.
+
+## Synergies
+
+- Hylos: Brody works best with heroes who can perform lock-on attacks or heroes with area CC abilities, as they can give Brody more room to deal damage and farm better. Such as Hylos and Minsitthar.
+- Minsitthar: Brody works best with heroes who can perform lock-on attacks or heroes with area CC abilities, as they can give Brody more room to deal damage and farm better. Such as Hylos and Minsitthar.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

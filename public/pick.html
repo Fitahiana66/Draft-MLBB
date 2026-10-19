@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pick &amp; Ban — Draft &amp; Build Advisor MLBB</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">🎯</div>
+    <div>
+      <h1>Pick <span class="amp">&amp;</span> Ban</h1>
+      <p class="subtitle">Choisis le bon héros en classé — 5 contres suggérés selon ton rôle face aux picks adverses</p>
+    </div>
+  </div>
+  <div class="top-meta" id="topMeta">Données MLBBHub en chargement…</div>
+</header>
+
+<nav class="topnav">
+  <a class="nav-link" href="/index.html">🧩 Conseiller build</a>
+  <a class="nav-link" href="/simulateur.html">⚖ Simulateur 5v5</a>
+  <a class="nav-link active" href="/pick.html">🎯 Pick &amp; Ban</a>
+</nav>
+
+<main>
+  <section class="panel">
+    <div class="grid-pickers">
+      <div class="field">
+        <label for="myRole">Ton rôle</label>
+        <select id="myRole">
+          <option value="flex">Peu importe (tous rôles)</option>
+          <option value="roam">Roamer / Tank</option>
+          <option value="exp">Exp (voie solo)</option>
+          <option value="jungle">Jungler</option>
+          <option value="mid">Mid</option>
+          <option value="gold">Gold / Marksman</option>
+        </select>
+        <div class="hint">Les suggestions seront limitées aux héros qui jouent ce rôle.</div>
+      </div>
+      <div class="field">
+        <label>Héros déjà pris par l'adversaire <span class="muted">(1 à 5)</span></label>
+        <div class="enemy-row">
+          <input class="pick-enemy" list="heroList" data-i="0" placeholder="Adverse 1" autocomplete="off">
+          <input class="pick-enemy" list="heroList" data-i="1" placeholder="Adverse 2" autocomplete="off">
+          <input class="pick-enemy" list="heroList" data-i="2" placeholder="Adverse 3" autocomplete="off">
+          <input class="pick-enemy" list="heroList" data-i="3" placeholder="Adverse 4" autocomplete="off">
+          <input class="pick-enemy" list="heroList" data-i="4" placeholder="Adverse 5" autocomplete="off">
+        </div>
+      </div>
+    </div>
+    <div class="field">
+      <label>Ton équipe a déjà pris <span class="muted">(optionnel, 0 à 4 — exclus des suggestions)</span></label>
+      <div class="enemy-row">
+        <input class="pick-mine" list="heroList" data-i="0" placeholder="Allié 1" autocomplete="off">
+        <input class="pick-mine" list="heroList" data-i="1" placeholder="Allié 2" autocomplete="off">
+        <input class="pick-mine" list="heroList" data-i="2" placeholder="Allié 3" autocomplete="off">
+        <input class="pick-mine" list="heroList" data-i="3" placeholder="Allié 4" autocomplete="off">
+      </div>
+    </div>
+    <datalist id="heroList"></datalist>
+    <div class="actions">
+      <button id="btnFind" class="primary">Trouver mes contres</button>
+      <button id="btnClear" class="ghost">Effacer</button>
+    </div>
+    <div id="status" class="status" hidden></div>
+  </section>
+
+  <section class="panel help-panel">
+    <details>
+      <summary>Comment sont choisies les suggestions ? (méthode et limites)</summary>
+      <div class="help-body">
+        <p>On part des <b>faiblesses déclarées des héros adverses</b> (la liste des héros contre lesquels ils perdent le plus, sur MLBBHub) puis on croise :</p>
+        <p><b>① Le nombre de contres</b> — un héros qui bat 3 adversaires sur 5 monte plus haut qu'un héros qui n'en bat qu'un.</p>
+        <p><b>② L'amplitude des duels</b> — battre un adversaire de +4 points compte plus qu'un +1. Les adversaires « menaçants » (gros banRate) pèsent double.</p>
+        <p><b>③ Le méta</b> — on ajoute un bonus de taux de victoire et de palier pour ne pas proposer un héros qui gagne ses duels mais perd tout le reste.</p>
+        <p>Le filtre de rôle garde uniquement les héros qui jouent le rôle demandé. Un second passage vérifie l'avantage dans les deux sens quand la donnée existe. Les héros adverses et ceux déjà pris chez toi sont exclus.</p>
+      </div>
+    </details>
+  </section>
+
+  <section id="results"></section>
+</main>
+
+<footer>
+  Données : <a href="https://mlbbhub.com" target="_blank" rel="noopener">mlbbhub.com</a>
+  — suggestions indicatives à croiser avec le confort de jeu et le plan d'équipe.
+</footer>
+
+<script src="/fr.js"></script>
+<script src="/engine.js"></script>
+<script src="/common.js"></script>
+<script src="/pick.js"></script>
+</body>
+</html>

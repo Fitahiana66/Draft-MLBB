@@ -1,0 +1,196 @@
+# Balmond, Bloody Beast
+
+> Balmond is a low-maintenance fighter who wins when the game rewards staying in the middle of the fight longer than the enemy expected. Pick him for wave control, objective cleanup, and second-entry damage. Do not pick him when the enemy can repeatedly stop Cyclone Sweep or kite Soul Lock before the fight starts.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: Jungle
+- Specialty: Damage, Regen
+- Difficulty: Easy
+- Tier this patch: C
+- Win rate: 46.73%
+- Pick rate: 0.66%
+- Ban rate: 0.40%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/balmond
+
+## Guide
+
+### Lock Balmond when the fight has to walk through him
+
+Balmond is correct when your team needs a bruiser who can clear, take chip damage, and still arrive at Turtle or Lord with enough health to contest. He is not a blind answer to every EXP lane. He is a simple hero with one very strict question: can he keep spinning after he enters? Patch 2.1.88 ([patch notes](/patch-notes)) sharpened that question by moving his physical defense shred onto the spin itself, so the longer he stays in the circle, the softer the target gets.
+
+Pick him into short-range teams that must step into the river, pit mouth, or lane choke before they deal damage. Fighters who want extended trades, tanks who start fights by walking forward, and marksmen with weak disengage all give Balmond real work. His dash tags the first hero it hits, his spin keeps pressure in a small area, and his ultimate turns low-health targets into objective-like smite checks.
+
+The pick becomes a trap into displacement chains and clean range control. Franco, Kaja, Minsitthar, Chou, Jawhead, and Grock all create problems for different reasons: suppression, forced movement, dash denial, or terrain control changes whether Balmond gets to finish his channel. Long-range mages are also annoying when your roamer cannot open a path. Cecilion and similar backline artillery do not have to duel Balmond. They just make him spend the whole fight walking.
+
+The clean draft has one engage teammate and one reliable follow-up damage source. If your roamer starts the fight and your gold laner can hit the target you shredded, Balmond's value is obvious. If your team has no lockdown, Balmond has to be both starter and finisher, and that is usually asking the easiest hero in the lobby to solve the hardest problem.
+
+### Balmond works because he converts contact into time
+
+Balmond is not a combo fighter. He is a contact fighter. Once he touches a target, every part of the kit asks the same question: can the enemy leave before the spin and execute finish the job?
+
+Bloodthirst gives him the lane and jungle stamina that makes bad trades less punishing. Soul Lock is more than a dash because the knockback and slow pin a body where the rest of the kit can work. Cyclone Sweep is the real body of the hero: Balmond moves while damaging everything around him, and every hit now strips physical defense off whoever he stays on, so a sustained spin makes his team's physical damage land harder by the second. He can clear waves, chase through a short corridor, or peel divers without aiming a narrow skillshot. Lethal Counter is the receipt. You do not open with it. You use it after your team has already dragged the target into execute range.
+
+That is why Balmond feels unfair in messy ranked fights and ordinary in disciplined ones. In a messy fight, enemies stay near him too long and give his sustain time to matter. In a disciplined fight, they force Soul Lock early, step out of the spin path, then re-enter when his only gap closer is gone. The hero is easy to pilot, but the entry timing is not automatic.
+
+### EXP lane: the first five minutes
+
+1. **Take Cyclone Sweep first and own the minion pile.** Stand where the wave and enemy EXP laner cannot both ignore you. You want the first clear, not a hero chase, because every last-hit cluster feeds your sustain and lets you stay in lane without recall tempo.
+2. **Take Soul Lock second and treat it like a commitment.** If the dash connects, the knockback and slow pin the target long enough for Cyclone Sweep to start stacking its defense shred on it. If it misses or hits the wrong hero, you have walked forward with no exit. Hold it until the enemy spends a dash, walks into the wave, or gives you a wall angle.
+3. **Save battle-spell tempo for the first river collapse.** Flicker is your correction tool when Soul Lock is down. Vengeance is your answer when the enemy commits into your spin. Retaliation for one lane trade is rarely worth losing the spell before the first Turtle setup.
+
+The first five minutes are not about proving Balmond can duel. They are about making the enemy EXP laner choose between losing wave control or spending health into a hero who does not care about mana. If your jungler is pathing toward you, thin the wave and hold Soul Lock for the gank angle. If your jungler is cross-map, clear fast and play behind the river line.
+
+### The War Axe and Queen's Wings window
+
+Balmond is farming toward **War Axe plus Queen's Wings**, usually around the first major mid-game objective cycle if the lane stayed stable. War Axe rewards repeated damage, and Cyclone Sweep is built to keep damage ticking while Balmond walks with the target. Queen's Wings then gives the low-health safety net that lets him stay in the fight instead of backing out the moment focus fire lands.
+
+The mechanical change is simple: before those two items, Balmond can clear and punish overextensions. After those two items, he can enter as the second body in a real fight and survive long enough for the execute threat to matter. That does not mean he should start every fight. It means he can follow the first engage, absorb the counter-hit, and keep the enemy frontline stuck in a bad health state.
+
+For jungle Balmond, the same window is measured by Turtle tempo instead of lane pressure. War Axe makes early objective fights less fragile, while Retribution plus Lethal Counter gives him a layered secure pattern. You still need your lanes to move first. Balmond steals objectives well when he can reach the pit. He does not magically walk through three heroes and a control mage.
+
+### Stop entering first just because you are durable
+
+The common wrong reflex is to Soul Lock straight into the closest clump and call it frontline play. Balmond is durable, but his damage disappears if the spin is interrupted or if every carry simply walks out.
+
+1. **Enter after the first control spell is shown.** If the enemy still has suppression, throw control, or dash denial waiting, your spin becomes bait. Let your roamer or tankier EXP teammate draw that answer first.
+2. **Dash across the target's escape path, not directly into the tank.** Soul Lock stops when it hits a hero. If the enemy tank is the only reachable body, tag him and commit with your team. If the carry is stepping through a side gap, angle the dash to cut the gap instead of donating your cooldown to the frontline.
+3. **Hold Lethal Counter until the health bar tells you the fight is ending.** Balmond's ultimate punishes missing health. Pressing it early turns your strongest finisher into ordinary damage and removes your threat from the next two seconds of the fight.
+
+Support-dependent edge case: with Atlas, Tigreal, Khufra, or Minotaur starting fights, Balmond can stand closer before the engage because the enemy response is likely aimed at the roamer first. With a healing support or poke roam, play tighter to your carries and use Cyclone Sweep as a peel zone until someone is low enough to execute.
+
+### Locked sustain, then matchup answers
+
+The default EXP structure is **Tough Boots, War Axe, Queen's Wings**, then defensive answers. Tough Boots are safest when crowd control and magic chip are the first problems. Warrior Boots are reasonable into physical lanes that cannot chain-stun you. The first two completed items should almost never be skipped because they are the difference between "Balmond clears waves" and "Balmond can stay in the fight."
+
+After that, itemization becomes practical. **Dominance Ice** is the anti-sustain answer when heroes like Yu Zhong, Esmeralda, Alucard, Estes, or Miya cluster near you. Its Lifebane aura reduces their healing and shields to 60% of normal, and Fortress Shield stacks hybrid defense per enemy hero in range. **Oracle** is for games where your own healing value matters more than cutting theirs, especially when the enemy has mixed poke but weak burst. **Brute Force Breastplate** is the movement and control-duration option when you need to keep contact after the spin starts. **Antique Cuirass** is the correction into repeated physical skill damage from fighters and assassins. **Athena's Shield** handles burst magic, while **Radiant Armor** is better into repeated magic ticks.
+
+Jungle Balmond has a different conversation. The core is still War Axe, but **Cursed Helmet** and **Hunter Strike** both have real use. Cursed Helmet speeds clears and lets Balmond stand on camps or waves without spending the whole spin. Hunter Strike is for chase tempo when early kills matter more than becoming a wall. If your team already has a tank roamer, the chase build is playable. If your team needs you to be the first body in Lord fights, buy defense sooner.
+
+### Mistakes that throw Balmond games
+
+**Using Soul Lock as a travel skill.** The dash is your only reliable way to force contact. Spending it to cross empty space lets the enemy kite Cyclone Sweep for free. Walk first, dash when the target has committed to a path.
+
+**Letting the target leave the spin before the shred stacks.** Cyclone Sweep now builds its physical defense shred one hit at a time, so its value comes from staying on the same body, not from a single pass through a clump. Soul Lock is what keeps a target in the circle long enough for those stacks to bite. Dash to pin first, then keep the spin on the pinned hero instead of fanning it across a group that scatters.
+
+**Ulting because the target looks reachable.** Lethal Counter is not a poke button. If a fighter is still healthy enough to keep trading after the animation, you have removed Balmond's biggest threat from the fight. Let the spin, marksman, or mage damage lower the target first.
+
+**Picking him into heavy range without a setter.** Balmond can punish carries who are dragged into his circle. He struggles when the carry never has to enter that circle. If your roam cannot force contact, a long-range gold laner and artillery mage can make you look useless even when your build is correct.
+
+**Buying greed damage when your job is frontlining.** Blade of Despair and Hunter Strike feel good when ahead, but they do not replace the durability needed to survive first contact. If your team lacks another real frontliner, defensive fourth and fifth slots win more games than a highlight execute.
+
+### Key tips
+
+> [!TIP]
+> In EXP lane, hide your Soul Lock intent by walking with the minion wave first. When the enemy steps sideways to avoid Cyclone Sweep, dash through that sidestep instead of opening from max range.
+
+> [!NOTE]
+> Vengeance is strongest when the enemy has to hit you during Cyclone Sweep. If the enemy wins by ignoring you and killing your backline, Flicker gives more agency than another defensive button.
+
+> [!TIP]
+> In jungle contests, do not cast Lethal Counter just because Lord is low. Wait until your Retribution timing and the ultimate can overlap, then force the enemy jungler to win a much narrower secure window.
+
+> [!NOTE]
+> Balmond can peel better than most players think. Standing on your marksman with Cyclone Sweep active forces assassins to either spend mobility through damage or disengage before your execute becomes available.
+
+## Skills
+
+### Bloodthirst (Passive)
+
+Balmond recovers 5% Max HP upon killing a minion or creep, and 10% Max HP upon a hero kill or assist.
+
+### Soul Lock (Skill 1)
+
+Balmond charges in the target direction, dealing 150 (+60% Total Physical Attack) Physical Damage to enemies along the way. He stops upon hitting an enemy hero, knocking them back and slowing them by 40% for 3s.
+
+### Cyclone Sweep (Skill 2)
+
+Balmond gains 15% Movement Speed and spins with his axe for 3s, dealing 30 (+1.3% Max HP) (+25% Total Physical Attack) Physical Damage per hit to nearby enemies up to 14 times. Each hit reduces the target's Physical Defense by 5% (up to 40%).
+
+### Lethal Counter (Ultimate)
+
+Balmond unleashes a powerful strike in a target direction, dealing 150 (+70% Total Physical Attack) (+ 30% of the target's lost HP) as True Damage. This skill can only be interrupted by Suppression. Damage dealt to non-hero units is capped at 1000 True Damage.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies.
+- LANING COMBOS (laning): Balmond can close in on the enemy with Soul Lock, follow up with Cyclone Sweep for continuous damage, then cast his Ultimate to finish off low HP enemies.
+
+## Counters to Balmond (pick these against Balmond)
+
+- Cici (Fighter): +4.4 pp edge. Across Balmond's measured matchups, Balmond is weakest in the early game. Apply pressure with Cici before Balmond can scale.
+- X.Borg (Fighter): +4.0 pp edge. Across Balmond's measured matchups, Balmond is weakest in the early game. Apply pressure with X.Borg before Balmond can scale.
+- Angela (Support): +3.8 pp edge. Across Balmond's measured matchups, Balmond is weakest in the early game. Apply pressure with Angela before Balmond can scale.
+- Valir (Mage): +3.5 pp edge. Across Balmond's measured matchups, Balmond is weakest in the early game. Apply pressure with Valir before Balmond can scale.
+- Estes (Support): +3.4 pp edge. Across Balmond's measured matchups, Balmond is weakest in the early game. Apply pressure with Estes before Balmond can scale.
+- Karrie (Marksman): +3.0 pp edge. Across Balmond's measured matchups, Balmond is weakest in the early game. Apply pressure with Karrie before Balmond can scale.
+- Hanzo (Assassin): +2.8 pp edge. Hanzo has a statistical edge over Balmond based on ranked matchup data. Pick Hanzo to gain an advantage in draft.
+- Claude (Marksman): +2.2 pp edge. Across Balmond's measured matchups, Balmond is weakest in the early game. Apply pressure with Claude before Balmond can scale.
+
+## Heroes Balmond beats
+
+- Saber (Assassin): +2.9 pp edge for Balmond.
+- Lukas (Fighter): +2.6 pp edge for Balmond.
+- Barats (Tank/Fighter): +2.5 pp edge for Balmond.
+- Chip (Support/Tank): +2.4 pp edge for Balmond.
+- Martis (Fighter): +2.1 pp edge for Balmond.
+- Aulus (Fighter): +2.0 pp edge for Balmond.
+- Ruby (Fighter): +2.0 pp edge for Balmond.
+- Kalea (Support/Fighter): +1.8 pp edge for Balmond.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/balmond.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-07. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Sustain Default (EXP)
+
+- Items: Tough Boots, War Axe, Queen's Wings, Dominance Ice, Brute Force Breastplate, Immortality
+- Core: War Axe, Queen's Wings, Dominance Ice
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when the enemy control chain is light enough to skip Fortitude.; Oracle over Dominance Ice when Use when enemy sustain is low and extra received healing gives more value than Lifebane.; Athena's Shield over Immortality when Use when a burst mage can remove you before Queen's Wings and Vengeance stabilize the fight.; Antique Cuirass over Brute Force Breastplate when Use against repeated physical skill burst from fighters or assassins that reach you before the spin finishes.
+- Total cost: 11050 gold
+
+Default EXP setup for extended trades, second-entry teamfights, and ranked games where Balmond must survive while keeping Cyclone Sweep active.
+
+### Jungle Objective Tempo (Jungle)
+
+- Items: Tough Boots, War Axe, Cursed Helmet, Queen's Wings, Hunter Strike, Immortality
+- Core: War Axe, Cursed Helmet, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Seasoned Hunter, Brave Smite
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Dominance Ice over Hunter Strike when Use when Turtle and Lord fights revolve around healing, shields, or attack-speed cores hitting you.; Brute Force Breastplate over Hunter Strike when Use when sticking to targets after Soul Lock matters more than burst chase damage.; Radiant Armor over Immortality when Use against repeated magic damage that stacks across long objective fights.; Athena's Shield over Immortality when Use against burst magic that threatens the first jungle entry before Lethal Counter can secure.
+- Total cost: 11090 gold
+
+Jungle setup for fast objective control, healthy clears, and layered Turtle or Lord secures with Ice Retribution plus Lethal Counter.
+
+### Frontline Anti-Sustain (EXP)
+
+- Items: Warrior Boots, War Axe, Queen's Wings, Dominance Ice, Oracle, Guardian Helmet
+- Core: War Axe, Queen's Wings, Dominance Ice
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Flex: Tough Boots over Warrior Boots when Use when magic poke or crowd control matters more than repeated physical lane damage.; Brute Force Breastplate over Guardian Helmet when Use when you need movement speed and control-duration reduction to keep Cyclone Sweep attached.; Blade Armor over Guardian Helmet when Use when a basic-attack marksman must hit you before your team can reach them.; Immortality over Guardian Helmet when Use before the decisive Lord fight when one extra life is more valuable than out-of-combat regeneration.
+- Total cost: 11440 gold
+
+Tankier EXP setup for games where Balmond is the first durable body and must suppress sustain while holding space for carries.
+
+All builds for this hero: https://mlbbhub.com/builds/balmond.
+
+## Synergies
+
+- Angela: Balmond is best with Support heroes that can boost his Mobility and Survivability. Examples include Angela and Rafaela.
+- Rafaela: Balmond is best with Support heroes that can boost his Mobility and Survivability. Examples include Angela and Rafaela.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

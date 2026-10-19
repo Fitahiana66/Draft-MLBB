@@ -1,0 +1,207 @@
+# Natalia, Bright Claw
+
+> Natalia is not a jungler you draft for raw damage output. She is a pressure system: enemies who ordinarily walk the map alone now need escorts, and carries who stand at the edge of vision start hugging their tower instead. That psychological weight disappears the moment a Franco hook or a Saber spin enters the picture.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle, Roam
+- Specialty: Chase, Finisher
+- Difficulty: Hard
+- Tier this patch: B
+- Win rate: 51.11%
+- Pick rate: 0.26%
+- Ban rate: 1.46%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/natalia
+
+## Guide
+
+### Does this game have the backline Natalia needs?
+
+Natalia performs when the enemy team has at least one squishy carry who cannot safely disengage: a Yi Sun-shin standing at the back edge of a teamfight, a Gord or Pharsa who rely on sustained casting rather than burst-and-move patterns, a Layla or Miya who will inevitably push a sidelane past safe vision boundaries. Her goal is not to fight the enemy team. It is to hunt one specific hero until they are dead or too scared to be useful.
+
+The flip side is equally specific. If the enemy draft includes Saber, Jawhead, or Franco alongside a CC-heavy roamer like Atlas or Chou, she is very likely a trap. Any one of those heroes can interrupt her stealth approach before the silence fires. Three of them in the same draft means she will spend most of the game unable to get a clean entry.
+
+The team-comp test extends to your own team. Natalia needs her frontline to absorb the enemy's focus while she moves to the backline. A team with no initiator puts the full burden of starting fights on her, which she is not built to carry.
+
+The disqualifying question: can you name right now which specific enemy carry you are going to kill in every teamfight, and can your frontline get in front of that carry long enough for you to approach from the flank? If the answer to either part is uncertain, Natalia is the wrong pick for this draft.
+
+### The patience tax Natalia demands
+
+Natalia is not an assassin in the standard sense. She does not burst a target with a three-skill combo and recall. Her threat comes from the passive: hide in a bush without taking damage and she enters stealth, gaining a movement speed boost. Her next basic attack teleports her to behind the target, dealing bonus damage and silencing them just long enough to interrupt a cast in progress.
+
+That interruption is the whole plan. It is just long enough to stop the carry's first skill cast, land one or two enhanced basic attacks, and back into the nearest bush before the enemy team responds. The Hunt (her ultimate) stores two charges, each granting immediate stealth. Creep kills reduce the current charge timer by half its full value, so she rebuilds charges rapidly during jungle rotations. A clean camp clear between ganks can give back a full charge before she reaches the next sidelane.
+
+What this means in practice: Natalia does not feel like Fanny because she cannot fight in the open. She does not feel like Hayabusa because her kill pattern is a basic attack, not a skill rotation. She is closer to a countdown than an assassin. Every second the enemy carry spends unable to move freely is a second their damage output drops, which compounds over a full game.
+
+The emblem matches this pattern. Assassin Emblem with Rupture plus Master Assassin plus Killing Spree gives Adaptive Penetration on approach, 7% bonus damage when the target is isolated (which the carry almost always is when Natalia reaches them), and HP recovery plus movement speed after a kill for fast repositioning.
+
+### The first six minutes
+
+1. **Take S1 first and clear the opening camp.** Claw Dash at level 1 lets you clear your starting camp without taking meaningful damage if you aim through the creep cluster. The base cooldown means you have it back before you need to rotate.
+2. **Level 3 opens your first real gank window.** Once you have S1, S2, and a Hunt charge, head to the nearest sidelane bush. Settling into the bush starts stealth passively after a moment out of combat. Pop a Hunt charge to enter stealth immediately if the natural approach is too slow. The target is whichever enemy carry is pushing past the midpoint of the lane without vision coverage.
+3. **Save one Hunt charge for the second rotation.** Many Natalia players burn both charges on the first failed gank attempt and spend the next two minutes farming with no stealth. Treat the second charge as a reserve: use it if the first gank succeeds and you need to re-stealth for the escape, or hold it until the next rotation.
+
+### The two-item window that changes the math
+
+The first item that matters is Blade of the Heptaseas. Its Ambush passive triggers when you have gone 5 seconds without dealing or taking damage: the next basic attack deals bonus physical damage and applies a 40% slow. That condition is exactly what Natalia's stealth approach already creates. You sit in the bush out of combat, walk out stealthed, and the Ambush proc rides the same auto as the back-damage bonus. The 40% slow is the real payoff: the carry cannot walk out of the follow-up after the silence ends.
+
+Endless Battle is the second item. Its Divine Justice passive fires true damage on the next basic attack after any skill activation. Activate The Hunt (a skill), walk into the backline, and the enhanced stealth auto carries the back-damage, the Ambush burst, and the true damage proc simultaneously. The Chase Fate passive adds a movement speed burst when Divine Justice fires, which closes the final gap if the carry backpedals.
+
+Together these two items land around the 9-to-11 minute mark on a clean jungle path. Before that point, her kill potential exists but is not reliable against targets with any defense investment. After that point, a squishy carry without defensive items can be deleted in two or three enhanced autos within the Smoke Bomb window.
+
+### Teamfight positioning: let the front go first
+
+The reflexive play when a teamfight breaks out is to immediately pop a Hunt charge and dive toward the lowest-HP enemy. That reflex costs games.
+
+The correct sequence: let your tank or support initiate. Wait until at least one CC ability connects on the enemy frontline. Then enter stealth from a bush on the flanking side, walk past the fight, and reach the carry before anyone notices you moved. The carry is focused on the teamfight in front of them and is not checking the flank.
+
+Three rules that override most teamfight instincts:
+1. **Never enter a teamfight without a stealth entry.** An open Natalia in a teamfight has no dodge tool, no tank stats, and no escape. If you arrive with both Hunt charges spent and no bush nearby, stand on the edge and wait for the frontline to absorb aggro first.
+2. **Hunt charge two is the escape, not a second opener.** Use charge one to engage. If the assassination goes clean, S1 out and retreat through the nearest bush. If you get caught mid-dive, charge two is what gets you to cover before the CC chain finishes. Spending both charges in a single fight sequence leaves you with no stealth re-entry until a full recharge cycle passes.
+3. **Smoke Bomb goes up after the stealth auto lands, not before.** S2 blocks basic attacks. Activate it the moment the carry starts autoing back, not during the approach. Early activation burns the basic-attack immunity window on your walk-up instead of on the moment the carry tries to auto you down.
+
+One support edge case worth knowing: Angela can attach to Natalia and teleport in during a stealth approach, adding a shield and slow the moment the silence fires. If Angela is your support, coordinate the engage timing because the teleport animation is visible and tips off the enemy team.
+
+### Itemization: three locked slots, two conversations
+
+The locked slots are Retribution (required for jungle; upgrade to Ice Retribution when it evolves, since stealing enemy movement speed on cast is what pins a target for the follow-up), Blade of the Heptaseas, and Endless Battle. Those three are not situational.
+
+The two conversations:
+
+**Penetration vs chase as the fourth item:** Hunter Strike when the enemy carry tends to disengage before you land the third auto (the movement speed burst after five consecutive hits closes that gap). Malefic Roar when two or more enemy heroes have itemized significant physical defense.
+
+**Anti-heal vs execution as the fifth item:** Sea Halberd when Estes, Rafaela, or a lifesteal carry like Karrie is on the enemy roster. The Lifebane passive drops healing efficiency after your first auto, cutting the recovery that would otherwise save the target. Blade of Despair as the fifth or sixth item when the game is already won and you need the Despair passive to finish low-HP stragglers cleanly.
+
+**Boots choice:** Swift Boots in standard drafts: the flat attack speed is what lets the enhanced autos land inside the Smoke Bomb immunity window. Tough Boots when Franco, Chou, or Atlas is confirmed in the enemy lineup. The 30% CC duration reduction from Fortitude is the difference between S1-dashing out of a hook attempt and getting fully locked.
+
+Blade of Despair is a fine late purchase but a weak rush item. Players who build it third are paying 3010 gold for a passive that only activates below 50% HP on a hero whose job is to kill targets before they reach that threshold. Hunter Strike or Malefic Roar gives more consistent mid-game value in that slot.
+
+### Mistakes that lose Natalia games
+
+**Activating The Hunt while standing in an open lane.** The ult animation is visible to everyone. An enemy who sees the Hunt animation in a clear lane knows Natalia just went stealth in place and knows her exact location. They back off before the enhanced auto reaches them, or rotate a CC hero toward that position. Enter a bush first, then decide whether to spend a charge.
+
+**Treating Smoke Bomb as protection against skill damage.** S2 blocks basic attacks only. It does not intercept Gord beams, Eudora lightning, or Pharsa feathers. A Natalia who pops Smoke Bomb the moment a mage starts casting wastes the dodge and takes the full skill hit anyway. S2 goes up after the assassination when the marksman tries to auto her back, not before a mage has already targeted her with a skill.
+
+**Opening S1 into a Saber before the stealth auto lands.** Saber's ultimate locks onto any visible hero. If you Claw Dash into range first, he can ult before your silence fires. Correct sequence against Saber: stealth auto from behind (silence interrupts his combo opener), S1 to follow through or escape, Smoke Bomb to survive his recovery. Wrong sequence: S1 into melee range, Saber ult, dead.
+
+**Spending both Hunt charges in a single fight.** Two charges: one for entry, one for exit. Players who blow both charges during the opener have no stealth re-entry until a full recharge cycle passes. If the first-charge gank produces a kill, S1 out and return to jungle rather than immediately spending charge two on a second target nearby.
+
+**Ganking into a warded bush.** Natalia's stealth breaks when she gets close to an enemy who has vision of her. A ward in the tri-bush or river negates the entire approach. If the minimap shows a ward nearby, rotate to an unwarded entry angle or wait for it to expire. Spending a Hunt charge into warded terrain is a free kill for the enemy.
+
+### Key tips
+
+> [!TIP]
+> **Creep kills refill Hunt charges faster than waiting.** Each jungle creep kill reduces the current charge timer by half its full recharge value. Clearing a full camp while waiting for a gank window can bring a charge from empty to ready in under 20 seconds.
+
+> [!NOTE]
+> **Smoke Bomb blocks tower basic attacks during dives.** The basic-attack immunity extends to turret shots. A level-3 dive under an outer tower with Smoke Bomb up is survivable in a way most enemies do not expect, especially in the first three minutes when tower damage is lower.
+
+> [!TIP]
+> **S1 recast opens even if the first dash hits a jungle creep.** The recast window on Claw Dash opens the moment the dash connects with any enemy, creeps included. In a failed gank with no escape path, dashing through a nearby jungle camp grants the recast as an emergency blink toward safety.
+
+> [!NOTE]
+> **The back-damage bonus requires the full stealth condition at the moment of the auto.** If your stealth breaks just before the enhanced auto lands because an enemy walked into your detection range, the teleport animation still fires but the damage bonus does not. Approach from the correct angle and respect the detection radius, especially when the carry has a ward nearby.
+
+## Skills
+
+### Assassin Instinct (Passive)
+
+If Natalia stays in a bush without taking damage for 1s, she will enter Camouflage state and gain 15% Movement Speed. In this state, Natalia's next Basic Attack will teleport her behind her target and deal 200 (+110% Total Physical Attack) Physical Damage while silencing the target for 0.25s. Dealing damage, taking damage or using skills will immediately end the Camouflage state, but her next Basic Attack will remain enhanced for another 1s. Natalia's base Crit Damage is reduced to 150%, but her damage to Creeps is increased to 150%.
+
+### Claw Dash (Skill 1)
+
+Natalia dashes in the target direction, dealing 250 (+50% Total Physical Attack) Physical Damage to enemies in her path. After hitting an enemy, she can cast this skill again within 5s.
+
+### Smoke Bomb (Skill 2)
+
+Natalia releases a Smoke Bomb at her location, slowing enemies within by 25% while Natalia becomes immune to enemy Basic Attacks for 4s.
+
+### The Hunt (Ultimate)
+
+Passive: Natalia gains 15% Crit Chance. Active: Natalia immediately enters the Assassin Instinct state. She can store up to 2 Ultimate charges, and each charge has a recharge time of 30s. Killing creeps reduces the remaining recharge time by 50% of the full recharge time.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Natalia's Passive and enhanced Basic Attacks to approach enemies, then use her 2nd Skill to improve her survivability. Follow up with her 1st Skill then Ultimate and end with a Basic Attack to finish off the enemy.
+- LANING COMBOS (laning): When ganking, hide in a bush to activate Natalia's Passive, then approach the enemy from behind and blink to them with the enhanced Basic Attack. Follow up with her 2nd Skill to slow the enemy and chase after them using her 1st Skill.
+
+## Counters to Natalia (pick these against Natalia)
+
+- Cyclops (Mage): +5.4 pp edge. Cyclops has a statistical edge over Natalia based on ranked matchup data. Pick Cyclops to gain an advantage in draft.
+- Mathilda (Support/Assassin): +4.5 pp edge. Mathilda's protective abilities and vision control make it difficult for Natalia to find isolated targets.
+- Karina (Assassin): +4.3 pp edge. Across Natalia's measured matchups, Natalia is weakest in the early game. Apply pressure with Karina before Natalia can scale.
+- Paquito (Fighter/Assassin): +3.7 pp edge. Across Natalia's measured matchups, Natalia is weakest in the early game. Apply pressure with Paquito before Natalia can scale.
+- Saber (Assassin): +3.4 pp edge. Across Natalia's measured matchups, Natalia is weakest in the early game. Apply pressure with Saber before Natalia can scale.
+- Rafaela (Support): +3.1 pp edge. Rafaela's protective abilities and vision control make it difficult for Natalia to find isolated targets.
+- Zetian (Mage): +2.8 pp edge. Zetian's CC abilities disrupt Natalia's aggressive playstyle, preventing clean dives and resets.
+- Alucard (Fighter/Assassin): +2.8 pp edge. Across Natalia's measured matchups, Natalia is weakest in the early game. Apply pressure with Alucard before Natalia can scale.
+
+## Heroes Natalia beats
+
+- Ling (Assassin): +5.0 pp edge for Natalia.
+- Hanzo (Assassin): +4.9 pp edge for Natalia.
+- Nolan (Assassin): +3.7 pp edge for Natalia.
+- Xavier (Mage): +3.7 pp edge for Natalia.
+- Minsitthar (Fighter): +3.7 pp edge for Natalia.
+- Gord (Mage): +3.3 pp edge for Natalia.
+- Ixia (Marksman): +3.2 pp edge for Natalia.
+- Novaria (Mage): +3.1 pp edge for Natalia.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/natalia.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Pickoff Default (Jungle)
+
+- Items: Swift Boots, Blade of the Heptaseas, Endless Battle, Hunter Strike, Malefic Roar, Immortality
+- Core: Blade of the Heptaseas, Endless Battle, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Swift Boots when Use when chain crowd control is the main reason Natalia cannot leave after the stealth auto.; Blade of Despair over Immortality when Use while ahead against low-control drafts where the next backline kill ends the fight.; Sea Halberd over Immortality when Use when healing, shields, or high-extra-HP fighters keep the marked target above kill range.
+- Total cost: 11180 gold
+
+Default jungle setup for farming a clean Heptaseas and Endless Battle ambush window, then using Ice Retribution and Hunter Strike movement to keep one carry trapped.
+
+### Roam Dire Hit Ambush (Roam)
+
+- Items: Rapid Boots, Blade of the Heptaseas, Sky Piercer, Hunter Strike, Malefic Roar, Blade of Despair
+- Core: Blade of the Heptaseas, Sky Piercer, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Lethal Ignition
+- Battle spell: Execute
+- Blessing: Dire Hit
+- Flex: Tough Boots over Rapid Boots when Use when the enemy has point-click control that can catch Natalia before the Camouflage attack and Execute resolve.; Immortality over Blade of Despair when Use before the final Lord fight when dying after one pick would lose more value than another damage slot adds.; Sea Halberd over Blade of Despair when Use when sustain or shielding stops the target from falling into Sky Piercer's execute threshold.
+- Total cost: 11280 gold
+
+Damage-roam setup for games where Natalia gives up jungle economy. Force stacks build on the walk between bushes, so the Camouflage teleport attack arrives loaded, and Sky Piercer plus Execute close whatever survives the opener.
+
+### Anti-Sustain Armor Crack (Jungle)
+
+- Items: Swift Boots, Blade of the Heptaseas, Demon Hunter Sword, Sea Halberd, Malefic Roar, Immortality
+- Core: Blade of the Heptaseas, Demon Hunter Sword, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Endless Battle over Demon Hunter Sword when Use when the enemy backline is still reachable and one empowered basic attack matters more than front-to-back DPS.; Blade of Despair over Immortality when Use when armor is already cracked and Natalia can convert one more raw damage slot into a backline kill.; Rose Gold Meteor over Immortality when Use against magic burst when the shield and movement burst protect the first exit better than a revive.
+- Total cost: 11070 gold
+
+Anti-sustain jungle setup for drafts where Natalia cannot ignore high-HP fighters and must cut healing, armor, and current-HP pools before hunting the carry.
+
+All builds for this hero: https://mlbbhub.com/builds/natalia.
+
+## Synergies
+
+- Yi Sun-shin: Natalia works best with heroes with high AOE damage such as Yi Sun-shin and Vexana. She can stay hidden while they poke the enemy, then pounce on targets that get low on HP.
+- Vexana: Natalia works best with heroes with high AOE damage such as Yi Sun-shin and Vexana. She can stay hidden while they poke the enemy, then pounce on targets that get low on HP.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

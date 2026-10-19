@@ -1,0 +1,185 @@
+# Zilong, Spear of Dragon
+
+> Zilong is not a teamfighter. He is a 1v1 duelist with legs fast enough to farm two lanes at once, and the best Zilong games are the ones where his team never needed him to stand in the middle of a fight. After the patch 2.1.40 ([patch notes](/patch-notes)) buff that stapled flat damage onto his passive and let skills count toward Dragon Flurry stacks, his early and mid-game damage is real. What did not change is his defense: cloth armor in every sense, with the base stats to prove it.
+
+## Snapshot
+
+- Role: Fighter, Assassin
+- Lane: EXP
+- Specialty: Chase, Damage
+- Difficulty: Easy
+- Tier this patch: D
+- Win rate: 46.02%
+- Pick rate: 0.74%
+- Ban rate: 0.49%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/zilong
+
+## Guide
+
+### Is this a Zilong game?
+
+Lock Zilong when three things are true: the enemy draft has zero hard suppression, your team has a setup tank who can peel without needing a dive partner, and the map has at least two side-lane turrets that can be taken by a lone hero with Supreme Warrior up. Remove any one of those conditions and the hero falls off a cliff. He is not a scaling carry, he is a map-pressure hero who happens to deal damage, and map pressure requires space to operate.
+
+He is a trap pick when the enemy has Franco, Khufra, Akai, Kaja, or Minsitthar. Supreme Warrior's slow immunity does nothing against suppression (Franco ult, Khufra S1 bounce, Akai ult) and Minsitthar's ult locks him inside the cage while his own ultimate goes to waste. He is also wrong into heavy poke mages like Valentina or Pharsa; before he reaches his two-item spike he has to walk up to auto-attack, and walking up is how he dies.
+
+If you cannot name which of those conditions your current draft is in, Zilong is the wrong pick. "He can duel" is not a draft argument when the enemy team refuses to duel you.
+
+### The one thing that makes Zilong work
+
+Zilong is a countdown on the enemy's side structures. Every other part of his kit exists to get him to those structures and keep him alive while he swings on them. Supreme Warrior's attack-speed surge, stacked with his passive multi-hit on every third hit, turns turrets into kindling. Spear Strike exists to chase whoever tries to stop him, and its cooldown reset on kill means one pickoff often becomes two. Spear Flip exists to peel the one hero the enemy sends to clear the wave.
+
+The after-2.1.40 rework matters here. Dragon Flurry now builds stacks off skill hits, not just basic attacks, which means a Spear Strike contributes to the multi-hit window instead of resetting it. The practical effect is that his trade pattern is Spear Strike in, two basics, proc the multi-hit, and he is still within Supreme Warrior's slow-immunity window to walk away. The kit reads as a fighter, but the gameplay loop is assassin-speed: one target at a time, reset, repeat.
+
+What the kit is not: a teamfight kit. There is no AoE, no CC beyond a single-target flip, no damage reduction, no shield. Every Zilong game you lose by standing in the middle of a 5v5 is the kit telling you to pick someone else.
+
+### Laning: the first 4 minutes
+
+1. **Take Spear Strike at level 1, not Spear Flip.** Spear Strike is the cheaper skill, it dashes you to the target so you escape the minion wave's aggro, and the physical defense shred sets up your level-2 basic trade. Spear Flip at level 1 is a coin-flip on whether you land it cleanly, and the mana sink leaves you with nothing to press afterwards.
+2. **Hold the lane at the river bush line until level 4.** Before you have both skills you cannot win a straight trade against Thamuz, Esmeralda, or Paquito. Last-hit at range, take the small jungle camp behind your tier-2 if it is pushed, come back with your first power item and fight from level 4.
+3. **First recall: Vampire Mallet plus Boots.** Vampire Mallet is the Endless Battle component that carries sustain into the mid-game. Rushing a Sword component is a worse purchase because Zilong's damage in the first ten minutes is not the problem; staying on the lane is. If the enemy burned Flicker trying to trade with you before recall, come back and all-in the moment you see them walk past the minion wave.
+
+### The spike you are farming toward
+
+Endless Battle plus Demon Hunter Sword, around the 9-to-11 minute mark. This is the fight-or-split decision point, not Blade of Despair. Endless Battle's Divine Justice passive converts every Spear Strike into a free true-damage basic attack, the movement speed buff stacks on top of Supreme Warrior, and the cooldown reduction keeps S2 ready for the next reset. Demon Hunter Sword's 8% current-HP basic attack damage is what lets you take tier-2 turrets solo in under six seconds with your ult up.
+
+Before this spike you are a melee hero with no burst who dies to any two enemies who look at you. After it you can duel anyone on the enemy team who is not a true tank, and you can take a tower in the time it takes the enemy to rotate from mid. The jump is not subtle. If you cannot name which of those two states you are in at any given moment, you do not know whether to fight or walk.
+
+### Teamfight positioning and target priority
+
+The reflex when Supreme Warrior comes off cooldown is to dive the backline. That reflex is usually wrong. Zilong does not have the burst to one-shot a fed marksman before their team peels, and once Supreme Warrior ends, his low base movement speed makes him a free kill for any decent assassin. The correct mental model: you are a cleanup hero and a split threat, not an engage.
+
+1. **Wait for the enemy to burn their initiation CC before entering.** If Tigreal has not ulted, if Franco has not hooked, if Khufra has not bounced, you do not enter. Stand at the edge of the fight, auto-attack side targets, and engage when the enemy tank has spent his kit.
+2. **Spear Flip direction is the whole skill.** Flipping an enemy assassin toward your team's peel is a pickoff. Flipping them toward their team's heals is a gift. Flipping them over your own backline is how you lose the game. Before you press S1, decide which direction the enemy is going to land.
+3. **Save Supreme Warrior for the reset, not the entry.** S2's cooldown reset on kill is the entire reason he chains through low-HP targets. If you ult to enter and the fight outlasts the buff, you are left with no ult and no escape speed. If you ult on the first kill, the speed buff compounds the chain and you leave the fight with the two backline heroes dead.
+
+The support-conditional case: with Estes or Rafaela babysitting you in the early laning phase, you can afford to stay in the lane and skip the jungle camp, because their heals cover the HP loss from trading. With Angela, Diggie, or Mathilda, you have no sustain, so you have to farm the jungle camp at 2:30 to hit the level-4 power spike on time. Misreading which support you have is how Zilong games get thrown before minute five.
+
+### Itemization: 3 locked slots plus 2 real conversations
+
+Boots, Endless Battle, and Demon Hunter Sword are locked. Everything after that is situational.
+
+- **Warrior Boots vs Swift Boots.** Default Warrior against any physical duo lane (most EXP lane matchups). Swift is the answer when the enemy comp has three or more ranged heroes and you need the attack speed to shred turrets faster; it synergizes with DHS's current-HP damage and gets you out of Supreme Warrior ticks with more procs.
+- **Slot 4 flex.** Great Dragon Spear is the best-kept secret on Zilong: its passive gives a flat 30% movement speed after ulting, which stacks multiplicatively with Supreme Warrior and extends the chase window. It is also the correct pick-rate choice over Blade of Despair most of the time. War Axe is the alternative when the enemy has two sustain-heavy bruisers (Esmeralda + Yu Zhong, Uranus + Phoveus) and you need the stacking attack plus the 10% true damage at six stacks to break through their sustain.
+- **Slot 5 situational.** Malefic Roar when the enemy team has two or more heroes building Antique Cuirass or Dominance Ice, and Zilong's base penetration stops scaling against them. Corrosion Scythe when you are chasing marksmen who kite with Wind of Nature or Exorcist's Boots; the 8% slow per stack locks them down. Do not build both Corrosion Scythe and Feather of Heaven: their Impulse passives do not stack and you waste the buy.
+- **Blade of Despair last slot.** It is the highest raw damage item in the game, but it is the last slot and the worst timing buy because the 50%-HP condition is already covered by Demon Hunter Sword's scaling. Build it when you are genuinely closing out a game and need the finisher stat line, not as a rush item.
+
+Emblem: Assassin. Rupture for adaptive penetration, Master Assassin for the 7% damage bonus when you are picking off isolated targets (which is almost every Zilong fight), and Killing Spree in the core slot. Killing Spree's 20% movement speed for 3 seconds after a kill is what lets the S2-reset chain into a second pickoff before the enemy team can converge. Battle spell: Flicker default. Execute is a trap on Zilong because his passive plus DHS already handles low-HP finishers, and he needs Flicker's wall-hop for escape after the fight breaks.
+
+### Mistakes that lose Zilong games
+
+1. **Using Supreme Warrior to enter instead of to exit or chase.** The ult does not grant any damage reduction. Popping it to close the gap means you spend the speed and slow immunity on the approach instead of the exit, and you have no escape button left. Reserve it for either the finishing chase after your team has already committed, or for the moment you need to break contact after a pickoff. If you ulted and did not get a kill, you used it wrong.
+2. **Spear Flipping carries toward your own team.** Spear Flip throws the target over Zilong's head. Standing with your back to your own marksman and flipping a Lancelot directly onto them is the single most common Zilong griefing moment. Before you press S1, check which way you are facing; if your team is behind you, walk around the target first.
+3. **Split pushing into a wave with enemies on the minimap.** Zilong's split push is only valuable when the enemy team is committed elsewhere. Walking into the side lane when three enemies are missing from the minimap is not a split push, it is a free shutdown. The check is simple: if you cannot see three enemies and your team is not about to force an objective, back off and farm jungle instead.
+4. **Teamfighting at 13+ without a frontline cooldown to follow.** Zilong at 13+ has six items and still his starting paper defense. If your tank is dead and you have no Estes heal incoming, entering the 5v4 is a coin-flip even when you are fed. Split the side lane instead and force the enemy team to choose between stopping the push and taking the objective.
+5. **Not taking the tier-2 turret when you have Supreme Warrior up.** This is the macro mistake that separates a Zilong who wins games from one who just deals damage. If your team is forcing a fight at Lord and you are top-side with your ult ready, the turret is worth more than the teamfight participation. Take the turret, rotate back on the minion wave, repeat. Zilong's value is map pressure, and map pressure means buildings.
+
+### Key tips
+
+> [!TIP]
+> Dragon Flurry now triggers off skills after the 2.1.40 buff. This means a Spear Strike counts as one of the three hits, so the opening combo is S2 then two basics to proc the passive multi-hit. Before the patch you needed three basics, which was why Zilong's trade pattern felt slow even against soft EXP laners.
+
+> [!NOTE]
+> Supreme Warrior removes slows on cast, not just during the duration. If you are caught in a Franco hook windup or a Minsitthar cage, ulting will not save you, but if you are slowed by Estes S2 or Atlas ult chains, ulting breaks you free. Learn which enemy CC is a slow versus a suppress before you press it.
+
+> [!TIP]
+> Spear Strike's cooldown reset on kill is Zilong's only teamfight reliability. In practice this means you should always prioritize the lowest-HP enemy hero in your field of view, not the carry. A Spear Strike into a squishy you can actually kill resets the cooldown and lets you chain into the second target. A Spear Strike into a full-HP tank wastes the reset window and leaves you standing in their team.
+
+> [!NOTE]
+> Warrior Boots plus Endless Battle gives Zilong the physical bulk to survive an all-in from a level-6 Paquito instead of dying in place. Swift Boots is a late-game conversion item; do not rush it first-back unless the enemy has three ranged heroes.
+
+## Skills
+
+### Dragon Flurry (Passive)
+
+After dealing damage 3 time(s) with Basic Attacks or skills, Zilong triggers Dragon Flurry on the next Basic Attack, hitting the target 3 time(s). Each hit deals 80 (+30% Total Physical Attack) Basic Attack Damage and heals himself for 50 (+20% Total Physical Attack) HP. Zilong's Basic Attack deals 100 (+80% Total Physical Attack) Physical Damage. If the target's HP is below 50%, all damage dealt by Zilong's skills and Basic Attacks is increased by 30.
+
+### Spear Flip (Skill 1)
+
+Zilong flings the target enemy over his head, dealing 250 (+80% Total Physical Attack) Physical Damage.
+
+### Spear Strike (Skill 2)
+
+Zilong lunges at the target enemy, dealing 250 (+60% Total Physical Attack) Physical Damage and reducing their Physical Defense by 15 for 2s. The cooldown of Spear Strike is reset each time Zilong kills an enemy.
+
+### Supreme Warrior (Ultimate)
+
+Zilong removes all slow effects on himself and gains 40% Movement Speed, 35% Attack Speed, and Slow Immunity for 7.5s. During this time, Dragon Flurry triggers every 2 attacks (instead of the previous 3).
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, activate Zilong's Ultimate to gain Movement and Attack Speed bonus before charging at the target enemy with his 2nd Skill. Cast his 1st Skill after closing in on the enemy and follow up with Basic Attacks to trigger the Passive effects.
+- LANING COMBOS (laning): In the laning phase, Zilong should use his 2nd Skill to close in on the target enemy and lower their Defenses, then lift the target over his back with his 1st Skill, and spam Basic Attacks to trigger more Passive effects.
+
+## Counters to Zilong (pick these against Zilong)
+
+- Tigreal (Tank): +3.4 pp edge. Tigreal's crowd control can lock down Zilong's mobility, shutting down engages before they start.
+- Karina (Assassin): +2.9 pp edge. Karina has a statistical edge over Zilong based on ranked matchup data. Pick Karina to gain an advantage in draft.
+- Atlas (Tank): +2.9 pp edge. Atlas's crowd control can lock down Zilong's mobility, shutting down engages before they start.
+- Belerick (Tank): +2.8 pp edge. Belerick's crowd control can lock down Zilong's mobility, shutting down engages before they start.
+- Chip (Support/Tank): +2.8 pp edge. Chip's crowd control can lock down Zilong's mobility, shutting down engages before they start.
+- Johnson (Tank/Support): +2.7 pp edge. Johnson's crowd control can lock down Zilong's mobility, shutting down engages before they start.
+- Hylos (Tank): +2.4 pp edge. Across Zilong's measured matchups, Zilong is weakest in the early game. Apply pressure with Hylos before Zilong can scale.
+- Popol and Kupa (Marksman): +2.3 pp edge. Across Zilong's measured matchups, Zilong is weakest in the early game. Apply pressure with Popol and Kupa before Zilong can scale.
+
+## Heroes Zilong beats
+
+- X.Borg (Fighter): +3.0 pp edge for Zilong.
+- Cici (Fighter): +2.6 pp edge for Zilong.
+- Diggie (Support): +2.3 pp edge for Zilong.
+- Joy (Assassin): +1.8 pp edge for Zilong.
+- Yve (Mage): +1.8 pp edge for Zilong.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/zilong.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Pickoff Default (EXP)
+
+- Items: Warrior Boots, Endless Battle, Demon Hunter Sword, Great Dragon Spear, Malefic Roar, Blade of Despair
+- Core: Endless Battle, Demon Hunter Sword, Great Dragon Spear
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Flicker
+- Flex: Tough Boots over Warrior Boots when Use against magic lane pressure or chain control that can stop Zilong before Supreme Warrior creates space.; Sea Halberd over Blade of Despair when Use when healing, shields, or high-extra-HP frontliners keep the first target alive through the pickoff.; Rose Gold Meteor over Blade of Despair when Use against magic burst that can delete Zilong after he commits with Spear Strike.
+- Total cost: 12440 gold
+
+Default ranked setup for side-lane pickoffs, turret pressure, and safe escapes after the Endless Battle plus Demon Hunter Sword spike.
+
+### Crit Split-Push (EXP)
+
+- Items: Swift Boots, Windtalker, Haas's Claws, Berserker's Fury, Great Dragon Spear, Malefic Roar
+- Core: Windtalker, Haas's Claws, Berserker's Fury
+- Emblem: Marksman Emblem with Fatal, Weapon Master, War Cry
+- Battle spell: Inspire
+- Flex: Blade of Despair over Great Dragon Spear when Use when the enemy lacks reliable chase and raw execution damage matters more than post-ultimate movement speed.; Sea Halberd over Haas's Claws when Use when regen or shield reduction is mandatory and Zilong can still survive with passive sustain.; Immortality over Great Dragon Spear when Use when one failed side-lane death gives the enemy Lord, base access, or a clean end call.
+- Total cost: 11200 gold
+
+Greedy side-lane setup for low-control drafts where Inspire and crit scaling let Zilong erase waves, turrets, and isolated squishies.
+
+### Anti-Frontline Attack Effects (EXP)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Sea Halberd, Malefic Roar
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, War Cry
+- Battle spell: Inspire
+- Flex: Tough Boots over Swift Boots when Use when crowd control or magic poke is the reason Zilong cannot stay on his first target.; Wind of Nature over Sea Halberd when Use against physical basic-attack burst when one immunity window lets Zilong finish the duel.; Immortality over Sea Halberd when Use in late-game Lord fights when a revive is worth more than anti-heal uptime.
+- Total cost: 11050 gold
+
+Front-to-back option for tankier drafts, using Corrosion, Demon Hunter Sword, and Golden Staff to repeat attack effects instead of chasing crit burst.
+
+All builds for this hero: https://mlbbhub.com/builds/zilong.
+
+## Synergies
+
+- Pharsa: Zilong works best with heroes with strong defensive abilities that can hold off enemy attacks while he solos the lane, such as Pharsa and Hanabi.
+- Hanabi: Zilong works best with heroes with strong defensive abilities that can hold off enemy attacks while he solos the lane, such as Pharsa and Hanabi.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

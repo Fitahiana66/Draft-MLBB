@@ -1,0 +1,193 @@
+# Irithel, Jungle Heart
+
+> Irithel is a walking DPS turret with no brakes. She shoots while she moves, her ultimate cleaves grouped backlines, and her two-item spike ends games against tanks, but her base HP and physical defense run low while her attack growth runs high. Peel her properly and she wins the match; let an assassin touch her and she dies in under a second.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Finisher, Burst
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 52.42%
+- Pick rate: 0.40%
+- Ban rate: 0.26%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/irithel
+
+## Guide
+
+### Lock Irithel only if one question checks out
+
+Irithel has no dash. [Heavy Crossbow](/heroes/irithel) is a mount-up leap for repositioning, not an escape, and the slow on [Force of the Queen](/heroes/irithel) is the only self-peel in her kit. If an assassin reaches her face, she dies. Her base HP, HP growth, and physical defense all run low for a marksman, so the amount of incoming damage she can eat before dying is thin. The peel requirement is not a preference; it is a hard draft gate.
+
+She is the right call when your team already has two of the following locked in: a lockdown tank ([Tigreal](/heroes/tigreal), [Khufra](/heroes/khufra), [Atlas](/heroes/atlas)), a peel support ([Estes](/heroes/estes), [Angela](/heroes/angela), [Mathilda](/heroes/mathilda), [Rafaela](/heroes/rafaela)), and an enemy roster stacking armor ([Esmeralda](/heroes/esmeralda), [Gloo](/heroes/gloo), [Fredrinn](/heroes/fredrinn), [Yu Zhong](/heroes/yu-zhong), [Franco](/heroes/franco)). She is the wrong call when the enemy has any of [Hayabusa](/heroes/hayabusa), [Lancelot](/heroes/lancelot), [Helcurt](/heroes/helcurt), [Ling](/heroes/ling), [Natalia](/heroes/natalia), [Saber](/heroes/saber), [Gusion](/heroes/gusion), or [Aamon](/heroes/aamon) and your side did not last-pick a tank. She is also the wrong call into a long-range marksman lane: [Brody](/heroes/brody), [Lesley](/heroes/lesley), or [Clint](/heroes/clint) will zone her off the wave before she hits level 4.
+
+The disqualifying test is simple. Point at the tank or support on your team who will eat the assassin's ultimate for you. If you cannot name them out loud before the match starts, do not lock Irithel.
+
+### The one thing that makes Irithel work
+
+Irithel's passive is the entire hero. She fires two bolts per basic attack, each carrying more than half her total physical attack, and she does it without stopping her movement. Every other marksman pays a kiting tax: plant to shoot, shuffle, plant. Irithel does not plant. She strafes across the screen at full attack speed, and that single mechanical freedom is what makes her two-item spike feel like a cheat code.
+
+The design cost is that her bolts have a refill cycle. After every shot her crossbow takes longer than a normal marksman's autocycle to reload, and her extra bolt on the next basic only lands after she has physically moved some distance. She is a hero you *commit to walking forward with*. Standing still gives up roughly a third of her potential output; walking through the lane, nudging side to side, is where her DPS actually lives.
+
+[Heavy Crossbow](/heroes/irithel) changes the shot profile entirely. During the ultimate window she trades the two-bolt split for a single empowered bolt that deals AOE damage around the target. Against a clumped backline that flips her ult into a fight-winner, which is why any enemy composition that groups to fight through chokes is a green-light pick for her.
+
+### Laning: the first five minutes
+
+1. **Take Strafe at level 1 and zone the wave.** The defense reduction it leaves behind stacks with any follow-up basic, and a single cast pushes the enemy marksman off the cannon wave. Do not open with a basic-attack trade; open with a Strafe drop on their feet and walk forward into the damage window it opens. Strafe's cooldown scales down with rank, so once you max it the ability is up almost every wave rather than every other wave.
+2. **Prioritize Force of the Queen at level 2.** The slow is your only defensive tool until you buy [Corrosion Scythe](/items/corrosion-scythe). Hold it for the first gank rather than spending it for wave clear, because if a [Saber](/heroes/saber) or [Ling](/heroes/ling) comes bot and you burned your slow on minions, you are dead before Flicker comes off cooldown.
+3. **Do not ult for a lane kill before level 6.** The ultimate's value is the AOE empowered bolt during teamfights and the mount-up reposition. Blowing it to close out a solo-lane kill means you fight the next rotation without it, and marksmen who ult for their first kill are the ones who feed the mid turret five minutes later.
+
+> [!NOTE]
+> Always take [Flicker](/spells) over Inspire. Irithel has no dash and no blink. Flicker is the only thing that lets her walk out of a Franco hook cancel window or around a Khufra leash, and Inspire's attack-speed burst is redundant with Corrosion Scythe's stacking attack speed anyway.
+
+### The power spike you are farming toward
+
+[Demon Hunter Sword](/items/demon-hunter-sword) plus [Corrosion Scythe](/items/corrosion-scythe) is the fight-winning combination, and it lands around the twelve-minute mark on a clean lane. Demon Hunter Sword's Devour passive adds 8% of the target's current HP as physical damage on every basic attack, which on Irithel means every pair of bolts carries both the flat physical damage and the percent-HP chunk. Against a [Gloo](/heroes/gloo) or a [Fredrinn](/heroes/fredrinn) who built two armor items, that percent-HP clause is the difference between a ten-second duel and a four-second deletion.
+
+Corrosion Scythe is what turns the kit from good-in-lane to oppressive-in-teamfights. The slow stacks up to five times on a single target, and because Irithel outputs so many basics per second, the stack caps before anyone can disengage. The attack-speed ramp from Impulse also piles on during the same window, so her DPS is still climbing while the enemy's movement speed is decaying. Stand in the wrong spot for two seconds against a fed Irithel with these two items and you are not getting out.
+
+The specific thing that changes at the spike: before it, she kites and trades. After it, she wins duels into any solo-squishy in the enemy backline and shreds any frontliner stupid enough to face-tank her. Her physical attack growth is high for a marksman, so every point of per-level scaling hits harder and the two-item spike lands with more punch. You are not farming toward a late-game scaling curve; you are farming toward a two-item kill window.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a clumped enemy team is to ult into them for the AOE damage. That reflex is usually wrong. Heavy Crossbow is the single best survival tool Irithel has outside of Flicker, because the leap distance gets her off a dive and the empowered bolts reset her teamfight DPS rhythm. Spending it as an opener means you start the fight with no reposition, and an Irithel with no reposition cannot survive the follow-up dive.
+
+1. **Position on the opposite side of the map from the enemy assassin's starting rotation.** If their [Lancelot](/heroes/lancelot) starts red buff, you stand bot-side of the fight. If their [Hayabusa](/heroes/hayabusa) starts blue, you stand top-side. Distance from the flank is a better defense than any item.
+2. **Ult away from the threat, not toward the kill.** When a [Khufra](/heroes/khufra) lines up a jump, burn Heavy Crossbow to leap perpendicular to his vector, not into the kill. The empowered bolts still output damage during the reposition, so you are not losing teamfight DPS, you are just landing it from a safer angle.
+3. **Target priority is range, not health.** Your split-bolt passive means you pour DPS into whoever you are auto-attacking for the full duration. Locking onto a [Gloo](/heroes/gloo) because he is low is how you die to his backline. Lock onto the enemy marksman first, their mage second, and only swap to the tank after both squishies are dead or have burned their escapes.
+
+If your support is [Estes](/heroes/estes) or [Angela](/heroes/angela), you can push your positioning one step further up than normal because both supports can out-heal chip poke. If your support is [Diggie](/heroes/diggie) or [Rafaela](/heroes/rafaela), stay a full screen back; their kits break CC after the fact, which means you eat the first hook or pull before the peel arrives.
+
+### Itemization: three locked slots plus three real conversations
+
+The locked slots are [Swift Boots](/items/swift-boots), [Demon Hunter Sword](/items/demon-hunter-sword), and [Corrosion Scythe](/items/corrosion-scythe). Nothing replaces them. Swift Boots is the attack-speed boot option that lets the passive fire its refill window on time; magic-resist boots are a bait on a zero-mana hero with no magic defense dependencies. The other two are the power spike described above.
+
+The real conversations are the next three slots.
+
+**Fourth slot depends on enemy armor.** If they built two armor items on any frontliner, [Malefic Roar](/items/malefic-roar) goes next and the fight gets trivial. If the enemy is a squishy burst comp with zero defensive stacking, skip Malefic Roar and buy [Windtalker](/items/windtalker) or [Berserker's Fury](/items/berserkers-fury) for a faster crit curve. The tell is the enemy's sixth-minute item sheet; if you see one armor item by the six-minute mark, Malefic Roar is already correct.
+
+**Fifth slot is the defensive call.** Against any dive comp, [Wind of Nature](/items/wind-of-nature) goes here and the active physical-immunity wins fights against [Brody](/heroes/brody), [Karrie](/heroes/karrie), and every assassin. Against a heavy-burst magic composition, [Immortality](/items/immortality) is the better pick because one revive per fight is worth more than two seconds of phys-only immunity when their [Eudora](/heroes/eudora) or [Aamon](/heroes/aamon) is going to catch you anyway. The low HP pool makes this slot non-optional: she cannot skip her fifth-slot defensive.
+
+**Sixth slot is the crit ceiling.** [Blade of Despair](/items/blade-of-despair) or [Berserker's Fury](/items/berserkers-fury), depending on whether you already bought the other. This is the slot where more players overrate Blade of Despair than any other. The 160 flat physical attack is good, but on a hero whose damage is split across two bolts per basic and scaled off percentage-HP math, the multiplicative value from crit and attack speed often beats the additive value from a raw attack stat. If you already built Windtalker or Berserker's Fury, buy Blade of Despair next. If you have neither, buy Berserker's Fury first and save Blade of Despair for last.
+
+### Mistakes that lose Irithel games
+
+**Ulting as the fight opener.** This is the single most common Irithel throw. You see the enemy group up, you press Heavy Crossbow because the AOE damage looks juicy, and forty seconds later when the real fight starts you have no reposition and die to the first dive. Open with Strafe and basic attacks; the ultimate is for the moment a fight pivots, not for the moment it begins.
+
+**Standing still to output DPS.** Irithel is faster at dealing damage while moving than while rooted, because the passive extra bolt only triggers after she covers distance. Players who lock their thumb on the enemy and let the hero idle-attack are throwing away roughly a third of their possible DPS. Always be walking through your attacks, even a one-step side shuffle, because it keeps the passive stack feeding.
+
+**Buying Berserker's Fury before Demon Hunter Sword.** This is a ranked-lobby epidemic. Crit damage feels better than percent-HP damage on the item tooltip, so players rush Berserker's first. The problem is that crit is a DPS multiplier on her flat damage, and Irithel's flat damage per bolt is not the problem; her problem is chewing through tanks. Demon Hunter Sword solves the tank problem, Berserker's does not. Buy in the order that matches the enemy team's HP pool, not the order that feels most satisfying on the item shop screen.
+
+**Target-locking the tank in teamfights.** Tanks have the highest HP bar on screen, and Irithel's percent-HP math means she kills them eventually. But "eventually" is fifteen seconds of you auto-attacking a [Tigreal](/heroes/tigreal) while his backline [Pharsa](/heroes/pharsa) drops three galaxies on your team. Shoot squishies first. Shoot the tank only when every other viable target is dead.
+
+**Flicker-ing forward to chase.** Flicker is the only thing standing between Irithel and the enemy [Lancelot](/heroes/lancelot). Using it to secure a 2% HP kill on a fleeing enemy marksman is how you end a 3-0 lane score and a 3-5 game score. Flicker only goes backward on Irithel, or perpendicular out of a CC chain. Never forward to chase.
+
+### Key tips
+
+> [!TIP]
+> Orb-walk during your ultimate. The empowered bolt has a longer animation than a regular basic attack, so cancel the animation tail by sidestepping between each shot. You lose zero DPS and gain a full step of reposition every half-second, which is often the difference between landing a teamfight and eating a [Chou](/heroes/chou) kick.
+
+> [!NOTE]
+> Irithel's ult reads her physical attack stat directly rather than her crit curve. This is why Demon Hunter Sword and Malefic Roar outperform a crit-rush build during the ultimate window even though her out-of-ult DPS favors crit. Her high attack growth makes this gap even wider.
+
+> [!TIP]
+> Stack the passive extra bolt before engaging. If you have time before a fight starts, walk a lap around the brush you are about to emerge from. The extra bolt triggers after a movement threshold, and starting the fight with the first basic already carrying the bonus shot is a meaningful damage-opener advantage, especially into a bursty squishy like [Lesley](/heroes/lesley) or [Melissa](/heroes/melissa).
+
+> [!WARNING]
+> Do not pick Irithel blind. Her draft ceiling is narrow and her counters ([Hayabusa](/heroes/hayabusa), [Lancelot](/heroes/lancelot), [Ling](/heroes/ling), [Gusion](/heroes/gusion)) are four of the most-picked assassins in the game. Last-pick her after you see the enemy gold laner and jungler locked in, or accept that every blind-pick Irithel match is a coin flip on whether the enemy drafts the hard counter your team cannot peel.
+
+## Skills
+
+### Jungle Heart (Passive)
+
+Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal (+55% Total Physical Attack) Physical Damage per bolt (inherits a portion of Attack Effects). Moving will build up Jungle Heart, up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt(s).
+
+### Strafe (Skill 1)
+
+Irithel launches a volley of arrows on the target area, dealing 330 (+60% Total Physical Attack) Physical Damage to enemies within and reducing their Physical Defense by 15 for 3s.
+
+### Force of The Queen (Skill 2)
+
+Leo lets out a piercing roar, dealing 200 (+60% Total Physical Attack) Physical Damage to nearby enemies and slowing them by 40% for 2s.
+
+### Heavy Crossbow (Ultimate)
+
+Irithel orders Leo to leap in the target direction and empowers her crossbow for 10s. For the duration, she gains 30 Movement Speed and her Basic Attacks shoot enhanced crossbow bolts, dealing 100 (+65% Total Physical Attack) Physical Damage to the target and nearby units. Jungle Heart also accumulates faster for the duration.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Irithel's Ultimate at the start to enhance her Basic Attacks, then use her 1st Skill to reduce the enemies' Defense and use her Basic Attacks to hit multiple enemies. Use her 2nd Skill to slow enemies and prevent them from getting close.
+- LANING COMBOS (laning): In the laning phase, Irithel should maintain distance from the enemy and use her 1st Skill to reduce their Defense. Kite the enemy with Basic Attacks to chip away their HP. If the enemy tries to close in, use her 2nd Skill to maintain distance and continue firing Basic Attacks. When the time is right, use her Ultimate to enhance her Basic Attacks and finish off the enemy.
+
+## Counters to Irithel (pick these against Irithel)
+
+- Brody (Marksman): +2.7 pp edge. Brody's burst damage can eliminate Irithel before they can deal sustained damage in team fights.
+- Bruno (Marksman): +2.3 pp edge. Bruno's burst damage can eliminate Irithel before they can deal sustained damage in team fights.
+- Eudora (Mage): +2.2 pp edge. Eudora's burst damage can eliminate Irithel before they can deal sustained damage in team fights.
+- Saber (Assassin): +2.2 pp edge. Saber has a statistical edge over Irithel based on ranked matchup data. Pick Saber to gain an advantage in draft.
+- Lesley (Marksman/Assassin): +2.0 pp edge. Lesley's burst damage can eliminate Irithel before they can deal sustained damage in team fights.
+- Miya (Marksman): +2.0 pp edge. Miya has a statistical edge over Irithel based on ranked matchup data. Pick Miya to gain an advantage in draft.
+
+## Heroes Irithel beats
+
+- Benedetta (Assassin/Fighter): +2.5 pp edge for Irithel.
+- Wanwan (Marksman): +2.1 pp edge for Irithel.
+- Yin (Fighter/Assassin): +2.0 pp edge for Irithel.
+- Beatrix (Marksman): +1.9 pp edge for Irithel.
+- Sun (Fighter): +1.8 pp edge for Irithel.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/irithel.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Sprint Crit (Gold)
+
+- Items: Swift Boots, Haas's Claws, Berserker's Fury, Windtalker, Malefic Gun, Blade of Despair
+- Core: Haas's Claws, Berserker's Fury, Windtalker
+- Emblem: Marksman Emblem with Fatal, Weapon Master, Quantum Charge
+- Battle spell: Sprint
+- Flex: Wind of Nature over Blade of Despair when Use when the main threat is physical burst that reaches you during Heavy Crossbow.; Rose Gold Meteor over Blade of Despair when Use against magic burst or mixed dive that kills you before Sprint creates distance.; Sea Halberd over Malefic Gun when Use when a healer, shield support, or high-extra-HP front liner keeps the first target alive.; Malefic Roar over Malefic Gun when Use when enemies are stacking Physical Defense and range is less important than armor scaling.
+- Total cost: 12130 gold
+
+Default gold lane build that rushes crit uptime, then uses Sprint and Malefic Gun range to keep Irithel firing while moving.
+
+### Anti-Dive Flicker (Gold)
+
+- Items: Warrior Boots, Haas's Claws, Berserker's Fury, Windtalker, Wind of Nature, Malefic Gun
+- Core: Haas's Claws, Berserker's Fury, Windtalker
+- Emblem: Marksman Emblem with Fatal, Weapon Master, Quantum Charge
+- Battle spell: Flicker
+- Flex: Tough Boots over Warrior Boots when Use when the lane threat or jungle threat is magic damage or chain crowd control.; Rose Gold Meteor over Wind of Nature when Use when the burst profile is mixed or magic-heavy instead of physical.; Blade of Despair over Wind of Nature when Use only when your roam and EXP laner can reliably keep divers away from you.
+- Total cost: 11040 gold
+
+Safety build for physical dive games where Flicker and Wind of Nature matter more than a greedier sixth damage slot.
+
+### Heavy CC Cleanse (Gold)
+
+- Items: Tough Boots, Haas's Claws, Berserker's Fury, Windtalker, Rose Gold Meteor, Malefic Gun
+- Core: Haas's Claws, Berserker's Fury, Windtalker
+- Emblem: Marksman Emblem with Fatal, Weapon Master, Quantum Charge
+- Battle spell: Purify
+- Flex: Wind of Nature over Rose Gold Meteor when Use when the crowd control is manageable but physical burst is the actual kill threat.; Blade of Despair over Rose Gold Meteor when Use after your team proves it can cleanse or block the first engage for you.; Sea Halberd over Malefic Gun when Use when anti-heal or anti-shield is required before range can decide the fight.
+- Total cost: 10930 gold
+
+Cleanse setup for stun-heavy drafts where Purify and Rose Gold Meteor buy the first second Irithel needs to keep moving.
+
+All builds for this hero: https://mlbbhub.com/builds/irithel.
+
+## Synergies
+
+- Valir: Irithel works best with heroes that can slow or provide hard CC such as Valir and Hylos because they allow her more opportunities to deal damage.
+- Hylos: Irithel works best with heroes that can slow or provide hard CC such as Valir and Hylos because they allow her more opportunities to deal damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

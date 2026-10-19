@@ -1,0 +1,205 @@
+# Mathilda, Swift Plume
+
+> Mathilda is not a fighter who happens to support. She is a delivery system dressed as a hero, built to move other people where they need to be and then punish whoever they land on. Get the order of operations right and she is one of the most disruptive roamers in the game; get it wrong and she is a very fast hero with nothing useful to do.
+
+## Snapshot
+
+- Role: Support, Assassin
+- Lane: Roam
+- Also played (MLBBHub editorial, not Moonton's listed lane): Mid
+- Specialty: Initiator, Guard
+- Difficulty: Hard
+- Tier this patch: D
+- Win rate: 44.61%
+- Pick rate: 0.14%
+- Ban rate: 0.18%
+- Released: 2020
+- Page: https://mlbbhub.com/heroes/mathilda
+
+## Guide
+
+### The team that earns Mathilda
+
+Her last balance pass, 2.1.88 ([patch notes](/patch-notes)), sharpened her mid-to-late damage on both Soul Bloom and Circling Eagle and cut her ultimate's mana cost, so the engages now carry real burst, not just utility. It does not change who you draft her with.
+
+Lock Mathilda when you have at least one hero who wants to close gap fast and does their best work right next to an enemy carry. Hayabusa, Gusion, Lancelot, and Saber are the obvious candidates. Less obvious but just as effective: Fanny (Guiding Wind's speed boost lets her cable in faster), Yu Zhong in the EXP lane (using S2 to pull him into a midlane skirmish), and burst mages like Lunox who need a single entry window to one-shot.
+
+The disqualifying test is simple: look at your team comp and ask which hero benefits most from being teleported into the enemy backline right now. If you cannot name one, Mathilda is the wrong pick for this draft.
+
+On the enemy side, three heroes make her miserable. Franco's Bloody Hunt suppresses her during or before Circling Eagle, stopping the orbit cold. Minsitthar's King's Calling creates an anti-blink zone that prevents her final dash from landing. Lolita's Nokhom Shield blocks Soul Bloom wisps entirely, turning S1 into wasted mana. If the enemy team has two of these three, consider Floryn or Estes instead.
+
+### Everything runs through Guiding Wind
+
+Soul Bloom deals real burst damage and Circling Eagle's knockup is a genuine teamfight disruptor. But neither of those matters unless Guiding Wind is doing its job, because Guiding Wind is what separates Mathilda from every other support: it lets her hand one ally a free Flicker on a short cooldown.
+
+The mechanic is positional, not targeted. Mathilda leaps to a spot, a circular field forms around her, and the first ally who walks into the field gets pulled to her position and shares her speed boost. This means two things. First, Mathilda has to telegraph the jump to the ally who needs it, either through voice comms or by placing the field directly in front of them. Second, the window is brief: the buff expires moments after the ally leaves the field, so the decision to commit has to happen immediately.
+
+The failure mode is Mathilda jumping in alone, nobody following, and eating three people's attention while her ally stands outside the field wondering what to do. This is not a kit problem. It is a coordination problem, and it is the entire reason Mathilda underperforms in solo queue relative to her five-stack ceiling.
+
+### The first eight minutes
+
+Mathilda's opening eight minutes are about information and timing, not kills.
+
+1. **Start near the bottom buff, then rotate toward mid.** Accompany your jungler to their first clear for vision, then position in the river between mid and jungle to threaten both lanes. Do not camp in one spot. Your passive charges while you move, so every rotation generates passive procs.
+2. **Use Soul Bloom as a threat, not a burst.** Walking for the full charge window generates up to 6 wisps. Most players release too early at 2-3 wisps. Instead, S1 in the river, walk until the cast refreshes, then release only when at least 4 wisps are charged. A full-stack Soul Bloom on an out-of-position mid laner forces a Flash or scores a kill.
+3. **Save Guiding Wind for the commit, not the approach.** Using S2 to close distance in the early game burns the cooldown you need for the actual gank. Walk to position, then S2 into the gank window so your assassin jumps with you.
+
+### Fleeting Time is the hinge item
+
+Before Fleeting Time, Mathilda has one Circling Eagle per teamfight. After it, she can get it back mid-fight. Every kill or assist while the ult is on cooldown reduces it by 30%, which in a drawn-out skirmish means a second use before the fight resolves.
+
+Build it first after boots. Around the 12 to 14 minute mark you should have Arcane Boots with the Favor enchant and Fleeting Time completed. That is when Mathilda stops being a roam tax and starts being a fight engine. Favor tops up the lowest-HP ally every time she lands a shield, so the sustain rides on skills she is casting anyway; Fleeting Time handles the rest.
+
+Oracle is the second required item. Its Bless passive raises the shields and HP regen Mathilda receives by 25%, which makes the shield she keeps for herself on every Guiding Wind meaningfully larger. On a hero whose mid-game identity is built around that shield, the boost is not marginal.
+
+### Circling Eagle: mark the carry, not the tank
+
+The wrong reflex in a teamfight is targeting whoever is closest. Circling Eagle's value comes from what happens when it lands, not just the damage it deals. The knockup at the end creates a brief lock for your team to pile onto. Mark the enemy carry with that window, not the tank.
+
+Two rules for positioning during the orbit:
+
+1. **Do not orbit toward your own team.** The final dash path is toward the Soul Mark. If enemies are standing between you and the marked target when you dash, the knockup hits them and the mark transfers. A knocked tank means the carry escapes untouched.
+2. **Cast Guiding Wind during the orbit.** Mathilda can use S2 while circling without breaking the orbit. This is how she calls in a cleanup assassin to the marked target's position while she is still locked in the ult animation. Used correctly, it synchronizes the assassin's arrival with her knockup.
+
+After the knockup: immediately trigger Soul Bloom if you have wisps built up. The mark still exists on the knocked enemy for a moment, and Soul Bloom prioritizes marked targets, so the burst follows the CC naturally.
+
+### Itemization: three locks and two real conversations
+
+Arcane Boots with Favor, Fleeting Time, and Oracle are fixed. They cover the three things Mathilda needs: rotation sustain, ult frequency, and shield amplification.
+
+The remaining three slots are situational:
+
+- **Dominance Ice** is the default fourth item against drafts that win through healing, and it now answers magic damage as much as physical. Both of its passives work off the enemies standing near Mathilda: Fortress Shield adds Hybrid Defense for each hero within 5 units, and Lifebane cuts their shields and HP regen to 60% of normal, which is exactly what breaks a sustain-heavy enemy trying to grind through her.
+- **Antique Cuirass** over Dominance Ice when the physical threat is skill-based and the enemy has no healing worth cutting. Deter stacks to three charges and reduces physical damage per charge, which is negligible against a Karrie but significant against a Paquito or Zilong landing repeated skillsets.
+- **Athena's Shield** when the enemy mage or magic jungler is fed and you need the magic damage reduction window. The 25% reduction triggers on the first hit after returning from combat, which lines up well with Mathilda's approach pattern before every ult.
+- **Immortality** belongs in the sixth slot, not bought mid-game as a panic purchase. The second life lets you complete an orbit and knockup even if you enter a fight at low HP.
+
+The boot enchant is always Favor. Encourage has value on passive supports who stay glued to the carry all game; Mathilda rotates too frequently for its damage buff to sit on the right people.
+
+### Mistakes that lose Mathilda games
+
+**Releasing Soul Bloom at two or three wisps.** Two wisps is light poke. Six wisps can kill a squishy target. The charge window feels long when you are in a fight, so most players panic-release early. Hold the skill until the wisp count is near maximum, then trigger. The damage difference is large enough to change outcomes.
+
+**Ulting on the frontline tank.** The orbit feels safe when you are circling someone who cannot kill you before it ends. But the knockup landing on a tank gives the enemy backline free seconds to delete your teammates. Mathilda is control-immune during the orbit, so she does not need the safety of a soft target. Take the risk and mark the carry.
+
+**Using Guiding Wind as a personal escape.** S2 is conditionally useful for dodging a single skillshot, but every time you use it solo you burn the window where an ally could have gotten a free teleport into the fight. The solo escape is almost never worth more than the team initiation it costs.
+
+**Orbiting into Minsitthar's King's Calling.** Once you are circling, you cannot cancel. If Minsitthar places his zone before your dash triggers, the final dash fails. Treat King's Calling the same way any dash-dependent hero does: do not commit while it is active.
+
+**Pulling allies backward by mistake.** Guiding Wind deposits the triggered ally at Mathilda's current position. If you jump backward while retreating and an ally steps into the field intending to escape with you, they arrive at wherever you landed, which may be deeper in the fight than either of you wanted. Communicate your S2 jumps or allies will walk into your field during retreats expecting an escape and find themselves further forward instead.
+
+### Key tips
+
+> [!TIP]
+> Soul Bloom wisp count scales with movement distance, not time elapsed. Activate Sprint or time your Ancestral Guidance passive burst while S1 is charging to cover more ground and reach the 6-wisp cap faster than the enemy expects.
+
+> [!NOTE]
+> Circling Eagle's knockup mark transfers to the first enemy hero hit during the final dash, not necessarily the original target. If a tank or frontliner stands between Mathilda and her marked carry, they absorb the knockup and the carry walks free. Aim the dash path with that in mind.
+
+> [!TIP]
+> You can cast Guiding Wind during Circling Eagle without interrupting the orbit. This is Mathilda's highest-value play: orbit the carry to hold them in place, then pull your assassin in to finish the job while you are still mid-orbit.
+
+> [!NOTE]
+> Pull Yourself Together on the Support Emblem trims Flicker's cooldown, and the trim grows with every kill or assist you stack through the fight. Come out the far side of a long skirmish and Flicker is back a beat early, which is often the one extra entry or escape that decides it. General cooldown reduction from items does not touch battle spells, so this talent is the only lever you have on Flicker's timer.
+
+## Skills
+
+### Ancestral Guidance (Passive)
+
+Mathilda gains Ancestral Guidance while moving. When it's fully charged, her next Basic Attack will be enhanced, dealing 200 (+100% Total Physical Attack) (+100% Total Magic Power) Magic Damage to the target and granting her 80 extra Movement Speed that decays over 2.5s.
+
+### Soul Bloom (Skill 1)
+
+Mathilda resonates with the power of her ancestors for 4s, attracting wisps as her movement distance increases (up to 6 wisps). At the end of the skill's duration, or when Mathilda casts this skill again, the wisps will seek and attack nearby enemies, each dealing 275 (+125% Total Magic Power) Magic Damage and revealing the enemies' positions briefly. Subsequent damage dealt by wisps to the same target decays to 40%.
+
+### Guiding Wind (Skill 2)
+
+Mathilda leaps in the target direction and creates a field around her, gaining a 350 (+180% Total Magic Power) shield and 25% extra Movement Speed for 3s. Allied heroes who come into contact with the field will receive a 50% shield and Guiding Wind. The first allied hero that triggers Guiding Wind will be guided to Mathilda, and both of them will gain the same Movement Speed boost. When casting this skill during Circling Eagle, Mathilda won't change her position. Guiding Wind expires 2s after the hero leaves Mathilda's field.
+
+### Circling Eagle (Ultimate)
+
+Mathilda applies a Soul Mark to the target enemy hero and circles around them for up to 3.5s, during which her wisps will fly into nearby enemies, each dealing 40 (+15% Total Magic Power) Magic Damage. The Soul Mark will also slow the target by 15% and Soul Bloom will prioritize the target with Soul Mark. Within the duration, Mathilda can select an area to dash to. At the end of the duration, she'll dash at the target with Soul Mark, dealing 320 (+120% Total Magic Power) Magic Damage while knocking enemies in her path airborne for 0.6s, transferring the Soul Mark to the first enemy hero that she knocks airborne, and reducing the skill cooldown by 40%. Mathilda gains Control Immunity and a 400 (+180% Total Magic Power) shield for the skill duration.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, first activate Mathilda's 1st skill, then immediately use her 2nd Skill to get to a good position to initiate from and unleash her Ultimate on the primary target. This combo allows Mathilda to quickly CC a key enemy hero, and lets an ally follow up by using Guiding Wind from her 2nd Skill.
+- LANING COMBOS (laning): In the laning phase, use Mathilda's 1st Skill in advance and keep moving to gather wisps, then use her 2nd Skill to get close to the enemy and unleash all her wisps at the target before ending with an enhanced Basic Attack. Use her Ultimate to secure the kill if the enemy is low on HP.
+
+## Counters to Mathilda (pick these against Mathilda)
+
+- Esmeralda (Tank/Mage): +4.3 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Mathilda throughout the game.
+- Odette (Mage): +3.4 pp edge. Odette has a statistical edge over Mathilda based on ranked matchup data. Pick Odette to gain an advantage in draft.
+- Popol and Kupa (Marksman): +2.7 pp edge. Popol and Kupa has a statistical edge over Mathilda based on ranked matchup data. Pick Popol and Kupa to gain an advantage in draft.
+- Phoveus (Fighter): +2.7 pp edge. Phoveus's durability and kit give them a strong matchup advantage against Mathilda throughout the game.
+- Estes (Support): +2.6 pp edge. Estes's protective abilities and vision control make it difficult for Mathilda to find isolated targets.
+- Edith (Tank/Marksman): +2.5 pp edge. Edith's durability and kit give them a strong matchup advantage against Mathilda throughout the game.
+- Freya (Fighter): +1.8 pp edge. Freya's durability and kit give them a strong matchup advantage against Mathilda throughout the game.
+- Alucard (Fighter/Assassin): +1.7 pp edge. Alucard's durability and kit give them a strong matchup advantage against Mathilda throughout the game.
+
+## Heroes Mathilda beats
+
+- Natalia (Assassin): +4.5 pp edge for Mathilda.
+- X.Borg (Fighter): +3.5 pp edge for Mathilda.
+- Helcurt (Assassin): +3.0 pp edge for Mathilda.
+- Benedetta (Assassin/Fighter): +2.9 pp edge for Mathilda.
+- Valir (Mage): +2.9 pp edge for Mathilda.
+- Lancelot (Assassin): +2.3 pp edge for Mathilda.
+- Hanzo (Assassin): +2.3 pp edge for Mathilda.
+- Zetian (Mage): +1.8 pp edge for Mathilda.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/mathilda.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Favor Tempo (Roam)
+
+- Items: Tough Boots, Flask of the Oasis, Enchanted Talisman, Fleeting Time, Oracle, Immortality
+- Core: Flask of the Oasis, Enchanted Talisman, Fleeting Time
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Favor
+- Flex: Warrior Boots over Tough Boots when Use when the enemy draft is mostly physical contact damage and has limited chain crowd control.; Dominance Ice over Oracle when Use when sustain fighters, attack-speed marksmen, or shield-heavy divers are the main problem.; Winter Crown over Immortality when Use when one predictable dive combo can be stalled after Guiding Wind or Circling Eagle has already started.
+- Total cost: 10650 gold
+
+Default ranked roam setup that turns Mathilda into a repeat engage and rescue tool with Favor, Flask, mana sustain, ultimate resets, and late revive insurance.
+
+### Roam Anti-Sustain Defense (Roam)
+
+- Items: Tough Boots, Flask of the Oasis, Enchanted Talisman, Dominance Ice, Oracle, Immortality
+- Core: Flask of the Oasis, Dominance Ice, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Purify
+- Blessing: Favor
+- Flex: Warrior Boots over Tough Boots when Use when physical basic attacks and repeated contact matter more than crowd control duration.; Athena's Shield over Oracle when Use against single-cycle magic burst that can remove Mathilda before Guiding Wind creates a save path.; Radiant Armor over Oracle when Use against sustained magic poke or burn that chips Mathilda before Lord and Turtle fights.; Antique Cuirass over Oracle when Use when physical skill burst from fighters or assassins is forcing defensive ultimates too early.
+- Total cost: 10610 gold
+
+Defensive roam setup for brawl-heavy drafts where Purify protects Mathilda from CC chains and Dominance Ice punishes enemies who dive through her shield field.
+
+### Roam Dire Hit Burst (Roam)
+
+- Items: Arcane Boots, Enchanted Talisman, Glowing Wand, Ice Queen Wand, Divine Glaive, Blood Wings
+- Core: Enchanted Talisman, Glowing Wand, Ice Queen Wand
+- Emblem: Mage Emblem with Agility, Wilderness Blessing, Lethal Ignition
+- Battle spell: Execute
+- Blessing: Dire Hit
+- Flex: Tough Boots over Arcane Boots when Use when crowd control or magic burst matters more than early penetration.; Genius Wand over Ice Queen Wand when Use when your team has multiple magic damage dealers who can benefit from reduced enemy Magic Defense.; Holy Crystal over Blood Wings when Use when Mathilda is snowballing and needs maximum shield and Soul Bloom scaling instead of a personal safety shield.; Immortality over Blood Wings when Use when late death timers matter more than extra magic power and movement speed.
+- Total cost: 10920 gold
+
+Damage roam setup for pickoff drafts. Mathilda charges Ancestral Guidance and Dire Hit Force off the same constant movement, so the enhanced Basic Attack carries the stack dump into Circling Eagle, Soul Bloom, and Execute.
+
+All builds for this hero: https://mlbbhub.com/builds/mathilda.
+
+## Synergies
+
+- Saber: Mathilda works well with high burst damage heroes who can use Guiding Wind and follow up her Ultimate to secure kills, such as Saber and Eudora.
+- Eudora: Mathilda works well with high burst damage heroes who can use Guiding Wind and follow up her Ultimate to secure kills, such as Saber and Eudora.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

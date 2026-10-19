@@ -1,0 +1,208 @@
+# Hanabi, Scarlet Flower
+
+> Hanabi is a draft-dependent gold laner whose real weapon is not raw range but the freedom to stand in a fight while everyone else is getting displaced. Pick her when the enemy wants to enter through one lane, one choke, or one front line, and skip her when your own draft cannot buy her eight clean minutes.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Finisher, Damage
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 52.36%
+- Pick rate: 2.52%
+- Ban rate: 5.00%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/hanabi
+
+## Guide
+
+### When Hanabi punishes the lobby
+
+Hanabi is not a blind-pick gold laner in the current ranked environment. The stable ladder choices are the marksmen that either own lane early or keep damage online while fights break open around Turtle. Hanabi does neither unless the draft gives her a protected front-to-back fight. Patch 2.2.16 ([patch notes](/patch-notes)) turned that split into a rule: Petal Blade chains that keep landing on the same target now lose damage with each bounce, so the small-fight version of Hanabi got weaker while the clumped five-man version barely moved. That is why recent tier coverage treats her as niche while recent Hanabi guides still frame her as a late-fight carry: both are true at once. She is strong inside the right map state and awkward outside it.
+
+Pick her when two conditions are already visible in draft. First, the enemy wants to walk into your team rather than split fights across multiple angles. Tank engages, double-frontline setups, and clumped objective fights all make her petal bounces matter. Second, your own team can provide either peel or a clear engage anchor. A tank that holds the first line, or a support that lets her keep spacing without burning Flicker, changes Hanabi from passive farm tax into an actual win condition.
+
+The trap drafts are easier to spot than the good ones. If the enemy gold laner is Bruno, Beatrix, or Irithel, expect the first four minutes to feel hostile. If the enemy draft includes burst dive from Hayabusa, Natalia, or other fast backline access, Hanabi is asking to be screened out of the fight before her damage ramps. If suppression or hard pick tools are the core of the enemy plan, the shield stops being a license to stand your ground and turns into a false promise.
+
+Pick Hanabi because the fight will come to you. Do not pick her because you hope to outplay a faster lane.
+
+### Shield uptime is the whole hero
+
+Hanabi is a front-to-back area damage carry disguised as a basic-attacker. Her passive throws Petal Blades off every hit, so her damage gets better when enemies stand near each other instead of spreading. A chain that keeps landing on the same body decays as it repeats, which is why this hero rewards target choice more than target focus. Her first skill, Equinox, is the switch that makes the whole kit legal. As long as the shield is active, she gets the movement and attack-speed window that lets her keep firing while control tries to shut her down.
+
+That is the real identity thesis: Hanabi wins when the shield stays online long enough for one target to become three. Soul Scroll is not just lane poke. It marks targets so the next bounce lands with real consequence, which is why disciplined Hanabi players keep using it to shape the first hit of the trade instead of throwing it randomly for chip. Higanbana is not a fishing hook either. It is the punishment button for enemies who commit to the same patch of ground at the same time.
+
+Once you read the hero that way, her good fights become obvious. She wants the enemy tank entering first, the diver touching the same corridor, and the backline standing close enough that one anchored basic attack can spread real damage. She does not want side-angle skirmishes, open-field chases, or isolated duels where every bounce dies on the first body.
+
+If Hanabi feels weak in your hands, the problem is usually not raw damage. It is that you are trying to make a corridor teamfighter solve a scattered fight.
+
+### Gold lane, first five minutes
+
+1. **Open Soul Scroll and lane through the mark.** Skill 2 gives Hanabi a safe first-touch tool, helps her manage mana pressure, and lets you punish enemies who stand in the caster line. Tag the wave and the opposing gold laner together when possible, then auto through the marked target instead of walking up for a raw trade. Put your early points into Soul Scroll before Equinox unless the lane is clearly threatening a level-one invade or tower dive.
+2. **Keep the wave on your half until help is visible.** Hanabi does not win neutral trades against lane bullies by pretending she does. Thin the wave, last-hit under safer ground, and only hard-crash when your roam or jungler is actually in position to punish the response. Against Bruno, Beatrix, or Irithel, surviving even on gold is already a good lane. Your turret plate matters less than your first clean item timing.
+3. **Spend battle-spell tempo after the first problem, not before it.** Flicker is the default because Hanabi dies to the second layer of danger, not the first one. Let Equinox absorb the first attempt, then Flicker the follow-up angle or the hard commit. If you chose Aegis because your draft is fully front-to-back, press it before the burst lands so the extra shield buys more attack uptime. Do not burn either spell to force a kill in lane unless the map already belongs to your side.
+
+The first five minutes are not about proving Hanabi can fight. They are about arriving at the first item break without giving the enemy gold lane a free snowball.
+
+### Corrosion plus DHS is the first real checkpoint
+
+The default Hanabi spike is not the full three-item highlight reel. It starts at **Corrosion Scythe plus Demon Hunter Sword**, usually around the eight to ten minute mark if lane did not collapse. That pair is the first checkpoint where her autos start solving real problems instead of simply clearing waves.
+
+Corrosion Scythe gives Hanabi the attack-speed ramp and sticky chase pattern she lacks on her own. Demon Hunter Sword turns every sustained trade into a health-tax conversation the enemy front line cannot ignore, and the on-hit recovery helps Equinox stay relevant longer once a fight actually starts. Together, those two items change the feel of the hero. Before them, Hanabi needs setup to matter. After them, she can punish any tank or diver who sits in range too long.
+
+Golden Staff is still the natural next purchase when the game is going front-to-back, because extra attack-effect triggers are exactly what her passive wants. But the reason to name the two-item spike correctly is practical: you should start contesting tighter objective fights as soon as Corrosion and DHS are finished, not wait for a perfect late-game inventory that may never arrive.
+
+There is a crit route, but it is a draft exception, not the default. If the enemy has only one real front liner and your team already owns tempo, moving into Windtalker and Berserker's Fury can end squishy fights faster. Most Hanabi games are not that clean. Most of them are won by surviving the first engage and letting attack effects multiply through the pile.
+
+### Fight from the knot, not the edge
+
+The common Hanabi mistake is to play her like a long-range artillery marksman: stand at maximum distance, throw ultimate first, then auto whoever is closest. That reflex cuts the hero in half. Hanabi does her best work when the fight is condensed and she can hit the target whose neighbors matter.
+
+1. **Anchor your basics on the entry point.** If an assassin or bruiser reaches your line, that target is often better than the backline carry because every bounce has somewhere to go. Hanabi damage is not about ego-targeting the enemy marksman. It is about choosing the body that turns one auto into several.
+2. **Hold Higanbana for committed movement.** Do not spend ultimate to make a fight begin. Spend it when the enemy tank, diver, or engage support has already chosen the lane they are entering through. The spell is strongest when it lands on movement that cannot easily be canceled, not on a target still deciding whether to walk in or out.
+3. **Stand one layer behind your peel, not two screens behind it.** Hanabi has to be close enough that petal bounces stay live. If you retreat to pure maximum range, you cut yourself off from the very clumps your kit is built to punish. If you step past your peel, you donate your shutdown before the fight even settles. The right spot is the knot behind the first engage, where your support and front line still overlap your attack path.
+
+The support-dependent edge case is simple. If your roam is Atlas or Carmilla and they already create the clump for you, your job is not to start the exchange. Let them pin the pile first, then ult into the second beat of the crowd control so the enemy loses the escape window instead of merely respecting the cast animation.
+
+### Locked slots, then real conversations
+
+Hanabi itemization gets cleaner once you stop treating every slot as a debate. The default shell is **Swift Boots, Corrosion Scythe, Demon Hunter Sword**, plus **Marksman Emblem with Weakness Finder**. That baseline gives her attack speed, lifesteal, and another source of on-hit sticking power without asking her to win lane through burst alone.
+
+After that, the flex buys should answer the actual lobby:
+
+**Golden Staff** is the standard third damage item when the enemy has a real front line or wants long objective fights. If the game is going to be decided by repeated autos into the same choke, this is the slot that makes Hanabi feel unfair.
+
+**Berserker's Fury** is the pivot when the enemy composition is light, spread, and short on tanks. Buy it when you need faster carry kills and the game is less about shredding a stacked front line.
+
+**Sea Halberd** is the discipline buy into healing and shield-heavy comps. If Estes, Floryn, Esmeralda, or a drain-heavy bruiser is keeping fights alive too long, the anti-heal matters more than one greedier damage slot.
+
+**Wind of Nature** is the correct answer to double physical dive or any lobby where the enemy win condition is an assassin reaching you once. Pressing it at the start of the burst window often buys enough time for Equinox and lifesteal to keep you upright.
+
+**Rose Gold Meteor** is the magic-burst hedge. When the threat is a mage deleting you before your autos stabilize the fight, the extra shield swing can be the difference between standing still and keeping the attack chain alive.
+
+**Malefic Roar** is the armor answer. If the enemy front line is stacking defense and your autos are starting to feel cosmetic, stop pretending raw physical attack will fix it.
+
+The wrong way to itemize Hanabi is to mix paths because every item looked individually strong. Decide whether the game is about multiplying attack effects, killing healing, surviving dive, or punching through armor. Then buy for that conversation only.
+
+### The habits that throw Hanabi games
+
+**Blind-picking her into lane bullies and calling it comfort.** Comfort does not erase matchup math. Bruno, Beatrix, and Irithel force Hanabi to lane defensively unless your roam is already planning to babysit. If you lock her early into those lanes with no peel plan, the game starts with a tax your whole team has to pay.
+
+**Casting Equinox after the control already connected.** Hanabi players lose fights by reacting to the stun instead of preparing for it. Equinox is strongest when you know the engage is coming and turn it on before the front line touches you. If you wait for the animation to land, you are asking one defensive button to undo a mistake it cannot undo.
+
+**Using Higanbana as poke instead of punishment.** A random ultimate that hits one target and starts no real fight is not pressure. It is permission for the enemy to walk into the next objective knowing your one reliable stop button is gone. Save it for the moment the fight becomes unavoidable.
+
+**Walking to side waves alone after first turret falls.** Hanabi wants corridor fights with bodies in front of her, not long side lanes where the first face-check becomes a death sentence. After the map opens, collect side farm only when you can still reconnect to mid before the enemy dive reaches fog.
+
+**Building half crit and half attack-effect with no reason.** Hanabi has multiple viable routes, but she does not reward indecision. If you buy Corrosion and DHS, finish the plan that multiplies those effects unless the lobby state truly changed. If you committed to crit because the enemy has no front line, stop hedging back into tank-melt items one slot later.
+
+### Small edges that change fights
+
+> [!TIP]
+> When Soul Scroll tags both the wave and the enemy gold laner, auto the marked minion first if it gives you a safer angle. Hanabi cares about where the bounce starts, not about proving she can always click the hero directly.
+
+> [!NOTE]
+> Flicker is the safer default spell, but Aegis is real when your draft is already built around front-to-back peel. Pick Aegis only when you know someone else is handling the first engage angle for you.
+
+> [!TIP]
+> Wind of Nature is not a panic key for one HP. Press it at the start of the physical burst window so your shield and lifesteal have time to matter while the enemy commits into nothing.
+
+> [!NOTE]
+> Hanabi Lord fights look best in narrow entrances. If your team controls the choke first, stay in that corridor and make the enemy walk into you. If you chase into open river space, you give up the geometry that makes the hero worth drafting.
+
+## Skills
+
+### Ninjutsu: Petal Barrage (Passive)
+
+Hanabi's Basic Attacks and skills launch Petal Blades upon hitting a target, dealing 30% damage and bouncing up to 4 times to nearby enemies. Petal Blades launched by Basic Attacks inherit Attack Effects. If bounces from the same Basic Attack or skill hit the same target multiple times, subsequent bounces deal 30% less damage.
+
+### Ninjutsu: Equinox (Skill 1)
+
+Passive: Whenever Hanabi has a shield from any source, she is immune to control effects. Active: Hanabi gains a 300 (+40% Total Physical Attack) shield for 5s. When the shield is active, she gains 20% Movement Speed and 25% Attack Speed, and 20% of her damage dealt to enemy heroes is added to this shield (only 10% of the damage dealt to non-hero units is added). This shield cannot exceed 50% of her Max HP.
+
+### Ninjutsu: Soul Scroll (Skill 2)
+
+Hanabi fires the energy Kunai in the targeted direction, dealing 350 (+80% Total Physical Attack) Physical Damage to enemies along the way and reducing their Movement Speed by 60% for 1s. Enemy units hit will also be marked, allowing Hanabi's next Bounce Damage from Basic Attacks to deal 30 (+100% Total Physical Attack) Physical Damage on them with no damage decay.
+
+### Forbidden Jutsu: Higanbana (Ultimate)
+
+Hanabi throws Higanbana in the targeted direction, dealing 300 (+50% Total Physical Attack) Physical Damage to the first enemy hero hit and immobilizing them for 0.8s. After 1s, Higanbana will bloom at the location of the first hit, dealing 300 (+50% Total Physical Attack) Physical Damage to nearby enemies. Subsequent hits on the same target decay to 30% damage.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, start with Hanabi's 2nd Skill to slow the enemies, then follow up with her Ultimate to immobilize them and let loose with Basic Attacks. During this time, use her 1st Skill accordingly for more damage and survivability, and keep up the damage with her bouncing Basic Attacks.
+- LANING COMBOS (laning): In the laning phase, use Hanabi's 2nd Skill to poke the enemy and mark them, and continue to chip away their HP with Basic Attack bounces before using her 1st Skill and engaging them head-on.
+
+## Counters to Hanabi (pick these against Hanabi)
+
+- Lolita (Support/Tank): +3.7 pp edge. Lolita's durability and kit give them a strong matchup advantage against Hanabi throughout the game.
+- Beatrix (Marksman): +3.3 pp edge. Beatrix has a statistical edge over Hanabi based on ranked matchup data. Pick Beatrix to gain an advantage in draft.
+- Wanwan (Marksman): +2.8 pp edge. Wanwan's burst damage can eliminate Hanabi before they can deal sustained damage in team fights.
+- Benedetta (Assassin/Fighter): +2.7 pp edge. Benedetta's burst damage can eliminate Hanabi before they can deal sustained damage in team fights.
+- Joy (Assassin): +2.6 pp edge. Joy has a statistical edge over Hanabi based on ranked matchup data. Pick Joy to gain an advantage in draft.
+- Lapu-Lapu (Fighter): +2.4 pp edge. Lapu-Lapu's burst damage can eliminate Hanabi before they can deal sustained damage in team fights.
+- Khaleed (Fighter): +2.3 pp edge. Khaleed's durability and kit give them a strong matchup advantage against Hanabi throughout the game.
+- Lylia (Mage): +2.0 pp edge. Lylia has a statistical edge over Hanabi based on ranked matchup data. Pick Lylia to gain an advantage in draft.
+
+## Heroes Hanabi beats
+
+- Popol and Kupa (Marksman): +3.1 pp edge for Hanabi.
+- Saber (Assassin): +2.4 pp edge for Hanabi.
+- Kaja (Support): +2.2 pp edge for Hanabi.
+- Chip (Support/Tank): +2.0 pp edge for Hanabi.
+- Balmond (Fighter): +1.9 pp edge for Hanabi.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/hanabi.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Shield DPS (Gold)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Sea Halberd, Rose Gold Meteor
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Aegis
+- Flex: Wind of Nature over Rose Gold Meteor when Use against physical burst that reaches you after your Equinox shield has already been forced.; Malefic Gun over Sea Halberd when Use when the enemy has low healing and you need safer basic-attack range before Lord fights.; Malefic Roar over Sea Halberd when Use when the enemy front line stacks Physical Defense and anti-heal is not deciding the fight.
+- Total cost: 10810 gold
+
+Default gold lane setup that turns Hanabi's attack-effect bounces into a steady shielded DPS pattern.
+
+### Front-to-Back Anti-Tank (Gold)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Malefic Roar, Wind of Nature
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, Quantum Charge
+- Battle spell: Flicker
+- Flex: Sea Halberd over Wind of Nature when Use when healing, shields, or high-extra-HP fighters are more important than physical immunity.; Rose Gold Meteor over Wind of Nature when Use against mixed or magic burst where Wind Chant will not stop the first threat.; Malefic Gun over Malefic Roar when Use when you can avoid armor-stacked tanks and need extra range to hit safely.
+- Total cost: 10910 gold
+
+Front-to-back setup for tank-heavy games where Hanabi can hit the nearest durable target from behind peel.
+
+### Safe Solo Queue (Gold)
+
+- Items: Tough Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Rose Gold Meteor, Immortality
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Tenacity, Quantum Charge
+- Battle spell: Aegis
+- Flex: Wind of Nature over Immortality when Use when the main threat is physical burst and you trust yourself to press the active before the damage lands.; Athena's Shield over Immortality when Use against one-shot magic engage that kills you before Immortality can produce value.; Radiant Armor over Immortality when Use against repeated magic damage that chips through your shields across extended fights.
+- Total cost: 10870 gold
+
+Defensive ranked setup for games where Hanabi must preserve her shield window through crowd control and dive pressure.
+
+All builds for this hero: https://mlbbhub.com/builds/hanabi.
+
+## Synergies
+
+- Carmilla: Hanabi works well with heroes who can initiate with CC, such as Carmilla and Atlas, so she can focus on maximizing her bounce and Ultimate damage.
+- Atlas: Hanabi works well with heroes who can initiate with CC, such as Carmilla and Atlas, so she can focus on maximizing her bounce and Ultimate damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

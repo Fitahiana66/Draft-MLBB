@@ -1,0 +1,205 @@
+# Guinevere, Ms. Violet
+
+> Guinevere is a melee fighter who pays for her damage in mana she does not have and survivability she did not get. Lock her when your draft has a second source of crowd control to confirm her airborne window, and bench her when the enemy can interrupt one button.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP
+- Specialty: Burst, Magic Damage
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 51.24%
+- Pick rate: 0.82%
+- Ban rate: 2.20%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/guinevere
+
+## Guide
+
+### Is this a Guinevere lobby?
+
+Guinevere reads like a free win on paper: melee, hybrid scaling, ranged poke, an airborne knock-up, and a control-immune ultimate. In practice she is one of the most draft-dependent fighters in the game, because her entire kit is a single 3-button combo and the combo only works if the target is still standing where she expects when the airborne ends.
+
+Lock Guinevere when the enemy frontline is two non-mobile melees and a backline that has already used Purify or has none. She is a real pick into Phoveus, Esmeralda, Thamuz, Argus, Yu Zhong, and any mage that has to commit to channel (Pharsa, Vexana, Cecilion). Lock her when your own team has a second piece of CC her ultimate can chain into: Tigreal, Atlas, Khufra, Chou, even Aurora's freeze. The damage in Violet Requiem is bonus; the value is the re-airborne loop, and that loop only triggers if a teammate or a mark sets the next person up.
+
+Bench her when the enemy has Khufra, Chou, Helcurt, Minsitthar, Saber, or any second Purify-eligible carry on top of a roam who can interrupt her dash. Bench her when your own roam is a solo-engage tank with no follow-up, because her ult ends and your team is not there. Bench her into a Wanwan or Beatrix backline with a clean tank front: she cannot reach the carries before her dash is on cooldown, and if she gets there alone she dies.
+
+If you cannot point at the second piece of CC on your draft right now, Guinevere is the wrong pick.
+
+### The one thing that makes Guinevere work
+
+Guinevere is not a hybrid mage-fighter. She is a knock-up cannon with one shell, and the reload is the game.
+
+Her passive marks anything she touches. Three marks, then Violet Requiem, and the target is airborne for the entire ultimate. The airborne is not the kill condition, it is the aim-bot: the ult does its full damage to anyone who stays in the air, and Guinevere is control-immune while channeling, so the only way the rotation fails is if the target leaves the radius. That is the only thing that has to be true for her to function.
+
+Every other ability exists to put marks on the right head. Energy Wave is a poke, but more importantly it is mark #1 from screen-edge range. Spatial Migration is a gap-closer, but more importantly it is the single button that puts mark #2 down and the airborne that lets mark #3 land before the target can flicker out. The illusion on the reactivate is not an escape gimmick, it is a real second damage instance that explodes after a moment, and if the enemy spends an attack on it, it refunds Super Magic.
+
+Guinevere does not "kite" and does not "skirmish". She loads the shell, fires the shell, then leaves. Players who treat her like Esmeralda lose every game.
+
+### Laning: the first four minutes
+
+Guinevere's lane is boring on purpose. You are not looking for a solo kill at level 2. You are looking to hit level 4 with full HP and three marks ready on whoever your jungler is about to walk in on.
+
+1. **First wave, take Spatial Migration, not Energy Wave.** This is counter to most guides and it is correct. The first thump clears the front three minions and lands a mark on the enemy laner if they stand on top of the wave to last-hit. You do not reactivate. Walk back to the second wave.
+2. **Level 2, take Energy Wave and use it for waveclear, not poke.** A skill-shot that the enemy laner saw at level 1 is going to get dodged at level 2. Throw it to thin the back ranged minion so you can hit the next push timing one wave earlier. Poking with it is fine only if your laner is a melee who has to walk into the orb to last-hit a cannon.
+3. **Never reactivate Spatial Migration toward the enemy.** This is the single most common Guinevere mistake. The reactivate is your escape, not your engage extender. Engage with the first cast (the airborne lands you in melee already), commit Energy Wave and the basic, then reactivate backward through the wall to safety. Reactivating forward puts you behind the enemy with no mobility and a full ult cooldown.
+
+Flicker is non-negotiable. Sprint is a trap. The full combo is Spatial Migration + Flicker + Violet Requiem, and the reason it works is that Flicker fires mid-thump animation and pulls Guinevere into ult range while the airborne is already locked in. You cannot do that with Sprint, you cannot do it with Purify, you cannot do it with Petrify. Run Flicker.
+
+### The power spike you are farming toward
+
+Concentrated Energy plus Lightning Truncheon plus Arcane Boots is the moment Guinevere becomes a hero. It happens around the 8-to-10 minute mark if your laning was clean, and it is the breakpoint every Guinevere player undersells.
+
+Concentrated Energy is the sustain item, not a damage item: every skill instance stacks the passive, and a full Spatial Migration plus ult rotation procs the +12% magic damage buff before the ult finishes. The bigger payoff is the heal cadence. The ult's eleven ticks are all magic damage, so the item's hybrid lifesteal pays back a slice of every tick as HP while you are still standing inside the enemy formation.
+
+Lightning Truncheon is the spike. Her S1, S2-thump, and ult ticks each count as separate skill instances, so Resonate procs on the first thing she touches in a fight, lands its 120% bonus magic damage on three nearby targets, and gives her a 30% movement-speed burst out of the airborne window. The cooldown reduction on the same item is the second half of the spike: a clean rotation no longer leaves her empty-handed waiting out a skill while the fight keeps moving.
+
+Before this spike, Guinevere is a CC bot with a poke. After this spike, she is the burst that ends fights. If a teamfight breaks out at 7 minutes and you are still on Mystic Container, do not engage. Disengage, finish Concentrated Energy, then look for the fight at 9.
+
+### Teamfight positioning and target priority
+
+The reflex when Guinevere sees a clumped enemy team is to ult into the middle of them. That reflex is why Guinevere has a losing winrate in solo queue.
+
+1. **Wait for the first piece of enemy CC to whiff or land on someone else.** Guinevere is control-immune during Violet Requiem, but not during the Spatial Migration thump. If you engage into a Khufra suppress or a Chou ult, your S2 gets cancelled mid-animation and the rotation never starts. Let your tank or roam eat the first lockdown, then Spatial Migration into the airborne window they create.
+2. **Pick the squishy who is already in the fight, not the one who is about to enter.** A Pharsa channeling Feathered Air Strike is a confirmed kill because she cannot move during the channel. A Pharsa standing behind her tank waiting to channel is a wasted ult, because she can flicker out the moment your S2 lands. Read who is already committed.
+3. **Reactivate Spatial Migration the instant your ult ends, every time.** The animation reactivate cancels the slow recovery on Violet Requiem and pulls the illusion behind you for an extra damage instance. If you stand still after the ult ends to admire the kill, the enemy carry repositions and the next rotation does not happen. Press it. Always.
+
+If your support is Estes or Rafaela, you can engage one fight earlier than your own HP bar suggests, because the heal-burst will keep you alive through the post-ult cooldown gap. If your support is Diggie or Angela, you cannot. Diggie cleanses the airborne the moment your S2 lands, and Angela's shield does not arrive in time to matter.
+
+### Itemization: defaults vs flex slots
+
+Three locked slots: Arcane Boots, Concentrated Energy, Lightning Truncheon. Three real conversations.
+
+The fourth slot is the flex. Holy Crystal is the default and the highest raw damage payoff, but it is the wrong call when the enemy frontline runs Athena's Shield or starts stacking Magic Defense at minute 12. In that lobby, swap to Glowing Wand. Glowing Wand burns 1.5% of max HP per second on every Guinevere skill tick, and Lifebane shuts down Esmeralda's shield generation and Estes's heal output by 50% while applied. The trade is raw burst for a permanent anti-sustain debuff, and the debuff wins any extended fight.
+
+Slot five is Divine Glaive the moment any single enemy buys their first magic defense item (Athena's Shield, Radiant Armor, Oracle, even Cursed Helmet). The 20% magic penetration cap matters more than the flat magic power on the same slot, because Guinevere's damage profile is a burst rotation against one or two priority targets, not sustained AOE.
+
+Slot six is Blood Wings if your draft is winning and you want to close, or Winter Crown if your draft is losing and you keep dying mid-rotation. Blood Wings adds an 800-plus-shield burst-protection layer that pairs with the post-ult animation lock; Winter Crown is a 2-second untargetable button that lets you finish the ult animation through a Khufra suppress or a Saber ult that would otherwise interrupt your engage.
+
+The fallback flex if you do not need anti-heal, do not need pen, and the game is not closing is Clock of Destiny. The hybrid defense stacking and the HP sustain on the Gift passive cover Guinevere's real weakness, a thin HP pool, without sacrificing magic power, but it is the lowest-damage of the available picks and should never be the first item bought.
+
+Mage Emblem with the Lethal Ignition core is the default. The trigger fires off Guinevere's three-instance combo (S1 hit + S2 thump + first ult tick) almost immediately, and the scorch lands in the post-ult window where you are most exposed and need the chip to confirm the kill.
+
+### Mistakes that lose Guinevere games
+
+**Reactivating Spatial Migration toward the enemy carry.** The reactivate exists to leave the fight, not to extend the dive. If you reactivate forward you arrive behind the enemy with both your skills on cooldown, the airborne window over, and no escape until the next S2. The correct sequence is engage with the first cast, commit ult and S1, reactivate back through your own wave or jungle wall.
+
+**Engaging into Khufra, Chou, or Minsitthar without a peel buffer.** Khufra suppresses through Spatial Migration's airborne. Chou's S2 dash interrupts your animation and his ult kicks you into his team. Minsitthar's ult zone disables Spatial Migration entirely. If any of these three are in range when you start your engage, your combo does not happen and your ult goes on a full cooldown for nothing. Wait for them to commit first, then enter.
+
+**Pressing the ultimate the moment it comes off cooldown.** Violet Requiem is a finisher, not a rotation. Holding it for the second teamfight at the 12-minute spike wins the game. Burning it on a 1v1 lane skirmish at 8 minutes loses the next objective fight. The cooldown at max rank spans the whole window between a Lord pit fight and reset. Save it.
+
+**Stacking pure magic power and skipping CDR.** A 4-item Holy Crystal / Glowing Wand / Divine Glaive / Blood Wings build looks good on the calculator and dies to anything that survives the first ult, because Guinevere has zero follow-up between rotations. Lightning Truncheon and the Mage Emblem's cooldown reduction are not optional. Together they are the difference between getting the ult back for the second fight of a Lord rotation and walking into that fight with nothing.
+
+**Treating Energy Wave as the primary damage skill.** S1 is a poke and a cooldown-refund tool. The damage that wins fights is S2-thump plus the full Violet Requiem channel. Players who lead with S1 to "soften up" the enemy spend mana they did not have (Guinevere has no mana bar but the cooldown still locks her out) and announce the engage before it starts. Lead with S2, follow with ult, finish with S1 only if the target survives.
+
+### Key tips
+
+> [!TIP]
+> The S2-Flicker-Ult combo only works if Flicker fires during the thump animation, not after. Press Flicker the half-second after your S2 button leaves your finger, while the thump VFX is still on screen. Pressing it after the airborne lands wastes the spell and aborts the engage.
+
+> [!NOTE]
+> The illusion left behind by Spatial Migration's reactivate is a real damage instance, not just a visual. If the enemy team has wave-clear AOE in the area, the illusion will explode for magic damage on whoever is closest, and the explosion still applies a passive mark. Drop the reactivate near a low-HP carry to lock in a fourth mark for the post-ult execute.
+
+> [!TIP]
+> Guinevere's enhanced basic attack heals based on the HP she is missing, not her max HP. The lower your HP bar when Super Magic procs, the more the single auto returns. If you are below 30% HP, bait one more skill out of the enemy before triggering it. The one auto can buy you back into the fight.
+
+> [!WARNING]
+> Diggie and Wanwan are draft-level kills, not lane-level inconveniences. Diggie cleanses the airborne the moment Spatial Migration lands, and Wanwan's S2 cancels every CC the moment her four weak points are revealed (which a Guinevere combo does in one rotation). If either is locked in on the enemy team, request a counter-pick before the draft closes.
+
+## Skills
+
+### Super Magic (Passive)
+
+Guinevere deals 25% extra damage to airborne enemies. Her Basic Attacks also deal (+80% Total Physical Attack) (+60% Total Magic Power) Magic Damage. Guinevere gains Super Magic stacks each time she deals damage. At max stacks, her next Basic Attack becomes a guided attack, dealing 80 (+100% Total Physical Attack) (+90% Total Magic Power) Magic Damage and recovering 80 (+ 8% of her lost HP). Enemies hit by Guinevere's skills or enhanced Basic Attack are marked for 5s. Enemies with 3 marks are knocked airborne when hit by Violet Requiem.
+
+### Energy Wave (Skill 1)
+
+Guinevere releases an energy orb in the target direction, dealing 300 (+125% Total Magic Power) Magic Damage and slowing enemies by 25% for 1.2s. Successfully hitting an enemy reduces all her skill cooldowns by 1s.
+
+### Spatial Migration (Skill 2)
+
+Guinevere leaps to the target location, dealing 250 (+80% Total Magic Power) Magic Damage. Enemy heroes and Creeps hit will be knocked airborne for 1s and take 125 (+50% Total Magic Power) additional Magic Damage. Use Again: Guinevere blinks toward the target direction and leaves an illusion behind. If the illusion takes damage by hero, it restores Super Magic for Guinevere and explodes after 1.5s, dealing 100 (+30% Total Magic Power) Magic Damage to nearby enemies.
+
+### Violet Requiem (Ultimate)
+
+Guinevere creates a force field around her, gaining Control Immunity while attacking nearby enemies 11 times within 2s, dealing 880 (+385% Total Magic Power) Magic Damage in total. Airborne enemies hit will be knocked airborne again, up to 8 additional times.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Guinevere can use her 2nd Skill to knock the enemy team airborne and follow with her Ultimate to deal damage while keeping them airborne. She can then use the dash of her 2nd Skill to dodge the incoming damage, or she can choose to use her 1st Skill to deal more damage for a full damage combo.
+- LANING COMBOS (laning): In the laning phase, Guinevere should use her 1st Skill and her enhanced Basic Attacks to clear out the Minions and poke enemy heroes. When enemy heroes' HP is low, user Guinevere's 2nd Skill to close in on them and knock them airborne. Follow up with her Ultimate to try to finish them off.
+
+## Counters to Guinevere (pick these against Guinevere)
+
+- Diggie (Support): +2.9 pp edge. Diggie has a statistical edge over Guinevere based on ranked matchup data. Pick Diggie to gain an advantage in draft.
+- Wanwan (Marksman): +2.7 pp edge. Across Guinevere's measured matchups, Guinevere is weakest once matches pass 16 minutes. Take the game long with Wanwan.
+- Khufra (Tank): +2.4 pp edge. Khufra's durability and kit give them a strong matchup advantage against Guinevere throughout the game.
+- Joy (Assassin): +2.4 pp edge. Across Guinevere's measured matchups, Guinevere is weakest once matches pass 16 minutes. Take the game long with Joy.
+- Argus (Fighter): +2.3 pp edge. Across Guinevere's measured matchups, Guinevere is weakest once matches pass 16 minutes. Take the game long with Argus.
+- Miya (Marksman): +1.8 pp edge. Across Guinevere's measured matchups, Guinevere is weakest once matches pass 16 minutes. Take the game long with Miya.
+
+## Heroes Guinevere beats
+
+- Karrie (Marksman): +2.2 pp edge for Guinevere.
+- Julian (Assassin/Fighter): +2.0 pp edge for Guinevere.
+- Esmeralda (Tank/Mage): +1.8 pp edge for Guinevere.
+- Lunox (Mage): +1.8 pp edge for Guinevere.
+- Cici (Fighter): +1.7 pp edge for Guinevere.
+- Lylia (Mage): +1.5 pp edge for Guinevere.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/guinevere.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Burst Sustain (EXP)
+
+- Items: Arcane Boots, Concentrated Energy, Starlium Scythe, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Concentrated Energy, Starlium Scythe, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Weapon Master, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Tough Boots over Arcane Boots when Use against heavy early crowd control when landing the first Spatial Migration matters less than surviving the return stun.; Glowing Wand over Blood Wings when Use against healing or shield-heavy frontlines that survive the first airborne combo.; Winter Crown over Blood Wings when Use when one diver can punish the end of Violet Requiem before the second Spatial Migration cast gets you out.
+- Total cost: 12000 gold
+
+Default EXP lane build for turning one confirmed knockup into enough magic burst, true-damage follow-up, and shielded exit value to win side-lane skirmishes.
+
+### Jungle Pickoff Tempo (Jungle)
+
+- Items: Arcane Boots, Starlium Scythe, Holy Crystal, Concentrated Energy, Divine Glaive, Blood Wings
+- Core: Starlium Scythe, Holy Crystal, Concentrated Energy
+- Emblem: Assassin Emblem with Thrill, Seasoned Hunter, Impure Rage
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Genius Wand over Concentrated Energy when Use when your team has a second magic damage source and early Magic Defense shred creates faster mid-game picks.; Wishing Lantern over Blood Wings when Use into high-HP targets when you are landing repeated skill cycles but cannot finish through raw magic power alone.; Immortality over Blood Wings when Use before late Lord fights when one failed backline dive would decide the game.
+- Total cost: 12000 gold
+
+Jungle setup for fast level-four ganks, Ice Retribution chase control, and objective tempo after Starlium Scythe starts rewarding skill-to-basic weaving.
+
+### Roam Pickoff Frontline (Roam)
+
+- Items: Tough Boots, Dominance Ice, Athena's Shield, Immortality, Brute Force Breastplate, Antique Cuirass
+- Core: Dominance Ice, Athena's Shield, Immortality
+- Emblem: Tank Emblem with Firmness, Wilderness Blessing, Brave Smite
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Radiant Armor over Athena's Shield when Use against repeated magic hits where stacked resistance matters more than one burst shield window.; Blade Armor over Antique Cuirass when Use against basic-attack marksmen who must hit you during or after the engage.; Fleeting Time over Brute Force Breastplate when Use when your team reliably converts first knockups into assists and you need Violet Requiem back for every rotation.
+- Total cost: 11020 gold
+
+Roam build for Conceal-Flicker pickoffs where Guinevere only needs to start the airborne chain and live long enough for allies to finish it.
+
+All builds for this hero: https://mlbbhub.com/builds/guinevere.
+
+## Synergies
+
+- Franco: Guinevere works best with heroes with good single-target CC that will give her a better environment to farm and deal damage, such as Franco and Hylos.
+- Hylos: Guinevere works best with heroes with good single-target CC that will give her a better environment to farm and deal damage, such as Franco and Hylos.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

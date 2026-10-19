@@ -1,0 +1,215 @@
+# Minotaur, Son of Minos
+
+> Minotaur is the only roamer in MLBB whose kit gets more dangerous the harder the enemy team hits him. Once Minoan Fury activates his enraged state, his stomp covers more ground, his Motivation Roar heals every nearby teammate simultaneously, and the passive's damage-taken HP recovery runs at double rate. The gap between his normal and enraged state is the whole game.
+
+## Snapshot
+
+- Role: Tank, Support
+- Lane: Roam
+- Also played (MLBBHub editorial, not Moonton's listed lane): EXP
+- Specialty: Crowd Control
+- Difficulty: Easy
+- Tier this patch: S
+- Win rate: 54.80%
+- Pick rate: 1.06%
+- Ban rate: 8.21%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/minotaur
+
+## Guide
+
+### When the enemy team deserves a Minotaur
+
+Minotaur belongs in a draft where the enemy team clusters naturally and your backline has enough burst to convert a clean airborne into kills. His roam pattern is slow: no dash, no blink beyond Flicker, and a cooldown-heavy engage sequence that punishes him hard if it misses. The 2.1.88 buff raised his S1 damage, so a landed engage bites harder than it used to, but it does not buy him a new approach tool. Draft him when:
+
+- The enemy team is melee-heavy and groups in narrow chokepoints. His ult's 3-hit sequence, two heavy slows followed by a true damage airborne, lands best when enemies cannot spread across a wide corridor.
+- Your marksman can follow up immediately on a knock-up. Bruno, Moskov, and Claude all convert a clean airborne into near-certain kills. Claude in particular gets a free-fire window that extends further because enraged S1 after the ult adds another knock-up before the target lands.
+- The enemy team relies on sustain or shields. Dominance Ice's Lifebane passive reduces shield and HP regen effects of all nearby enemies within range to 60% of normal, and its Fortress Shield passive stacks hybrid defense for each enemy hero nearby. Against sustain fighters like Thamuz or teams built around Esmeralda's magic-to-shield conversion, these passives alone justify the pick.
+
+Three conditions that make Minotaur the wrong pick:
+
+- Multiple long-range poke threats. Pharsa, Yve, and Kimmy can keep Minotaur from building rage through normal combat. He has no approach tool that beats their range, so the early game becomes a waiting match at his own turret.
+- Enemy team brings anti-heal stacking. Sea Halberd on even one physical DPS already cuts S2's output significantly. If the enemy comp also runs Baxia, whose passive halves all healing, Minotaur's primary teamfight contribution disappears. Run Floryn or Estes in those drafts instead.
+- Two or more heroes who can interrupt his ult windup. Khufra's Tyrant's Revenge ball, Franco's hook follow-up, and Chou's roundkick can all hit Minotaur between pressing Minoan Fury and the first smash and throw him backwards before the sequence completes. One of these is manageable; two makes his ult nearly unusable without extensive setup.
+
+If you cannot identify which favorable condition applies to your current draft, Minotaur is not the pick.
+
+### What makes Minotaur actually work
+
+Minotaur is a rage-bar management problem disguised as a tank.
+
+His kit has two states. Outside enraged: a slow frontliner who can knock one target airborne on a long cooldown, heal one nearby teammate per S2 cast, and sustain himself through the passive's damage-taken recovery. Inside enraged: the stomp covers more ground and deals HP-scaled damage on enhanced basics, S2 heals all nearby teammates simultaneously, and the passive's recovery runs at double rate.
+
+The rage bar fills passively as Minotaur takes hits in combat. When it fills naturally, he enters enraged state automatically without burning the ult. Minoan Fury can be activated immediately for the 3-hit smash sequence, or held down to charge the rage bar faster, triggering enraged state at the end of the charge rather than going through the smash animation. The distinction matters: if the fight is already live and you need the airborne now, tap the ult immediately. If a fight is 2 to 3 seconds away and the rage bar is already high, hold the ult to enter enraged before the engagement starts and save the smash for after S1 lands.
+
+The 2.1.30 rework addressed the imbalance between Minotaur's healing output and his own durability. S2 in normal state now heals only the single lowest-HP ally nearby; the all-ally heal is the enraged payoff. Self-sustain moved into the passive, which recovers HP based on damage taken from enemy heroes and doubles in enraged state. Every game now has a clear internal structure: reach enraged state with S1, S2, and ult available, then use them in sequence.
+
+### The first four minutes
+
+Minotaur's early game is about positioning and patience, not winning fights.
+
+1. **Level 1: Take S2 and donate the first buff.** Roam to your jungler's opening buff and use S2 when their HP dips. The heal keeps them healthy through the clear and starts charging the rage bar passively as camp hits land on Minotaur.
+2. **Level 2: Take S1 and only gank at high rage.** Below roughly 80% rage bar, burning Flicker to land S1 now trades a real chunk of damage for your only approach tool, leaving you in retreat with no way to re-engage until it comes back. The gank needs to threaten a kill or it costs two minutes of positioning.
+3. **Level 4-5: Your first real window.** You have enough HP and enough levels in S1 and S2 to survive a fight long enough for the rage bar to charge from damage taken. This is when contesting the first turtle becomes realistic if your team is ahead.
+
+Do not use S1 to retreat. It is your only gap-closer before Flicker. Walk backwards instead and take the hits; the rage bar filling is progress toward the next enraged state.
+
+### The power spike you're farming toward
+
+The two-item combination that changes Minotaur's teamfight presence is Oracle plus Dominance Ice, usually complete between the 10 and 13-minute mark depending on assist gold and roam bounty.
+
+Oracle's Bless passive increases all received shield and HP regen effects by 25%. Every S2 heal tick, the Immortality revive shield, and Minotaur's own passive self-recovery from damage taken all scale with this item. At this point a single enraged S2 can swing enough HP across multiple teammates to flip a health trade mid-fight.
+
+Dominance Ice turns Minotaur's body into a debuff zone. Its Lifebane passive reduces shield and HP regen effects of all nearby enemies within range to 60% of normal, and Fortress Shield stacks hybrid defense for each enemy hero close to him. Against a Beatrix or Karrie who depends on sustained damage and lifesteal, that constant suppression is more impactful than buying another layer of armor.
+
+Once both items are complete, find the next turtle spawn and commit. Flicker into the enemy cluster, land S1, let the ult's first two hits stop their retreat, then land the airborne. Do not wait for a perfect 5-man ult; two or three targets in the airborne window is enough to win the objective.
+
+### Teamfight positioning and target priority
+
+The reflex when your team is losing ground is to press S2. Resist it. In normal state, S2 heals only the single lowest-HP ally in range. Staying inside the fight, absorbing hits to charge the rage bar, and entering enraged state so S2 heals everyone is almost always the better play.
+
+Three rules that hold across most teamfight conditions:
+
+1. **Pair Flicker with S1, not S1 alone.** S1 has a visible jump windup that experienced players will dash out of the moment they see it. Flicker into a tight cluster and land immediately; the instant blink plus landing gives enemies under half a second to react rather than the full jump duration.
+2. **Force the ult in chokepoints.** The final airborne of Minoan Fury requires enemies to still be in range when the third hit lands. Wide open areas let enemies step away from the second hit's position before the third arrives. Narrow jungle corridors and tower gaps remove that angle entirely.
+3. **Use S2 in enraged state, not before.** The one exception: if an assassin is collapsing on your carry with no teammates nearby and the carry dies in the next two seconds, use S2 immediately. That single-target save is worth more than waiting for the full-team version.
+
+If your support is Estes, you can initiate earlier and push further because his chain heal compensates for your HP loss during the engage. If your support is Diggie, that safety net does not exist and you should not commit until the rage bar is near full and the ult is ready.
+
+### Itemization: locked slots and real choices
+
+Oracle, Dominance Ice, and Immortality are locked every game. Oracle amplifies healing output, Dominance Ice suppresses nearby enemy sustain and stacks hybrid defense in teamfights, and Immortality is the safety valve for the aggressive initiations this hero requires. Build these three first, then fill the remaining three slots based on threat:
+
+- Vs heavy magic burst (Kagura, Cecilion, Vale): Athena's Shield. Its magic reduction passive applies before the burst hits, which is the only window that matters against a one-rotation kill sequence.
+- Vs sustained magic damage (Zhask, Yve, Kimmy): Radiant Armor instead. It stacks magic defense with each incoming hit up to 6 stacks, meaning it keeps improving through a prolonged magic exchange rather than offering a single pre-damage reduction.
+- Vs fighters who combo with skills (Chou, Thamuz, Phoveus): Antique Cuirass. Its Deter passive stacks physical damage reduction with each skill hit up to 3 stacks, making it the correct choice against heroes whose damage comes from repeated skill sequences.
+- Vs attack-speed marksmen (Moskov, Karrie, Melissa): Blade Armor. It reflects a portion of incoming basic attack damage plus a share of Minotaur's physical defense back to the attacker and slows them on every hit, which punishes attack-speed-heavy builds more aggressively than raw armor.
+- When your physical defense is already high and you want enhanced basic attack threat in enraged state: Thunder Belt. Its Thunderbolt passive deals true damage scaled off your total physical and magic defense, which compounds well once Oracle and Dominance Ice are in the build.
+
+Boot slot: Warrior Boots in physical-heavy matchups for the stacking Valor passive. In mixed or magic-heavy matchups, the roam blessing is the decision that matters. Encourage grants nearby allies bonus Physical Attack, Magic Power, and attack speed, which fits a dive comp built around converting Minotaur's airborne into burst. Favor is the peel pick: every 10 seconds your next heal or shield restores extra HP to the lowest-HP ally in range, which directly amplifies S2's single-target heal. Conceal is the rotation tool, granting nearby allies a burst of movement speed and concealment for the walk-up.
+
+The most common build error is buying Immortality second. Immortality is a safety valve, not a sustain tool. Without Oracle and Dominance Ice already in the build, the revive triggers in conditions that will kill you again in the same fight before the revive shield expires.
+
+### Mistakes that lose Minotaur games
+
+**Ulting when only one enemy is in range.** Minoan Fury's full cooldown is long. Spending it to knock one hero airborne is almost never worth the tradeoff. Use S1 to knock the solo target up and save the ult until the rest of their team arrives to peel. The ult is a teamfight tool, not a duel finisher.
+
+**Using S2 before the ult when both are available.** Normal S2 heals one ally; enraged S2 heals all of them. Pressing S2 first wastes the team-wide heal payoff for a single-target tick. The sequence is always ult first, then S2, never reversed, unless an ally is dying in the next two seconds with no ult available.
+
+**Committing without checking if Khufra has used his roll.** Minotaur is CC immune during the 3-hit smash sequence, not during the windup. Khufra's Tyrant's Revenge ball can land between pressing the ult and the first smash and send Minotaur backwards before anything connects. Wait for Khufra to burn the roll before committing. The same applies to Franco's hook follow-up and Chou's roundkick: watch their CC cooldown, then move.
+
+**Roaming through unwarded river.** Minotaur has Flicker and nothing else as an escape. Committing to a gank down a dark river against a team with Ling or Fanny nearby is a free kill. Plant the ward first, then roam.
+
+**Fighting below half rage when the ult is on cooldown.** Without the ult to force enraged state, Minotaur in normal state is a support frontliner with one airborne on a long cooldown. That version does not win 2v1 peels or brawls against sustained damage. Wait for the rage bar to build before committing to a fight without the ult available.
+
+### Key tips
+
+> [!TIP]
+> After Minoan Fury's third hit, use S1 immediately before enemies land from the airborne. The enraged S1 hits them on the way down and extends the crowd control window by another knock-up, giving your damage dealers a longer free-fire period.
+
+> [!NOTE]
+> Despair Stomp's slow and knock-up apply to every enemy in the landing area, not just the primary target. Landing S1 on three grouped enemies holds all three of them before your damage dealers follow up.
+
+> [!TIP]
+> Hold the ult button rather than tapping it when you are near a full rage bar with a fight 2 to 3 seconds away. The held charge completes the bar faster, enters enraged state automatically, and keeps the smash sequence ready to use on demand instead of triggering immediately when the timing is wrong.
+
+> [!NOTE]
+> Dominance Ice's Lifebane passive is always active, not just in enraged state. It reduces shield and HP regen effects of all nearby enemies within range to 60% of normal. You do not need the ult active to apply this debuff; standing near the enemy is enough.
+
+## Skills
+
+### Rage Incarnate (Passive)
+
+After casting a skill, Minotaur gains Motivation, recovering HP equal to 5 (+1*Hero Level)% of damage taken from enemy heroes for 3s. Enraged State: Motivation HP recovery is increased to 200%.
+
+### Despair Stomp (Skill 1)
+
+Minotaur jumps to the target location, dealing 325 (+60% Total Physical Attack) Physical Damage to enemies in the area and briefly knocking them airborne. Enemies hit will also be slowed by 40% while Minotaur enhances his Basic Attacks to deal 25 (+5% Max HP) extra Physical Damage for 2s. Enraged: Increases the AOE range and the damage dealt by 25 (+5% Max HP) Physical Damage.
+
+### Motivation Roar (Skill 2)
+
+Minotaur heals himself and the nearby ally with the lowest HP, recovering 220 (+60% Total Magic Power) HP for both. He also recovers an additional 8% of his lost HP. Enraged: Minotaur heals himself and all nearby allied heroes.
+
+### Minoan Fury (Ultimate)
+
+Minotaur enters Enraged state and smashes the ground 3 times. The first 2 hits deal 180 (+85% Total Physical Attack) Physical Damage to nearby enemies and slow them by 60%, while the final hit deals 200 (+85% Total Physical Attack) True Damage and knocks targets airborne for 0.8s. Minotaur is immune to control effects during this attack. The Enraged state lasts 12s and enhances Minotaur's skills for the duration.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Minotaur's 1st Skill to jump in and knock enemies airborne, then use his Ultimate to keep them CC'd and enter Enraged state. Use his 1st Skill to knock enemies airborne again and continue with Basic Attacks. Use his 2nd Skill when he or his team needs healing.
+- LANING COMBOS (laning): In the laning phase, use Minotaur's 1st Skill to knock the enemy airborne and reduce their Defense, then deal damage with his enhanced Basic Attacks. Use his 2nd Skill to heal him and his teammate to come out ahead in the trade.
+
+## Counters to Minotaur (pick these against Minotaur)
+
+- Alice (Tank/Mage): +3.2 pp edge. Alice's durability and kit give them a strong matchup advantage against Minotaur throughout the game.
+- Yve (Mage): +3.0 pp edge. Yve has a statistical edge over Minotaur based on ranked matchup data. Pick Yve to gain an advantage in draft.
+- Zhuxin (Mage): +2.9 pp edge. Zhuxin has a statistical edge over Minotaur based on ranked matchup data. Pick Zhuxin to gain an advantage in draft.
+- Beatrix (Marksman): +2.4 pp edge. Beatrix has a statistical edge over Minotaur based on ranked matchup data. Pick Beatrix to gain an advantage in draft.
+- Kimmy (Marksman/Mage): +2.4 pp edge. Kimmy has a statistical edge over Minotaur based on ranked matchup data. Pick Kimmy to gain an advantage in draft.
+- Cecilion (Mage): +1.6 pp edge. Cecilion has a statistical edge over Minotaur based on ranked matchup data. Pick Cecilion to gain an advantage in draft.
+
+## Heroes Minotaur beats
+
+- Lolita (Support/Tank): +4.1 pp edge for Minotaur.
+- Johnson (Tank/Support): +3.1 pp edge for Minotaur.
+- Silvanna (Fighter): +3.0 pp edge for Minotaur.
+- Cyclops (Mage): +2.7 pp edge for Minotaur.
+- Chang'e (Mage): +2.4 pp edge for Minotaur.
+- Khufra (Tank): +2.3 pp edge for Minotaur.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/minotaur.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Favor Sustain Initiate (Roam)
+
+- Items: Tough Boots, Dominance Ice, Flask of the Oasis, Oracle, Antique Cuirass, Immortality
+- Core: Dominance Ice, Flask of the Oasis, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Brave Smite
+- Battle spell: Flicker
+- Blessing: Favor
+- Flex: Athena's Shield over Oracle when Use when one magic burst combo can remove Minotaur before Motivation Roar or Minoan Fury changes the fight.; Radiant Armor over Oracle when Use against repeated magic poke or burn that keeps stacking damage before objective fights.; Blade Armor over Antique Cuirass when Use when a basic-attack marksman is the main source of damage and must hit Minotaur through the frontline.
+- Total cost: 10710 gold
+
+Default ranked roam setup that pairs Favor, Flask, Oracle, and Flicker for sustained front-to-back fights around Minotaur's enraged engage.
+
+### Roam Conceal Flicker Pickoff (Roam)
+
+- Items: Rapid Boots, Dominance Ice, Fleeting Time, Athena's Shield, Antique Cuirass, Immortality
+- Core: Dominance Ice, Fleeting Time, Athena's Shield
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Tough Boots over Rapid Boots when Use when crowd control is heavy enough that Rapid Boots cannot safely hold map tempo.; Flask of the Oasis over Fleeting Time when Use when your team needs safer grouped sustain more than faster ultimate resets after kills or assists.; Radiant Armor over Athena's Shield when Use against sustained magic damage rather than a single mage burst window.
+- Total cost: 11250 gold
+
+Pickoff setup for teams that need Conceal plus Flicker to force the first knock-up from fog and convert it into faster Minoan Fury resets.
+
+### Roam Vengeance Anti-Physical (Roam)
+
+- Items: Warrior Boots, Dominance Ice, Blade Armor, Antique Cuirass, Oracle, Immortality
+- Core: Dominance Ice, Blade Armor, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Tough Boots over Warrior Boots when Use when the physical carries are backed by enough control that stun duration matters more than extra armor.; Athena's Shield over Oracle when Use when magic burst is the threat that kills Minotaur before the anti-physical items get value.; Guardian Helmet over Oracle when Use when your team wins long map control sequences but Minotaur enters each second rotation too low.
+- Total cost: 10790 gold
+
+Physical-heavy defensive variant for games where another teammate can help start fights and Minotaur must survive repeated marksman hits.
+
+All builds for this hero: https://mlbbhub.com/builds/minotaur.
+
+## Synergies
+
+- Granger: Minotaur works best with burst damage Marksmen, such as Granger and Melissa, since his CC's give them more opportunities to deal damage.
+- Melissa: Minotaur works best with burst damage Marksmen, such as Granger and Melissa, since his CC's give them more opportunities to deal damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

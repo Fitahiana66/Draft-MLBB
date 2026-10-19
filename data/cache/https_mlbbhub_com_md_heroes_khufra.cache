@@ -1,0 +1,217 @@
+# Khufra, Desert Tyrant
+
+> Khufra is not really a tank in the engage sense. He is an anti-mobility tool pretending to be a frontline, and the enemy draft decides whether he works. Against a dash-heavy carry he dismantles the game; against a poke comp he is an overpriced target dummy with slow cooldowns and nothing to do.
+
+## Snapshot
+
+- Role: Tank
+- Lane: Roam
+- Specialty: Initiator, Crowd Control
+- Difficulty: Medium
+- Tier this patch: S
+- Win rate: 54.71%
+- Pick rate: 0.32%
+- Ban rate: 1.89%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/khufra
+
+## Guide
+
+### When the enemy draft picks Khufra for you
+
+Khufra is a pick-condition hero. He has one mechanical interaction that no other hero in the game replicates, and that interaction is either relevant or it is not. Read the enemy carry slots first, then decide.
+
+**Lock Khufra when the enemy has a dash-dependent carry.** Fanny cables, Ling walls, Lancelot's Chasing Truth, Gusion's Incinerate Dagger, Harith's Chrono Dash, Hayabusa's ultimate trail: every one of these is a blink skill, and every one of these triggers airborne on ball form. Pair that with a team that can follow up (Karina, Fredrinn, Beatrix) and Khufra turns the enemy's win condition into a free stun on demand. His ult wall-slam adds a second hard CC, which is why he stacks so well with any teammate who already brings crowd control to chain into.
+
+**Avoid Khufra when the enemy runs a poke-heavy immobile comp.** Pharsa, Valir, Xavier, X.Borg, Novaria: none of them care about ball form because none of them blink. They care about standing far away and chipping Khufra's health bar until he cannot engage. His S1 dash has a long early-game cooldown and Pharsa's poke comes up faster than his engage. Against this draft you want Atlas, Edith, or Grock instead.
+
+**Also avoid Khufra when the enemy has X.Borg or Karrie.** X.Borg's Firaga Armor absorbs all incoming damage while it is up, so Khufra's chip wears down the armor instead of his health bar, and when the armor finally breaks X.Borg rolls away briefly invincible, slipping out of the wall-slam follow-up. Karrie's Phantom Step is a displacement, not a blink, so it does not trigger ball form, and her passive shreds Khufra's HP stacks faster than he can build them. If the enemy draft has either of them without a matchup counter on your side, pick a different tank.
+
+The test: if you cannot name which enemy hero Khufra is supposed to shut down, he is not the right pick.
+
+### The one skill that makes Khufra work
+
+Khufra's whole identity sits in Bouncing Ball. Other tanks have CC; Khufra has a rule against a mechanic.
+
+The skill does two things simultaneously, and both matter. First, it grants a meaningful defense boost that scales up with skill level, which is real damage reduction at mid-game timings. Second, and uniquely, it marks a zone where blink skills fail. Any enemy who tries to use a blink skill to move across Khufra's ball form gets airborned instead. Every other tool in the enemy kit is legal; ball form is the single skill in the game that says "no" to theirs.
+
+The rest of his kit exists to enable Bouncing Ball being available. S1 Tyrant's Revenge closes distance to set up the ball in the right spot. The ultimate finishes fights that the ball has already locked down. The passive picked up two buffs that matter: patch 2.1.40 shortened its cooldown noticeably (which is why he feels stickier than he did last season), and patch 2.1.88 ([patch notes](/patch-notes)) added flat base damage to the enhanced basic attack, so the proc now chips harder through the early-to-mid game. It gives him sustain through the basic attacks that fire after each skill, so he can stay in the brawl long enough to use ball form twice. Every part of the kit serves the same sentence: the enemy carry does not get to press their escape button.
+
+That is the hero. If you are not playing around that interaction, you are playing Tigreal badly.
+
+### Laning and the first four minutes
+
+Khufra is a roamer, not an EXP laner. His lane presence is a time-share between the gold lane and the jungle, and the first rotation decides the game.
+
+1. **Level 1: take S1 and leash blue.** Show up at blue, S1 to dash in and speed up the clear, then rotate to gold lane. Do not take S2 first. The ball's defense boost and bounce AOE both scale hard per level, and a single point in S2 at level 1 is not enough to threaten a meaningful trade.
+2. **Level 2: hit S2 and look for a lane gank.** Ball form now has usable defense and a real damage bounce. At this point you can roll into the gold lane bush and catch the enemy marksman out of position. If the enemy marksman has no dash (Layla, Miya), burn S1 to commit; if they have one (Beatrix, Claude), ball form pre-emptively so their escape airbornes them.
+3. **Level 4: full kit online, pick the fight.** S1, S2, and ult all available with the passive rotating. This is where Khufra is at his scariest relative to the enemy tank, because most tanks do not get their full kit until level 5 or 6. Use the one-level window to force an early pick. Ward the enemy jungle entrance around the 1:50 mark, rotate to jungle at 2:00, and set up on their red buff with your own jungler.
+
+Flicker over Sprint, every game. Flicker extends ball form's jump distance, which is a mechanic many players never learn. It also patches over S1's biggest weakness, which is that the dash stops on the first enemy hero it touches. A creep wave between you and the target cancels the engage; Flicker does not care.
+
+### The power spike you are farming toward
+
+Cursed Helmet plus Tough Boots.
+
+That is the power spike. Khufra does not scale with damage items; he scales with defensive stats that let him survive the window his CC creates. Cursed Helmet is the item that matters because it solves his single biggest problem: wave clear. Khufra's base kit cannot clear a wave without burning S1 or S2, both of which are his engage tools. Cursed Helmet's Burning Soul passive does the wave for him, which frees up his skills to stay on cooldown for fights instead. The Curse passive on the same item also shreds hybrid defense on anyone who takes burn damage, so your own team hits harder while you farm passively.
+
+After Tough Boots and Cursed Helmet (around the 8 to 10 minute mark), Khufra hits the breakpoint where he can engage solo into two enemies and survive the first exchange. Before that spike, a 1v2 into the gold lane gets him picked off by the enemy jungler. After it, he can ball-form through both, proc the passive heal off an enhanced basic attack, and S1 out when the jungler arrives.
+
+The third-item breakpoint is Antique Cuirass (around 14 minutes). At that point Khufra is effectively tank-complete for mid-game teamfights, and the flex slot conversation starts.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a fight starting is to S1 onto the enemy marksman. That reflex is usually wrong.
+
+The correct play is positional: S1 is how you arrive at the fight, not how you start it. You want S2 available at the engage, because ball form is both your anti-blink tool and your defensive cooldown. S1'ing first into the backline leaves you standing inside their team with no ball, no defense boost, and your escape tool gone.
+
+Three positioning rules:
+
+1. **S1 into the wall, not into the carry.** Your job is to set up the wall-slam ult, which deals significant extra damage and stuns instead of slows. That means the S1 dash should put the enemies between Khufra and a piece of terrain, not in open ground. A missed wall-slam ult is Khufra's single biggest teamfight whiff; a landed one is a game-winning setup.
+2. **Ball form goes down before you ult, not after.** The enemy's instinct when you S1 into them is to blink out. If S2 is already active, the blink airbornes them and the ult lands uncontested. If S2 is saved for after the ult, they are already gone.
+3. **Never chase into fog.** Khufra's cooldowns mean a failed chase is a long window where you are a mid-HP target in enemy jungle. Back off the kill, clear the nearest camp, let your ult come back up.
+
+The support-conditional edge case: if your support is Mathilda, you can commit further up than normal (her ultimate peels you out cleanly). If your support is Rafaela or Estes, you have to stay in heal range or you die before the ult lands. If your "support" is a second assassin in the roam slot, you are the only peel your team has. Play further back and ball form reactively.
+
+### Itemization: four locked slots and two real conversations
+
+Locked slots:
+
+- **Tough Boots** against any comp with two or more CC sources, which is most drafts
+- **Cursed Helmet** for wave clear plus the hybrid defense shred
+- **Antique Cuirass** for physical mitigation plus the Deter stacks that scale down the enemy physical carry's damage the longer the fight runs
+- **Immortality** as the sixth item, bought last, not early
+
+Flex slot one: magic defense. Athena's Shield against a single burst mage (Eudora, Valentina, Lylia); Radiant Armor against sustained magic damage that outlasts Athena's damage-reduction window (Cecilion, Pharsa, Kagura). Oracle instead of either if your team has healing to amplify (Estes, Floryn, Rafaela), because the shield and regen amplification is often worth more than raw magic resist when your team already out-sustains theirs.
+
+Flex slot two: anti-heal. Dominance Ice against any lifesteal-heavy team (Alucard, Yu Zhong, Thamuz, Esmeralda). Its Lifebane passive is a short-range aura: every enemy who stays close to you has their shield and HP regen cut to 60% of normal, which breaks the recovery loop on exactly the hero swinging on you (Fortress Shield stacks Hybrid Defense for each of them too). If the enemy has no sustain, drop Dominance Ice for Brute Force Breastplate (the control-duration reduction at full stacks keeps you sticky on a kiting carry) or Guardian Helmet's raw HP and regen instead.
+
+The weakest default buy is Immortality bought at slot three or four. It is an excellent sixth item and a mediocre fourth item, because until you have three real defensive items the revive shield dies instantly to the enemy carry's follow-up basics. Treat it as the capstone, not the core.
+
+### Mistakes that lose Khufra games
+
+**Using ball form as a mobility tool in the laning phase.** Ball form bounces slowly and is visible from a screen away. Rolling it across a lane to save a rotation burns your anti-blink cooldown for zero value. Save S2 for fights where there is an enemy blink skill to punish. If there is no blink to punish, ball form is just an overpriced movement speed boost with a long tell.
+
+**Ulting on open ground because the carry is in range.** Non-wall ult is a short slow and flat damage. Wall ult is a stun and significant extra damage. The difference is a full teamfight kill versus a repositioning tool. If there is no terrain within the ult's pull radius, you are better off holding the ultimate and repositioning first. An uncast Tyrant's Rage is more valuable than a cast one with no wall behind it.
+
+**Engaging into X.Borg while Firaga Armor is up.** The armor absorbs all incoming damage for its duration, so S1, S2, and ult chip an armor pool instead of his health bar, and when the armor finally breaks X.Borg rolls away invincible, dodging the wall-slam you committed to. If his Firaga Armor is visible, step back and let your team burn it first. An ult into an intact Firaga Armor is your whole engage kit gone for nothing, and X.Borg gets a free fight out of you.
+
+**Forcing fights before the two-item spike.** Khufra with only Tough Boots is a mid-HP target with a single defensive skill. Waiting until Cursed Helmet is online feels slow, but a Khufra who dies before the 8-minute mark has given up the only thing he provides (pick potential from a surviving frontline). A dead tank is a zero-utility tank.
+
+**Leaving the marksman alone in the 14-to-18 minute window.** Mid-to-late game, every enemy composition is looking to burst down your gold lane carry. Khufra's entire value in the late game is being within ball-form range of your marksman when the assassin jumps. If you are roaming alone in the enemy jungle at 15 minutes, your marksman is about to die.
+
+### Key tips
+
+> [!TIP]
+> Every CC you land reduces the passive cooldown. S1's stop-stun, S2's bounce airborne against a blinker, and the ult's slam all count. Chain all three in a teamfight and the enhanced basic attack is effectively up every few seconds, which means a steady drip of self-healing off each proc.
+
+> [!NOTE]
+> Flicker plus ball form extends the jump distance. Both skills move Khufra, and they can be chained mid-roll to clear a wall that neither would cross alone. Most Khufra players never learn this; the ones who do catch fleeing carries through terrain that looked safe.
+
+> [!TIP]
+> Ball form does not need to hit anyone to matter. The threat of the airborne on blink skills is often enough to deny the enemy's escape route. Drop ball form between the enemy carry and their exit, then wait. They either blink and airborne, or they do not blink and die to your team's follow-up.
+
+> [!WARNING]
+> The wall-slam ult pulls enemies toward Khufra's front, not into a cone behind him. Standing with your back to a wall does not work; the pull drags enemies away from the wall, not into it. Stand with the wall in front of you or beside you so the pull arc ends against terrain.
+
+## Skills
+
+### Spell Curse (Passive)
+
+Khufra activates the Spell Curse left by Esmeralda every 8s, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range and deals 100 (+120% Total Physical Attack) (+ 6% target's Max HP) Magic Damage. He also slows the target by 30% for 1.5s and recovers 8% of his Max HP on hit. Each time Khufra applies a control effect to an enemy hero with his skill, the cooldown of Spell Curse is reduced by 4s.
+
+### Tyrant's Revenge (Skill 1)
+
+Khufra pulls the bandages on his arms to launch himself in the specified direction, dealing 50 (+ 7 (+1.5% Extra Physical Attack)% of his Max HP) Physical Damage to all enemies on the path. When blinking to the furthest distance or encountering the first enemy hero, Khufra will immediately stop, dealing 50 (+ 7 (+1.5% Extra Physical Attack)% of his Max HP) Physical Damage to nearby enemies and knocking them airborne for up to 1s.
+
+### Bouncing Ball (Skill 2)
+
+Khufra uses bandages to wrap himself into a Bouncing Ball, increasing his Hybrid Defense by 30%. Enemies trying to use mobility skills to move across Khufra will be knocked airborne. Each time the Bouncing Ball hits the ground, it deals 50 (+ 3 (+2% Extra Physical Attack)% of his Max HP) Magic Damage to nearby enemies and slows them by 80% for 0.2s.
+
+### Tyrant's Rage (Ultimate)
+
+Khufra pushes back all enemy targets around him toward his front (this skill can only be interrupted by Suppression), dealing 300 (+100% Total Physical Attack) Physical Damage and slowing them down for 1.25s. If the enemies are knocked against walls, extra Physical Damage equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Khufra should open with his 1st Skill, then his Ultimate for area control, follow up with his 2nd Skill to prevent the enemy from escaping with their dash or blink skills.
+- LANING COMBOS (laning): In the laning phase, Khufra uses his 1st Skill to aim while charging before launching himself to CC the enemy target. He then deals damage and slows the target with his enhanced Basic Attack and follows up with his 2nd Skill to keep the target slowed.
+
+## Counters to Khufra (pick these against Khufra)
+
+- Alice (Tank/Mage): +4.0 pp edge. Alice's durability and kit give them a strong matchup advantage against Khufra throughout the game.
+- Zhuxin (Mage): +3.8 pp edge. Zhuxin has a statistical edge over Khufra based on ranked matchup data. Pick Zhuxin to gain an advantage in draft.
+- Marcel (Support): +2.5 pp edge. Marcel has a statistical edge over Khufra based on ranked matchup data. Pick Marcel to gain an advantage in draft.
+- Minotaur (Tank/Support): +2.3 pp edge. Minotaur's durability and kit give them a strong matchup advantage against Khufra throughout the game.
+- Estes (Support): +2.1 pp edge. Estes has a statistical edge over Khufra based on ranked matchup data. Pick Estes to gain an advantage in draft.
+- Bane (Fighter/Mage): +2.1 pp edge. Bane's durability and kit give them a strong matchup advantage against Khufra throughout the game.
+- Arlott (Fighter/Assassin): +2.0 pp edge. Arlott's durability and kit give them a strong matchup advantage against Khufra throughout the game.
+- Yi Sun-shin (Assassin/Marksman): +1.9 pp edge. Yi Sun-shin has a statistical edge over Khufra based on ranked matchup data. Pick Yi Sun-shin to gain an advantage in draft.
+
+## Heroes Khufra beats
+
+- Silvanna (Fighter): +3.2 pp edge for Khufra.
+- Alucard (Fighter/Assassin): +3.2 pp edge for Khufra.
+- Wanwan (Marksman): +2.6 pp edge for Khufra.
+- Natalia (Assassin): +2.5 pp edge for Khufra.
+- Sora (Fighter/Assassin): +2.5 pp edge for Khufra.
+- Paquito (Fighter/Assassin): +2.5 pp edge for Khufra.
+- Guinevere (Fighter): +2.4 pp edge for Khufra.
+- Layla (Marksman): +2.4 pp edge for Khufra.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/khufra.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Anti-Dash Conceal (Roam)
+
+- Items: Tough Boots, Cursed Helmet, Dominance Ice, Antique Cuirass, Athena's Shield, Immortality
+- Core: Cursed Helmet, Dominance Ice, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Rapid Boots over Tough Boots when Use when crowd control is light and Khufra needs faster bush-to-bush angles before the first Turtle fight.; Radiant Armor over Athena's Shield when Use against repeated magic poke or burn damage that chips Khufra before he can start with Tyrant's Revenge.; Guardian Helmet over Immortality when Use when your team is winning vision but Khufra enters every objective setup too low to threaten a clean wall slam.
+- Total cost: 11060 gold
+
+Default ranked Khufra setup for punishing blink-heavy drafts with hidden S1 angles, Conceal starts, and enough HP to keep Bouncing Ball active after the engage.
+
+### Roam Frontline Encourage (Roam)
+
+- Items: Warrior Boots, Cursed Helmet, Dominance Ice, Antique Cuirass, Radiant Armor, Immortality
+- Core: Cursed Helmet, Dominance Ice, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Tough Boots over Warrior Boots when Use when magic chip or layered crowd control matters more than repeated physical basic attacks.; Athena's Shield over Radiant Armor when Use against one-rotation magic burst that tries to delete Khufra before Bouncing Ball can reset the fight.; Guardian Helmet over Radiant Armor when Use when the enemy magic damage is low and Khufra needs out-of-combat recovery for repeated Lord setups.
+- Total cost: 10810 gold
+
+Grouped-fight setup for objective games where Khufra frontlines longer and the team benefits more from Encourage than from a hidden pickoff start.
+
+### Roam Vengeance Anti-Physical (Roam)
+
+- Items: Warrior Boots, Dominance Ice, Blade Armor, Antique Cuirass, Oracle, Immortality
+- Core: Dominance Ice, Blade Armor, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Tough Boots over Warrior Boots when Use when the physical carries are protected by enough control that Khufra cannot stay in ball form cleanly.; Athena's Shield over Oracle when Use when one magic burst threat is more dangerous than extended healing, regen, or passive-sustain value.; Guardian Helmet over Oracle when Use when another teammate starts fights and Khufra's job is to re-enter at full HP for the second contact.
+- Total cost: 10790 gold
+
+Anti-physical variant for drafts where another teammate can help start fights and Khufra needs Vengeance plus armor to body-block for his carry.
+
+All builds for this hero: https://mlbbhub.com/builds/khufra.
+
+## Synergies
+
+- Eudora: Khufra works best with heroes with strong CC abilities that make it easier for his 1st Skill to hit, such as Eudora and Pharsa.
+- Pharsa: Khufra works best with heroes with strong CC abilities that make it easier for his 1st Skill to hit, such as Eudora and Pharsa.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

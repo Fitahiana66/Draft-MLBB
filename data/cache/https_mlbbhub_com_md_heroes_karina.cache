@@ -1,0 +1,212 @@
+# Karina, Shadow Blade
+
+> Karina is less an assassin than a kill-reset engine. Her ultimate resets when the marked target dies, and her passive refunds cooldown on both other skills on every third consecutive hit, which means the moment she catches the first low-HP target the rest of the enemy team is on borrowed time. That only happens if the draft actually gives her a first pick to catch.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Finisher, Magic Damage
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 47.80%
+- Pick rate: 0.83%
+- Ban rate: 3.27%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/karina
+
+## Guide
+
+### Is this a Karina game?
+
+Karina's draft question is not "does my team need a jungler", it is "does the enemy team have at least one squishy who positions badly". Her entire kit is built to chain kills. If the enemy back line is a single marksman surrounded by three frontline CC specialists, she never gets the reset loop started and every dive ends with her ult on a long cooldown and no reset to show for it. If the enemy is running two fragile carries (Layla plus Lylia, Miya plus Odette, Lesley plus Selena), she punishes every clipped positioning error in perpetuity.
+
+Patch 2.2.16 ([patch notes](/patch-notes)) cut Dance of Blades' cooldown and moved real damage onto its enhanced basic. The buff raises her floor once the first kill lands; it does not change what the draft has to give her.
+
+**Lock her when** the enemy has two or more 2500-HP-ish heroes who rely on range instead of escape mobility, your team has any form of setup (Mathilda ult, Franco hook, Khufra bounce on your side, Kaja suppress), and the enemy lacks hard counter-initiation like Eudora or Aurora sitting on her ult.
+
+**Bench her when** the enemy picks any of these: Eudora (one combo one-shots Karina the instant she dives), Khufra (Bouncing Ball interrupts her ult dash and his ult suppresses her during her shadow window), Aurora (instant freeze the moment the dash animation starts), Valir (point-click knockback plus a Burning Soul slow that cancels her speed buff), or Franco with a flicker. Also bench her when your own team is a poke comp with no engage. Karina does not initiate. She cleans up. If nobody else on your team can create a pick, she sits in the jungle hitting creeps until the 25-minute surrender vote.
+
+Disqualifying test: if you cannot name the specific enemy hero whose death starts your kill chain, you are on the wrong hero.
+
+### The one thing that makes Karina work
+
+Karina is a countdown timer, not a hero. Her whole kit exists to reward the first kill by making the second one almost free. The ultimate resets when the marked target dies. The passive refunds cooldown on both other skills on the third consecutive hit. The third-hit true damage is a **finisher mechanic** that scales with how much HP the target has already lost, which is the game explicitly telling you to let someone else do the chunking before you arrive.
+
+This is why Karina games look binary. When she gets a level-4 gank that sticks, the next teamfight has her arriving with full ult, half-cooldown S1, and half-cooldown S2, and she deletes a second target before the first body is gray. When the level-4 gank fails, she is a sub-optimal jungler with no wave-clear priority and a sub-optimal burst mage with no range. Nothing in her kit generates value in the middle lane of that outcome spectrum. There is no "laning phase Karina". There is "Karina who already has a head" and "Karina who does not".
+
+Everything else in the kit serves the reset loop. [Dance of Blades](/spells) gives her a movement-speed burst, a window that blocks all basic attacks, and an enhanced basic that slows, always crits, and ends the state. The block is still a one-matchup tool for diving basic-attack carries, but 2.2.16 put real damage on the enhanced hit, so the button now earns its place in any dive, not only against marksmen. [Dance of Death](/spells) is a single-button AOE spin that clears jungle camps in one press and collapses squishy clusters in teamfights. Shadow Assault is a point-click blink with a leash point behind the target so she can escape back to where she came from. Read the kit in that order (reset, dive, clean, escape) and every decision point becomes obvious.
+
+### The first four minutes in the jungle
+
+1. **Take S2 first, clear Litho then the buff.** S2 is a single-cast AOE that hits the whole creep pack, which is the fastest jungle clear she has. Start blue side Litho to Turtle buff or red side Crab to Lord buff depending on your team's ult timers. Do not start at the buff. The buff camp has the lowest creep count and you waste the S2 cast.
+2. **By level 4, look at the enemy solo lanes.** Not mid. Mid usually has a dash or a minion wave. The EXP laner and the gold laner are where Karina's first reset happens. If either is pushed past river without vision, you ult in, auto three times for the passive true-damage proc, and leave through your shadowform. A successful gank at 2:30 to 3:30 minutes is worth more than any objective on the map.
+3. **Do not burn Flicker to engage.** Flicker is your second out. Her ultimate's back-dash is the first out, and it only works if the shadowform is between you and your team. Flicker covers the case where you landed the kill but the shadowform is now behind the enemy tower. Save it. If you use Flicker to get in and then need to get out, you die.
+
+### The power spike you are farming toward
+
+[Genius Wand](/items/genius-wand) plus [Lightning Truncheon](/items/lightning-truncheon), finished somewhere between the 8 and 10-minute mark depending on how much you farmed. This is not a soft spike, it is the single moment her kit stops chipping and starts deleting.
+
+Genius Wand applies a stacking magic-defense reduction on every instance of damage, up to three stacks. Karina's S1 enhanced basic plus her S2 plus her ultimate put three instances on the target in under two seconds, which means by the third damage tick she is hitting through roughly 20 points of magic defense that was there a moment ago. Lightning Truncheon converts her next skill cast into a 120% Total Magic Power resonate proc every six seconds, which on her ultimate's impact frame is essentially a second ult stapled to the first.
+
+Before these two items, she kills a 2500-HP target in three skills and two autos. After, she kills the same target in two skills and one auto. That difference is the entire reason the hero is picked: the shorter the rotation, the less time the target's team has to answer the dive.
+
+Do not force fights at the 5 or 6-minute mark if you are not two-cored. Invading enemy jungle, counter-ganking lanes, taking the first Turtle contest: all of these lose you tempo unless your team can win the fight without your damage. Your damage is not online yet.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a Khufra or a Franco is to spin your S2 into the frontline because it is an AOE and there is a human in front of you. That reflex gets you suppressed. Karina's job in a teamfight is not to kill the tank and it is not to participate in the first exchange. It is to stand at the edge of the fight, wait until one of the enemy carries drops below the passive true-damage threshold (roughly 60% HP is when the math starts favoring the dive), and then remove that carry from the game with one rotation.
+
+Three rules:
+
+1. **You are the third wave, not the first.** Your tank walks in, your mage or marksman poke, then you enter. Entering with the tank means you eat their opener and have nothing left for the second target.
+2. **Ult the lowest-HP enemy carry, not the closest.** Shadow Assault is a point-click. Distance is irrelevant, HP threshold is everything. If you ult the tank to "reach" the marksman, you are now next to the tank and the marksman is already repositioning.
+3. **Cast S1 before you press ult, not after.** The movement-speed burst plus the basic-attack block is a pre-dive tool, not a reaction. Pressing S1 while mid-dash wastes most of its window. If the target is already in basic-attack range, spend the enhanced hit before you dash: Shadow Assault ends the Dance early, and after 2.2.16 that hit is too much damage to throw away.
+
+Support conditional: if your support is [Mathilda](/heroes/mathilda), her ult is your engage signal and you follow her directly onto the back line. If your support is [Estes](/heroes/estes) or [Angela](/heroes/angela), you play one step further forward because their healing covers your S1 expiration. If your support is [Franco](/heroes/franco), you wait for the hook to land and then ult the hooked target. Do not ult before the hook connects. You will be the one who gets blamed when it misses.
+
+### Itemization: defaults vs flex slots
+
+Three locked slots plus three real conversations.
+
+Locked: Jungler [Arcane Boots](/items/arcane-boots) upgrading into Ice or Bloody Retribution, [Genius Wand](/items/genius-wand), [Lightning Truncheon](/items/lightning-truncheon). These are non-negotiable and they always come in that order. Skipping Genius Wand for a flat magic power item is a common mistake; you lose the penetration stacking that makes your two-skill rotation delete a full-HP target.
+
+The three flex slots are where you actually show up as a player:
+
+- **[Glowing Wand](/items/glowing-wand)** against any enemy team running two or more tanks or bruisers. The passive burns 1.5% Max HP per second, which on a 4000-HP Ruby is real damage you could not otherwise produce. Also applies Lifebane, which cuts their sustain by 50% during your dive window.
+- **[Divine Glaive](/items/divine-glaive)** when the enemy is stacking magic defense. A single Athena's Shield or Radiant Armor on their carry is not enough to justify it. Two of those items, or an Oracle, is.
+- **[Ice Queen Wand](/items/ice-queen-wand)** against mobile squishies you keep failing to finish: Fanny, Ling, Lancelot. The stacking 10% slow from your skill damage locks them in place for your passive third hit.
+- **[Holy Crystal](/items/holy-crystal)** as a pure scaling pick in long games past 20 minutes where you need the flat magic power for the burst to keep up with enemy health pools.
+- **[Immortality](/items/immortality)** past the 25-minute mark, when one caught dive ends the game outright. The revive buys a second try at the reset chain the moment the enemy finally baits your shadowform away from your team.
+
+Boots pivot: Tough Boots over Arcane if the enemy has two or more hard-CC threats. The Fortitude passive cutting CC duration by 30% matters more than the 10 magic penetration does when you are spending half the teamfight stunned. Do not take Warrior Boots. Do not take Rapid Boots.
+
+The common default to question is [Blood Wings](/items/blood-wings). It looks great on paper: magic power, shield, speed boost after the shield breaks. In practice, Karina fights are over in under three seconds, and the shield either never gets tested or breaks to the opener and provides no defense for the actual dive. Blood Wings is a fallback for when you keep dying before your rotation finishes, not a real core slot.
+
+### Mistakes that lose Karina games
+
+**Ulting into the tank to reach the back line.** Shadow Assault is point-click targeting. The shadowform spawns behind whoever you ulted, which means ulting the tank locks your exit route to behind the tank, not behind the carry. You are now next to the full-HP frontline with your only dash on cooldown. Mark the target you actually want dead even if two other bodies are between you.
+
+**Taking the third auto on a tank thinking the true damage matters.** Passive Shadow Combo's true damage scales with the target's lost HP. On a 5000-HP Khufra at full health, the third-auto true damage component is small chip. The passive is a finisher that punishes targets who are already below half. Using it on a full-HP tank means you traded your S1 speed window to do chip damage to the wrong person.
+
+**Opening S2 before the ultimate lands.** S2's spin is short-range and it is her only AOE, so spending it first means the mark is not live yet and the damage is gone before the kill window opens. Reverse the order: ult first to apply the mark and drop the shadowform, then spin inside the mark window so the S2 damage feeds the death that resets the ultimate. The passive cooldown refund from your follow-up chase autos has S2 ready again by the time you reach the next target.
+
+**Forcing the first Turtle contest when you are one-cored.** Turtle arrives at 2:00 and contests at around 4:30 to 5:30 for most teams. Karina is not two-cored until 8 to 10 minutes. Contesting the first Turtle with a mid-tier build means you are the weakest fighter in a 4v4 and your death pushes the gold swing further against you. Let the first Turtle go if the alternative is farming to Lightning Truncheon.
+
+**Burning Flicker to engage.** Her ultimate's back-dash covers the initial escape. Flicker is the second layer of out: for when the shadowform is now in a tower range, when the mark target survived and you need to leave a fight you thought you were winning, or when a lockdown hero (Chou, Atlas) catches you mid-rotation. Spending Flicker on engage leaves you with a single exit tool until it comes back. You will need it and it will not be there.
+
+### Key tips
+
+> [!TIP]
+> Dance of Blades blocks basic attacks, not skill damage, so the block is a one-matchup tool: dive [Layla](/heroes/layla), [Bruno](/heroes/bruno), [Miya](/heroes/miya), [Karrie](/heroes/karrie), [Moskov](/heroes/moskov). It does almost nothing defensively against [Valir](/heroes/valir), [Gord](/heroes/gord), [Aurora](/heroes/aurora) or any mage whose damage comes from skills, but 2.2.16 raised the enhanced basic far enough that S1 still pays into those matchups for the damage and the slow. Stop picking targets on the block alone.
+
+> [!NOTE]
+> Shadow Assault's second cast blinks you to the shadowform's location, which was spawned behind the enemy at the moment of the first cast. If the fight moved, the shadowform did not. Check where the shadowform actually is before you press ult-back; sometimes the safer play is to walk out through your S1 speed boost instead.
+
+> [!TIP]
+> The passive cooldown refund lands on the third consecutive hit on the same enemy hero, not every auto. Auto through the chase: the third hit brings S2 back, so the spin is ready the moment you catch the target, right on top of the true-damage proc.
+
+> [!WARNING]
+> The ultimate resets when the marked target dies inside the mark window, whoever lands the final blow. The failure state is not a stolen kill, it is a target that escapes the window: if they dash, get healed, or turn untargetable before the mark expires, the ult is locked for its full cooldown and you are a squishy assassin in the middle of the fight with no exit tool. Ping the target and let your damage dealers help burst them, then take the reset.
+
+## Skills
+
+### Shadow Combo (Passive)
+
+Karina's third consecutive attack against the same enemy deals 100 (+ 5 (+2.5% Total Magic Power)% target's Lost HP) extra True Damage. If the target is an enemy hero, this attack also reduces the cooldowns of her non-Ultimate skills by 1.5s. Damage dealt to creeps is capped at 2000 True Damage.
+
+### Dance of Blades (Skill 1)
+
+Karina enters the Dance of Blades state for up to 3.5s, gaining 45% Movement Speed and blocking all Basic Attacks. Blocked attacks trigger a counterattack that deals 100 (+30% Total Magic Power) Magic Damage to the attacker (firing a Shadowblade at ranged attackers or triggering Dance of Blades against melee attackers). This effect has a 0.4s cooldown). Casting a Basic Attack or Shadow Assault ends the Dance of Blades state, empowering Karina's next Basic Attack to deal 160 (+60% Total Magic Power) critical Magic Damage and slow the target by 45% for 1s.
+
+### Dance of Death (Skill 2)
+
+Karina launches a spinning slash, dealing 375 (+125% Total Magic Power) Magic Damage to nearby enemies.
+
+### Shadow Assault (Ultimate)
+
+Karina dashes to the enemy hero, dealing 350 (+160% Total Magic Power) Magic Damage, applying a Shadow Sigil to the target, and leaving a Shadowform behind them. The Shadow Sigil and Shadowform both last 5s. If the target dies during this time, this skill's cooldown resets immediately. Use Again: Karina dashes back to the Shadowform's location, dealing 150 (+50% Total Magic Power) Magic Damage to enemies along the way.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, close in on the enemy using Karina's 1st Skill and cut into their formation with her Ultimate. Use her 2nd Skill for a quick AOE followed by her Ultimate to dash back to her Shadowform. Finally, use her 1st Skill again and enhanced Basic Attacks to chase down enemies.
+- LANING COMBOS (laning): In the laning phase, use Karina's 1st Skill first to enter the Dance of Blades state and pounce on the enemy using the dash from her enhanced Basic Attack. Follow up with her 2nd Skill and Basic Attacks to trigger her Passive.
+
+## Counters to Karina (pick these against Karina)
+
+- Granger (Marksman): +4.8 pp edge. Across Karina's measured matchups, Karina is weakest in the early game. Apply pressure with Granger before Karina can scale.
+- Brody (Marksman): +4.4 pp edge. Across Karina's measured matchups, Karina is weakest in the early game. Apply pressure with Brody before Karina can scale.
+- Clint (Marksman): +3.4 pp edge. Clint has a statistical edge over Karina based on ranked matchup data. Pick Clint to gain an advantage in draft.
+- Lunox (Mage): +3.0 pp edge. Lunox has a statistical edge over Karina based on ranked matchup data. Pick Lunox to gain an advantage in draft.
+- Paquito (Fighter/Assassin): +2.9 pp edge. Across Karina's measured matchups, Karina is weakest in the early game. Apply pressure with Paquito before Karina can scale.
+- Gloo (Tank): +2.9 pp edge. Gloo's durability and kit give them a strong matchup advantage against Karina throughout the game.
+- Sora (Fighter/Assassin): +2.3 pp edge. Across Karina's measured matchups, Karina is weakest in the early game. Apply pressure with Sora before Karina can scale.
+- Harith (Mage): +2.3 pp edge. Harith has a statistical edge over Karina based on ranked matchup data. Pick Harith to gain an advantage in draft.
+
+## Heroes Karina beats
+
+- Natalia (Assassin): +4.3 pp edge for Karina.
+- Kimmy (Marksman/Mage): +3.5 pp edge for Karina.
+- Marcel (Support): +3.1 pp edge for Karina.
+- Helcurt (Assassin): +3.0 pp edge for Karina.
+- Sun (Fighter): +2.9 pp edge for Karina.
+- Zilong (Fighter/Assassin): +2.9 pp edge for Karina.
+- Natan (Marksman): +2.3 pp edge for Karina.
+- Aldous (Fighter): +2.2 pp edge for Karina.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/karina.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Reset Burst (Jungle)
+
+- Items: Arcane Boots, Starlium Scythe, Genius Wand, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Starlium Scythe, Genius Wand, Holy Crystal
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Arcane Boots when Use when the enemy draft has chain crowd control that catches Karina before Shadow Assault can reset.; Winter Crown over Blood Wings when Use when one stasis button is needed to survive the counter-burst after the first dive.; Glowing Wand over Blood Wings when Use when shields or HP regen keep the first reset target alive and the enemy has not stacked heavy Magic Defense.; Immortality over Blood Wings when Use for final Lord fights where a revive is worth more than extra magic power and shield tempo.
+- Total cost: 11980 gold
+
+Default ranked jungle setup built around Starlium follow-up damage, Genius Wand shred, and Ice Retribution stickiness for the first reset.
+
+### Jungle Sustain Snowball (Jungle)
+
+- Items: Arcane Boots, Starlium Scythe, Concentrated Energy, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Starlium Scythe, Concentrated Energy, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Genius Wand over Concentrated Energy when Use when the enemy carries are fragile enough that penetration wins the second-item fight faster than sustain.; Sky Piercer over Blood Wings when Use only when Karina already has early kills and can protect Lethality stacks instead of trading deaths.; Winter Crown over Blood Wings when Use against assassins or suppressive engage that punish Karina immediately after Shadow Assault lands.; Tough Boots over Arcane Boots when Use when the enemy roam and mid pair can lock Karina before her S1 movement speed matters.
+- Total cost: 12000 gold
+
+Sustain snowball path for games where Karina must take repeated skirmishes instead of only one-shotting isolated backliners.
+
+### Jungle Defensive Tempo (Jungle)
+
+- Items: Tough Boots, Starlium Scythe, Concentrated Energy, Brute Force Breastplate, Holy Crystal, Winter Crown
+- Core: Starlium Scythe, Concentrated Energy, Brute Force Breastplate
+- Emblem: Basic Common Emblem with Thrill, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Arcane Boots over Tough Boots when Use when the enemy has low crowd control and Karina needs early magic penetration more than Fortitude.; Athena's Shield over Brute Force Breastplate when Use against front-loaded magic burst from mages who can delete Karina before her reset window opens.; Radiant Armor over Brute Force Breastplate when Use against repeated magic ticks where stacked Magic Defense matters more than physical mitigation.; Queen's Wings over Winter Crown when Use when Karina needs damage reduction and cooldown recovery while staying active instead of pressing stasis.
+- Total cost: 11720 gold
+
+Defensive jungle variant for high-collapse drafts, trading some burst ceiling for enough durability to finish the first target and leave.
+
+All builds for this hero: https://mlbbhub.com/builds/karina.
+
+## Synergies
+
+- Tigreal: Karina works well with heroes who can pull enemies together, such as Tigreal and Faramis, since her Ultimate and 2nd Skill also hits anyone near her main target, setting them up to be chain killed by her Ultimate.
+- Faramis: Karina works well with heroes who can pull enemies together, such as Tigreal and Faramis, since her Ultimate and 2nd Skill also hits anyone near her main target, setting them up to be chain killed by her Ultimate.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

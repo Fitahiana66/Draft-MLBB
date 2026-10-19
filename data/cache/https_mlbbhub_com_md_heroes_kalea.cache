@@ -1,0 +1,206 @@
+# Kalea, Surging Wave
+
+> Kalea is not a teamfight tank. She is a single-target hook that only pays off when somebody else on your team is built to finish the hero she hands them. Lock her in the drafts where that follow-up exists; bench her in the drafts where it does not.
+
+## Snapshot
+
+- Role: Support, Fighter
+- Lane: Roam
+- Specialty: Control, Regen
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 47.97%
+- Pick rate: 0.24%
+- Ban rate: 0.66%
+- Released: 2025
+- Page: https://mlbbhub.com/heroes/kalea
+
+## Guide
+
+### Is your comp built to finish a grabbed target?
+
+Kalea's ultimate grabs one hero and slams them in the direction of your joystick. That is the entire payload. She does not group-engage like Atlas, she does not zone like Khufra, she does not peel-chain like Tigreal. Her whole kit is the setup for dropping one enemy into your team's laps, and if your team cannot close that kill in the brief window her grab gives them, you just spent your longest cooldown to deliver a healthy enemy to your backline.
+
+Lock Kalea when your comp has a finisher who converts on isolated kills. Fanny, Lancelot, Saber, Ling, and Hayabusa all sit in that bucket: they need a single target grounded for a moment, not a 5-man knock-up to work in. She also fits when your mid lane is a burst mage (Eudora, Kagura, Valentina) who can chain-delete whoever you drag in. Rotational skirmish comps that contest 3-4 objectives a game are her ideal draft shape.
+
+Bench her when the enemy has Diggie, Baxia, or any hero who specifically disarms pickoffs. Diggie's ultimate purifies her grab and grants CC immunity across the whole team, Baxia erases the healing her passive relies on, and Chou's dash blanks the entire setup in one button. Bench her again when your own team has no assassin follow-up: a 5-fighter draft with Thamuz, X.Borg, and Ruby has nobody to cash the pickoff. And bench her into a Fanny roam, because a Fanny who lives on walls never holds still long enough for the single-target grab, and her burst deletes a roamer who has to walk into melee range to land it.
+
+If you cannot name which hero on your team finishes the enemy you just grabbed, Kalea is the wrong pick. Patch 2.2.16 ([patch notes](/patch-notes)) strengthened the walk-up itself: Skill 1 hits harder on a shorter cooldown, her passive heal now scales with her maximum HP so the bulk items she already buys double as healing, and the third enhanced basic fires through control effects. None of that changes the win condition. She is still a setup roamer who hands one target to a finisher, not a hero who wins a lane on her own.
+
+### The one thing that makes Kalea work
+
+Kalea is a pickoff hook pretending to be a support. Her heals are real but secondary; her zone is real but secondary; her enhanced basics are real but secondary. The ultimate is the identity. Every other button in her kit exists to make the ultimate land.
+
+The Water Zone mechanic is where that becomes visible. Casting any skill drops a zone on the ground, and casting a second skill inside the zone consumes it to enhance her next three basic attacks: a dash-strike that closes to the target, a flurry that heals her and the lowest-HP ally nearby, and a final tail strike that spawns a fresh zone. That loop is not her damage plan, it is her spacing plan. The dash closes the gap to the target you want to grab, the heal keeps you alive through the approach, and the final hit resets the zone where you want the next fight to happen. The third enhanced basic now fires while she is under control effects, so a stun mid-sequence no longer costs you the tail strike or the fresh zone. Skill 2 works from the other direction: if her charge clips the edge of a Water Zone or hits a wall, it triggers a second leap you can recast as a slam, which is how you stack two knock-ups into a single rotation and stretch the grab window long enough for an assassin to close.
+
+The ultimate finishes the sequence. It grabs a single hero, slams them in your joystick direction, and lands them well outside the cone Atlas works with. That landing range is the feature. You are not grabbing to damage, you are grabbing to relocate a squishy carry into your team's AOE, or into your turret.
+
+### Laning: the first few minutes
+
+Kalea roams from the start. The early priority is setting up the first river fight, not hugging a lane.
+
+1. **Take Skill 1 first at level 1.** It clears the opening bush check and drops your first Water Zone, which gives you the leap-slam option if the enemy jungler shows on your side of the river. The passive enhancement does not exist without a zone on the ground, so the skill priority is not really a choice.
+2. **Arrive at the turtle-side choke early with a zone already down.** Do not walk in clean. Cast Skill 1 into the terrain you expect to fight on, then position at the far edge of the zone. If the enemy roam invades, your Skill 2 charges through them, clips the zone boundary, and leaps for the recast slam. That is the first kill window of the game.
+3. **Do not burn the ultimate on a full-HP target.** Her ult sits on the longest cooldown in the kit, and Skill 2 still carries the longer cooldown it took in 2.1.88, so a wasted grab leaves you a beat slower to re-set the next one. A speculative ult that grabs a healthy tank spends the pickoff on a target nobody can finish, and until the cooldown returns you have nothing that threatens a carry. Save it for a confirmed kill or a clean pickoff.
+
+### The power spike you are farming toward
+
+Kalea does not spike on a damage item. She spikes the moment her pickoff loop starts compounding, and that is a function of two passives, not raw stats.
+
+Fleeting Time is the engine. Every kill or assist refunds a chunk of her ultimate's current cooldown, so the first successful pickoff brings the next one online faster, which lands the next, which refreshes it again. On the Support emblem the Pull Yourself Together talent does the same thing for Flicker: each kill or assist shaves its cooldown, so a roamer who is actually catching targets gets her engage and her blink back while the enemy is still buying back. A Kalea who is hitting pickoffs is a different hero from one who is missing them, and the gap widens with every fight.
+
+The survivability half of the spike is her first completed defensive item (Thunder Belt or Dominance Ice over Tough Boots). Before it, she dies on the approach to any focused burst and never reaches grab range. After it, she lives through the walk-up, lands the grab, and gets out, which is the whole job. Build the defense before any damage outside the EXP-lane variant.
+
+The exception is when she is solo-laning as a bruiser instead of roaming. There the spike really is War Axe: its Fighting Spirit stacks turn her enhanced basics into genuine damage and its cooldown reduction tightens the grab-setup loop, so a farmed Kalea can finish the target she grabs without help. That path trades her roam utility for self-sufficiency and only makes sense when your draft already has a frontline elsewhere.
+
+### Teamfight positioning and target priority
+
+The reflex when the fight forms is to grab the enemy tank, because the tank is the closest target and the most reliably hittable. That reflex is usually wrong.
+
+You grab the priority carry. Your assassin has already decided who dies before the fight started; your job is to deliver that target, not the hero your team was going to crowd-control anyway.
+
+1. **Drop a Water Zone before you want to grab, not as you grab.** Skill 1 into the terrain the fight will happen on, then approach. Engage without a zone and your Skill 2 has no leap phase and your passive has no enhanced basics, so you become a low-mobility body with one button.
+2. **Flicker is a setup tool, not an escape.** Save it for Flicker-then-ult on a repositioned marksman, or to close the last bit of distance on an enemy who stepped just out of grab range. Using it to retreat from a lost fight wastes your largest gap-closer on a fight you already lost.
+3. **Do not ult into your team's center if the target has a dash out.** Beatrix with Bennett up, Irithel on Heavy Crossbow, Wanwan with her tail uncleared: these heroes hit your team's middle and immediately phase to the other side. Slam them toward a wall or into your own turret instead. Turret damage on a landed grab is a confirmed kill; your team's AOE on a carry who phased away is nothing.
+
+If your team has a Fanny, your target priority inverts. Slam the enemy carry toward the wall where Fanny is waiting, not into your team. Her cable kill needs the target isolated on her wall, and her window is longer than a standard follow-up, so feed her the pickoff rather than the pile.
+
+### Itemization: the roam path and its real conversations
+
+The build cards above this article are correct: Kalea is a roam support first. Read this for the reasoning behind the slots, not for a list to copy.
+
+**Boots and blessing set the plan.** Tough Boots are the default because she is a diver who gets focused, and the CC-and-slow reduction is what lets her finish the walk-up. Take Conceal when you are playing for first-blood pickoffs (the stealth-and-speed active is a free engage), and Favor when your team needs the sustain (its bonus heal stacks on top of her passive's lowest-HP heal). Warrior Boots only belong on the EXP-lane War Axe variant.
+
+**Fleeting Time is close to locked on the roam build.** The ultimate cooldown refund on kills and assists is the item version of her identity, so a pickoff roamer wants it online early.
+
+**First defense: Thunder Belt versus Blade Armor.** Thunder Belt when you need its periodic slow proc to actually land grabs in extended fights, and for balanced bulk against a mixed-damage enemy. Blade Armor when the enemy leans on basic-attack carries (Melissa, Karrie, Irithel, Moskov): the reflect and the slow-on-reflect punish exactly the auto-attack rotation a diver standing in the enemy backline needs to survive.
+
+**Oracle versus Athena's Shield for the sustain or anti-magic slot.** Oracle when your team runs a heal-dependent comp (your own Estes, Floryn, or Angela), because its Bless passive boosts received shields and regen and turns her passive heal from mediocre into real. Athena's Shield when the enemy burst is mostly magic and you need the layered magic reduction to survive the dive.
+
+**Immortality is the standard closer.** On a hero whose job is to walk into the enemy and get focused, a second life is often the difference between a trade and a throw. Swap it for a second bulk item only when you are already snowballing and want to brawl rather than gamble.
+
+On emblem, the Support tree is the roam default (the Pull Yourself Together and Focusing Mark talents both feed the pickoff: one refreshes Flicker, the other amplifies your team's damage on the hero you just grabbed). The Fighter tree is only for the EXP-lane War Axe build, where you want firmness and sustain instead.
+
+### Mistakes that lose Kalea games
+
+Five patterns that turn winnable games into losses on this hero.
+
+**Ulting before a Water Zone is on the ground.** You grab a target, slam them down, and then your Skill 2 has no zone edge to clip, your passive has no enhanced basics ready, and you are standing next to a crowd-controlled enemy with no finishing tools. The first thing you do at the start of any fight sequence is Skill 1. Full stop.
+
+**Flicker-ulting into a Diggie team without checking his ultimate.** Diggie's ult purifies your grab and grants CC immunity to the whole enemy team. If his ult is up and you commit, you just handed them a free fight. Track his ult before you engage: if he spent it recently you have a window, and if he has not, play for objective instead.
+
+**Saving the ultimate for the perfect pick.** Her ult is not Fanny's ult; there is no bonus for the highlight-reel pickoff over the ordinary one. A long cooldown that you sit on after rotating to a fight is value bleeding out. Use it to initiate the kill you can get, not to wait for the perfect one that never arrives.
+
+**Charging Skill 2 with no wall or zone edge in the path.** The whole point of Skill 2 is the two-phase knock-up. A charge that only triggers the first phase is a single brief airborne on one enemy, which is nothing on its own. Before you dash, check the minimap: you want a wall in front of the target or your own Water Zone behind them so the charge clips an edge and leaps.
+
+**Grabbing the enemy tank in a 5v5 group fight.** The tank is the closest enemy to your team, so grabbing them drops them into your carries' faces, but your team was already going to fight the tank. What you needed was the marksman, and now the marksman is free to auto-attack from range while your team chips through the wall of HP you delivered.
+
+### Key Tips
+
+> [!TIP]
+> Always Skill 1 before Skill 2 in a fresh rotation. The zone has to exist before the leap phase works, and a Skill 2 charge with no zone edge or wall is a wasted cooldown. The opening sequence is Skill 1, then position, then Skill 2 from the zone's far edge, then recast for the slam. Drill it until it is muscle memory.
+
+> [!NOTE]
+> The Flicker-ult pickoff has a setup nobody explains: Flicker laterally or behind the enemy carry first, then ult toward your team. Closing that gap in one frame buys you a beat of confusion before the grab lands, which is usually enough for the carry to miss their escape button.
+
+> [!TIP]
+> Her final enhanced basic spawns a new Water Zone where it lands, so you can chain fights across the map. End one fight with that hit, walk into the next bush, and your Skill 2 already has a zone to leap from. Space the enhanced basics out instead of dumping all three on the same target.
+
+> [!NOTE]
+> Unlike Atlas and Franco, your ult grabs only one hero, so target selection is the entire skill expression. Atlas presses ult and lets the AOE sort it out; Kalea presses ult and lives with whoever she picked. Before you press it, confirm the target is the one your team is set up to finish, not just the one standing closest to you.
+
+## Skills
+
+### Surge of Life (Passive)
+
+After casting a skill, Kalea creates a Water Zone on the ground. When Kalea casts a skill within this zone, she absorbs it to enhance her next 3 Basic Attacks with different effects: First Basic Attack: Kalea dashes to the target, dealing (+100% Total Physical Attack) Physical Damage. Second Basic Attack: Kalea unleashes a flurry of attacks, dealing 140 (+8*Hero Level) (+100% Total Physical Attack) Physical Damage and recovering (+12% Max HP) (+80% Total Magic Power) HP to herself and the nearby ally with the lowest HP. Third Basic Attack: Kalea strikes around the target with her tail, dealing 70 (+4*Hero Level) (+100% Total Physical Attack) Physical Damage and creating a new Water Zone. Enhanced Basic Attacks are not affected by Attack Speed. Control effects can affect Kalea during the third Enhanced Basic Attack, but cannot interrupt it.
+
+### Wavebreaker (Skill 1)
+
+Kalea slams her fist into the ground, creating a wave that deals 200 (+5% Max HP) Physical Damage to nearby enemies and slows them by 40% for 1.5s.
+
+### Tidal Strike (Skill 2)
+
+Kalea charges forward and body slams the first enemy hero she encounters, knocking them airborne for 0.6s (unaffected by Resilience) while dealing 150 (+60% Total Physical Attack) Physical Damage. If she collides with an obstacle or touches the edge of a Water Zone during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing 150 (+60% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s (unaffected by Resilience).
+
+### Tsunami Slam (Ultimate)
+
+Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction (drag the Joystick to change landing spot). She gains Control Immunity during this process. Upon landing, deals 300 (+8% Max HP) Physical Damage to the target and nearby enemies.
+
+Skill upgrade priority: 3-2-1-0-1/1.
+
+## Combos
+
+- Laning Combos (laning): While ganking with Kalea, use her 2nd Skill to close in and CC the target, then use her 1st Skill to activate her enhanced Basic Attacks and unleash them on the target.
+- Teamfight Combos (teamfight): In teamfights, Kalea should prioritize enemy Mages or Marksmen. Use the first part of her 2nd Skill to dash into an obstacle near the target, then dive down to CC them, and follow up with her Ultimate to slam them into your team. Use her 1st Skill to trigger her Passive, and unload her enhanced Basic Attacks on the target.
+
+## Counters to Kalea (pick these against Kalea)
+
+- Chip (Support/Tank): +2.2 pp edge. Chip's durability and kit give them a strong matchup advantage against Kalea throughout the game.
+- Phoveus (Fighter): +2.1 pp edge. Phoveus's durability and kit give them a strong matchup advantage against Kalea throughout the game.
+- Tigreal (Tank): +1.9 pp edge. Tigreal's durability and kit give them a strong matchup advantage against Kalea throughout the game.
+- Balmond (Fighter): +1.8 pp edge. Balmond's durability and kit give them a strong matchup advantage against Kalea throughout the game.
+- Bane (Fighter/Mage): +1.7 pp edge. Bane's durability and kit give them a strong matchup advantage against Kalea throughout the game.
+
+## Heroes Kalea beats
+
+- Helcurt (Assassin): +2.6 pp edge for Kalea.
+- Lolita (Support/Tank): +2.5 pp edge for Kalea.
+- Joy (Assassin): +2.2 pp edge for Kalea.
+- Fanny (Assassin): +2.0 pp edge for Kalea.
+- Khufra (Tank): +1.8 pp edge for Kalea.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/kalea.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Conceal Pickoff (Roam)
+
+- Items: Tough Boots, Thunder Belt, Oracle, Fleeting Time, Dominance Ice, Immortality
+- Core: Thunder Belt, Oracle, Fleeting Time
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Athena's Shield over Dominance Ice when Use against one-rotation magic burst when Kalea dies before Oracle healing or passive resets matter.; Antique Cuirass over Dominance Ice when Use when physical skill damage from fighters or assassins is the main threat after Kalea starts the pickoff.; Radiant Armor over Dominance Ice when Use against repeated magic poke or burn damage that chips Kalea before Conceal can create the grab angle.
+- Total cost: 10560 gold
+
+Default roam setup for hiding the Flicker or Tidal Strike angle, grabbing one carry, and cycling ultimate faster after confirmed assists.
+
+### Roam Favor Sustain (Roam)
+
+- Items: Tough Boots, Dominance Ice, Fleeting Time, Oracle, Athena's Shield, Immortality
+- Core: Dominance Ice, Fleeting Time, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Favor
+- Flex: Thunder Belt over Athena's Shield when Use when Kalea is surviving first contact and needs the enhanced-basic slow to keep targets inside follow-up range.; Radiant Armor over Athena's Shield when Use against sustained magic damage rather than a single burst mage.; Guardian Helmet over Athena's Shield when Use when objective fights are spaced out and Kalea needs to reset health without recalling.
+- Total cost: 10890 gold
+
+Grouped-fight roam setup that leans into Favor, passive healing, and cooldown resets when Kalea is protecting carries more than flanking.
+
+### EXP Bruiser War Axe (EXP)
+
+- Items: Warrior Boots, War Axe, Thunder Belt, Oracle, Queen's Wings, Immortality
+- Core: War Axe, Thunder Belt, Oracle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Tough Boots over Warrior Boots when Use when crowd control or magic chip matters more than repeated physical lane trades.; Dominance Ice over Queen's Wings when Use against healing, shielding, or attack-speed carries when anti-sustain matters more than low-health damage reduction.; Brute Force Breastplate over Immortality when Use from a lead when movement speed and cooldown reduction help Kalea keep fighting after the first grab.
+- Total cost: 10870 gold
+
+EXP setup for side-lane skirmishes where War Axe and Thunder Belt reward repeated skill casts, enhanced basics, and extended melee trades.
+
+All builds for this hero: https://mlbbhub.com/builds/kalea.
+
+## Synergies
+
+- Eudora: Kalea's strong single-target CC makes her work well with heroes who have high single-target burst, like Eudora, Harley, and Clint.
+- Harley: Kalea's strong single-target CC makes her work well with heroes who have high single-target burst, like Eudora, Harley, and Clint.
+- Clint: Kalea's strong single-target CC makes her work well with heroes who have high single-target burst, like Eudora, Harley, and Clint.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

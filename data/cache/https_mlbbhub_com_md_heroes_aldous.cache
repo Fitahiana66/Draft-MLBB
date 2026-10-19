@@ -1,0 +1,204 @@
+# Aldous, Soul Contractor
+
+> Aldous is a fighter built around delayed permission, and 2.2.16 shortened the delay. He still converts farm into one stored punch that decides side-lane picks and late fights, but he now trades in lane instead of surrendering it. The catch is unchanged. He needs a team that keeps the map stable while he builds stacks.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP
+- Specialty: Burst, Support
+- Difficulty: Hard
+- Tier this patch: B
+- Win rate: 50.72%
+- Pick rate: 0.42%
+- Ban rate: 0.55%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/aldous
+
+## Guide
+
+### Aldous is a draft bargain, not a blind carry
+
+Pick Aldous when the enemy draft has reachable backline heroes, limited peel after the first engage, and side lanes that cannot punish him before his stacks matter. Patch 2.2.16 ([patch notes](/patch-notes)) gave him the tools to hold his own early, so the pick is no longer a ten-minute surrender, but he still wants a game he is not asked to win on command.
+
+The trap is picking him because the enemy has squishy carries. That is only half the condition. If those carries are protected by Franco, Kaja, Chou, Diggie, or a tank jungler sitting between you and the backline, Aldous can reveal the target and still die before the punch matters. His ult guarantees contact, not a clean kill.
+
+He fits best beside four teammates who already have early agency: a jungler who can fight for the first Turtle without needing your ult, a mid laner who can clear and rotate first, and a roamer who can either protect his lane or start fights while Aldous farms the opposite side. Draft him into slow marksmen, greedy mages, and split-pushers who hate global vision. Avoid him into lane bullies, layered suppression, and compositions that force every fight before the second Lord setup.
+
+If your team already drafted another scaling core, Aldous becomes expensive. Two heroes asking for farm while the enemy groups at Turtle is not patience. It is a map deficit with a timer.
+
+Before you lock him, answer one question: whose job is it to start the first two fights? If the honest answer is Aldous, pick someone else.
+
+### The punch works because everything feeds one contract
+
+Aldous is not a normal bruiser. His kit is a single economy loop: last-hit with Contract: Soul Steal, grow the stored punch, let the passive shield scale with the same work, then use Chase Fate to deliver that farm to one isolated target. 2.2.16 widened the intake. Landing the enhanced punch on a hero now feeds the loop directly, so lane trades are no longer dead time.
+
+That is why his weakest players look busy but never become threatening. They brawl for its own sake, walk to every river fight, and miss minion executions while the clock runs. Hitting a hero with the punch pays something now, but the cannon wave still pays far more, and the hero keeps asking the same question: did you convert enough waves into permanent pressure before the enemy grouped?
+
+Contract: Explosion is the hinge that lets the loop survive. It gives damage reduction before the stun, so it is still a defensive button first, but 2.2.16 traded away its movement speed and made the hit itself a real punish. That cuts both ways. Open with it and you have no answer when the enemy jungler appears; hold it and the enemy has to respect the damage before committing to the trade.
+
+Chase Fate completes the identity. The vision matters as much as the dash. A disciplined Aldous uses the reveal to count bodies, cancel recall pressure, and decide whether the target is truly alone. The bad version presses ult because a low-health hero appeared on the map. The good version asks who is standing one screen behind them.
+
+### Laning: the first eight minutes
+
+1. **Turn every first wave decision into stacks.** Do not walk into level-one trades unless they protect a last-hit. Thin the wave with basic attacks, hold S1 until the minion is actually executable, and let the passive shield set the tempo for any trade: it now arrives on a timer, and the speed burst it grants is your free exit.
+2. **Treat Siege Minions like the lane objective.** Aldous gets more value from correctly securing cannon waves than from poking the enemy EXP laner. If the enemy walks up to deny the cannon, use S2 to absorb the trade and punish the walk-up, secure the S1 last-hit, then back away instead of extending the duel.
+3. **Spend battle-spell tempo only to protect the lane plan.** Flicker and Sprint are not early kill buttons for Aldous. Use them to escape a freeze, survive a jungle collapse, or keep the cannon wave from turning into a death. If you burn the spell for a chase at minute three, the next gank removes your lane.
+
+The first eight minutes should feel controlled, not passive. 2.2.16 gives you the tools to answer a greedy EXP laner: the shield on a timer, the movement speed S1 grants while you walk a hero down, and an Explosion that punishes the walk-up. Take the short trade when the wave allows it, then return to the cannon. Aldous still wins the lane through stack income, not through killing the enemy laner.
+
+### The spike is War Axe plus a real stack count
+
+The first important item conversation is War Axe, because it gives cooldown reduction, health, spell vamp, and physical attack in one cheap package. Those stats match what Aldous needs while he is still farming: faster S1 access, enough durability to absorb lane trades, and enough sustain to stay near the wave.
+
+The real spike is not just finishing War Axe. It is finishing War Axe while your stack count is already threatening the enemy backline. In a clean game, that should start around the 10 to 12 minute window. Before then, Chase Fate is mostly vision, cleanup, and punish. After then, the same ult becomes a map threat that forces mages and marksmen to hug their front line.
+
+Blade of Despair is the damage ceiling when the game lets you stay aggressive, but Thunder Belt and Endless Battle both deserve real consideration. Thunder Belt turns the post-skill basic attack into a slow and true-damage check while adding mixed durability for repeated side-lane trades. Endless Battle adds true damage after skill casts and sustain for a more direct one-punch route. Choose based on what the enemy is giving you: isolated squishies invite damage, repeated front-line contact invites durability.
+
+Do not judge the spike by item count alone. An Aldous with two items and lazy last-hits is still a melee hero waiting for permission. An Aldous with disciplined stacks and one reliable damage item can already make the enemy carry change how they move on the map. Stack income is faster after 2.2.16 and the cap went up, so the farm plan has a longer runway before it plateaus. The trade-off is that each stack carries less punch, which is why the new early lane tools matter as much as the count.
+
+### Stop entering fights like a frontliner
+
+The common wrong reflex is walking beside the tank and waiting for a 5v5. That wastes Aldous. He should pressure a side lane, show just enough to make the enemy answer, then use Chase Fate when the fight starts to split the map open.
+
+1. **Ult after enemy formation is visible.** Let your initiator or mid laner force the first movement, then press Chase Fate to identify the carry who stepped away from peel. If you open the fight with ult, the enemy still has every stun ready for your landing.
+2. **Land on exits, not health bars.** A low-health target under turret or inside four allies is bait. A full-health marksman rotating through river with one support nearby is a better Aldous target because the punch, knockback, and follow-up can trap the escape route.
+3. **Hold S2 for retaliation, and plan the exit before you land.** After landing, the first instinct is often S2 into S1. Reverse that in most pickoff fights. Deliver the punch immediately, then use S2's damage reduction and stun to absorb the counter-burst. It no longer grants movement speed, so the dash cannot double as your escape the way it used to; the passive shield's speed burst is what gets you out, and only when it is ready.
+
+Angela changes the edge case. If she can attach during your flight, Aldous can commit to targets that would normally be too risky because the landing comes with shield, healing, and follow-up control. Without that kind of support layer, treat every ult as a trade contract: if the target does not die cleanly, you probably overpaid.
+
+### Itemization is locked early and negotiable late
+
+The early core is built around reliable access to stacks and one-punch pressure. Tough Boots are the default because Aldous lands directly into control effects and needs the crowd-control reduction to act after arrival. Warrior Boots are only for mostly physical drafts with little lockdown. War Axe is the stable first major item for EXP lane because it buys time and tempo without forcing a full glass-cannon path.
+
+Your second and third major slots decide the game plan. Blade of Despair is the pure burst answer when enemy carries are reachable. Thunder Belt is the bruiser answer when you need slows, mixed defenses, and repeated post-skill trades. Endless Battle is the middle path when you want sustain and true damage without giving up too much punch. Hunter Strike is a snowball item, not a default. Buy it when you are ahead and can use the movement burst to leave after the kill.
+
+Malefic Roar belongs in games where armor is actually blocking your target access. If the enemy has multiple physical-defense stackers or your ult target is protected by tank items, buy it. If the enemy backline is still underbuilt and the real issue is surviving the landing, spend that slot on defense.
+
+The final defensive slot should answer the thing that kills you first. Immortality is for failed dives and Lord fights where one revive changes the objective. Athena's Shield is for front-loaded magic burst. Radiant Armor is for repeated magic ticks. Antique Cuirass is for physical skill burst. Queen's Wings is for bruiser games where you survive at low HP and keep punching. Rose Gold Meteor is a narrow anti-magic lifeline option, but do not pair it with another Lifeline item.
+
+### Mistakes that lose Aldous games
+
+**Trading away the cannon wave.** Aldous players often fight because the enemy EXP laner stepped forward. If that trade makes you miss a Siege Minion, you lost the exchange even if the enemy lost more health. Secure the wave first, then decide whether the matchup allows punishment.
+
+**Ulting the first low-health hero you see.** Chase Fate reveals every enemy, so use the reveal. Count who can suppress, knock back, or burst you on landing. If three enemies are near the target, let the ult expire and turn the information into a safer map call.
+
+**Pressing S2 before the enemy commits.** S2 looks like an engage tool because it ends in a stun, but its best value is denying the enemy's answer after you land. If you open with it, you often die during the real counter-engage with no damage reduction left.
+
+**Building full damage into hard control.** Blade of Despair and Hunter Strike feel good when the enemy cannot stop you. Against Kaja, Franco, Chou, Eudora, or Saber, a sixth damage item usually means you get one punch and die. Buy the defense that answers the first lockout.
+
+**Staying grouped while the ult is down.** Aldous without Chase Fate is not adding much to a mid-lane standoff. Go back to side-lane farm, push the next wave, and return when your global threat is available. Grouping early because you feel guilty only delays the stack count your team drafted around.
+
+### Key tips
+
+> [!TIP]
+> Use Chase Fate as an information spell before Lord. Revealing the enemy jungler and flankers can be worth more than a forced dash, especially when your team only needs position to secure the objective.
+
+> [!NOTE]
+> Thunder Belt works because Aldous repeatedly turns skills into basic-attack moments. If the enemy keeps surviving the first punch and kiting away, the slow and durability can matter more than another raw damage item.
+
+> [!TIP]
+> When a target Flickers toward tower during your flight, cancel instead of finishing the dash. Keeping ult cooldown for the next map cycle is painful, but dying under tower with shutdown gold is worse.
+
+> [!TIP]
+> The passive shield now runs on its own timer instead of a hit count. Step into a trade when it is up and back out the moment it is spent. The shield plus the speed burst it grants is often the whole difference in an early lane exchange.
+
+> [!NOTE]
+> Sprint is a legitimate lane spell when the enemy wins through slows and chase-down pressure. Flicker is better into instant wall escapes and hard engage, but Sprint keeps the stacking plan alive against repeated lane collapse.
+
+## Skills
+
+### Contract: Transform (Passive)
+
+Every 8s, Aldous gains a shield equal to 350 (+ 3 per Soul Steal stack) for 3s on his next Basic Attack. He also gains 60% Movement Speed for 1s.
+
+### Contract: Soul Steal (Skill 1)
+
+Aldous enhances his next Basic Attack to deal 200 (+100% Total Physical Attack) (+ 3 per Soul Steal stack) Physical Damage. Killing a siege minion with this attack grants 12 Soul Steal stacks; killing any other non-hero unit grants 5 stacks. Hitting an enemy hero grants an extra 5 stack(s), while killing one grants 12 (up to 1000 stacks). This attack deals 300% extra Base Damage to minions and creeps. Aldous also gains 6 stack(s) when allied units eliminate a nearby enemy siege minion, and 2 stack(s) when they eliminate any other nearby non-hero unit. Aldous gains 20% Movement Speed while moving toward enemy heroes during this skill.
+
+### Contract: Explosion (Skill 2)
+
+Aldous assumes a defensive stance, gaining 30% Damage Reduction for 2s or until canceled. He then deals 200 (+20% Total Physical Attack)-400 (+40% Total Physical Attack) Physical Damage to nearby enemies and stuns them for 0.5-1s (scales with defensive stance duration).
+
+### Contract: Chase Fate (Ultimate)
+
+Aldous gains vision of all enemy heroes for 5s. Use Again: During this time, he dashes toward an enemy hero, dealing 250 (+ 8% target's Max HP) Physical Damage and knocking the target back for 1s. Aldous can interrupt the target's Recall while dashing.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Use Aldous' Ultimate to gain vision on the enemy team, then use his Ultimate again to dash to the most vulnerable target. After the dash, use Aldous' 1st and 2nd skill combo to hit the enemy with his enhanced Basic Attacks.
+- LANING COMBOS (laning): In the laning phase, Use Aldous' 1st Skill to enhance his next Basic Attack, then his 2nd Skill to close in on the enemy to hit them with his enhanced attack. Follow with another 1st Skill to hit the enemy with another enhanced Basic Attack.
+
+## Counters to Aldous (pick these against Aldous)
+
+- Esmeralda (Tank/Mage): +3.7 pp edge. Across Aldous's measured matchups, Aldous is weakest in the early game. Apply pressure with Esmeralda before Aldous can scale.
+- Angela (Support): +2.3 pp edge. Across Aldous's measured matchups, Aldous is weakest in the early game. Apply pressure with Angela before Aldous can scale.
+- Cyclops (Mage): +2.3 pp edge. Across Aldous's measured matchups, Aldous is weakest in the early game. Apply pressure with Cyclops before Aldous can scale.
+- Estes (Support): +2.2 pp edge. Across Aldous's measured matchups, Aldous is weakest in the early game. Apply pressure with Estes before Aldous can scale.
+- Karina (Assassin): +2.2 pp edge. Karina has a statistical edge over Aldous based on ranked matchup data. Pick Karina to gain an advantage in draft.
+- Obsidia (Marksman): +2.2 pp edge. Across Aldous's measured matchups, Aldous is weakest in the early game. Apply pressure with Obsidia before Aldous can scale.
+- Lukas (Fighter): +2.1 pp edge. Lukas's sustain and durability allow them to outlast Aldous's burst combos and win extended trades.
+- Roger (Fighter/Marksman): +1.8 pp edge. Roger's durability and kit give them a strong matchup advantage against Aldous throughout the game.
+
+## Heroes Aldous beats
+
+- Uranus (Tank): +2.7 pp edge for Aldous.
+- Helcurt (Assassin): +2.6 pp edge for Aldous.
+- X.Borg (Fighter): +2.3 pp edge for Aldous.
+- Gatotkaca (Tank/Fighter): +2.3 pp edge for Aldous.
+- Hanzo (Assassin): +2.1 pp edge for Aldous.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/aldous.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-06. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Lane Default (EXP)
+
+- Items: Tough Boots, War Axe, Thunder Belt, Blade of Despair, Malefic Roar, Immortality
+- Core: War Axe, Thunder Belt, Blade of Despair
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use only against mostly physical drafts with little hard control.; Athena's Shield over Immortality when Use when one magic burst combo decides whether you survive after landing.; Antique Cuirass over Immortality when Use against physical skill burst that reaches you before you can leave.
+- Total cost: 11810 gold
+
+Default EXP setup that balances stack farming, post-skill basic attacks, and enough durability to survive the landing.
+
+### Burst Pickoff (EXP)
+
+- Items: Tough Boots, War Axe, Blade of Despair, Hunter Strike, Malefic Roar, Immortality
+- Core: War Axe, Blade of Despair, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Flicker
+- Flex: Blade of the Heptaseas over Hunter Strike when Use when the match is built around single isolated ult picks instead of repeated skirmishes.; Endless Battle over Hunter Strike when Use when you still need true damage and sustain but cannot safely play full burst.; Rose Gold Meteor over Immortality when Use against magic burst when you need the shield before a revive can matter.
+- Total cost: 12000 gold
+
+Snowball setup for games where Aldous has reliable isolated targets and needs the first punch to end the fight.
+
+### Jungle Tempo (Jungle)
+
+- Items: Tough Boots, War Axe, Endless Battle, Thunder Belt, Malefic Roar, Immortality
+- Core: War Axe, Endless Battle, Thunder Belt
+- Emblem: Basic Common Emblem with Thrill, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Blade of Despair over Thunder Belt when Use when your lanes are winning and the enemy backline is reachable without extra durability.; Queen's Wings over Immortality when Use in extended bruiser fights where low-HP damage reduction buys more than a delayed revive.; Radiant Armor over Immortality when Use against repeated magic damage that chips you before you can choose a target.
+- Total cost: 11130 gold
+
+Off-meta jungle setup for stack acceleration and objective tempo when the team can cover Aldous before his global pick threat turns on.
+
+All builds for this hero: https://mlbbhub.com/builds/aldous.
+
+## Synergies
+
+- Balmond: Aldous works well with heroes that are strong in the early game so that he can farm efficiently, such as Balmond and Bruno.
+- Bruno: Aldous works well with heroes that are strong in the early game so that he can farm efficiently, such as Balmond and Bruno.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

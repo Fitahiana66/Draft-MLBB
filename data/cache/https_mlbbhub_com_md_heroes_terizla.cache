@@ -1,0 +1,209 @@
+# Terizla, Executioner
+
+> Terizla is the EXP pick for drafts that need one body to start the fight, stay in the choke, and make the enemy carry hit through bad ground. He looks slow on paper, but the right game turns that slowness into control instead of a liability.
+
+## Snapshot
+
+- Role: Fighter, Tank
+- Lane: EXP
+- Specialty: Burst, Crowd Control
+- Difficulty: Easy
+- Tier this patch: B
+- Win rate: 50.85%
+- Pick rate: 0.33%
+- Ban rate: 0.17%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/terizla
+
+## Guide
+
+### This is a Terizla game if the fight comes to you
+
+Patch 2.1.67 ([patch notes](/patch-notes)) changed Terizla in a way that actually matters: on April 22, 2026, he lost his mana bar. That does not turn him into a blind first-pick, but it does remove the old "full HP, empty mana" tax that used to make his first Turtle setup worse than his lane looked.
+
+Pick him when your draft already has damage and needs a front edge that can hold position after first contact. Terizla is best into teams that still have to walk forward to win: short-range marksmen, melee junglers, double-frontline drafts, and supports that stand close enough to get dragged into the same problem as their carry. He gets much better when your mid and roam can immediately punish a clumped target. Atlas, Minotaur, Tigreal, Xavier, Pharsa, and Valentina all turn one decent Penalty Zone into a fight the enemy never fully gets to reset.
+
+Do not treat him like a comfort blind. The official hero page still lists Esmeralda and Guinevere among the clean answers, and that tracks with how the lane actually plays. Both either ignore the first honest trade or leave before the third hammer cashes out. Lunox is the other draft warning because she punishes the one thing Terizla cannot hide, which is a slow and obvious entry. If the enemy EXP, mid, and gold all win by spacing instead of standing their ground, you are asking a zone fighter to solve a range problem.
+
+The pick test is stricter than players admit. If you cannot name the ally who follows your ultimate, Terizla is already shaky. If the enemy has two heroes who can reset your spacing on demand, he is probably wrong.
+
+### Terizla works when one patch of ground stops being safe
+
+Terizla is not a bruiser in the normal sense. He is a bad-place generator.
+
+His passive is the reason. As his HP drops, he gets harder to remove, and every attack-speed bonus he would have gained gets converted into physical attack instead. That tells you almost everything about how he should be played. Terizla does not want attack-speed gimmicks, hit-and-run trades, or long chases across open space. He wants one controlled area where the enemy has to decide whether to eat the slow, eat the pull, or burn movement just to avoid the third swing.
+
+That is why the rest of the kit fits together so cleanly. Revenge Strike is the tag that starts the walk-down. Execution Strike is the real test, because the first two swings ask whether the target can still leave and the third swing punishes the wrong answer. Penalty Zone exists to remove the easiest answer of all, which is simply walking out before the full sequence lands.
+
+Read him that way and most bad decisions disappear. You stop asking whether Terizla can flank like an assassin. He cannot. You stop asking whether he should split the map alone after mid game. Usually no. You start asking one better question instead: can this fight be forced to happen inside his cone and his hook zone long enough for the enemy carry to panic?
+
+### Laning: the first four minutes
+
+1. **Start S2 and spend the full cast on the wave.** Since the mana removal, there is no reward for half-committing the first wave just to save resources. Use all three swings if that is what it takes to win lane priority, clip the enemy EXP laner if he stands too close, and make the second wave arrive on your terms.
+2. **Hold S1 until the opponent has already shown movement.** Revenge Strike is much stronger after a dash than before one. If you throw it first, better EXP laners sidestep, reset, and walk back in after your only clean leash is gone. If you tag them after they spend movement, the slow and your speed-up decide whether the trade continues.
+3. **Spend battle-spell tempo on the first Turtle fight, not on lane ego.** If you brought [Flicker](/spells), keep it for the first real catch angle around river or the jungle mouth. If you brought [Vengeance](/spells), save it for the trade where the enemy marksman or fighter has no choice but to hit you back. Terizla wins when his spell changes an objective fight, not when it cashes one low-value solo kill.
+
+The lane plan is simple. Get control of the first two waves, keep enough HP to walk first toward the crab or Turtle side, and force the enemy EXP laner to decide whether he wants to contest your wave or your body. Terizla does not need a flashy solo kill to win early game. He needs first access.
+
+### The two-item spike that makes him honest
+
+The default spike is **[War Axe](/items/war-axe) plus [Queen's Wings](/items/queens-wings)**, usually around the 7 to 9 minute mark in an even game.
+
+War Axe gives Terizla the exact shape of stats he wants for extended contact: HP, cooldown reduction, spell vamp, and damage that keeps rewarding him if the fight lasts longer than one button press. Terizla stacks it naturally because his real fights are never one clean burst. They are S1 tag, first hammer, second hammer, third hammer, then one more step forward while the target tries to leave.
+
+Queen's Wings is the partner because it turns his passive from annoying into expensive. The extra spell vamp, the low-HP damage reduction, and the cooldown refund all reward the same thing: staying inside the brawl instead of backing out after one rotation. Once both items are online, Terizla stops feeling like a lane bully with a teamfight ult and starts feeling like a real first body into the choke.
+
+There is one honest exception. If the enemy lane or front line depends on shield or HP regen to survive, [Dominance Ice](/items/dominance-ice) can replace Queen's Wings as the second item and the game still makes sense. But that is a matchup tax, not the baseline identity. The default Terizla spike is War Axe plus Queen's Wings because that is the moment his full commit actually pays.
+
+### Teamfight positioning and target priority
+
+The wrong reflex is to Flicker past the front line because you saw a highlight clip once. That turns Terizla into a slow assassin with no exit and no second cast window.
+
+1. **Start at the first body in the choke, not the dream carry in the back.** Terizla is strongest when the front line and back line get trapped in the same decision tree. If you start on the first hero who steps into bad ground, the hooks and slows force the carry to either walk closer or abandon the fight.
+2. **Cast S2 after the zone starts doing work.** Penalty Zone is valuable because it compresses movement options. If you start swinging before the pulls force that movement, the first hammer lands where the enemy used to be. Let the zone pin the path first, then aim the cone at the only exit left.
+3. **Aim the third swing at the escape route, not the current model.** This is where most Terizla damage disappears. The third hit is the reason the sequence matters. Re-angle between casts. Step forward. If the enemy is escaping toward tower, brush, or jungle mouth, the third slam belongs there.
+
+Target priority is front-to-back unless the enemy gifts you something cleaner. Hit the highest-value target who cannot fully leave your sequence. Sometimes that is the tank. Sometimes it is the mage who stood one step too near the first engage. Terizla does not need the perfect carry catch to win a fight. He needs one target whose exit path has already become expensive.
+
+Support-dependent edge case: if your support is Mathilda or Angela, you can take a greedier first step because both cover the ugly second after you land. If your support is Estes or Floryn, do the opposite. Fight in front of them, make the enemy walk into your cone, and stop pretending you are the flank.
+
+### Itemization: locked slots, then real conversations
+
+The locked idea is boots plus [War Axe](/items/war-axe). After that, Terizla itemization should look like answers, not habits.
+
+**Boots first, read the lobby honestly.** [Warrior Boots](/items/warrior-boots) are for physical-heavy lobbies and repeated basic-attack contact. [Tough Boots](/items/tough-boots) are better whenever the fight is decided by chain control or persistent slows, because Terizla hates being held outside his second cast more than he hates taking one clean hit.
+
+**[Queen's Wings](/items/queens-wings) is the default second or third slot.** If you are the first body in every fight, this is the item that lets the commit stay profitable.
+
+**[Dominance Ice](/items/dominance-ice) is for shield, regen, and clustered fights.** Buy it early into Esmeralda, sustain-heavy front lines, or gold laners who rely on healing to survive. Its Lifebane aura cuts enemy shields and HP regen to 60% of normal, Fortress Shield stacks Hybrid Defense for every enemy nearby, and both matter more than a greedier damage line in those games.
+
+**[Antique Cuirass](/items/antique-cuirass) is for physical skill burst.** If the problem is Nolan, Paquito, Benedetta, or another hero who chunks you before your passive and spell vamp stabilize the trade, this is the cleaner answer.
+
+**[Athena's Shield](/items/athenas-shield) is for front-loaded magic burst.** Lunox, Xavier, Pharsa, and similar mages are not scary because they poke forever. They are scary because the first hit decides whether you even get to stand in the fight. Athena's is for that exact moment.
+
+**[Oracle](/items/oracle) is the greedier sustain buy.** Take it when the enemy magic damage is repeated rather than explosive, or when your own draft keeps feeding you shields and healing over a long fight.
+
+**[Immortality](/items/immortality) is the late objective closer.** When one Lord fight decides the game, a second life is often worth more than squeezing one more offensive stat into a hero who already does his job with one damage item.
+
+**[Thunder Belt](/items/thunder-belt) is the scrappy-game flex.** Buy it when fights are long, messy, and decided by repeated contact rather than one burst window. It is not mandatory, but it is good in games where Terizla keeps walking at the same target again and again.
+
+The class to avoid is still attack-speed experimentation. Terizla converts attack speed into physical attack, but that does not magically make attack-speed items efficient. Buy items that help him hold ground, not items that pretend he is a marksman with a hammer.
+
+### Mistakes that lose Terizla games
+
+**Blind-picking him into reset lanes.** Esmeralda and Guinevere are not annoying because they out-stat him. They are annoying because they keep turning honest trades into unfinished ones. If the lane is built around leaving your cone on reaction, the matchup is already asking the wrong question.
+
+**Dumping S2 from one spot like it is a canned animation.** Execution Strike is a sequence, not a statue test. The time between the first and third swing is where good Terizla players win damage. If you do not move your feet, good opponents simply leave.
+
+**Ulting first just because two targets lined up.** Penalty Zone is strongest after the fight has already declared a direction. Throwing it early from bad angle or max range gives mobile heroes time to answer with Flicker, dash, or simple spacing. Terizla is often better as the second layer of engage than the desperate first one.
+
+**Building extra damage when your team drafted you to be the wall.** One real damage item is enough in most games. Every extra greed buy asks whether the enemy can burst you before the third hammer lands. If the answer is yes, you just deleted the reason Terizla was picked.
+
+**Staying in side lane when Lord is the real clock.** Once the map compresses around Lord or inhibitor fights, Terizla's value is in choke control and front-to-back fights. Catching one more side wave while your team gets forced 4v5 is how this hero loses without looking obviously wrong.
+
+### Key tips
+
+> [!TIP]
+> Revenge Strike is better after the enemy spends movement. Make them show the dash first, then tag them and walk the cone where they have to go next.
+
+> [!NOTE]
+> Vengeance is not the default just because Terizla is tanky. It is best only when the enemy must stand and hit you. If your job is to create the catch, Flicker still gives him the cleaner game.
+
+> [!TIP]
+> Penalty Zone gets stronger as the terrain gets tighter. Jungle mouths, Turtle ramps, and Lord entrances do more work for Terizla than open lane ever will.
+
+> [!NOTE]
+> Since the mana removal, there is no reason to ration your first full S2 cycle out of fear. Spend the wave clear, reach the river first, and make the enemy solve your rotation instead of the other way around.
+
+## Skills
+
+### Body of Smith (Passive)
+
+Terizla gains 1% extra Damage Reduction (up to 20 (+1*Hero Level)%) for every 2.5% HP lost. He cannot gain extra Attack Speed and will convert every 1% extra Attack Speed into 1 Physical Attack.
+
+### Revenge Strike (Skill 1)
+
+Terizla strikes the ground with his hammer, sending a fissure forward that deals 300 (+80% Extra Physical Attack) Physical Damage. Upon hitting its first target, the fissure burrows into them, slowing them by 15%. Terizla also gains 15% Movement Speed for 3.5s. The fissure then explodes, dealing 300 (+80% Extra Physical Attack) (+ 20% of the target's lost HP) Physical Damage.
+
+### Execution Strike (Skill 2)
+
+Terizla swings his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal 90 (+135% Total Physical Attack) Physical Damage each, while the third deals 225 (+220% Total Physical Attack) Physical Damage. Enemies hit will also be slowed by 20% for 1.25s (the Slowing Effect can stack). Deals only 80% damage to Minions.
+
+### Penalty Zone (Ultimate)
+
+Terizla jumps to the designated area, dealing 300 (+100% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s. He then summons Scaffold and slows enemies by 25%. Scaffold will send out a hook at enemy heroes in range and pull them several times while dealing 150 (+30% Total Physical Attack) Physical Damage each time.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Terizla can open with his Ultimate and his 1st Skill to control the enemy team, then use his 2nd Skill to repeatedly hit the targets pulled by the Scaffold.
+- LANING COMBOS (laning): In the laning phase, Terizla can use his 1st Skill to slow the enemy, then his 2nd Skill to repeatedly deal damage to them.
+
+## Counters to Terizla (pick these against Terizla)
+
+- X.Borg (Fighter): +4.7 pp edge. X.Borg's sustain and durability allow them to outlast Terizla's burst combos and win extended trades.
+- Valir (Mage): +2.7 pp edge. Valir has a statistical edge over Terizla based on ranked matchup data. Pick Valir to gain an advantage in draft.
+- Karrie (Marksman): +2.5 pp edge. Karrie has a statistical edge over Terizla based on ranked matchup data. Pick Karrie to gain an advantage in draft.
+- Angela (Support): +2.2 pp edge. Angela has a statistical edge over Terizla based on ranked matchup data. Pick Angela to gain an advantage in draft.
+- Alpha (Fighter): +1.9 pp edge. Alpha's durability and kit give them a strong matchup advantage against Terizla throughout the game.
+
+## Heroes Terizla beats
+
+- Argus (Fighter): +2.9 pp edge for Terizla.
+- Phoveus (Fighter): +2.5 pp edge for Terizla.
+- Baxia (Tank): +2.4 pp edge for Terizla.
+- Popol and Kupa (Marksman): +2.4 pp edge for Terizla.
+- Ruby (Fighter): +2.1 pp edge for Terizla.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/terizla.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Flicker Engage (EXP)
+
+- Items: Tough Boots, War Axe, Queen's Wings, Dominance Ice, Rose Gold Meteor, Immortality
+- Core: War Axe, Queen's Wings, Dominance Ice
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when crowd control is light and Valor will decide the first two waves.; Athena's Shield over Rose Gold Meteor when Use when burst magic can remove you before Queen's Wings and Body of Smith can stabilize the entry.; Antique Cuirass over Rose Gold Meteor when Use against repeated physical skill burst from fighters or assassins that must hit you before the carry is exposed.; Oracle over Rose Gold Meteor when Use when extra received healing and shielding matter more than Rose Gold Meteor's low-HP shield and hybrid defense.
+- Total cost: 11000 gold
+
+Default EXP setup for games where Terizla must create the first catch with Flicker plus Penalty Zone, then convert low-HP passives into a second hammer cycle.
+
+### EXP Vengeance Frontline (EXP)
+
+- Items: Tough Boots, War Axe, Queen's Wings, Brute Force Breastplate, Radiant Armor, Immortality
+- Core: War Axe, Queen's Wings, Brute Force Breastplate
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Dominance Ice over Brute Force Breastplate when Use when the enemy front line or marksman depends on shield, HP regen, or attack speed to win the brawl.; Athena's Shield over Radiant Armor when Use against one-shot magic burst instead of repeated magic poke.; Blade Armor over Radiant Armor when Use when a basic-attack marksman must hit you during Vengeance before your back line can answer.; Rose Gold Meteor over Radiant Armor when Use against mixed burst when the Lifeline shield and decaying movement speed give more value than stacked magic defense.; Antique Cuirass over Radiant Armor when Use when physical skill damage is the main threat and your team needs you to stand in the first contact.
+- Total cost: 10920 gold
+
+Durable setup for drafts where the enemy damage has to hit Terizla and Vengeance buys more value than a longer engage angle.
+
+### EXP Anti-Sustain Wall (EXP)
+
+- Items: Warrior Boots, War Axe, Dominance Ice, Queen's Wings, Antique Cuirass, Immortality
+- Core: War Axe, Dominance Ice, Queen's Wings
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Flex: Tough Boots over Warrior Boots when Use when magic damage or control chains matter more than physical lane trades.; Oracle over Antique Cuirass when Use when enemy sustain is already controlled and extra healing plus hybrid defense will extend every hammer cycle.; Rose Gold Meteor over Antique Cuirass when Use when mixed damage and low-HP shield value matter more than reducing repeated physical skill hits.; Radiant Armor over Antique Cuirass when Use against repeated magic damage that stacks during Lord and inhibitor fights.; Blade Armor over Antique Cuirass when Use when a basic-attack carry is forced to hit you before reaching your back line.
+- Total cost: 11370 gold
+
+Tankier EXP setup for sustain-heavy or physical side-lane games where Terizla wins by being the body enemies cannot ignore.
+
+All builds for this hero: https://mlbbhub.com/builds/terizla.
+
+## Synergies
+
+- Gatotkaca: Terizla works best with heroes who have strong initiation skills that allow him to deal more damage with his skills, heroes like Gatotkaca and Atlas are good examples here.
+- Atlas: Terizla works best with heroes who have strong initiation skills that allow him to deal more damage with his skills, heroes like Gatotkaca and Atlas are good examples here.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

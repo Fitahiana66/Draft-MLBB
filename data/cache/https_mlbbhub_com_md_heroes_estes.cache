@@ -1,0 +1,211 @@
+# Estes, Moon Elf King
+
+> Estes is not a healer. He is a link economy, a five-second tether that keeps one specific teammate alive while the rest of your team plays around an indestructible target. The pick wins when your draft has that target, and loses hard when it does not.
+
+## Snapshot
+
+- Role: Support
+- Lane: Roam
+- Specialty: Regen, Guard
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 52.64%
+- Pick rate: 0.72%
+- Ban rate: 44.27%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/estes
+
+## Guide
+
+### The comps Estes was built for
+
+Estes is a pure deathball roam. His entire kit rewards your team for standing on top of each other: the link range is short, the ult is a radial aura, and the passive charges faster when you are linked to someone nearby. Hand him a draft where the plan is "five of us walk down mid together" and he is a terror. Hand him a draft with a split-pusher and a flex-lane diver and he spends the game watching his link break from 40 meters away.
+
+Lock him when the carry is immobile and damage-dense. Kimmy, Beatrix, Moskov, and Lesley all want to stand in one spot and delete things, which is exactly what Estes needs to keep his link attached. He is especially strong into dive-based mages and enchanter supports (Angela, Rafaela, mirror Estes) because his sustain ceiling is higher and he brings real damage through the passive ricochet.
+
+Do not lock him when:
+
+1. The enemy already has both an isolation ult and a hard anti-heal. Yin plus Baxia is the canonical disqualifier. Yin's [My Turn](/heroes/yin) yanks Estes into a 1v1 he cannot win, Baxia's passive taxes his whole team's regen for the fight, and the combination leaves you with nothing to do.
+2. Your carry has dashes or blinks they intend to use offensively. A Fanny cabling across the map four times a minute is not a hero you can link. Neither is a [Claude](/heroes/claude) blink-dashing through the enemy team.
+3. The comp has no front-line. Estes does not create space, he preserves it. With no tank, his peel gets skipped and he gets deleted first.
+
+If your draft fails any of those three tests, Estes is the wrong pick and no amount of mechanical skill fixes it.
+
+### The one thing that makes Estes work
+
+Estes trades team mobility for team indestructibility, and every part of his kit services that trade. Moonlight Immersion is not a heal, it is a contract: you agree to keep your ally inside a short tether for a few seconds, and in exchange both of you gain sustained HP regen and bonus Hybrid Defense. Break the tether and the contract voids. That is the whole identity.
+
+The rest of the kit exists to sell that contract harder. The passive, Scripture of the Moon Elf, charges to a full meter and then unloads as an enhanced basic attack that ricochets to nearby enemies with a slow. The charge rate speeds up while linked, which is the game's not-very-subtle way of telling you to keep the link up or stop playing Estes. The ultimate, Blessing of Moon Goddess, is not a healing spike. It is a contract refresh and expansion: every nearby ally gets the link reapplied and enhanced for several seconds, with the instant heal and Hybrid Defense both doubled, whether they had a link or not.
+
+Read the kit this way and the decisions become obvious. Linking a dying carry is not a save, it is a down payment on the next several seconds of their life. Ulting when your whole team is healthy is not insurance, it is wasted cooldown. You are the bank, not the ambulance.
+
+### Laning: the first four minutes
+
+1. **Help the jungler without touching the buff.** Walk in, stand on the creep, let the jungler and minions kill it. Do not auto. Every hit you take on that buff is mana you could have spent in the gold lane. An Estes with a drained mana bar and no link up is worse than an Estes who arrived ten seconds later with mana to spend.
+2. **Rotate to gold lane at level 2, not level 1.** Take Moonlight Immersion first. Your level-2 power play is the Hybrid Defense bonus, not the heal: a gold-lane marksman riding that extra Hybrid Defense survives trades that otherwise force them to recall. Link, stand behind, let them auto through the extra tankiness.
+3. **Cast S1 on cooldown even when the carry is full HP.** The link accelerates your passive charge. A full-charge enhanced basic with its ricochet slow is a zoning tool that stops most assassins from walking into the lane. Holding S1 for "when they need healing" is the mistake that makes Estes feel useless early.
+
+Patch 2.1.88 ([patch notes](/patch-notes)) cut his skill mana costs across the board, which eases the early mana crunch but does not erase it. You still cannot afford to dump S1 on a buff camp and arrive in lane empty. The roam lane rotation is where Estes earns his first gold lead or loses the game. If you are still in jungle at 1:30, something has gone wrong.
+
+### The power spike you are farming toward
+
+The spike is Enchanted Talisman plus Oracle, which usually finishes around the 8-to-10 minute mark on a normal gold curve. Talisman and Oracle both carry cooldown reduction, and Talisman's Magic Mastery passive lifts the cap higher still. Together they push Estes to that cap, where his link cooldown drops low enough to keep near-permanent uptime on his primary carry. Talisman's Mana Spring passive removes the mana pressure that would otherwise punish casting S1 on cooldown.
+
+Oracle does something more important than the CDR, though. Its Bless passive increases received Shield and HP Regen effects, which amplifies every heal Estes outputs onto the receiving side. In rough terms, Oracle converts one Estes into something closer to 1.25 Estes, and it costs 1860 gold.
+
+After this spike, Estes stops being a support and starts being a second layer of tankiness. Your carry can stand in the middle of a fight and auto through it. That is what you are farming toward.
+
+### Teamfight positioning and target priority
+
+The reflex when you first pick up Estes is to stand behind the tank. That reflex is wrong. If the tank engages and Estes is on the tank's link, the tank charges forward, Estes does not, the link snaps almost immediately, and the fight starts with zero sustain.
+
+Three positioning rules:
+
+1. **Stand 1 to 2 body-lengths behind your primary carry, always.** The carry is your link target. Link range is the only thing that matters for your positioning. If the carry kites backward you kite with them. If the carry steps up you step up.
+2. **Save Domain of Moon Goddess for peel, never for engage.** The slow only triggers when an enemy walks through the edge. Enemies already inside the domain when it lands are not slowed. Throwing S2 on the enemy team at fight start catches nobody. Drop it between your carry and the incoming diver so the diver has to cross the edge to close distance.
+3. **Hold the ult until your carry is at 50 to 60 percent HP with at least two allies in aura range.** The ult's value is the refresh plus the doubled link, not the instant heal. Casting it at full HP wastes the enhanced duration. Casting it on a single isolated ally wastes the radial component. Wait for compression.
+
+If your carry is Kimmy you get to push link range further forward because Kimmy does not move. If your carry is [Beatrix](/heroes/beatrix) in Renner stance you get to stand at maximum link distance and let her poke. If your carry is anyone with a blink, expect to lose the link twice per fight and accept it.
+
+### Itemization: defaults versus flex slots
+
+Estes runs 3 locked slots and 3 real conversations.
+
+**Locked**: Favor (roam boots passive, the support emblem equivalent), Enchanted Talisman (CDR cap and mana sustain, non-negotiable), Oracle (heal amplification plus layered defenses, covered above). Build in that order.
+
+**Flex slot 1: the ult-reset item.** Fleeting Time carries cooldown reduction plus its Timestream passive, which shaves a chunk off the ultimate's remaining cooldown on every kill or assist. In grouped deathball comps where you are assist-hunting anyway, that can mean a second team-wide refresh inside one extended fight, which is the correct buy. In slower scaling games where you cannot guarantee the assist, skip it for a second defensive item.
+
+**Flex slot 2: the heal-war response.** Build Dominance Ice when the enemy has a sustain support (mirror Estes, Rafaela, Angela, Floryn). Its Lifebane passive cuts the healing of anyone who stays close to you, taxing their sustain the same way theirs taxes yours, and Fortress Shield's stacking Hybrid Defense keeps you alive as the focus target. Skip this slot entirely if the enemy has no sustain to fight.
+
+**Flex slot 3: the burst counter.** Immortality is the default, because Estes is target number one and the brief revive gives your team a peel window. Athena's Shield if the enemy has two or more magic damage threats. Antique Cuirass if the enemy is running two physical assassins.
+
+**Flask of the Oasis** is a niche buy that deserves its own mention. It shields the target of your heal when they drop below 35% HP and trims your own cooldowns when it fires. It is excellent when paired with a carry who gets burst-checked at low HP (Kimmy, Lesley) and less useful when the carry has natural sustain or burst-evasion tools.
+
+The weakest common default is Enchanted Talisman built fourth or fifth instead of second. Players see the modest stat line and delay it for a flashier item. They never reach the CDR cap, their link sits on its full cooldown all game, and the fights where they should be refreshing the link twice they only refresh it once. Build Talisman before you build anything that looks exciting.
+
+### Mistakes that lose Estes games
+
+**Ulting when nobody has taken damage yet.** The ult's value is the refresh on existing S1 links plus the enhanced link duration that follows. Casting it on a full-HP team before the fight starts wastes the heal-over-time component on allies who had no health to restore. Wait until your carry is at 60% HP, then cast. The raw instant heal is the smallest part of the spell.
+
+**Switching the link mid-teamfight because a different ally is now lower HP.** The sustained heal is a tick, not a burst: when you re-cast S1 on a new target, the first tick does not happen until the full interval has elapsed. Swapping mid-fight means neither target gets the full regen curve. Pick the link target before the fight starts based on who the enemy will focus, then stay committed even if the HP bars reshuffle. The only valid reason to swap mid-fight is if the original target died.
+
+**Pushing Domain of Moon Goddess onto the enemy team at engage.** Enemies already standing inside the domain when it lands are not slowed. Only enemies who cross the edge after the landing animation trigger the slow. Cast aggressively and you catch zero heroes. Cast defensively between your carry and a diver and you stop the diver cold.
+
+**Not buying Oracle when the enemy runs anti-heal.** When the enemy stacks Sea Halberd, Glowing Wand, or Dominance Ice, the instinct is to skip Oracle because "the healing gets reduced anyway." This is backward. Oracle's amplification is applied on the receiving side, before the enemy's reduction is calculated against the target. The math says Oracle is more valuable into anti-heal comps than it is into clean ones, not less.
+
+**Ignoring the passive.** Players treat the enhanced basic attack as a bonus. It is not, it is your only damage tool and the ricochet slow is a real disengage layer. Keep the passive meter in your eye line. When it fills, find the lowest-HP enemy in auto range and proc it.
+
+### Key Tips
+
+> [!TIP]
+> Drop Domain of Moon Goddess between your carry and the incoming diver, never on top of the diver. The slow only fires when an enemy crosses the edge, so a diver who jumps into the center of the zone is not slowed at all. Zone placement is a peel lane, not a kill zone.
+
+> [!NOTE]
+> Run Purify, not Flicker, this patch. Your ultimate is a long-cooldown channel that gets cancelled by any hard CC. Purify removes the CC the instant you take it and lets you complete the cast. Flicker only moves you, which is not the problem.
+
+> [!TIP]
+> If the enemy builds Sea Halberd or Glowing Wand, your first item after Talisman is always Oracle. Its received-regen amplification is calculated on the target side and offsets a meaningful chunk of the Lifebane penalty. Skipping Oracle into anti-heal comps is the single most common Estes mistake in high-elo replays.
+
+> [!NOTE]
+> Your passive charges faster while you are linked to an ally. Rehit Moonlight Immersion on the carry the moment it comes off cooldown, even at full HP. The full-charge enhanced basic with its ricochet slow is your only zoning tool, and you earn more of them by keeping the link active. Patch 2.1.88's mana-cost cuts make this on-cooldown habit far cheaper to sustain than it used to be.
+
+## Skills
+
+### Scripture of the Moon Elf (Passive)
+
+Scripture of the Moon Elf slowly charges energy for Estes. Upon reaching 100 stacks, it enhances his next Basic Attack, dealing 250 (+100% Total Physical Attack) (+150% Total Magic Power) Magic Damage to the target. The attack will ricochet to nearby enemies, dealing 125 (+50% Total Physical Attack) (+75% Total Magic Power) Magic Damage and slowing them by 60% for 1.5s.
+
+### Moonlight Immersion (Skill 1)
+
+Estes recovers 200 (+110% Total Magic Power) HP for the target allied hero immediately and links himself with them for 5s. While linked, both heroes gain 15 (+10% Total Magic Power) Hybrid Defense, and the target slowly recovers 360 (+90% Total Magic Power) HP. Linking with an allied hero increases Estes' Movement Speed by 15%, as well as the energy charging speed of the Scripture of the Moon Elf. Being too far from the target will break the link.
+
+### Domain of Moon Goddess (Skill 2)
+
+Estes drops a flood of moonlight on the target area, dealing 350 (+70% Total Magic Power) Magic Damage to enemy units within it. Afterwards, it turns to a domain of the Moon Goddess and reveals enemies inside it. Enemies will be slowed by 90% for 1.5s if they touch the edge of the domain area. (The slow effect will decay over time.)
+
+### Blessing of Moon Goddess (Ultimate)
+
+Estes casts an enhanced Moonlight Immersion on himself and all nearby allied heroes, refreshing Moonlight Immersion on them and enhancing it for 8s. Enhanced Moonlight Immersion: Doubles the Instant Basic Healing and Hybrid Defense Increase, and heals the target for 1020 (+225% Total Magic Power) HP over time.
+
+Skill upgrade priority: 3-1-2-0-1/2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Estes should use his 2nd Skill to slow down the enemy team, then heal his teammates with his Ultimate and 1st Skill.
+- LANING COMBOS (laning): Estes can use his 2nd Skill to slow down and poke enemies, and heal allies with his 1st Skill.
+
+## Counters to Estes (pick these against Estes)
+
+- Ixia (Marksman): +5.5 pp edge. Ixia has a statistical edge over Estes based on ranked matchup data. Pick Ixia to gain an advantage in draft.
+- Beatrix (Marksman): +5.2 pp edge. Beatrix has a statistical edge over Estes based on ranked matchup data. Pick Beatrix to gain an advantage in draft.
+- Sora (Fighter/Assassin): +4.5 pp edge. Sora's durability and kit give them a strong matchup advantage against Estes throughout the game.
+- Nolan (Assassin): +4.2 pp edge. Nolan has a statistical edge over Estes based on ranked matchup data. Pick Nolan to gain an advantage in draft.
+- Luo Yi (Mage): +4.0 pp edge. Luo Yi has a statistical edge over Estes based on ranked matchup data. Pick Luo Yi to gain an advantage in draft.
+- Tigreal (Tank): +2.5 pp edge. Tigreal's durability and kit give them a strong matchup advantage against Estes throughout the game.
+- Carmilla (Support/Tank): +2.3 pp edge. Carmilla's durability and kit give them a strong matchup advantage against Estes throughout the game.
+
+## Heroes Estes beats
+
+- Cyclops (Mage): +4.2 pp edge for Estes.
+- Diggie (Support): +3.8 pp edge for Estes.
+- Cici (Fighter): +3.8 pp edge for Estes.
+- Alice (Tank/Mage): +3.5 pp edge for Estes.
+- Faramis (Support/Mage): +3.4 pp edge for Estes.
+- Balmond (Fighter): +3.4 pp edge for Estes.
+- Masha (Fighter/Tank): +2.8 pp edge for Estes.
+- Lesley (Marksman/Assassin): +2.8 pp edge for Estes.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/estes.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-02. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Favor Reset (Roam)
+
+- Items: Demon Boots, Flask of the Oasis, Fleeting Time, Oracle, Athena's Shield, Immortality
+- Core: Flask of the Oasis, Fleeting Time, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Purify
+- Blessing: Favor
+- Flex: Dominance Ice over Athena's Shield when Use when enemy sustain or attack-speed carries keep fighting through the first healing cycle.; Antique Cuirass over Athena's Shield when Use against physical skill burst from assassins or fighters that dive straight onto Estes.; Radiant Armor over Athena's Shield when Use against repeated magic poke or burn rather than a single mage burst combo.; Guardian Helmet over Immortality when Use when recalls are costing objective control and the enemy cannot instantly punish the missing revive.
+- Total cost: 10750 gold
+
+Default ranked Estes setup built around Favor, Flask, ultimate resets, and enough self-survival to cast Purify before the heal window is cancelled.
+
+### Roam Anti-Sustain Aura (Roam)
+
+- Items: Tough Boots, Flask of the Oasis, Dominance Ice, Enchanted Talisman, Oracle, Immortality
+- Core: Flask of the Oasis, Dominance Ice, Enchanted Talisman
+- Emblem: Support Emblem with Agility, Wilderness Blessing, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Favor
+- Flex: Magic Boots over Tough Boots when Use when the enemy has low crowd control and faster Moonlight Immersion cycles matter more than Fortitude.; Glowing Wand over Dominance Ice when Use when the enemy healers or shielders can avoid Dominance Ice range and need Lifebane applied by Domain of Moon Goddess. The two Lifebanes do not stack, so take the one that reaches them.; Athena's Shield over Oracle when Use when a burst mage can delete Estes before Oracle's self-healing value matters.; Antique Cuirass over Oracle when Use when repeated physical skill damage is reaching Estes through the front line.
+- Total cost: 10610 gold
+
+Close-range utility setup for sustain mirrors where Estes must live in Dominance Ice's Lifebane aura range to suppress enemy healing.
+
+### Roam Revitalize Deathball (Roam)
+
+- Items: Demon Boots, Flask of the Oasis, Fleeting Time, Enchanted Talisman, Oracle, Guardian Helmet
+- Core: Flask of the Oasis, Fleeting Time, Enchanted Talisman
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Revitalize
+- Blessing: Favor
+- Flex: Tough Boots over Demon Boots when Use when crowd control is the only reliable way the enemy can stop the deathball heal cycle.; Dominance Ice over Guardian Helmet when Use when the enemy also plays heavy healing, shielding, or attack-speed carries in front-to-back fights.; Athena's Shield over Guardian Helmet when Use when magic burst threatens Estes before Revitalize and Blessing of Moon Goddess can overlap.; Immortality over Guardian Helmet when Use once late death timers decide the game and a revive is worth more than map sustain.
+- Total cost: 11050 gold
+
+Grouped five-man setup for drafts that fight around one protected core and can stack Revitalize with Estes' ultimate before the enemy disengages.
+
+All builds for this hero: https://mlbbhub.com/builds/estes.
+
+## Synergies
+
+- Lesley: Estes works best with typical Marksman heroes, his healing will allow them to deal more damage. Heroes like Lesley and Hanabi are good examples here.
+- Hanabi: Estes works best with typical Marksman heroes, his healing will allow them to deal more damage. Heroes like Lesley and Hanabi are good examples here.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

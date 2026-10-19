@@ -1,0 +1,218 @@
+# Kimmy, Hoverjet Outrider
+
+> Kimmy is a magic-damage machine gun that cannot lock on. Her Spray Gun shots are skill shots, her attack speed is secretly magic power, and her meter rewards patience with piercing shots. Pick her when the enemy has to walk through her range to fight, not when they can cross it in one cast.
+
+## Snapshot
+
+- Role: Marksman, Mage
+- Lane: Mid
+- Also played (MLBBHub editorial, not Moonton's listed lane): Gold
+- Specialty: Damage, Magic Damage
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.69%
+- Pick rate: 0.80%
+- Ban rate: 0.52%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/kimmy
+
+## Guide
+
+### Draft Kimmy to make them walk into the spray
+
+The rework that added crowd control to her kit changed the draft math. Kimmy used to be a pure poke champion who lost the moment anyone closed the gap. Now her beam immobilizes a target, her ultimate drags a whole group into one slow puddle, and her jetpack vaults walls instead of blinking a fixed step. That is enough to make her a real answer to melee compositions, not a lane that prays.
+
+She is correct when the enemy frontline has to walk through her spray to reach anyone: Hylos, Gloo, Esmeralda, Edith, Thamuz, Yu Zhong. Every one of those has to press forward to function, and pressing forward is exactly when she earns her keep. She sits at maximum range, slows the approach, pulls the whole group with the ultimate, and lets her team answer while the enemy cannot leave the puddle.
+
+She is also comfortable into slow poke mages who cannot out-trade her from her own range: Cecilion, Vale, Valir, Luo Yi. Those lanes are farm-and-scale games she wins by existing, because her sustained damage outlasts their burst windows if she never lets them close the gap.
+
+Avoid her when the enemy has two or more ways to cross her range in one cast: Hayabusa, Lancelot, Ling, Fanny, Karina, Natalia, Chou, Saber, Benedetta. Her jetpack is on a cooldown, not a reset, and once she lands she is a fragile magic carry with no second answer. Pharsa, Yve, and Novaria are the subtler trap: they outrange her poke entirely, so she never gets to trade at all. And mind Lolita's shield, which eats the spray and returns the damage into her own face.
+
+The test for your draft: if the enemy has two threats that can reach a kiter faster than a wall vault, Kimmy is the wrong pick. If they have one, you can play around it with your spell and your positioning, and the pick is live.
+
+### The one thing that makes Kimmy work
+
+Kimmy is a walking turret that never stops moving. Her basic attacks are unguided skill shots, she cannot lock onto a target, and her attack speed stat does not make her shoot faster. It converts into magic power, one for one, and that single rule shapes every other piece of her kit.
+
+That inversion is the whole hero. Because she cannot lock on, her damage is only as good as her aim, and because her shots land on a delay after she changes direction, the reward goes to the player who pre-aims and strafes gently, not to the flick shooter. Because attack speed is secretly magic power, she builds like a burst mage, and every magic item on the board is a damage item on her. And because her meter fills as she hits and drains into piercing shots when full, her damage has an internal rhythm: stay on target, fill the meter, and the next volley threatens everyone in the line instead of one person.
+
+Everything else in the kit exists to buy distance for that math. The flight crosses terrain, the beam locks a single target still, the ultimate stacks the enemy team into one spot where the spray does the rest. Read her buttons as survival and setup, never as burst, and her identity becomes obvious: she is the only marksman who wins by standing still at range while her opponent is forced to move.
+
+### Mid lane: the first seven minutes
+
+Kimmy lanes as a mid-priority magic carry. Her job in the first seven minutes is not to get a kill. It is to reach her two-item spike with the tower intact and the enemy mid too low to rotate.
+
+1. **Farm with the meter, not against it.** Fill Starlium on the wave with your basic shots, then let the next volley pierce the whole wave. The beam refills the meter on hero hits, so landing it on the enemy mid is how you turn pressure into more pressure. Time your aggression to your own full meter, never to the enemy's health bar.
+2. **Keep the jetpack for the jungle, not the wave.** The flight is your only gap-crosser. Use it to vault from the river into the side bushes or to leave a collapsing gank. Spend it chasing a half-health mid at level four and the enemy jungler's first dive lands on a carry with no escape left.
+3. **Win the trade from outside the minion line.** Stand at maximum range behind your own wave and pre-aim the enemy mid's approach. Her shots cannot be juked with small stutters, only by leaving her range, so most mids have to eat the poke or give up the wave.
+
+Sprint is the default battle spell because its slow immunity doubles the flight's slow-clean on the same escape window. Take Purify when the enemy can chain-lock you, a Jawhead, Chou, or Khufra layered comp, because a stunned Kimmy is a dead Kimmy. Flicker overlaps with what the flight already does, so you rarely want both.
+
+### The two-item window that turns poke into pressure
+
+The window that flips Kimmy from an annoyance into a carry is Feather of Heaven plus Concentrated Energy, landed around the eight-to-ten minute mark after Arcane Boots.
+
+Before that pair she pokes and prays. Feather gives her lifesteal and an on-hit magic proc that rides every Spray Gun shot, and its attack speed feeds straight into her passive, becoming magic power instead of a dead stat. Concentrated Energy gives her the HP to survive one mistake and a stacking magic-power buff that reaches its full bonus and its magic-damage multiplier within the first few hits of a fight.
+
+After it, she can hold a Turtle fight, she can out-sustain the enemy mid in a brawl, and her full-meter pierce starts threatening the whole line instead of one target. Time your map pressure to the completion of that second item, not to your own level.
+
+### Fight setup: the ultimate starts fights, not ends them
+
+The reflex on Kimmy is to treat the ultimate as a finisher, a way to cash a low-health enemy. That is the wrong read. Traction Pulse is a fight starter: it slows the group, then drags everyone it caught into one spot, then slows them again. That is setup, not execution.
+
+1. **Throw the ultimate at the geometry, not the carry.** Grouped enemies, the Turtle pit, the Lord entrance, a dive under tower. When the pull lands, the whole enemy team is stacked for your beam and for your team's area damage. The carry's health is irrelevant; the shape of the fight is the target.
+2. **Follow the pull with the beam.** The immobilize that misses a moving target lands on a pulled one. Play the two as one combo and you have turned her kit into a lockdown sequence instead of two separate poke tools.
+3. **Stay at max range and pre-aim.** Her shots come out on a delay after a direction change. Standing still at range and letting the enemy walk into your already-aimed line beats repositioning onto them. Move only to keep the distance, never to reach a target.
+4. **Keep the jetpack for the moment the dive lands.** The enemy assassin will enter the fight on your pull, exactly when the room is crowded. Vault the wall the instant they commit, and you have traded their cooldowns into your team instead of into you.
+
+Edge case on support: with a sustain backline, Estes, Rafaela, or Floryn, you can push one rank closer and trade your health for longer uptime. With a dive roam who leaves you alone, play as if you have no support at all: max range, jetpack held, ultimate reserved for your own self-setup.
+
+### Itemization: a locked mage core, then real conversations
+
+The core is not a debate: Arcane Boots, Feather of Heaven, and Concentrated Energy are the locked first buys, in that order. After those, itemization is a conversation, not a recipe.
+
+Boots first. Arcane Boots is the default because magic penetration is the stat that keeps her poke honest against the frontline she is drafted into. Tough Boots replaces it when the enemy has two or more stun-heavy threats and your Purify window alone cannot cover the whole fight.
+
+Then the flex slots:
+
+**Holy Crystal** is the cleanest fourth item against a squishy draft, because its percentage magic-power boost scales everything she does at once.
+
+**Divine Glaive** is the correction the moment the enemy stacks a second magic-defense item, since its penetration scales against the defense it is chewing through.
+
+**Genius Wand** is the shred slot for a beefy frontline; the magic-defense reduction stacks on every hit, and her spray reapplies it constantly.
+
+**Glowing Wand** is the anti-heal and anti-shield answer. Against Estes, Floryn, Ruby, Esmeralda, or a shield-heavy comp, the burn and the healing-cut turn her poke into a counterpick.
+
+**Ice Queen Wand** is the kiting slot when the enemy is fast but not silent: the slow stacking and movement speed keep her at the range she needs.
+
+**Blood Wings** is her only real defense after the core, a shield that regenerates so she can eat one burst and keep spraying.
+
+**Winter Crown** is the panic button into dive-heavy drafts like Saber, Hayabusa, or Ling, for the moment after the flight is gone.
+
+Emblems are not optional here. Mage Emblem is the pairing because her damage is magic; a physical marksman page taxes her own kit.
+
+One piece of the old guide era needs burying: attack speed is no longer dead on Kimmy. It converts into magic power, one for one, so an attack-speed item is secretly a magic-power item. The reason she still does not buy them is the rest of the package, crit and physical on-hits do nothing for a magic-damage basic attack, and the mage list carries the passives that actually scale her spray. Buy the item for its passive, not for the label on the stat.
+
+### Mistakes that make Kimmy throw
+
+**Flicking your aim at a juking enemy.** Her shots lag behind a direction change. Players who swing the aim wildly to track a dodging target spend half their damage on travel time. Pre-aim where the enemy will be and strafe gently; the opponent should be dodging your already-aimed line, not making you re-aim it.
+
+**Spending the jetpack to engage.** The flight is the only gap-crosser in the kit. Using it to chase a kill hands the enemy jungler the exact window she is weakest in. Keep it for the disengage and you live to press the beam and the ultimate. Spend it forward and you are a stationary magic carry in the middle of the enemy team.
+
+**Popping the ultimate on a fleeing target.** The pull is the strongest setup tool she has. Cashing it on a low-health escapee wastes a fight-winning cooldown on cleanup your basic spray could have handled. Use it to force the fight on your geometry, not to chase one kill.
+
+**Entering a fight on an empty meter.** Full Starlium is a second damage item, piercing shots turn single-target spray into a line. Players who walk into a fight mid-meter play at half power for the opening seconds. Farm the meter on the wave or on the enemy frontline before the real fight starts.
+
+**Mid-range dueling into a longer-range mage.** Pharsa, Yve, and Novaria outrange you entirely, and standing at the middle of the lane hands them the poke and the rotation. Give up the front of the lane, farm under tower, and take the trade only when their big tools are down.
+
+**Solo-pushing a tower.** Her shots deal reduced damage to structures, so she is the slowest tower-taker in her own role. Kimmy pushes by clearing waves and rotating her spray to the fight, not by standing on a building for half a minute while the map opens up around her.
+
+### Key tips
+
+> [!TIP]
+> The jetpack vaults thick walls that Flicker cannot cross. From mid, vault the river wall to enter a skirmish behind the enemy, and vault back out the moment their gap-closer commits.
+
+> [!NOTE]
+> Charge the meter on the wave before a Turtle fight. Entering the pit at full Starlium means your first volley pierces the grouped enemies instead of one target.
+
+> [!TIP]
+> The beam lands on pulled targets. Cast the ultimate first, then the beam, and the immobilize that would miss a moving enemy hits every target your ultimate just stacked.
+
+> [!NOTE]
+> Your lifesteal keeps you alive through chip, not through focus fire. If the enemy turns on you, the flight is the answer; standing and trading is how a magic carry becomes a free kill.
+
+## Skills
+
+### Aerial Dominance (Passive)
+
+Kimmy can move and aim in different directions while using her Spray Gun, but she cannot lock onto a specific target. Each Chemical Bolt deals (+18% Total Physical Attack) (+24% Total Magic Power) Magic Damage. Hitting enemy heroes or non-hero units restores 6 / 3 Starlium, respectively. At max Starlium, she continuously consumes it to enhance her Basic Attacks, making them deal (+22.5% Total Physical Attack) (+30% Total Magic Power) damage and pierce targets (enhanced Basic Attacks only benefit from 50% Spell Vamp). Kimmy can keep moving while shooting and does not benefit from Attack Speed Bonus. Every 1% Attack Speed gained is converted to 1 Magic Power. Kimmy's Basic Attacks only deal 60% damage to Turrets.
+
+### Anti-Grav Thruster (Skill 1)
+
+Kimmy uses her jetpack to take flight, removing and becoming immune to slow effects. She can pass through terrain and gains 120% extra Movement Speed that decays over 1s. During the flight, she continuously fires 4 Chemical Bolts at nearby enemies, each dealing 20 (+25% Total Physical Attack) (+30% Total Magic Power) Magic Damage and slowing them by 50% for 0.5s. Kimmy does not consume Starlium during flight.
+
+### Starlium Beam (Skill 2)
+
+Kimmy fires a Starlium Beam in the target direction, immobilizing enemies in its path and dealing 300 (+50% Total Physical Attack) (+60% Total Magic Power) Magic Damage for 1s. Each enemy hero hit grants 20 Starlium.
+
+### Traction Pulse (Ultimate)
+
+Kimmy charges up and fires a Traction Pulse in the target direction. Upon hitting an enemy or reaching its max range, it explodes, dealing 150 (+45% Total Physical Attack) (+54% Total Magic Power) Magic Damage to nearby enemies and creating a force field that slows enemies within by 50%. After 1s, the field contracts, pulling enemy heroes within it to its center and dealing 15% of their current Max HP as Magic Damage. It also slows them by 50% for 2s. Each enemy hero hit grants Kimmy 40 Starlium.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Kimmy can initiate with her Ultimate to group up enemies, then follow up with her 2nd Skill to immobilize them, and finish with her enhanced Basic Attacks for lots of damage. If enemies try to counter by closing in on Kimmy, use her 1st Skill to retreat.
+- LANING COMBOS (laning): In the laning phase, Build up Starlium before engaging. Use her 1st Skill to quickly close in on the opponent, then use her 2nd Skill to immobilize them before unleashing her enhanced Basic Attacks for great damage.
+
+## Counters to Kimmy (pick these against Kimmy)
+
+- Lolita (Support/Tank): +4.0 pp edge. Lolita's durability and kit give them a strong matchup advantage against Kimmy throughout the game.
+- Karina (Assassin): +3.5 pp edge. Across Kimmy's measured matchups, Kimmy is weakest once matches pass 16 minutes. Take the game long with Karina.
+- Yve (Mage): +2.5 pp edge. Yve's burst damage can eliminate Kimmy before they can deal sustained damage in team fights.
+- Fanny (Assassin): +2.5 pp edge. Across Kimmy's measured matchups, Kimmy is weakest once matches pass 16 minutes. Take the game long with Fanny.
+- Natalia (Assassin): +2.4 pp edge. Across Kimmy's measured matchups, Kimmy is weakest once matches pass 16 minutes. Take the game long with Natalia.
+
+## Heroes Kimmy beats
+
+- Hylos (Tank): +3.3 pp edge for Kimmy.
+- Sun (Fighter): +3.1 pp edge for Kimmy.
+- Hilda (Fighter/Tank): +2.6 pp edge for Kimmy.
+- Hanzo (Assassin): +2.6 pp edge for Kimmy.
+- Uranus (Tank): +2.5 pp edge for Kimmy.
+- Minotaur (Tank/Support): +2.4 pp edge for Kimmy.
+- Masha (Fighter/Tank): +2.0 pp edge for Kimmy.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/kimmy.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Magic DPS (Gold)
+
+- Items: Arcane Boots, Feather of Heaven, Concentrated Energy, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Feather of Heaven, Concentrated Energy, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Weapon Master, Lethal Ignition
+- Battle spell: Sprint
+- Flex: Tough Boots over Arcane Boots when Use when enemy crowd control decides the first trade before Kimmy can kite with Sprint.; Glowing Wand over Blood Wings when Use into Estes, Floryn, Ruby, Esmeralda, or shield-heavy drafts where Lifebane matters more than the final shield.; Winter Crown over Blood Wings when Use against Saber, Hayabusa, Ling, or any dive that reaches Kimmy before her front line can peel.
+- Total cost: 11810 gold
+
+Default gold lane setup that turns Kimmy's magic basic attacks into sustained poke while keeping Sprint available for long kiting paths.
+
+### Frontline Control (Gold)
+
+- Items: Arcane Boots, Glowing Wand, Genius Wand, Ice Queen Wand, Divine Glaive, Blood Wings
+- Core: Glowing Wand, Genius Wand, Divine Glaive
+- Emblem: Mage Emblem with Rupture, Wilderness Blessing, Impure Rage
+- Battle spell: Purify
+- Flex: Holy Crystal over Ice Queen Wand when Use when the enemy front line is slow and you need faster carry kills instead of repeated slow stacks.; Concentrated Energy over Blood Wings when Use when fights last long enough for Recharge stacks to stay active and you are not being one-shot.; Tough Boots over Arcane Boots when Use when Purify alone cannot cover repeated stuns, knockups, or slows in the same fight.
+- Total cost: 10850 gold
+
+Control setup for durable or sustain-heavy drafts where Kimmy must keep tanks slowed, stripped of Magic Defense, and tagged by Lifebane.
+
+### Jungle Tempo (Jungle)
+
+- Items: Arcane Boots, Feather of Heaven, Concentrated Energy, Glowing Wand, Divine Glaive, Holy Crystal
+- Core: Feather of Heaven, Concentrated Energy, Glowing Wand
+- Emblem: Basic Common Emblem with Thrill, Seasoned Hunter, Impure Rage
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Ice Queen Wand over Holy Crystal when Use when Turtle and Lord fights are won by keeping divers inside Kimmy's spray path.; Blood Wings over Holy Crystal when Use when the enemy can reach the jungle backline and the movement shield buys a second firing angle.; Genius Wand over Glowing Wand when Use when the enemy draft has low healing and your team needs earlier Magic Defense shred before Divine Glaive.
+- Total cost: 11760 gold
+
+Jungle setup that uses Seasoned Hunter and Ice Retribution to stabilize clear speed, objective control, and chase angles around river fights.
+
+All builds for this hero: https://mlbbhub.com/builds/kimmy.
+
+## Synergies
+
+- Badang: Kimmy excels at controlling and grouping enemies while dealing substantial damage, so she works well with heroes who have AOE CC like Badang and Ruby.
+- Ruby: Kimmy excels at controlling and grouping enemies while dealing substantial damage, so she works well with heroes who have AOE CC like Badang and Ruby.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

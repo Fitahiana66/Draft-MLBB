@@ -1,0 +1,208 @@
+# Lapu-Lapu, Courageous Blade
+
+> Lapu-Lapu is not really a fighter. He is a 10-second transformation with eight minutes of setup, and his entire kit is a ramp toward that window. If your draft lets him reach it, he wins the game; if it doesn't, he throws boomerangs and loses.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP
+- Specialty: Chase, Burst
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.61%
+- Pick rate: 0.33%
+- Ban rate: 0.28%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/lapu-lapu
+
+## Guide
+
+### Is this the draft where Lapu-Lapu reaches his window?
+
+Lapu-Lapu is a pick condition, not a flex. He needs a draft where teamfights last long enough for him to burn ten seconds of transformation, and he needs a frontline that eats the first CC so his Bravest Fighter leap actually connects.
+
+Pick him into slow, grouped compositions: Hylos frontlines, mage-heavy mids, late-scaling marksmen like Layla or Miya who want to stand still and shoot. Pair him with a CC roamer (Atlas, Khufra, Grock) who can hard-engage before you commit. He is also the right call when the enemy gave up lane priority to pick sustain (Uranus or Cici), because the EXP lane stalls and you reach your two-item spike on schedule.
+
+Do not pick him into Minsitthar, Chou, Valir, Harith, or Esmeralda. Minsitthar's King's Calling ring disables your S2, your ult leap, and your Flicker inside its zone, which deletes your engage tool. Chou peels you with his S2 kick and ultimate in the gaps between your stance skills, so the window never stays intact around him. Valir keeps you outside boomerang range and stuns you when you close. Harith dashes straight through the area Storm Sword wants to hit. Esmeralda eats your passive shield before it does anything.
+
+The sharpest current warning is suppression. A Saber or Franco ult holds you in place even inside the transformation, because suppression is the one control that ignores the kit's immunity windows. If the enemy drafts either, your window is a wish, not a plan.
+
+If you cannot name which of those drafts you are in, you are picking Lapu-Lapu on vibes and the ten-second window is not coming.
+
+### The one thing that makes Lapu-Lapu work
+
+Every ability in the kit exists to charge Bravery Blessing, and Bravery Blessing exists to make his passive fire. Outside of transformation, his passive auto hits about every six seconds of active combat, which is fine. Inside transformation, skill damage grants roughly three times more Bravery Blessing, so the passive auto fires roughly every one to two seconds for the entire ten seconds.
+
+That is the hero. It is not the boomerangs, it is not the ultimate damage, it is the fact that during Raging Slash his passive dash auto is effectively a sixth ability on a two-second cycle, and each one refreshes a shield that scales with his level rather than his items. The durability of the window is the shield cycle itself: an HP buffer that regrows every couple of seconds no matter what he built.
+
+Everything else is scaffolding. Justice Blades is a farming and ramp tool. Jungle Warrior is a gap-closer and re-engage. The light-stance ultimate, Bravest Fighter, exists almost entirely to flip into Heavy Sword stance; the on-cast damage and slow are almost incidental. Storm Sword is the fight tool because it grants 20% damage reduction that stacks another 8% for each extra enemy hero hit. Hit three enemies and you are sitting on 36% damage reduction while your passive shield keeps refreshing. Nothing about the hero is subtle once you see what the transformation is actually doing.
+
+### Laning: the first five minutes
+
+Lapu-Lapu is weak in the early lane and strong enough once he has his boots plus first-item progress that most EXP laners lose the trade from minute four onward. Your job is to survive to that point without giving first blood.
+
+1. **Level 1: take Justice Blades.** Clear the first wave at range. The second boomerang deals 50% damage on a target already hit, so do not try to line up both boomerangs on a single minion. Let the outgoing hit chunk the back-line melee and save the return hit for poke on the enemy laner.
+2. **Level 2: take Jungle Warrior and commit if Flicker is up.** S2 dash into the enemy, S1 through them so both boomerangs connect on the return, auto to proc passive if Bravery Blessing filled. If they burn their escape, leave with S2 back. If they do not, you probably do not kill them and that is fine.
+3. **Do not push past the river before level 4.** Your passive shield only fires when you are actively dealing damage. A cold Lapu-Lapu standing between walls has no shield, no movement speed buff, and no way out if the jungler walks in. Every EXP lane gank since 2017 has killed Lapu-Lapu while he was trying to secure a caster minion.
+
+Burn Flicker for kills, not for safety. Lapu-Lapu's lane kill threat runs out at four minutes when the enemy gets their second defensive item component. If you save Flicker for ganks all match, you farm without impact and the lane stalls into the window where your counters scale.
+
+### The power spike you are farming toward
+
+War Axe plus Warrior Boots. The spike lands around the seven-to-nine minute mark on a clean farming pace.
+
+War Axe is the item that transforms the hero. Its Fighting Spirit passive grants up to 72 bonus Physical Attack at six stacks, plus 10% extra true damage on top of the damage you deal once the stacks max out. Lapu-Lapu hits five times in a normal combo: two boomerangs, two Storm Sword ticks (one per enemy in range), and the passive auto. That is enough to hit six stacks inside the first two seconds of any teamfight. The bonus true damage shreds tanks, and the spell vamp heals you during Storm Sword's AOE window.
+
+Hunter Strike is second. Eighty Physical Attack with 10% CDR is already clean on this kit, and the Retribution passive grants 50% movement speed after five hits. The five hits are trivial inside Raging Slash. This is what turns the post-transformation cleanup from "they kited me" into "I caught them at the wall."
+
+Before this spike, Lapu-Lapu is a farming tool with a dash. After it, his ten-second transformation kills any squishy who does not have an unused defensive skill. The gap between those two states is one item and one boots slot.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a teamfight starting is to press ultimate and leap on the back line. That reflex is usually wrong. Bravest Fighter cannot be interrupted, so the leap always lands: the risk is not getting caught mid-air, it is what is waiting after you touch down. If the enemy still has a stun, a knockup, or a Saber or Franco suppression ready, the ten-second window burns while you are locked out of the stance skills, and Raging Slash's control immunity never gets to start. Enter behind the first CC layer, not in front of it.
+
+1. **Wait for the first CC layer.** Your roamer's engage, your mid's lockdown, whatever it is. Let a real enemy cooldown come out before you leap: the point of waiting is landing with the peel already spent, not dodging a mid-air interrupt that cannot happen. Ult into a fight that is already started, not a fight you are starting.
+2. **Leap between two or three enemies, not at one.** Storm Sword's damage reduction starts at 20% and stacks another 8% per extra enemy hero hit, which is the entire reason you survive the ten seconds. One enemy gives you 20%, three gives you 36%. Diving a lone carry into a corner gets you killed; diving the carry standing near the tank gets you both.
+3. **Target the nearest squishy, end on the tank.** Raging Slash's third slash is your finisher. Move the first two swings across the squishy (the swing direction is controllable), then pivot into the tank for the third if the carry is already dying. Tanks cannot escape the third swing once it commits.
+
+Support conditional: with a lockdown roamer (Atlas, Khufra, Franco) you can lead the engage because the CC layer comes within half a second of your landing. With an enchanter support (Angela, Diggie, Rafaela) you cannot; the roamer provides no hard CC and nothing covers your landing, so the first CC layer lands on you instead. Wait for your mage to burn a stun first, or do not fight.
+
+### Itemization: defaults vs flex slots
+
+Three locked, three conversations.
+
+**Locked:** Warrior Boots (their physical defense stacks with the transformation's +30 to +60 hybrid defense, and the Valor passive adds up to 20 more while you are taking hits, which is exactly what Storm Sword's short range asks for). War Axe. Hunter Strike.
+
+**Flex slot 1: Queen's Wings** if the enemy has burst that drops you below 40% HP during the window. Demonize grants 30% damage reduction and 2 seconds of skill cooldown reduction when triggered, on a one-minute cooldown. That cooldown reduction can refund Storm Sword mid-fight, which is a second DR stack on demand.
+
+**Flex slot 2: magic defense pick.** Against a single burst mage, take Athena's Shield; the 25% magic damage reduction from Shield applies before the hit, so it clips Valir or Eudora's opener. Against sustained magic (Alice, Esmeralda, Kagura), take Radiant Armor for its stacking magic defense and 12 HP regen. Against a poke composition that keeps breaking your shields before 40% HP, take Oracle instead; the 25% shield and regen amplification pushes your passive shield from "helpful" to "hostile", and the CDR rounds out your rotation.
+
+**Flex slot 3: Dominance Ice** when the enemy runs sustain-heavy physical (Claude, Karrie, Melissa, Irithel) and you need durability on top of anti-heal. Lifebane's aura reduces nearby enemies' shield and HP regen to 60% of normal, and Fortress Shield gives scaling hybrid defense for each enemy hero nearby. Note that Lifebane does not stack with Sea Halberd's Lifebane, so do not build both.
+
+**Sixth slot: Immortality.** Always. The revive is specifically broken on Lapu-Lapu because you revive at the exact moment your team is cleaning up the fight you already won, and your post-revive transformation cooldown is usually back up.
+
+Blade of Despair is a filler slot only. It is the item to pick when the enemy is all-squishy and you have nothing else to build. Its 160 flat Physical Attack does not synergize with your true-damage conversion from War Axe the way another defensive item does, because your damage ceiling was already set by the kit scaling. The weakest common default on Lapu-Lapu builds is a second attack item; the strongest sixth slot is almost always defensive.
+
+**Emblem: Fighter, with Firmness, Festival of Blood, and Brave Smite.** Festival of Blood stacks spell vamp per kill or assist, which compounds with War Axe's 8% spell vamp and keeps your sustain scaling through the game. Brave Smite heals you 5% max HP every time a skill damages an enemy hero; on a hero who casts three skills in the first two seconds of a fight, that is effectively a second passive shield. Do not take Assassin Emblem; the Adaptive Penetration is worse on Lapu-Lapu than the sustain from Brave Smite, and the hero does not burst hard enough to need Master Assassin's 7% amplification.
+
+**Battle spell: Flicker.** Execute is tempting for the finishing true damage, but Lapu-Lapu's combo already finishes squishies inside Raging Slash and the extra mobility from Flicker turns more fights into kills than Execute saves. Arrival is a pocket pick for split-push matches where the lane geometry lets you one-shot a tower before rotating.
+
+### Mistakes that lose Lapu-Lapu games
+
+**Leaping in with Bravest Fighter before the first CC layer has landed.** The leap cannot be interrupted, so this is not about getting caught mid-air. It is about what you land into: if the enemy still has a stun, a knockup, or a Saber or Franco suppression ready, you spend the transformation eating peel instead of dealing damage, and the window is gone before Raging Slash swings once. Let the enemy burn one real cooldown first. Your ult is not the opener, it is the second beat.
+
+**Using Storm Sword on a single target.** Storm Sword's damage reduction starts at 20% and gains another 8% for each extra enemy hero hit: one target is 20%, three is 36%. Chasing a lone carry with it gets you the damage and none of the survival, which is the whole point of the skill. Save the heavy S2 for the moment you are standing in the middle of two or more enemies, not for picks.
+
+**Opening S2 into a Minsitthar ring.** Minsitthar's King's Calling zone disables dashes, blinks, and Flicker inside it. Jungle Warrior dies in there, your ult leap dies in there, and your escape tool dies in there. If you see the golden ring hit the ground, stop moving forward. Either reposition around the zone or commit to a teamfight where his ring location is already decided.
+
+**Building Blade of Despair as your second item.** Lapu-Lapu's damage ceiling in the transformation window is capped by his combo scaling, not his flat Phys Atk stat. Replacing Hunter Strike with Blade of Despair trades the 50% movement speed chase buff for a passive that only fires below 50% enemy HP, by which point Raging Slash's third slash is already landing anyway. Build damage after you have built chase.
+
+**Split-pushing without vision of the enemy jungler.** Arrival Lapu-Lapu is a real win condition, but his S2 cannot cross thick walls, and his passive shield only exists while he is actively hitting a target. A Hayabusa or Ling ult on the side lane catches you in the half-second window where you are auto-attacking a turret, which is exactly when your passive shield is least active. Ward the jungle entrance before you commit to the split.
+
+### Key tips
+
+> [!TIP]
+> Your passive shield is a flat value that scales with your level, not with your Physical Attack. Buying a third attack item does not make it thicker. The shield's real strength is uptime: inside the transformation it refreshes every one to two seconds, so the window turns into a regenerating HP buffer that wins extended fights on its own.
+
+> [!NOTE]
+> Land Shaker, the Great Sword stance S1, can only be interrupted by suppression. Cast it into the clump you just landed in, then chain Raging Slash's control immunity over the top. Layering the stun under the finisher gives the backline no clean window to escape.
+
+> [!TIP]
+> Bravery Blessing fills by 10 every time you deal damage, halved against minions. Clear the first wave with Justice Blades and you walk into your first trade with the passive dash-auto (and its shield) already loaded. Pre-charge the stack on the wave instead of starting the lane cold.
+
+> [!WARNING]
+> Baxia's passive cuts the shields and HP regen of everyone his skills hit, which directly shrinks your passive shield and Brave Smite healing and quietly cancels Oracle's amplification. If the enemy locks Baxia, your sustain kit is worth far less for the rest of the match. Swap the defensive flex for damage and end fights before the debuff does the math for him.
+
+## Skills
+
+### Homeland Defender (Passive)
+
+Lapu-Lapu accumulates 10 Bravery Blessing each time he deals damage (halved for damage dealt to non-hero units). When Bravery Blessing is full, Lapu-Lapu's next Basic Attack will make him dash toward the target, dealing (+150% Total Physical Attack) Physical Damage (cannot Crit) and granting him a shield that absorbs 250 (+65*Hero Level) damage for 2.5s.
+
+### Justice Blades (Skill 1)
+
+Lapu-Lapu releases two boomerangs in the target direction, each boomerang dealing 140 (+50% Total Physical Attack) Physical Damage to enemies hit on its way out and back. Enemies hit by both boomerangs take 50% damage from the second hit.
+
+### Jungle Warrior (Skill 2)
+
+Lapu-Lapu dashes in the target direction, dealing 100 (+50% Total Physical Attack) Physical Damage to enemies along the way.
+
+### Bravest Fighter (Ultimate)
+
+Lapu-Lapu leaps to the target location while combining his twin blades into one, dealing 300 (+80% Total Physical Attack) Physical Damage to nearby enemies upon landing and slowing them by 60% for 1s. (This skill cannot be interrupted.) Lapu-Lapu gains 3 times the Bravery Blessing from this skill and skills in transformed state. For the next 10s, Lapu-Lapu enters Great Sword stance and gains enhanced skills, 30 Hybrid Defense, and his Basic Attack damage is increased to 120%.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Lapu-Lapu's 1st Skill to wear down the enemies' HP, then follow up with his 2nd Skill to get close and use his Ultimate to initiate. While in Great Sword stance, use his Ultimate again for high burst damage, then use his 2nd Skill to gain Damage Reduction, and finally CC the enemy with his 1st Skill.
+- LANING COMBOS (laning): In the laning phase, use Lapu-Lapu's 1st Skill to poke enemies. When Bravery Blessing is full, use his 2nd Skill and enhanced Basic Attacks.
+
+## Counters to Lapu-Lapu (pick these against Lapu-Lapu)
+
+- Esmeralda (Tank/Mage): +3.5 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Lapu-Lapu throughout the game.
+- Yve (Mage): +2.6 pp edge. Yve has a statistical edge over Lapu-Lapu based on ranked matchup data. Pick Yve to gain an advantage in draft.
+- Harith (Mage): +2.1 pp edge. Harith has a statistical edge over Lapu-Lapu based on ranked matchup data. Pick Harith to gain an advantage in draft.
+- Claude (Marksman): +1.9 pp edge. Claude has a statistical edge over Lapu-Lapu based on ranked matchup data. Pick Claude to gain an advantage in draft.
+- Beatrix (Marksman): +1.8 pp edge. Beatrix has a statistical edge over Lapu-Lapu based on ranked matchup data. Pick Beatrix to gain an advantage in draft.
+
+## Heroes Lapu-Lapu beats
+
+- Silvanna (Fighter): +3.2 pp edge for Lapu-Lapu.
+- Hanabi (Marksman): +2.4 pp edge for Lapu-Lapu.
+- Popol and Kupa (Marksman): +2.4 pp edge for Lapu-Lapu.
+- Vale (Mage): +2.3 pp edge for Lapu-Lapu.
+- Sun (Fighter): +2.1 pp edge for Lapu-Lapu.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/lapu-lapu.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Sustain Default (EXP)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Queen's Wings, Dominance Ice, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when the enemy control chain is light enough to skip Fortitude.; Oracle over Dominance Ice when Use when anti-heal is already covered and extra shield plus HP regen value lets Great Sword trades last longer.; Athena's Shield over Dominance Ice when Use when burst magic can remove you before Queen's Wings and Bravery Blessing can stabilize the entry.; Sea Halberd over Dominance Ice when Use when your team needs damage-applied Lifebane into high-HP sustain targets instead of a defensive aura.
+- Total cost: 11190 gold
+
+Default EXP setup for ranked games where Lapu-Lapu needs War Axe stacking, Hunter Strike chase tempo, and Queen's Wings to finish Great Sword windows.
+
+### EXP Vengeance Frontline (EXP)
+
+- Items: Tough Boots, War Axe, Queen's Wings, Brute Force Breastplate, Oracle, Immortality
+- Core: War Axe, Queen's Wings, Brute Force Breastplate
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Dominance Ice over Oracle when Use when enemy shield, HP regen, or attack-speed carries must hit you during the first dive.; Antique Cuirass over Oracle when Use against repeated physical skill burst from fighters or assassins that meet you before Raging Slash finishes.; Radiant Armor over Oracle when Use against repeated magic damage that stacks across long Turtle, Lord, or base fights.; Blade Armor over Oracle when Use when a basic-attack carry is forced to hit you before reaching your back line.
+- Total cost: 10900 gold
+
+Durable EXP setup for drafts where Lapu-Lapu must take first contact, press Vengeance, and buy enough time for allied damage to follow.
+
+### Jungle Tempo Bruiser (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Queen's Wings, Malefic Roar, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Seasoned Hunter, Brave Smite
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Warrior Boots over Tough Boots when Use when early jungle fights are mostly physical and crowd control is not deciding the first objective.; Brute Force Breastplate over Malefic Roar when Use when movement speed, cooldown reduction, and control-duration reduction matter more than armor penetration.; Sea Halberd over Malefic Roar when Use when the enemy front line relies on HP regen or shields and has not stacked enough Physical Defense to demand Malefic Roar.; Athena's Shield over Immortality when Use when burst magic threatens the first dive before the revive can create real value.
+- Total cost: 11240 gold
+
+Jungle setup for teams that want Lapu-Lapu to farm level four quickly, use Ice Retribution to stay attached, and still scale into bruiser teamfights.
+
+All builds for this hero: https://mlbbhub.com/builds/lapu-lapu.
+
+## Synergies
+
+- Tigreal: Lapu-Lapu works well with heroes who can pull enemies together, like Tigreal and Atlas, to allow his AOE skills to hit more targets and get more Damage Reduction from his 2nd Skill in Great Sword stance by hitting more heroes.
+- Atlas: Lapu-Lapu works well with heroes who can pull enemies together, like Tigreal and Atlas, to allow his AOE skills to hit more targets and get more Damage Reduction from his 2nd Skill in Great Sword stance by hitting more heroes.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

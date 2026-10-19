@@ -1,0 +1,206 @@
+# Xavier, Defier of Light
+
+> Xavier is not a generic poke mage. He is a map-control mid who wins when the fight starts on his line and loses when the enemy gets to start on theirs. Pick him for drafts that want to choke entrances, soften targets before the commit, and turn one clean objective setup into a fight the enemy enters at half health.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Damage, Burst
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 49.71%
+- Pick rate: 0.47%
+- Ban rate: 0.11%
+- Released: 2022
+- Page: https://mlbbhub.com/heroes/xavier
+
+## Guide
+
+### The drafts where Xavier gets to play his game
+
+Xavier is a condition-based mid, not a blind pick. The mage mana pass gave him late-game relief on Mystic Field, but that does not change the draft rules below. He wants front-to-back fights, visible approach angles, and teammates who can hold a line long enough for repeated spell touches to matter.
+
+Pick Xavier when the enemy draft has to walk through honest space. Tanks like Hylos, Tigreal, Belerick, or Fredrinn do not mind eating one spell, but they do mind being the bridge that lets Infinite Extension keep traveling into the backline. Pick him when your own roamer or EXP laner can hold a choke first. Atlas, Tigreal, Terizla, Gatotkaca, and even a patient Lolita give Xavier the exact kind of fight he wants: a fight where people are grouped by terrain before his laser ever appears.
+
+Avoid Xavier when the enemy can skip the front door. Helcurt, Fanny, Hayabusa, Ling, and similar backline hunters do not care how much space you control in front of you if they enter from the side or above. Avoid him when the enemy shows projectile denial or a clean answer to linear poke. Lolita is the obvious one because she breaks the passive rhythm by refusing your first bullet. If the enemy draft already has dive plus one clean anti-projectile answer, Xavier stops being a mid-game artillery piece and becomes wave clear with no safe angle.
+
+The simplest draft rule is this: if the fight will be decided by who owns the entrance, Xavier is strong. If the fight will be decided by who reaches the backline first, he is a liability.
+
+### The ruler that redraws the fight
+
+Xavier is a ruler, not a fireball.
+
+He does not win by finding one perfect combo from fog and deleting a target from full. He wins by redrawing where the enemy is allowed to stand. Every clean spell touch makes the next cast easier to land, wider, or faster to cycle, until the fight starts feeling tilted in his favor before anyone has actually died.
+
+That is why Mystic Field is the real center of the hero. The barrier is not only crowd control. It is a tax on movement. When you place it across a jungle mouth, on top of a retreat path, or between the enemy tank and their carry, you force a choice. They either walk through and lose tempo, or they give you the lane of fire you wanted anyway. Infinite Extension is the punishment for that hesitation. Dawning Light is the reset that lets him keep the pressure going after the first exchange instead of starting over from zero.
+
+If you play Xavier like a sniper who only cares about the finishing beam, you waste half the kit. If you play him like a surveyor marking the parts of the map the enemy is not allowed to cross, the hero finally makes sense.
+
+### Laning: the first four minutes
+
+Xavier's first four minutes are about wave priority and river ownership, not about solo-kill fantasies.
+
+1. **Open with Infinite Extension and hit the wave and the hero on the same line.** Xavier's first spell should pay for itself twice. If the enemy mid stands behind their melee minions, punish both targets together. If they respect it and stand wide, you already bought room to secure the push.
+2. **Place Mystic Field on the river lip, not in the middle of lane.** Lane-center barriers are warning signs. River barriers are problems. Put the field where the first roam, crab contest, or jungle contest must pass through, then threaten the detonation if anyone insists on crossing.
+3. **Save Flicker for the first real collapse.** Burning it for chip damage before the first Turtle is lazy. Xavier does not need Flicker to look dangerous; he needs Flicker to survive the moment the enemy finally decides to stop respecting range and jump him.
+
+If the lane is quiet, use the time to arrive first to side-river vision and make the next rotation start with your field already placed. If the lane is scrappy, do not chase beyond the wave. Xavier's early advantage comes from making the enemy walk through him, not from following them into blind ground.
+
+### The two-item window that changes everything
+
+The spike Xavier is farming toward is **Enchanted Talisman plus Glowing Wand**, usually in the 7 to 9 minute window of an even game.
+
+Enchanted Talisman changes his lane from rationed casting into permanent pressure. Mana Spring lets him keep throwing spells through waves and entrances without treating every cast like a budget problem. Once that item is finished, Xavier stops asking whether he can afford to contest the next wave and starts asking whether the enemy can afford to walk into it.
+
+Glowing Wand is the second part of the spike because it makes partial wins stick. A clipped Infinite Extension or a field detonation no longer counts as light poke that gets ignored by the next shield or sustain pulse. Scorch keeps the chip running, and Lifebane punishes the support-and-frontline drafts that try to absorb his first rotation and heal back up before the real fight begins.
+
+That two-item point is when Xavier stops being "annoying mid with range" and becomes the hero who can decide an objective before the engage even starts. You are not farming toward prettier numbers. You are farming toward the moment every entrance check costs real health and every failed contest forces a reset.
+
+### Teamfights: play the line, not the highlight
+
+The common Xavier mistake is treating Dawning Light like a highlight button and the enemy carry like the only target that matters. That is backwards. Xavier does not need a heroic flank angle. He needs a line that passes through the most useful bodies.
+
+1. **Stand behind the first layer of peel, not beside your marksman.** Xavier wants one teammate between himself and the dive path, then enough lateral room to draw through the frontline into the backline. If you stack directly on your gold laner, one engage catches both of you and the fight ends there.
+2. **Aim through traffic instead of at portraits.** The tank in front is often the bridge to the damage dealer behind. Use the enemy's own formation against them. Infinite Extension gets better when there is something honest in front of the target you really want.
+3. **Use Dawning Light to continue pressure, not only to collect corpses.** The best ult is often the one that refreshes your empowered state before the fight fully breaks open. If you save it forever for the final execute, you give up the strongest part of the hero: repeated empowered casts while the enemy is still trying to enter.
+
+Target priority is simple once you stop thinking in role labels. Hit the hero whose position lets your line touch the next hero. Sometimes that is the marksman. Sometimes it is the bruiser who stepped into the choke and accidentally made their own backline vulnerable. Xavier wins by damaging the structure of the fight, not by obsessing over the lowest-health portrait.
+
+One support-dependent edge case matters. If your roam is Mathilda, you can hold a greedier side angle than usual because Guiding Wind lets you break position once and live. Without that kind of rescue, play narrower and deeper.
+
+### Itemization: the shell is fixed, the rest is negotiation
+
+Start from a simple shell: **Enchanted Talisman**, **Magic Boots**, and **Glowing Wand**. That core gives Xavier mana sustain, lane pressure, anti-sustain chip, and the cooldown tempo to keep the empowered-state engine running. After that, the build stops being automatic.
+
+**Boots are the first conversation.** Magic Boots is the default because the cooldown reduction keeps Xavier cycling spells fast enough to farm Transcendence before objectives. Arcane Boots is the sharper pickup when the enemy has low early magic defense and the first rotation needs to actually scare them off the wave. Do not get cute with this slot unless the match is clearly about survival rather than pressure.
+
+**The next conversations are matchup conversations:**
+
+- **Fleeting Time** when your team is built to chain picks or win repeated skirmishes around objectives. Timestream cuts the current cooldown of Dawning Light after kills or assists, which matters in messy mid-game fights where Xavier gets paid twice for one clean beam.
+- **Holy Crystal** when the enemy has not yet itemized real magic defense and you need raw damage to turn poke into forced recalls. This is the snowball option, not the safety option.
+- **Divine Glaive** when the enemy front line or mid has already bought magic defense, especially if Athena's Shield is showing up. Spellbreaker exists for exactly those games where your first rotation stops scaring people.
+- **Winter Crown** when Helcurt, Hayabusa, Saber, or any one-button diver is the actual win condition on the other side. Frozen is not glamorous, but two seconds of untargetability often buys the exact peel window Xavier otherwise never gets.
+- **Blood Wings** for siege and poke mirrors where surviving the first touch matters more than squeezing out one more burst number. Guard adds a large shield, and the movement burst after it breaks helps Xavier reposition instead of dying in place.
+- **Wishing Lantern** against double-frontline or high-HP setups that can live through the first spell cycle. Butterfly Goddess rewards the kind of repeated pre-fight damage Xavier already wants to deal, so it turns tank checking into a real tax instead of a courtesy tap.
+
+The rule is not "copy one six-item page every game." The rule is "solve the reason your last fight failed." If you lacked ult uptime, buy it. If they stacked magic defense, pierce it. If dive is the issue, build the tool that keeps you alive for one more rotation.
+
+### Mistakes that lose Xavier games
+
+**Throwing Mystic Field in the center of lane because it looks active.** A field in open ground is easy to walk around and tells the enemy exactly where not to stand. The spell becomes scary when it cuts an entrance, a ramp, a jungle mouth, or a retreat lane. If the barrier is not forcing a pathing decision, it is probably in the wrong place.
+
+**Casting Infinite Extension before the barrier can matter.** Many Xavier players rush the bullet because it is the comfortable damage button. That habit wastes the control half of the kit. Place the problem first, then fire through it. The shot becomes more dangerous when the enemy already has a bad choice to solve.
+
+**Using Dawning Light as a vanity execute before Turtle or Lord.** Cross-map snipes feel clever. Losing the next objective because your strongest reset tool is missing feels stupid. If the map is about to narrow around a neutral objective, hold the beam unless the pick immediately changes that objective.
+
+**Picking Xavier into Lolita or Helcurt and pretending mechanics will outplay the interaction.** This is the matchup mistake that keeps repeating because the hero looks so safe from range. Lolita interrupts your most reliable line tool, and Helcurt attacks the fact that Xavier must cast to matter at all. Respect the interaction in draft or pay for it in game.
+
+**Clearing the long side lane alone after the outer towers drop.** Xavier's range hides how immobile he really is. Once the map opens, every extra wave you take alone is an invitation for a flank. Clear what you must, then return to the part of the map where your team and your field can overlap.
+
+### Key tips
+
+> [!TIP]
+> When the enemy front line is screening well, stop trying to curve a miracle beam around them. Hit the front hero with Infinite Extension on purpose and use that body as the extra range bridge into the backline.
+
+> [!NOTE]
+> Against Lolita, do not hand over passive tempo for free. Make her show Guardian's Bulwark first, then place Mystic Field where she cannot protect every angle at once.
+
+> [!TIP]
+> If a fight is about to start in a choke, ult early enough to refresh your empowered state for the rest of the exchange. Xavier's best beam is often the one that creates the next two casts, not the one that lands on a retreating target.
+
+> [!NOTE]
+> Purify is the better spell only when crowd control is the whole problem. If the real issue is angle collapse or assassins reaching you from fog, Flicker remains the honest answer.
+
+## Skills
+
+### Transcendence (Passive)
+
+When Xavier's skills hit enemy heroes, he gains 50% Movement Speed for 1.2s (decays over time) and 1 energy charge. At 3 charges, his next skill triggers the Transcendence state. Transcendence: In this state, Xavier's Skills 1 and 2 have their cooldowns reduced by 4s, and his Ultimate by 36s. Transcendence lasts 5s and can be extended by 1s each time his skills hit enemies.
+
+### Infinite Extension (Skill 1)
+
+Xavier fires a Mystic Bullet that deals 480 (+100% Total Magic Power) Magic Damage to enemies it passes through. The Bullet's flying distance increases each time it hits an enemy or the Mystic Barrier (up to 5 times).
+
+### Mystic Field (Skill 2)
+
+Xavier summons a Mystic Barrier that lasts 5s. Enemies touching the Barrier take 220 (+65% Total Magic Power) Magic Damage and are slowed by 50%, while allies gain 50% extra Movement Speed (decays over 1.2s). When hit by Xavier's other skills, the Barrier expands into a Mystic Field for 3s, dealing 220 (+65% Total Magic Power) Magic Damage to enemies within and immobilizing them for 0.8s.
+
+### Dawning Light (Ultimate)
+
+Xavier unleashes a beam of Mystic magic in the target direction, dealing 600 (+180% Total Magic Power) Magic Damage to all enemies along its path. Once cast, he also directly enters the Transcendence state and resets the state's duration.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Cast Xavier's Ultimate to enter or refresh Transcendence, then try to hit as many enemies as possible with his 2nd Skill, and follow up with his 1st Skill to create a forbidden field to immobilize enemies. Continue casting his 1st Skill to extend Transcendence's duration while going for kills.
+- LANING COMBOS (laning): In the laning phase, Xavier possesses great poke with his 1st Skill and can utilize the slow from his 2nd Skill to make targets easier to hit. This combination allows him to quickly reach Transcendence. When the opportunity arises, use his Ultimate to finish off an enemy and while in Transcendence state.
+
+## Counters to Xavier (pick these against Xavier)
+
+- Natalia (Assassin): +3.7 pp edge. Xavier is countered by heroes with high mobility that can quickly close a gap such as Benedetta, Hayabusa, and Natalia.
+- Helcurt (Assassin): +2.6 pp edge. Helcurt has a statistical edge over Xavier based on ranked matchup data. Pick Helcurt to gain an advantage in draft.
+- Lolita (Support/Tank): +2.5 pp edge. Lolita's durability and kit give them a strong matchup advantage against Xavier throughout the game.
+- Angela (Support): +2.2 pp edge. Angela has a statistical edge over Xavier based on ranked matchup data. Pick Angela to gain an advantage in draft.
+- Floryn (Support): +1.8 pp edge. Floryn has a statistical edge over Xavier based on ranked matchup data. Pick Floryn to gain an advantage in draft.
+
+## Heroes Xavier beats
+
+- Faramis (Support/Mage): +2.5 pp edge for Xavier.
+- Belerick (Tank): +2.5 pp edge for Xavier.
+- Atlas (Tank): +2.1 pp edge for Xavier.
+- Marcel (Support): +2.0 pp edge for Xavier.
+- Hylos (Tank): +1.9 pp edge for Xavier.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/xavier.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid CDR Poke (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Glowing Wand, Wishing Lantern, Divine Glaive, Holy Crystal
+- Core: Enchanted Talisman, Glowing Wand, Wishing Lantern
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Flicker
+- Flex: Arcane Boots over Magic Boots when Use when the enemy has low early Magic Defense and mid control depends on sharper first-rotation damage.; Ice Queen Wand over Holy Crystal when Use when your team needs repeated slows to keep divers and frontliners inside Mystic Field follow-up.; Blood Wings over Holy Crystal when Use when the last slot must protect Xavier from flank poke while preserving magic scaling.
+- Total cost: 12050 gold
+
+Default ranked mid setup that keeps Xavier's mana and cooldown engine online so he can repeatedly fish for Transcendence before objectives.
+
+### Mid Clock Burst (Mid)
+
+- Items: Arcane Boots, Clock of Destiny, Lightning Truncheon, Genius Wand, Divine Glaive, Holy Crystal
+- Core: Clock of Destiny, Lightning Truncheon, Genius Wand
+- Emblem: Mage Emblem with Rupture, Weapon Master, Lethal Ignition
+- Battle spell: Flameshot
+- Flex: Enchanted Talisman over Genius Wand when Use when fights are slow enough that extra skill cycles matter more than early Magic Defense shred.; Blood Wings over Holy Crystal when Use when Xavier needs a shield and movement burst to keep casting after the first return engage.; Winter Crown over Holy Crystal when Use against Saber, Ling, Hayabusa, or any dive that can kill Xavier before Flicker or Flameshot creates space.
+- Total cost: 11940 gold
+
+Burst setup for games where Xavier can play behind reliable peel and turn one immobilize into a lethal Dawning Light angle.
+
+### Anti-Dive Safety (Mid)
+
+- Items: Tough Boots, Enchanted Talisman, Glowing Wand, Winter Crown, Divine Glaive, Blood Wings
+- Core: Enchanted Talisman, Glowing Wand, Winter Crown
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Purify
+- Flex: Magic Boots over Tough Boots when Use when enemy engage is burst-heavy but not crowd-control-heavy enough to require Fortitude and Purify together.; Holy Crystal over Blood Wings when Use when your roamer consistently marks flanks and the final slot can stay pure damage.; Immortality over Blood Wings when Use in late base-defense fights where one revive buys time for another Mystic Field and ultimate cycle.
+- Total cost: 10800 gold
+
+Safety setup for assassin and hard-CC drafts where Xavier's value comes from surviving the first dive and resetting the fight from range.
+
+All builds for this hero: https://mlbbhub.com/builds/xavier.
+
+## Synergies
+
+- Carmilla: He works well alongside heroes that can buff or provide CC to give him more opportunities to deal damage, such as Carmilla and Atlas.
+- Atlas: He works well alongside heroes that can buff or provide CC to give him more opportunities to deal damage, such as Carmilla and Atlas.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,211 @@
+# Yve, Astrowarden
+
+> Yve does not win teamfights by outdamaging anyone. She wins by deciding where the fight is allowed to happen: her ultimate turns a stretch of the map into a toll gate, and every border crossing costs the enemy. She is the highest-ceiling zoning mage in mid lane, and she pays off only when you force the geometry first.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Poke, Burst
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 52.43%
+- Pick rate: 0.05%
+- Ban rate: 0.04%
+- Released: 2021
+- Page: https://mlbbhub.com/heroes/yve
+
+## Guide
+
+### The pick condition for Yve
+
+Yve is a strong current mid pick, and she punishes a specific, common draft shape. She is the right call when the enemy team has heroes who need to stand still to function: a Lesley settling into a snipe, an Xavier planting a globe, an Odette locked into her dance, a Gatotkaca tanking the middle of a fight. These heroes either cannot dash out of the Starfield or will not interrupt their own abilities to leave it. The zone kills them for it.
+
+She is also the right call when your composition has an engage that forces the geometry: an Atlas ultimate or Jawhead throw that drops enemies into the center of the Starfield rather than letting them drift in from the edge. Hard engage into Yve ult is one of the cleanest mechanical sequences in mid lane.
+
+The trap conditions: any draft with Kaja or Franco available. Their suppression cancels Real World Manipulation immediately. A Kaja who has not used Divine Judgment is a timer counting down to a wasted ult. If both appear in the enemy draft and your team cannot peel them off you, pick a different mid laner.
+
+Beyond suppression, burst assassins who gap-close before the Starfield is down are the other disqualifier. Natalia, Helcurt, Benedetta, and Lapu-Lapu can reach Yve's backline in the time it takes to place S2 and start the ult. These are not matchups you play around. They are matchups you avoid at draft.
+
+The test: if you cannot name one teammate who funnels enemies into the Starfield and one enemy who cannot walk out of it in time, Yve is the wrong pick.
+
+### The one thing that makes Yve work
+
+Yve is not an artillery mage. She is a cartographer: her whole kit draws a line across the map and makes the enemy pay to cross it. The Starfield is that line in its purest form, and everything before it, the poke, the slow zones, the shield loop, exists to make the line land where you want it.
+
+The shield loop is the part most players ignore. Every skill hit on an enemy hero stacks Galactic Power, and each stack puts a shield on Yve. Land S1 and S2 on a hero and you get a health buffer that wins you the next trade for free. This is why Yve can afford to poke from slightly too far in: the same casts that build pressure are building her own survivability. A Yve who stops landing skill hits stops being a shielded frontline mage and becomes a squishy target with a slow spell.
+
+The ult is the punchline, not the setup. Placed over an escape route, the Starfield immobilizes anyone who crosses its border, once per target, then keeps attacking whatever is trapped inside. Yve's real job in a fight is deciding where that border sits. Everything else in the kit exists to make it land where you want it, and to keep you alive long enough to enforce it.
+
+### Laning: the first eight minutes
+
+1. **Take S1 first and use it as a movement tool, not just a poke.** S1's cooldown is short enough at level 1 that it is your wave skill, but its real value is the burst of movement speed you get for landing it on a hero. Hit the enemy mid, take the speed, and step out of their trade range before they can answer. You win the lane by having S1 up twice for every one punishment you take.
+2. **Treat S2 as a commitment, not a poke.** S2 has a long cooldown and a two-stage cast. Burning it on a wave or on a mid laner who is already backing means it is gone when you need it to lock down a path or set up the ult. Keep it for the moment you can force the enemy to walk through the beam.
+3. **Poke with your shield, not your health.** Each skill hit on an enemy stacks a shield on you, so the early-game loop is to land S1, keep the pressure up, and let the shield absorb the return poke. A Yve who is landing her spells trades favorably against most mid laners. A Yve who is missing them is just a target.
+
+### The power spike you are farming toward
+
+Enchanted Talisman into Ice Queen Wand, typically around the 10-to-12 minute mark.
+
+Enchanted Talisman solves the two things that cap Yve's early game: cooldown and mana. Its CDR stacks with the Mage Emblem to push S1's cycle down to the point where you are throwing it again almost as soon as the last one lands, and Mana Spring keeps you from backing between waves. More S1 casts means more poke, more stacks, and more shields, all from the same gold.
+
+Ice Queen Wand is the item that turns poke into a cage. Every skill hit applies a stacking slow, so the mid laner who tries to close distance after eating a few S1s is walking through molasses while you take the movement speed and leave. In fights it does the quieter job: enemies near the Starfield cannot sprint out of the border cleanly, so the immobilization catches people instead of grazing their backs.
+
+After these two items, Yve stops farming safely and starts deciding where the fight happens.
+
+### Teamfight positioning and target priority
+
+The instinct in a teamfight is to place the Starfield over the biggest cluster of enemies. That instinct is wrong. Enemies clustered in open space have the same short walk to any border, so they pick the nearest exit, cross once, and the zone has lost its geometry.
+
+The correct placement is over the exit. If the enemy is retreating after losing the front line, anchor the Starfield at the chokepoint between them and the tower. If Atlas just dragged enemies into a corner, place the Starfield over the corner exit, not the landing zone. Enemies who want to leave have to cross the border. Enemies who stay eat every subsequent attack.
+
+Three rules once the ult is down:
+1. Keep the border between you and the nearest enemy. Displacement immunity means you will not be knocked out of the ult, but it does not make you a frontliner. Stay at the range where a diver has to cross the border to reach you, then watch them get immobilized for it.
+2. Use taps on the target you need dead and swipes on the space you need held. Taps spike burst into a chosen area. Swipes lay down a slow that keeps mobile enemies from repositioning freely. Tapping everything and swiping nothing leaves carries alive. Swiping everything and tapping nothing lets them walk out.
+3. Never commit the ult while Kaja or Franco still have their ultimates available. Their suppression cancels the Starfield outright. Wait for one of them to spend it on someone else, then cast.
+
+If your support is Atlas, delay the Starfield a beat after his pull lands so enemies cluster before the border fires. If your support is pure sustain like Estes, you stay in the fight longer, but you have no peel if a diver reaches you: play the border, not the face-tank.
+
+### Itemization: defaults and flex slots
+
+Enchanted Talisman and Ice Queen Wand are locked on most games. The third item is a real conversation between Genius Wand and Glowing Wand.
+
+Genius Wand strips magic defense with every skill hit. For a hero whose S2 beam and ult land multiple times on the same target, that shred compounds: the longer a target sits in your zone, the less defense they have against the tail of it.
+
+Glowing Wand is the pick when the enemy lineup leans on shields, regen, or high-HP frontliners. Lifebane halves shields and HP regen on hit, which takes the teeth out of Uranus, Esmeralda, Khufra, and anyone buying Winter Crown to survive your ult, and Scorch keeps ticking on whoever sits in the beam.
+
+The remaining slots:
+
+- **Holy Crystal** when you are against squishies and want every ult tap to be the last one they take. The scaling magic power makes your burst decisive in the late game.
+- **Blood Wings** when you are ahead and want a regenerating shield as a safety net. You hold position through the ult, so you are actually there for the shield to matter.
+- **Winter Crown** specifically for Kaja or Franco. Used in the suppression window, it can save a cast that would otherwise be cancelled. It earns its slot only when you are certain one of them is coming for you.
+
+Boots: Demon Boots when mana pressure is the problem early. Magic Boots when Enchanted Talisman's mana regen covers you and you want the extra CDR to cycle S1 faster.
+
+Blade of Despair does not belong here. Yve does not auto-attack, cannot trigger Despair reliably, and the gold is better spent on magic power or survivability.
+
+### Mistakes that lose Yve games
+
+**Ulting while Kaja or Franco still have their ultimates.** Suppression is the one thing the Starfield cannot survive. Kaja's Divine Judgment applied mid-cast ends the ult, and the shield fades with it. Give these two a reason to spend their ultimate on someone else before you commit.
+
+**Placing the Starfield over the cluster instead of the exit.** This is the most common placement mistake. A cluster in open space walks out in under two seconds. Shift the placement toward the direction they are moving, and the border is on their path rather than behind them.
+
+**Burning S2 on poke or on a chase.** S2 has a long cooldown, and using it to chip a full-health target or to chase someone already sprinting away leaves you without your geometry tool when the fight starts. Save it for the moment you can make the enemy walk through the beam.
+
+**Starting the ult with no stacks and no shield.** The same loop that wins lane wins fights: land S1 and S2 on visible enemies before the teamfight, stack Galactic Power, and enter the ult with a shield already up. A Yve who ults with an empty passive is a squishy mage standing still inside a circle.
+
+**Ignoring the tap-versus-swipe choice.** The ult does not aim itself. Tapping everything spreads your damage so nobody dies. Swiping everything lets mobile carries walk out. Decide per second: taps to delete a priority target, swipes to hold the zone.
+
+### Key tips
+
+> [!TIP]
+> Land your skill hits before the fight starts. Every S1 and S2 hit on a hero stacks a shield on Yve, so the poke phase is the ult's armor: a Yve who entered the objective contest with her passive full is fighting with a health buffer instead of trading it away. The enemy who lets you farm stacks has already lost the fight.
+
+> [!NOTE]
+> Suppression beats displacement immunity. Yve cannot be displaced during the Starfield, but Kaja's Divine Judgment and Franco's Bloody Hunt cancel it anyway. Read the draft for these two before you ever pick Yve, let alone press the ult.
+
+> [!TIP]
+> Ice Queen Wand is why your poke wins the approach. Every S1 hit that lands slows the enemy a little more, so the mid laner who tries to walk onto you is steadily losing speed while you take S1's movement burst and back off. Enemies cannot sprint out of the Starfield border cleanly when they are already slowed.
+
+> [!NOTE]
+> The border only bites once per enemy. An enemy who crosses into the Starfield, leaves, and re-enters only gets immobilized on the first crossing. Force as many distinct crossings as you can: place the zone over a path they must cross, not around them where they touch it once.
+
+## Skills
+
+### Galactic Power (Passive)
+
+When Yve deals damage to enemy heroes with her skills, she gains Galactic Power (cooldown: 0.5s), up to 3 stacks. Each stack provides Yve with a 120 (+10*Hero Level) (+50% Total Magic Power) shield for 3s.
+
+### Void Blast (Skill 1)
+
+Yve detonates Galactic Energy at the target location, dealing 290 (+150% Total Magic Power) Magic Damage to enemies in the area. Successfully hitting an enemy grants Yve 55% extra Movement Speed (halved if a non-hero enemy is hit) that decreases over 1s.
+
+### Void Crystal (Skill 2)
+
+Yve summons a Void Crystal at the target location, dealing 220 (+40% Total Magic Power) Magic Damage to nearby enemies. Use Again: Yve commands the Crystal to fire materialized energy in the target direction for 2.7s, dealing 75 (+10% Total Magic Power) Magic Damage every 0.45s to enemies hit and slowing them by 20%. Enemies hit multiple times are slowed by an extra 4% for each hit after the first hit (up to 40%).
+
+### Real World Manipulation (Ultimate)
+
+Yve creates a Starfield that lasts 15s. Within the duration, you can Tap or Swipe the screen to attack up to 20 times. Tap: Deals 340 (+150% Total Magic Power) Magic Damage to enemies in the target area. Swipe: Deals 85 (+10% Total Magic Power) Magic Damage every 0.45s to enemies in the target area for 2.7s and slows them by 40%. Enemies leaving or entering the Starfield will be immobilized for 0.8s (only once against the same target). Yve cannot be displaced while the Starfield is active, and the Starfield will remain even if Yve is controlled (except for Suppression).
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Yve's Ultimate to cover as many enemies as possible and unleash multiple attacks on them. When the enemies run out of Yve's Ultimate, cancel it and use her 2nd Skill to slow them, then finish them off with her 1st Skill.
+- LANING COMBOS (laning): In the laning phase, use Yve's 2nd Skill to first slow the enemy from afar, then hit them with the center of her 1st Skill.
+
+## Counters to Yve (pick these against Yve)
+
+- Saber (Assassin): +3.2 pp edge. Yve's low survivability makes her a target for divers and burst damage heroes like Yin, Saber, and Karina.
+- Yin (Fighter/Assassin): +3.1 pp edge. Yve's low survivability makes her a target for divers and burst damage heroes like Yin, Saber, and Karina.
+- Fanny (Assassin): +2.9 pp edge. Fanny has a statistical edge over Yve based on ranked matchup data. Pick Fanny to gain an advantage in draft.
+- Chou (Fighter): +2.7 pp edge. Chou's durability and kit give them a strong matchup advantage against Yve throughout the game.
+- Freya (Fighter): +2.5 pp edge. Freya's durability and kit give them a strong matchup advantage against Yve throughout the game.
+- Gord (Mage): +2.4 pp edge. Gord has a statistical edge over Yve based on ranked matchup data. Pick Gord to gain an advantage in draft.
+- Hayabusa (Assassin): +2.3 pp edge. Hayabusa has a statistical edge over Yve based on ranked matchup data. Pick Hayabusa to gain an advantage in draft.
+- Pharsa (Mage): +2.1 pp edge. Pharsa has a statistical edge over Yve based on ranked matchup data. Pick Pharsa to gain an advantage in draft.
+
+## Heroes Yve beats
+
+- Lolita (Support/Tank): +4.8 pp edge for Yve.
+- Barats (Tank/Fighter): +4.3 pp edge for Yve.
+- X.Borg (Fighter): +3.5 pp edge for Yve.
+- Hylos (Tank): +3.1 pp edge for Yve.
+- Minotaur (Tank/Support): +3.0 pp edge for Yve.
+- Faramis (Support/Mage): +2.7 pp edge for Yve.
+- Lapu-Lapu (Fighter): +2.6 pp edge for Yve.
+- Akai (Tank): +2.5 pp edge for Yve.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/yve.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Zone Control (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Ice Queen Wand, Glowing Wand, Divine Glaive, Blood Wings
+- Core: Enchanted Talisman, Ice Queen Wand, Glowing Wand
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Flicker
+- Flex: Arcane Boots over Magic Boots when Use when your team already covers cooldown tempo and early Magic Penetration matters more than repeated poke cycles.; Wishing Lantern over Blood Wings when Use against high-HP front lines that stay inside Void Crystal and Starfield long enough to trigger current-HP damage.; Winter Crown over Blood Wings when Use when one diver can still reach Yve before the Starfield zone has forced the fight apart.
+- Total cost: 10940 gold
+
+Default ranked mid build that keeps Yve's cooldown loop, slow stacking, burn pressure, and late penetration online for objective zones.
+
+### Frontline Siege (Mid)
+
+- Items: Magic Boots, Glowing Wand, Ice Queen Wand, Wishing Lantern, Divine Glaive, Blood Wings
+- Core: Glowing Wand, Ice Queen Wand, Wishing Lantern
+- Emblem: Mage Emblem with Rupture, Bargain Hunter, Impure Rage
+- Battle spell: Flameshot
+- Flex: Enchanted Talisman over Blood Wings when Use when repeated river fights are draining mana before Lord setups and you need more cooldown headroom.; Genius Wand over Blood Wings when Use when your team has multiple magic damage threats that can exploit stacked Magic Defense reduction.; Holy Crystal over Blood Wings when Use when your front line reliably peels and the last slot can stay pure damage.
+- Total cost: 11120 gold
+
+Anti-frontline setup for tankier drafts where Yve is allowed to keep enemies inside layered slows and current-HP magic damage.
+
+### Anti-Dive Control (Mid)
+
+- Items: Tough Boots, Enchanted Talisman, Ice Queen Wand, Glowing Wand, Winter Crown, Divine Glaive
+- Core: Enchanted Talisman, Ice Queen Wand, Winter Crown
+- Emblem: Mage Emblem with Inspire, Pull Yourself Together, Impure Rage
+- Battle spell: Purify
+- Flex: Magic Boots over Tough Boots when Use when the enemy dive is damage-heavy but not crowd-control-heavy enough to justify Fortitude and Purify together.; Blood Wings over Winter Crown when Use when the enemy cannot hard-engage Yve and permanent shield plus movement is more valuable than Frozen.; Immortality over Divine Glaive when Use in closing Lord fights where one death after a failed Starfield position loses the base.
+- Total cost: 10740 gold
+
+Defensive mid build for hard pick and dive drafts where Yve must survive the first lockout before committing Real World Manipulation.
+
+All builds for this hero: https://mlbbhub.com/builds/yve.
+
+## Synergies
+
+- Minotaur: Yve's works best with Tanks and Supports with strong CC to lockdown enemies for her Ultimate, like Minotaur, Gatotkaca, and Atlas.
+- Gatotkaca: Yve's works best with Tanks and Supports with strong CC to lockdown enemies for her Ultimate, like Minotaur, Gatotkaca, and Atlas.
+- Atlas: Yve's works best with Tanks and Supports with strong CC to lockdown enemies for her Ultimate, like Minotaur, Gatotkaca, and Atlas.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

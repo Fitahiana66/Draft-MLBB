@@ -1,0 +1,202 @@
+# Miya, Moonlight Archer
+
+> Miya is a backline punishment test, not a comfort pick. She wins when your draft buys her one protected firing lane and loses when the enemy can reach her before her second item lands. The buttons are simple. The judgment is not.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Finisher, Damage
+- Difficulty: Easy
+- Tier this patch: B
+- Win rate: 49.43%
+- Pick rate: 2.59%
+- Ban rate: 6.47%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/miya
+
+## Guide
+
+### The drafts that let Miya breathe
+
+Miya is correct when the game is likely to become front-to-back and wrong when the game turns into a dive race.
+
+Pick her when your roam or EXP lane can pin the first diver in place, when the enemy gold laner is farming instead of hard-punishing lane, and when the enemy backline wants to stand close enough for Moon Arrow to splash through more than one body. She likes drafts with Tigreal, Atlas, Khufra, Angela, or any support shell that can hold one square of ground long enough for her basic attacks to matter. She also likes enemies who announce their entry instead of teleporting onto her face.
+
+She is a trap pick into double dive or layered catch. Kaja and Franco are still miserable because Hidden Moonlight removes debuffs, not suppression. Brody, Clint, and Beatrix are lane problems for a different reason: they force trades before Miya has the damage or range control to answer cleanly. If your first thought in draft is "I can outscale this," but your second thought is "our roamer is leaving gold lane alone for the first Turtle," the pick is already on thin ice.
+
+The clean test is simple. Ask whether your team can protect Miya after the first contact, not before it. Every team can stand in front of her for three seconds while nothing has happened yet. The real question is whether anyone can still peel when the assassin finally commits. If the answer is no, lock a safer marksman.
+
+### The one thing that actually makes Miya work
+
+Miya is not a duelist in the normal marksman sense. She is a punishment machine for enemies who stay in her screen too long.
+
+Her whole kit is built around one loop. Basic attacks stack Moon Blessing. Full stacks add the passive shadow hit, and Moon Arrow turns every attack into a small spread-damage event whose extra arrows inherit a portion of your attack effects. Patch 2.2.16 ([patch notes](/patch-notes)) trimmed that shadow hit and fixed it incorrectly triggering attack effects, so the free damage at full stacks is smaller than it was. The loop itself is untouched. Miya still does not win because of one dramatic button. She wins because one clean firing window becomes impossible to trade into once the stacks are already loaded.
+
+That is why Hidden Moonlight gets misplayed so often. Most players treat it like permission to start the fight. It is better read as a reset button that gives back full passive stacks and lets Miya reappear on the angle that matters. If you spend it just to walk in, you gave away the one tool that lets you survive the counter-engage.
+
+Arrow of Eclipse matters for the same reason. It is not a fishing hook to throw from max range whenever the icon lights up. It is the pin that keeps someone inside your firing lane after they already stepped too far forward. Root a diver after they commit, or pin a carry your tank has already displaced. Do not spend it hoping the fight will start because you pressed S2 first.
+
+The other rule never changes: Hidden Moonlight does not save Miya from suppression. If Kaja or Franco is the real threat, your answer is spacing, vision, and teammates, not faith in the cleanse icon.
+
+### Laning: the first five minutes
+
+1. **Take Moon Arrow first and make the wave do the work.** Miya's first job is not bullying lane. It is clipping the minion line and the enemy hero with the same activation so the extra arrows pay for both farm and chip damage. If you are toggling S1 for hero poke only, you are spending mana to feel active instead of building a real gold lead.
+2. **Use Arrow of Eclipse as a punish, not as an opener.** Hold it until the enemy gold laner walks past the caster line, your roam actually shows, or the enemy jungler reveals on the wrong side of the map. Miya does not have the tools to miss S2 and then hold lane priority anyway.
+3. **Spend battle-spell tempo only when it changes the lane state.** Inspire is worth using to finish a kill, break a freeze, or force the enemy marksman off the wave before plates fall. Flicker is worth using only if it prevents a death that would cost you the lane. Neither spell should be burned for a random early chase, because Miya without spell tempo becomes the easiest repeat gank on the map.
+
+### The two-item window that changes everything
+
+The spike you are farming toward is **Windtalker plus Berserker's Fury**, usually in the **8 to 10 minute** window if the lane has been stable.
+
+Before that point Miya is mostly a threat in theory. She clears waves fine, punishes obvious mistakes, and dies the moment a real fight gets layered onto her. After those two items, the threat becomes practical. Windtalker adds the recurring extra hit that keeps her clear fast and makes side targets pay for standing near the main target. Berserker's Fury gives the crit floor that turns those repeated arrows from annoyance into a health-bar problem.
+
+What changes mechanically is not just the number on the basic attack. It is the amount of time enemies are allowed to stand in front of her. Before two items, the enemy carry can often eat the first second of damage and still walk out. After two items, one clean root or one tank engage is enough for Miya to cash the whole trade in before the enemy backline resets.
+
+This is also why panic-fighting on one item throws so many Miya games. Windtalker alone gives speed and tempo, but not enough certainty. Berserker's Fury is the point where her damage starts arriving fast enough to matter before the dive reaches her. Until then, farm is the plan. Not bravery.
+
+### Teamfights are won before Miya starts shooting
+
+The common Miya mistake is walking into a fight with Hidden Moonlight already active as if invisibility itself is the win condition. It is not. The real win condition is showing up on the correct angle after the enemy has already committed to the wrong target.
+
+1. **Stand where your peel lands, not where your tank begins.** Miya should be one layer behind the first engage so that any diver reaching her has already crossed allied crowd control. If you stand shoulder-to-shoulder with your front line, you turned their peel into decoration.
+2. **Hit the target your team can keep inside your range.** Miya does not need to tunnel the nearest tank just because she has spread damage. If the enemy assassin is diving and your support can lock them, burn the assassin. If the diver is still untouched and their marksman is the hero trapped in your tank's combo, kill the trapped marksman first. Your target priority is about certainty, not ideology.
+3. **Hold Hidden Moonlight for the second movement, not the first.** Let the first wave of cooldowns show itself. Then cleanse the slow, vanish the skillshot line, and reappear with full stacks already loaded. Miya is strongest when the enemy thinks they finally found her angle and discovers they only found the old one.
+
+Support edge case: with Angela or Estes behind her, Miya can step half a screen further forward after the first engage lands because the sustain covers one positioning mistake. Without that protection, assume every extra step is lethal and stay greedy about distance.
+
+### Locked slots, then real conversations
+
+Miya's default shell is still a crit shell, not a random pile of attack-speed items. The locked core is **Swift Boots, Windtalker, Berserker's Fury, and Haas's Claws**. That set gives her the attack-speed floor, crit conversion, and sustain she needs to keep autoing through real fights instead of only through highlight clips.
+
+Boots are the first conversation. Swift Boots is the normal answer because Miya scales directly with attack cadence. Tough Boots makes sense only when the enemy draft has enough chain control that one shorter stun decides whether Hidden Moonlight can even be pressed. Warrior Boots is a niche answer into oppressive physical poke lanes, not a standard buy.
+
+After the core, read the lobby instead of repeating one six-slot template:
+
+- **Malefic Roar** when the enemy front line is buying real armor and your damage starts sticking to tanks without moving their health bars.
+- **Wind of Nature** when the main threat is a physical assassin or a marksman who wins the all-in before your team can peel.
+- **Rose Gold Meteor** when the scary damage is magic burst or poke and you need one shielded reset to stay in the fight.
+- **Sea Halberd** when sustain or shielding is the reason your target survives the first firing window.
+- **Demon Hunter Sword** when the enemy has two heavy-HP frontliners and the fight length matters more than your crit ceiling.
+
+One important pivot rule: Golden Staff is not a free add-on to the crit shell. It converts critical chance into attack speed. If you buy it, you are choosing an on-hit direction and giving up the reason Berserker's Fury and Haas's Claws were strong in the first place. Commit to one idea.
+
+### Mistakes that turn Miya into free gold
+
+**Blind-picking her into lane bullies and calling it scaling.** Brody, Clint, and Beatrix do not beat Miya because they outscale her. They beat her because they ask harder questions before her item window shows up. If the enemy lane can force HP trades on demand and your roam is not covering, the game becomes damage control from minute one.
+
+**Throwing Arrow of Eclipse from max range to start every fight.** A missed S2 does not just waste crowd control. It tells the enemy exactly when Miya cannot punish a step forward. Use it after someone is already committed or already displaced.
+
+**Using Hidden Moonlight as an entrance instead of a reset.** Miya looks flashy when she vanishes into the backline. She also dies there. The ult is strongest when it breaks target lock, reloads full passive stacks, and changes your angle after the enemy already spent something important.
+
+**Taking the first Turtle fight on one item because your team spammed ping.** Miya is a gold-lane timer. If the map state is bad and your second item is not done, sometimes the correct play is wave, plate, and no heroics. Dying for a doomed contest delays the exact spike your team needs from you.
+
+**Showing on the side wave after the enemy assassin disappears.** Miya does not get to be lazy with fog. If Hayabusa, Ling, Natalia, or any other dive threat just left vision, your next job is not one more wave. Your next job is disappearing too.
+
+### The small edges that separate good Miya players
+
+> [!TIP]
+> Hidden Moonlight gives you full passive stacks when you leave conceal. Treat that as loaded ammo. If you ult and then wait too long to re-enter, you wasted the strongest part of the skill.
+
+> [!NOTE]
+> Wind of Nature is strongest after the enemy physical diver commits, not while they are still posturing. Pressing it early only gives them time to wait it out and finish the kill anyway.
+
+> [!TIP]
+> If your team has already forced the enemy marksman to reveal, you do not need a hero play. Miya wins many fights by taking the safest target in front of her and letting Moon Arrow punish everyone standing too close.
+
+> [!NOTE]
+> Golden Staff only belongs in an on-hit pivot. If your build still relies on Berserker's Fury and Haas's Claws, adding Golden Staff is not clever tech. It is a mixed signal that weakens your own spike.
+
+## Skills
+
+### Moon Blessing (Passive)
+
+Each time Miya's Basic Attack hits a target, she gains 5% Attack Speed for 4s (up to 5 stacks). At maximum stacks, each Basic Attack also summons a Moonlight Shadow to attack the target, dealing 25 (+20% Total Physical Attack) Physical Damage, inheriting 20% Attack Effects.
+
+### Moon Arrow (Skill 1)
+
+Miya's Basic Attacks shoot 2 extra Split Arrows, each inheriting 30% of Attack Effects. They deal 10 (+100% Total Physical Attack) Physical Damage to the primary target and 30% damage to other targets. This effect lasts 4s.
+
+### Arrow of Eclipse (Skill 2)
+
+Miya calls upon the power of Moon Eclipse in the target area, dealing 270 (+45% Total Physical Attack) Physical Damage to enemies within and immobilizing them for 1.2s. The attack then splits into 6 arrows that scatter in different directions. Each arrow deals 40 (+20% Total Physical Attack) Physical Damage and slows enemies hit by 30% for 2s.
+
+### Hidden Moonlight (Ultimate)
+
+Miya removes all debuffs and enters the Conceal state, gaining 65% Movement Speed for up to 2s (attacking ends the state early). Upon exiting the Conceal state, Miya gains maximum stacks of Moon Blessing.
+
+Skill upgrade priority: 3-1-2-0-1/2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Miya's Ultimate first to conceal herself, then find an ideal position to attack the enemy and quickly stack her Passive. Utilize her 2nd Skill to immobilize the enemy and activate her 1st Skill to enhance her Basic Attacks to hit multiple targets at once.
+- LANING COMBOS (laning): When laning, immobilize the opponent with Miya's 2nd Skill and use her 1st Skill to poke them and clear Minions at the same time.
+
+## Counters to Miya (pick these against Miya)
+
+- Belerick (Tank): +3.4 pp edge. Belerick's durability and kit give them a strong matchup advantage against Miya throughout the game.
+- Gatotkaca (Tank/Fighter): +2.0 pp edge. Gatotkaca's burst damage can eliminate Miya before they can deal sustained damage in team fights.
+- Khaleed (Fighter): +1.6 pp edge. Khaleed's durability and kit give them a strong matchup advantage against Miya throughout the game.
+- Hylos (Tank): +1.4 pp edge. Hylos's durability and kit give them a strong matchup advantage against Miya throughout the game.
+- Estes (Support): +1.4 pp edge. Estes has a statistical edge over Miya based on ranked matchup data. Pick Estes to gain an advantage in draft.
+
+## Heroes Miya beats
+
+- Obsidia (Marksman): +2.8 pp edge for Miya.
+- Saber (Assassin): +2.5 pp edge for Miya.
+- Irithel (Marksman): +2.0 pp edge for Miya.
+- Guinevere (Fighter): +1.8 pp edge for Miya.
+- Moskov (Marksman): +1.6 pp edge for Miya.
+- Kadita (Mage/Assassin): +1.4 pp edge for Miya.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/miya.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Crit Default (Gold)
+
+- Items: Swift Boots, Windtalker, Berserker's Fury, Haas's Claws, Malefic Gun, Wind of Nature
+- Core: Windtalker, Berserker's Fury, Haas's Claws
+- Emblem: Marksman Emblem with Fatal, Weapon Master, Quantum Charge
+- Battle spell: Inspire
+- Flex: Malefic Roar over Malefic Gun when Use when tanks and fighters are stacking Physical Defense and you can already fight from a protected angle.; Rose Gold Meteor over Wind of Nature when Use against magic burst or mixed dive where physical immunity will not stop the first engage.; Sea Halberd over Malefic Gun when Use when sustain, shields, or high-extra-HP front liners are keeping Miya's first target alive.
+- Total cost: 11030 gold
+
+Default ranked crit setup that turns Miya's Moon Arrow window into a fast three-item damage spike, then adds range or survivability based on who can reach her.
+
+### Front-to-Back On-Hit (Gold)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Malefic Roar, Sea Halberd
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Inspire
+- Flex: Wind of Nature over Sea Halberd when Use if a physical diver or enemy marksman decides fights before Miya can finish the frontline.; Rose Gold Meteor over Sea Halberd when Use when the main threat is magic burst and the team still needs Miya to keep hitting the nearest target.
+- Total cost: 11050 gold
+
+Anti-frontline setup for games where Miya must keep firing through durable targets and repeatedly trigger attack effects with Moon Arrow.
+
+### Safe Late Game (Gold)
+
+- Items: Tough Boots, Windtalker, Berserker's Fury, Haas's Claws, Rose Gold Meteor, Immortality
+- Core: Windtalker, Berserker's Fury, Haas's Claws
+- Emblem: Marksman Emblem with Fatal, Weapon Master, Quantum Charge
+- Battle spell: Flicker
+- Flex: Wind of Nature over Rose Gold Meteor when Use against physical burst if the main threat is a basic-attack assassin, fighter, or enemy marksman.; Malefic Gun over Immortality when Use when the enemy lacks reliable backline access and Miya needs range to finish fights without stepping forward.; Athena's Shield over Immortality when Use against one-shot magic engage that kills Miya before Immortality can create a playable second life.
+- Total cost: 10930 gold
+
+Defensive late-game setup for CC-heavy or burst-heavy drafts where Miya must survive the first engage before using Hidden Moonlight to re-enter.
+
+All builds for this hero: https://mlbbhub.com/builds/miya.
+
+## Synergies
+
+- Tigreal: Miya works well with Tanks who have powerful CC abilities like Belerick and Tigreal since their CCs give her more opportunities to dish out damage.
+- Belerick: Miya works well with Tanks who have powerful CC abilities like Belerick and Tigreal since their CCs give her more opportunities to dish out damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

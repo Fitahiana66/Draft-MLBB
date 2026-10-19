@@ -1,0 +1,215 @@
+# Carmilla, Shadow of Twilight
+
+> Carmilla is not a crowd control support, she is a crowd control multiplier. Her ultimate links enemies together, so a stun or knockback that lands on one enemy lands on them all, and burst damage rolls across the chain. The hero only works when the enemy draft gives you that chain to link.
+
+## Snapshot
+
+- Role: Support, Tank
+- Lane: Roam
+- Also played (MLBBHub editorial, not Moonton's listed lane): EXP
+- Specialty: Crowd Control, Damage
+- Difficulty: Easy
+- Tier this patch: S
+- Win rate: 53.83%
+- Pick rate: 1.16%
+- Ban rate: 15.58%
+- Released: 2020
+- Page: https://mlbbhub.com/heroes/carmilla
+
+## Guide
+
+### When Carmilla's link actually pays
+
+Carmilla's early Crimson Flower damage is real and her defense theft is sharp, so the hero she closes on in the early game actually bleeds instead of just getting stunned. That makes her a stronger lane shadow, but it does not change the one question that decides the pick, which is mechanical and not vibes-based: **will the enemy team stand within 2-3 hero widths of each other during a teamfight?** If the answer is no, her ultimate is a long cooldown that links one hero to nobody and you are a 4v5 roamer for the next minute.
+
+Lock Carmilla when the enemy draft has two or more of these:
+
+- A grouped backline that cannot peel itself. Pharsa needs to channel. Aurora needs to aim. Karrie has no dash. Julian's trick only works at melee range. Any of them standing next to their support is exactly the shape Carmilla's ultimate wants.
+- A tether-dependent duo. Angela attached to her carry, Rafaela keeping up with hers, Estes holding his ring. Curse of Blood links the support and the carry together and then your Aurora ultimate hits both for full damage instead of one.
+- A slow engage tank already in the enemy roster. Tigreal, Khufra, or Atlas will walk the whole enemy team into your ultimate for you. Atlas pulling five heroes into a cluster that you then link is the single best scripted outcome this hero has.
+
+Avoid Carmilla when:
+
+- The enemy has two or more skirmish heroes with dashes through your ultimate. Fanny can cable out of the link. Lancelot, Ling, Benedetta, and Harith all break the leash by simply pressing their mobility. Linked enemies break the chain by moving apart; mobility heroes do that without thinking.
+- The enemy carry is Wanwan or Hanabi. Wanwan's ultimate goes untargetable and strips control effects. Hanabi's passive ricochets damage and her ultimate grants CC immunity. Both of them walk out of your best teamfight cooldown.
+- Your own comp has no follow-up damage. Carmilla's link amplifies what lands on it. If the burst hero on your team is Chou's ultimate, you paid a draft slot for a hero whose best moment is somebody else's cooldown.
+
+If you cannot name which of those conditions your current draft is in, Carmilla is the wrong pick.
+
+### The one thing that makes Carmilla work
+
+Every Carmilla conversation comes back to one word: sharing.
+
+Her passive steals defense in reverse, peeling armor and magic resist off every hero she hits and stacking it on herself up to five times. Her Bloodbath stun is short on one target, but when that target is inside a five-enemy link, the stun is shared at full duration to the other four, so one small stun becomes a five-person stun. Her Crimson Flowers trail damage and healing around her in a long window, and every flower that hits a linked enemy broadcasts the same share of its damage to every other linked enemy for free.
+
+The defense steal is why she is a tank. The stun-share is why she enables assassins. The damage broadcast is why a modest S1 heal keeps her full in a 4v5 she is somehow winning. None of those are the reason you pick her. The reason you pick her is the shared crowd control, because shared crowd control is the one effect in this game that scales geometrically instead of linearly. A Tigreal ultimate is good. A Tigreal ultimate that hits five people because four of them were linked to the one he caught is game-over good.
+
+### The first five minutes as a Carmilla roamer
+
+You are not a laner. You are not a jungler. You are the hero who decides whether the 2-minute invade happens and whether the 3:30 Turtle is contested.
+
+1. **Level 1: take Bloodbath.** The activation gives a burst of decaying movement speed, which is how you cross half the map before minions even spawn. Path to the enemy buff quadrant if your jungler opens green, hover the opposite buff if they blue-invade. You do not need S1 yet. You need legs.
+2. **Level 2 and 3: shadow your jungler.** Your S1 burst on a target you have closed onto is no longer a rounding error, so a Carmilla shadow is now a genuine two-person threat instead of pure stun delivery. The stun on Bloodbath re-cast is still the part that turns a failed gank into a kill. Sit just off-lane, watch the jungler's pathing, and re-cast Bloodbath on the lane opponent the moment the jungler enters skill range. Do not open with Bloodbath: you need the travel version to catch the rotation, and the stun version goes on cooldown the moment you burn the travel version.
+3. **First Turtle window (2:30-3:30): set up vision on the side you want to contest, then sit in the river brush.** Turtle fights for Carmilla are not about damage, they are about getting the ultimate off on the third enemy who walks in late. If you burn Flicker to engage and your team does not follow, you have traded a long cooldown to disrupt a Turtle pull that your jungler was losing anyway. Hold Flicker for the re-engage, not the open.
+
+> [!NOTE]
+> Carmilla's ultimate is not a first-fight tool until level 6. If the enemy tries to invade at 0:45, your job is to be present, not to engage. Activate Bloodbath, body-block the chokepoint, and let your jungler decide whether to fight. A level-1 Carmilla with no ultimate does not win skirmishes; she just survives them.
+
+### The power spike you are farming toward
+
+Carmilla's power spike has nothing to do with her own items. It is the minute the Curse of Blood link goes from "I set up Aurora" to "the enemy team melts together."
+
+The hard spike is **Cursed Helmet plus Dominance Ice, which usually lands between 8 and 10 minutes** on a healthy roam gold curve. Before that point you are a stun battery. After it, three things change at once:
+
+- Cursed Helmet's Burning Soul aura burns nearby enemies for a share of their max HP every second. When five enemies are linked to each other and you are standing next to one of them, the aura ticks on the linked target and broadcasts the same share to the other four. One Cursed Helmet turns the whole link into a team-wide damage-over-time.
+- Dominance Ice punishes everyone who crowds around you: Lifebane cuts the Shield and HP Regen of every enemy within its 5-unit radius to 60% of normal, and Fortress Shield stacks Hybrid Defense for each of them. Once you are standing inside the link, every linked enemy close enough to reach you is taking both effects at once, and your S1 keeps stacking on targets whose sustain is being suppressed.
+- Your armor and magic resist jump at the same second, which is when your passive defense steal stops being a curiosity and starts being the reason Aurora's Mystery Frost stopped killing you in one combo.
+
+Before the spike, the link is a setup for allies and you stay at the edge. After the spike, you walk into the middle of the link yourself, because your stacked defense steal and both item passives keep you alive while the enemy team is taking the damage-over-time. The rule of thumb: if you cannot name which of those two items you just bought, you are still in the "set up Aurora" phase and you should not be walking into 1v3.
+
+### Teamfight positioning and target priority
+
+The reflex when you have Curse of Blood up is to throw it on the enemy tank. That reflex is usually wrong. The tank is already the least valuable link target because the tank wants to be crowd-controlled and taking damage. What you want linked is the enemy carry and the enemy support, so that when your team kills the support, the carry takes a share of that damage and inherits the same crowd control that killed the support.
+
+Three positioning rules, in order:
+
+1. **Angle the ultimate to catch the backline, not the frontline.** Curse of Blood takes a beat to travel before the damage and link resolve. A good enemy tank will walk out of the zone. The marksman who is auto-attacking your carry has to stop moving to deal damage, so the marksman does not dodge. Aim past the tank into the DPS pocket.
+2. **Open with Bloodbath, not with ultimate, when you are not already in range.** The movement burst from Bloodbath activation is how you close the final gap. Activating Bloodbath, walking through the enemy frontline, and then dropping the ultimate behind them puts four linked enemies between you and your team. Ulting from outside the engage puts one linked enemy between your team and five enemies.
+3. **Stand on the linked enemies, not next to your carry.** Carmilla's S1 only damages and heals when the flowers actively orbit her and collide with a hero. Staying next to your Karrie means your flowers orbit empty air. Walking into the linked cluster means every flower rotation tags multiple heroes, and the damage broadcast from every flower hit layers on top of each other. Your carry does not need you adjacent; she needs you alive and generating pressure deep in the enemy team.
+
+One support-conditional edge case: if your roam pairing is Estes, you walk deeper. His Blessing of Moonlight keeps you full in the middle of the link, which is the only time it is correct to use Flicker to push past the enemy frontline instead of saving it. If your pairing is Diggie, you do not push up: Diggie's cage saves your backline, not you, so you stay on the carry and link from the edge.
+
+### Itemization: defaults vs flex slots
+
+Carmilla has four locked slots and two real conversations. The locked slots: **Tough Boots or Demon Boots, Cursed Helmet, Dominance Ice, Oracle**. Tough Boots into two or more AP threats for the crowd control reduction. Demon Boots into an all-physical enemy to keep S1 spammable via the mana recovery passive. Oracle's Bless passive amplifies the shields and HP regen you receive, which includes the heal-per-hit on your own S1, which is why Oracle is the single most efficient item on the hero and stays in every build.
+
+The two flex conversations:
+
+- **Magic defense vs physical defense:** Athena's Shield against any two of Pharsa, Aurora, Valentina, Cecilion, Vale. Antique Cuirass against any two of Karrie, Beatrix, Moskov, Paquito, Thamuz. Never both. If the enemy team is mixed, Radiant Armor is the compromise (magic resist stacks per hit) but it is a compromise, not a first choice.
+- **Sixth slot:** Immortality by default for the revive. Glowing Wand if the enemy comp has three or more high-HP frontline heroes and you need the burn-over-time to actually kill them; Glowing Wand also carries Lifebane anti-heal, though Dominance Ice already covers that in most fights. Brute Force Breastplate if you find yourself kiting backward after every Bloodbath engage and need the stacking movement speed to stick to targets.
+
+On battle spells: **Flicker is correct.** Vengeance looks appealing because of the reflect, but it reflects a share of the damage you take, which means it is only valuable while the enemy is already committed to you. That is not Carmilla's problem. Her problem is getting the ultimate onto the right cluster and having a second engage afterward, and the teleport solves both. Save Flicker for the re-engage after your first ultimate: Flicker-into-ultimate is a second window of shared CC, and that second window wins games your first one set up.
+
+Emblem default is Support for the cooldown reduction and movement speed, which buy you an extra ultimate per game and an extra Bloodbath per fight. Tank emblem is the fallback into a comp you are scared of physically: four or more burst threats, no peel on your backline. Do not agonize over the talent row; the emblem stats matter more than the talent choice at this CDR level.
+
+### Mistakes that lose Carmilla games
+
+**Opening Curse of Blood on one enemy.** The ultimate shares effects between linked targets, so linking one enemy to nobody is not a link, it is a single-target nuke with a short immobilize, which is worse than your S2 in every metric that matters. If you cannot see two enemies standing within ultimate radius of each other, hold it. The hero who throws ultimates at single targets because the fight "feels" like it is happening is the hero who is without an ultimate for the next minute.
+
+**Burning Bloodbath activation to rotate when you are about to fight.** The skill has two modes: activate for a burst of decaying movement speed, then re-cast within a short window to stun the target. Using the activation purely for travel and letting the window expire means the stun re-cast goes on cooldown without ever landing. If a skirmish is close, do not press Bloodbath to rotate faster; walk, and enter the fight with the stun available. Rotating with Bloodbath is correct only when the fight is already over or has not started.
+
+**Standing next to your carry in the teamfight.** Carmilla's S1 Crimson Flower deals damage and heals per flower hit only when the flowers collide with a hero. A Carmilla hugging her Karrie has her flowers spinning through empty air while Karrie takes the damage meant to be shared across five linked enemies. The correct position is on the cluster, not on the carry. Your Tough Boots and Oracle exist so that you can be the one inside the enemy team.
+
+**Ulting through a Fanny cable or a Harith dash.** Linked enemies break the chain by moving apart, and dash heroes move apart the instant they press their mobility. If the enemy has Fanny, Ling, Harith, Lancelot, or Benedetta, you need to ultimate *after* they commit their mobility, not before. Bait the dash with your Bloodbath stun (they use Purify or their second dash to escape), then drop the ultimate on them and their team while the dash is on cooldown. Ulting first trains you into paying a long cooldown for a link that dissolves immediately.
+
+**Building a fifth damage item because you "have high damage stats in the profile."** Carmilla's in-game stat sheet lists her as Damage / Crowd Control. The damage number is a lie in practice: her ultimate is a crowd-control tool on a long cooldown, and her repeating sources scale weakly with magic power. Building Genius Wand or Concentrated Energy on Carmilla produces a squishy support who dies in the link she created. Your job is to be the node the link is centered on, not the burst. Leave damage items for the Aurora who you are enabling.
+
+### Key tips
+
+> [!TIP]
+> The delay on Curse of Blood is the cast animation, not a channel. You can Flicker mid-cast to reposition the zone. A Flicker-into-ultimate targeted past the enemy frontline lands the link on the backline at a range nobody expects, and Bloodbath stuns them before they process what happened.
+
+> [!NOTE]
+> Shared crowd control from Curse of Blood follows the link for its full duration. If your Aurora freezes one linked enemy late in the link, the freeze still propagates. Tell your Aurora to hold her ultimate for your second-wave engage, not the opening: the link is still active long after your animation finishes.
+
+> [!TIP]
+> Dominance Ice's Lifebane is a short-range aura that only reaches enemies within about 5 units of you, so a backline healer who stays outside that radius can heal freely. Against Estes or Floryn compositions who heal from the back, consider adding Glowing Wand: its Lifebane triggers on your own damage output, so you anti-heal the backline even when they stand out of reach of Dominance Ice's aura.
+
+> [!NOTE]
+> Vampire Pact stacks reset on a per-enemy cooldown but persist long enough to matter. Against a single high-damage target (Lancelot, Aamon), weaving in basic attacks between Bloodbath re-casts builds stacks faster than chasing one big combo. Full stacks against an assassin strip a serious chunk of their armor, which is the difference between dying in their burst and walking out of it.
+
+## Skills
+
+### Vampire Pact (Passive)
+
+Each time Carmilla deals damage to an enemy hero, she steals 6-13 Hybrid Defense (scales with level) from them. The stolen Hybrid Defense can stack up to 5 times and lasts 5s. However, Carmilla can only steal defense from the same enemy hero once every 3s.
+
+### Crimson Flower (Skill 1)
+
+Carmilla summons three Crimson Flowers that circle around her for 5s, dealing 85 (+30% Total Magic Power) Magic Damage each time they hit an enemy and slowing them by 6% for 0.8s (the slow effect stacks up to 30%). Carmilla recovers 45 (+21% Total Magic Power) HP each time a Crimson Flower deals damage (only recovers 30% of that amount when hitting minions).
+
+### Bloodbath (Skill 2)
+
+Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5s. Use Again: Carmilla unleashes the accumulated Bloodbath Energy on the target enemy hero or Creep, dealing 150 (+120% Total Magic Power) Magic Damage and stunning them for 0.6s. The damage and stun duration scale with the accumulation time (up to 100%).
+
+### Curse of Blood (Ultimate)
+
+Carmilla casts Curse of Blood on the target location, slowing enemies hit by 50%. After 0.8s, enemies still within the area will take 450 (+130% Total Magic Power) Magic Damage, and will be immobilized for 1s, slowed by 30% and linked for 5s. When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage and become controlled for 100% of the duration. Enemies can move away from one another to break the link.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- LANING COMBOS (laning): In the laning phase, use Carmilla's 2nd Skill to get close to the opponent, then use her 1st Skill and stick to them to deal continuous damage.
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Carmilla's Ultimate to engage and slow enemies, then use her 2nd Skill to get close and CC a target, and follow up with her 1st Skill for continuous AOE damage.
+
+## Counters to Carmilla (pick these against Carmilla)
+
+- Valentina (Mage): +4.3 pp edge. Across Carmilla's measured matchups, Carmilla is weakest once matches pass 16 minutes. Take the game long with Valentina.
+- X.Borg (Fighter): +3.2 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Carmilla throughout the game.
+- Lesley (Marksman/Assassin): +2.2 pp edge. Across Carmilla's measured matchups, Carmilla is weakest once matches pass 16 minutes. Take the game long with Lesley.
+- Marcel (Support): +1.8 pp edge. Marcel has a statistical edge over Carmilla based on ranked matchup data. Pick Marcel to gain an advantage in draft.
+- Angela (Support): +1.8 pp edge. Across Carmilla's measured matchups, Carmilla is weakest once matches pass 16 minutes. Take the game long with Angela.
+
+## Heroes Carmilla beats
+
+- Popol and Kupa (Marksman): +3.6 pp edge for Carmilla.
+- Chip (Support/Tank): +2.6 pp edge for Carmilla.
+- Johnson (Tank/Support): +2.5 pp edge for Carmilla.
+- Hilda (Fighter/Tank): +2.3 pp edge for Carmilla.
+- Estes (Support): +2.3 pp edge for Carmilla.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/carmilla.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-15. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Favor CC Link (Roam)
+
+- Items: Tough Boots, Flask of the Oasis, Fleeting Time, Dominance Ice, Oracle, Immortality
+- Core: Flask of the Oasis, Fleeting Time, Dominance Ice
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Favor
+- Flex: Athena's Shield over Oracle when Use when a burst mage can remove Carmilla before she links the backline with Curse of Blood.; Radiant Armor over Oracle when Use against repeated magic poke or burn that chips Carmilla before objective fights.; Antique Cuirass over Oracle when Use when physical skill burst from assassins or fighters reaches Carmilla during her Crimson Flower channel.; Guardian Helmet over Immortality when Use when recalls are costing map control and the enemy cannot instantly punish the missing revive.
+- Total cost: 10590 gold
+
+Default ranked roam setup built around Favor, Flask, Fleeting Time, and Dominance Ice so Carmilla can survive mid-fight, steal defenses with Crimson Flower, and link as many enemies as possible with Curse of Blood.
+
+### Roam Encourage Frontline (Roam)
+
+- Items: Warrior Boots, Flask of the Oasis, Thunder Belt, Dominance Ice, Antique Cuirass, Immortality
+- Core: Flask of the Oasis, Thunder Belt, Dominance Ice
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Oracle over Antique Cuirass when Use when the enemy has multiple mages or magic damage dealers and physical burst is not the primary threat.; Blade Armor over Antique Cuirass when Use when the enemy marksman is the main damage source and Carmilla needs to reflect basic attacks while holding the frontline.; Athena's Shield over Antique Cuirass when Use when one magic burst combo can delete Carmilla before she can apply her passive heal.; Cursed Helmet over Immortality when Use when the enemy clusters for Curse of Blood and the burn aura adds meaningful damage during extended brawls.
+- Total cost: 10690 gold
+
+Tankier frontline setup for drafts that need Encourage speed and Carmilla to absorb damage while repeatedly stealing defenses and applying Thunder Belt enhanced basic attacks in close range.
+
+### Roam Purify Sustain (Roam)
+
+- Items: Demon Boots, Flask of the Oasis, Fleeting Time, Cursed Helmet, Oracle, Immortality
+- Core: Flask of the Oasis, Fleeting Time, Cursed Helmet
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Purify
+- Blessing: Favor
+- Flex: Athena's Shield over Oracle when Use when a single mage burst is the only way the enemy stops Carmilla from linking the teamfight.; Dominance Ice over Cursed Helmet when Use when the enemy draft relies on healing, shielding, or attack-speed carries that must be checked at close range.; Radiant Armor over Oracle when Use against sustained magic poke or burn that keeps tagging Carmilla between Crimson Flower cycles.; Guardian Helmet over Immortality when Use when the game has stretched into long sieges and map sustain matters more than a one-time revive.
+- Total cost: 10510 gold
+
+Defensive sustain setup for CC-heavy games where Purify guarantees Carmilla can cast Curse of Blood after being caught, while Cursed Helmet punishes enemies who cluster inside the link.
+
+All builds for this hero: https://mlbbhub.com/builds/carmilla.
+
+## Synergies
+
+- Cecilion: Carmilla is best paired with sustained damage Mages with CC abilities like Cecilion and Aurora, as her Ultimate can greatly amplify their strengths.
+- Aurora: Carmilla is best paired with sustained damage Mages with CC abilities like Cecilion and Aurora, as her Ultimate can greatly amplify their strengths.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T10:05:35.871Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

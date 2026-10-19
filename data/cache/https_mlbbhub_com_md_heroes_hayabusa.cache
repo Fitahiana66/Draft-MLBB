@@ -1,0 +1,218 @@
+# Hayabusa, Crimson Shadow
+
+> Hayabusa is an isolation assassin. He is designed to stack all four Shadow Marks on one target, delete that target, and leave before the fight starts, because the ult's hits are drawn to marked enemies. If your draft cannot create a window where one target carries every mark, Hayabusa is the wrong jungler.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Chase, Burst
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.32%
+- Pick rate: 0.92%
+- Ban rate: 2.04%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/hayabusa
+
+## Guide
+
+### Hayabusa is a pick-off hero, not a teamfight hero
+
+The draft question with Hayabusa is not whether he is strong. He is strong. The question is whether your team can actually create a 1v1 for him. Shadow Mark stacks only matter on one target at a time, and Ougi: Shadow Kill draws its hits to marked enemies, so where your marks land decides where the burst goes. Spray your marks across a grouped 5-man and the burst bleeds into a Khufra, an Estes, and two minions before it finds the Lesley you came for.
+
+That math changes which drafts want him. Hayabusa is the right call when:
+
+1. Your team has an isolation enabler (Kaja, Jawhead, Chou) that can yank or shove one enemy clear of their group so you get a solo mark target.
+2. Your side lanes can out-rotate (not out-teamfight) the enemy, forcing them to spread thin across three lanes.
+3. The enemy support is low-CC (Rafaela, Floryn, Angela) and the enemy jungler lacks counter-initiation.
+
+Hayabusa is a trap pick when:
+
+1. The enemy has Minsitthar, Franco, or Khufra. Minsitthar's ult turns Quad Shadow into a flat dash with no teleport. Franco's suppression removes your only out. Khufra chains your dashes into airborne, which is the one CC category you cannot blink through.
+2. Your team already has two ranged damage dealers and no front line. You need a tank who can hold the enemy in place for your ult to land on a single target.
+3. The enemy jungler is Baxia. His passive cuts the spell vamp you leaned on from Phantom Shuriken, and he clears faster than you for the first four minutes.
+
+If you cannot name which of those conditions your current draft is in, Hayabusa is the wrong pick. Lock Lancelot or Joy if you want a safe assassin. Lock Hayabusa when you have a plan for an isolated target.
+
+### The one thing that makes Hayabusa work
+
+Hayabusa is not a combo character. He is a stacking character. Every skill feeds one variable: how many Shadow Marks are on your kill target at the exact moment you press ult. Four marks is not a guideline, it is the entire design. The ult's attacks are drawn to marked enemies, so four stacks on one target means four of its hits land with the bonus damage, and that focus is why the hero exists. Three marks is a meaningful damage loss. Zero marks is a Phoveus with less mobility.
+
+What patch 2.1.95a changed is how much of that kill the ult does on its own ([patch notes](/patch-notes)). The ult got cut and the front of the combo got paid: Phantom Shuriken now does enough damage to be a real poke instead of just a mark delivery system, and Quad Shadow's phantom is wider and easier to land. Play it as a sequence that is already hurting before the ult fires, not as a mark-spray followed by one button that does the work.
+
+This is why Phantom Shuriken always gets priority over Quad Shadow in the combo, even though S2 is the flashy movement skill. S1 plants marks via three returning shurikens, and every shuriken that connects applies a stack, so a target pinned against a wall can take several from one cast. S2 plants a mark through the phantom that attaches to the target as you dash in. The correct opening is almost always S1 first at range to land marks, then S2 in to plant the remaining stacks via the phantom hit, then ult. Reversing the order (S2 engage, S1 spray, ult) works against squishies but wastes your damage ceiling on anything with defense items.
+
+The passive is why Hayabusa rewards patience instead of aggression. Shadow Marks linger on the target for long enough that you can pre-mark a carry during an objective setup, walk into fog, and come back to ult without re-stacking. That is the rhythm of a good Hayabusa: mark, fog, mark, fog, kill.
+
+### Laning: the first four minutes
+
+Hayabusa's clear speed is average and his level 2 is weak compared to Ling or Lancelot. You are not ganking at level 2. You are setting up level 4.
+
+1. **Red buff first, clear both side camps, invade if possible.** Your spell vamp from Phantom Shuriken's passive does not exist yet at level 1, so conserve energy by letting the shurikens auto-return before recasting. Use Retribution on the second red buff stack to secure it and avoid smite battles; Baxia, Fanny, and Balmond will contest.
+2. **Do not gank before level 4.** You need S1 leveled twice for the spell vamp scaling, S2 once for mobility, and the third point back into S1 for marks and sustain. A level 4 Hayabusa with the blue buff is the first actual threat window, not a second earlier.
+3. **First gank target is the solo laner with no dash and no shield.** Walk in from fog, S1 at range (three shurikens is hard to dodge in a narrow lane), dash in with S2 to plant the remaining marks via a phantom hit, then ult only if the target is already below roughly 60% HP. If they flashed out, collect energy from the shuriken passive and leave. Never ult into an even 2v2 early. You will not have all four marks cleanly stacked on one target in that scramble, and an early ult with diluted marks is not enough damage to secure the kill.
+
+### The power spike you are farming toward
+
+Hayabusa's real power spike is Ice Retribution, Magic Boots, and Hunter Strike together. Ice Retribution is the jungle item for this pick, and its active steals movement speed from the enemy hero it hits, which is exactly the control Hayabusa needs to keep a marked target inside the ult circle. Magic Boots is the cheapest CDR boot and the one item that makes his combo cycle actually flow. Hunter Strike stacks another slice of CDR on top, plus a movement-speed burst after five hits that solves a problem the rest of his kit cannot. After patch 2.1.40's 20% cut to Quad Shadow's travel distance, Hayabusa needs the Hunter Strike speed window to cover the gap his S2 used to close alone ([patch notes](/patch-notes)).
+
+This spike lands around the 8 to 10 minute mark on a normal clear. Before it, you are a ganker. After it, you are a killer. Specifically, you go from "one rotation, one kill if I set it up perfectly" to "one rotation, one kill, on schedule": the CDR brings every combo cycle back before the enemy regroups, and the free Quad Shadow recast teleport is always ready for the exit. The difference is not damage, it is repetition. A Hayabusa who can gank on every cycle snowballs faster than any assassin in the game except Fanny.
+
+Sky Piercer is the natural third item against squishy-heavy comps. Its execute threshold starts small and scales up on every kill, which matches Hayabusa's identity: he does not teamfight, he picks off, and every pick raises the threshold for the next pick.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a grouped enemy team is to ult into the fight. That reflex loses games. Ougi: Shadow Kill draws its hits to marked enemies, so it is only decisive when one target carries all four marks and no other body is in the circle. Ulting into a 5-grouped team with your marks scattered across it is rolling dice: each marked enemy soaks its share of the hits, and nobody dies. This is the single most counterintuitive rule on Hayabusa and it separates bad Hayabusas from real ones.
+
+1. **Find the one target who has drifted two steps away from their team.** A Lesley who stepped up to poke. An Estes who lagged behind for mana. A Wanwan kiting alone toward a side bush. That is your ult target, not the one with the lowest HP bar.
+2. **Quad Shadow into the side, not the middle.** You want your phantom hit on the target you actually care about, not on the tank between you and them. S2 placement decides whether you land all four marks on Lesley or two on Khufra and two on Lesley. You want the second scenario to never happen.
+3. **Ult and leave, do not chain into a second combo.** The ult's long cooldown, even at max level, is the real limiter on Hayabusa's teamfight participation. If you spend energy trying to clean up a second kill, you get caught with no escape. The correct play is ult, confirm the kill with the Quad Shadow recast teleport, and walk back into the fog for the next rotation.
+
+If your support is Mathilda, you get to push further up because her ult is a guaranteed disengage. If your support is Tigreal or Khufra with their engage already spent, you do not get a rescue. Hold your ult until the next initiation window.
+
+### Itemization: defaults vs flex slots
+
+Four locked slots, two real conversations.
+
+Locked: Ice Retribution (jungle item), Magic Boots, Hunter Strike, Blade of the Heptaseas. The first three are the power spike from the previous section, and they work as one unit: Ice Retribution's slow-steal pins the target inside the ult circle, Magic Boots' CDR keeps the combo flowing, and Hunter Strike's speed burst covers the retreat. Blade of the Heptaseas is the fourth item because its out-of-combat passive gives you a free burst hit on every gank opening. Hayabusa's stealth walk in from fog naturally fulfills the passive window, which makes this item unusually efficient on him specifically.
+
+The two flex slots are slots 5 and 6. Pick from:
+
+1. **Sky Piercer against squishy-heavy comps.** The execute threshold stacks with your kill count, which matches how Hayabusa snowballs. Do not build this against a Fredrinn plus Belerick front line; the execute never triggers on anyone who matters.
+2. **War Axe when you need sustain in extended fights.** The CDR stacks with your other sources, the spell vamp helps Phantom Shuriken's self-heal scaling, and the true-damage stacks at full-stack mean your multi-hit ult actually matters against tanks.
+3. **Endless Battle as a midgame tempo choice.** The true damage on the first basic after a skill cast synergizes with Shadow Mark application. Build this if you are fed at 8 minutes and want to close the game before Sky Piercer scaling matters.
+4. **Malefic Roar against tank stacks.** Its penetration grows with the enemy's armor, which is the hard counter to a Fredrinn / Edith / Khufra front line when your team has no other penetration source.
+5. **Immortality if you are being focused.** A second life after a failed dive is worth more than any single damage item when the enemy has two assassins hunting you personally.
+
+Blade of Despair is the common last-slot default and also the worst individual item on Hayabusa. Its passive triggers on enemies below half HP, which is the exact range your Sky Piercer and Shadow Mark stacks already cover. You are stacking a damage amp on top of a damage amp, when you could have bought penetration or sustain you are actually short on. Build it only when every other slot is full and you have nothing left to fix.
+
+For emblem, Assassin Emblem with Rupture and Killing Spree is locked, and the real conversation is the middle talent. Seasoned Hunter is the default on the build cards and it is usually right: the jungle clear and Lord/Turtle speed are what let you reach the spike on schedule. Swap in Master Assassin when your drafts actually create isolated targets, because its lone-enemy damage amp stacks on top of the exact situation Shadow Kill wants. Battle spell is Retribution because you are jungling; there is no alternate pick.
+
+### Mistakes that lose Hayabusa games
+
+**Ulting into a clumped team with your marks spread across it.** The marks matter, and so does where you put them. Shadow Kill's hits are drawn to marked enemies, so if the tank and the support are each carrying a stray mark, the burst splits its focus across all of them. The carry you came for walks away at 30% HP while your damage bleeds into everyone else who got marked. Stack all four marks on the kill target first, then ult, or pick a different target.
+
+**Opening with Quad Shadow instead of Phantom Shuriken.** The combo is S1 then S2, not S2 then S1. Leading with S2 means you land one phantom-hit mark on the engage, dash in, then try to fit three shurikens onto a panicking target who is already running. Most of your shurikens miss and you entered the fight with one mark. Leading with S1 plants two to three marks before the target reacts, and your S2 lands the last mark as you arrive. Same skills, opposite outcome.
+
+**Burning Retribution on every creep stack when the enemy jungler is Baxia or Fanny.** Retribution's hero-slow upgrade is your best interrupt against mobility junglers. If you spend every charge on jungle camps, you have no slow ready when Fanny cables into your red buff at 3 minutes. Save one charge for contest; use Retribution on the enemy hero, not the camp.
+
+**Ulting at max range hoping the hits find everyone.** The ult is area-based, not global. You have to be inside the circle when it starts. Ulting from the edge means part of your hits miss because the target drifted out during the animation. Dash into melee range with S2, then ult. Do not reverse the order at long range.
+
+**Chasing a low-HP target through enemy vision.** Hayabusa has no real escape once S2 and its recast are both used. If you committed all your mobility to confirm the kill and the target ran into their support, you are dead. The rule is one kill, one exit. If the first combo did not secure the kill, disengage and reset, do not double-down.
+
+### Key tips
+
+> [!TIP]
+> Ult on a target carrying all four marks who is at least two body-lengths from their team, not just "the lowest HP enemy". The mark-consuming hits land on the marked target, but the leftover hits wander, so a clean circle concentrates the whole ult and a crowded one wastes the tail. A full-HP isolated Lesley with four marks is a better ult target than a half-HP Khufra standing next to two teammates.
+
+> [!NOTE]
+> Phantom Shuriken's passive grants stacking spell vamp per skill level, topping out at a substantial number at max rank. That alone is most of your early-jungle sustain. Max S1 first, not S2, even though S2 feels more useful for ganking.
+
+> [!TIP]
+> The Quad Shadow recast is also a free teleport with no cooldown cost. If your phantom landed on an enemy and you killed them, the recast still shaves time off Phantom Shuriken's cooldown. Use it after kills to reset your rotation faster, not only for mobility in-fight.
+
+> [!WARNING]
+> Minsitthar's ult turns your Quad Shadow into a flat dash with no teleport back. If you see his ult zone on the ground, do not blink into it to engage. Walk around it, or wait for it to expire.
+
+> [!NOTE]
+> Shadow Marks linger long enough that you can mark the carry during an objective setup and still ult before they expire. Pre-stacking during Lord or Turtle contests is how high-rank Hayabusas open fights, not during them.
+
+## Skills
+
+### Ninjutsu: Trace of Shadow (Passive)
+
+Hayabusa's attacks apply a stack of Shadow Mark on hit (up to 4 stacks). Each stack lasts 6s and increases Hayabusa's damage to the enemy by 5%.
+
+### Ninjutsu: Phantom Shuriken (Skill 1)
+
+Passive: Hayabusa permanently gains 3% Spell Vamp. Active: Hayabusa throws three returning shurikens in the target direction, each dealing 220 (+75% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 35% for 2s. Subsequent hits on the same enemy deal 70% less damage (only 50% less to creeps). He also restores 10 Energy when hitting non-minion enemies.
+
+### Ninjutsu: Quad Shadow (Skill 2)
+
+Hayabusa dashes in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy hero hit, dealing 130 (+30% Extra Physical Attack) Physical Damage and slowing them by 40% for 2s. Hayabusa will immediately stop if he hits an enemy hero during the dash. Use Again: Hayabusa teleports to a phantom's location and reduces the cooldown of Ninjutsu: Phantom Shuriken by 1s. If the phantom is attached to an enemy hero, he also deals 130 (+30% Extra Physical Attack) Physical Damage to the enemy.
+
+### Ougi: Shadow Kill (Ultimate)
+
+Hayabusa blends into the shadows and launches 6 single-target attacks on enemies in the area, each dealing 130 (+30% Extra Physical Attack) Physical Damage. The attacks prioritize enemies with Shadow Mark and each will consume a mark to deal 90 (+40% Extra Physical Attack) extra Physical Damage. Shadow Kill does not apply Shadow Mark.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Hayabusa should use his 2nd Skill to hit an enemy with his phantom, then use his 1st and 2nd Skill on the target to apply Shadow Mark before unleashing his Ultimate. Afterwards, use his 1st Skill to finish off the enemy and escape with his 2nd Skill.
+- LANING COMBOS (laning): In the laning phase, use Hayabusa's 2nd Skill to hit the enemy with a phantom, then strike with his 1st Skill, and use his 2nd Skill to blink away. Wait until Hayabusa's 1st Skill is off cooldown, then blink back to the enemy with his 2nd Skill and strike again with his 1st Skill followed by his Ultimate to secure the kill.
+
+## Counters to Hayabusa (pick these against Hayabusa)
+
+- Saber (Assassin): +2.7 pp edge. Saber has a statistical edge over Hayabusa based on ranked matchup data. Pick Saber to gain an advantage in draft.
+- Fredrinn (Fighter/Tank): +2.3 pp edge. Fredrinn's durability and kit give them a strong matchup advantage against Hayabusa throughout the game.
+- Eudora (Mage): +1.8 pp edge. Eudora has a statistical edge over Hayabusa based on ranked matchup data. Pick Eudora to gain an advantage in draft.
+- Popol and Kupa (Marksman): +1.7 pp edge. Popol and Kupa has a statistical edge over Hayabusa based on ranked matchup data. Pick Popol and Kupa to gain an advantage in draft.
+- Cyclops (Mage): +1.7 pp edge. Across Hayabusa's measured matchups, Hayabusa is weakest once matches pass 16 minutes. Take the game long with Cyclops.
+- Badang (Fighter): +1.2 pp edge. Badang's durability and kit give them a strong matchup advantage against Hayabusa throughout the game.
+
+## Heroes Hayabusa beats
+
+- Aamon (Assassin): +2.7 pp edge for Hayabusa.
+- Yve (Mage): +2.3 pp edge for Hayabusa.
+- Karina (Assassin): +2.1 pp edge for Hayabusa.
+- X.Borg (Fighter): +2.0 pp edge for Hayabusa.
+- Karrie (Marksman): +1.9 pp edge for Hayabusa.
+- Nolan (Assassin): +1.9 pp edge for Hayabusa.
+- Cecilion (Mage): +1.6 pp edge for Hayabusa.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/hayabusa.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Pickoff Default (Jungle)
+
+- Items: Magic Boots, Hunter Strike, Blade of the Heptaseas, Sky Piercer, Malefic Roar, Immortality
+- Core: Hunter Strike, Blade of the Heptaseas, Sky Piercer
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Magic Boots when Use when chain crowd control is the reason Quad Shadow exits fail.; Blade of Despair over Immortality when Use when Hayabusa is ahead and the enemy lacks instant lock-on punishment after the ult.; Rose Gold Meteor over Immortality when Use against magic burst when a shield and movement burst save the first dive better than a revive.
+- Total cost: 10350 gold
+
+Default jungle setup for isolating one side-lane target, cycling Hunter Strike movement speed, and using Ice Retribution to keep the marked target inside the ult circle.
+
+### Snowball Execute (Jungle)
+
+- Items: Swift Boots, Sky Piercer, Blade of the Heptaseas, Hunter Strike, Blade of Despair, Malefic Roar
+- Core: Sky Piercer, Blade of the Heptaseas, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Magic Boots over Swift Boots when Use when cooldown cycling matters more than early attack-speed tempo.; Immortality over Blade of Despair when Use once shutdown risk is higher than the value of the last raw damage slot.; Sea Halberd over Blade of Despair when Use when a healer, shield support, or high-extra-HP fighter keeps surviving the execute window.
+- Total cost: 11240 gold
+
+High-risk snowball setup for early-kill games where Hayabusa protects Sky Piercer stacks and Flame Retribution adds one more burst swing against the carry.
+
+### Anti-Armor Reset (Jungle)
+
+- Items: Tough Boots, Hunter Strike, War Axe, Endless Battle, Malefic Roar, Immortality
+- Core: Hunter Strike, War Axe, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Blade of the Heptaseas over Endless Battle when Use when the enemy backline is still the real target and you need a stronger first hit from fog.; Queen's Wings over Endless Battle when Use when Hayabusa must survive repeated counter-burst after the first Shadow Kill.; Sea Halberd over Endless Battle when Use when sustain or shield value is stopping the first marked target from dying.
+- Total cost: 11320 gold
+
+Anti-front-line setup for games where Hayabusa still needs pickoffs, but enemy armor and sustain force longer reset fights around objectives.
+
+All builds for this hero: https://mlbbhub.com/builds/hayabusa.
+
+## Synergies
+
+- Lapu-Lapu: Hayabusa works best with Fighters like Lapu-Lapu and Alpha who can initiate with him to quickly focus down key targets.
+- Alpha: Hayabusa works best with Fighters like Lapu-Lapu and Alpha who can initiate with him to quickly focus down key targets.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

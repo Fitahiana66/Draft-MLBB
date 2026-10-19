@@ -1,0 +1,199 @@
+# Martis, Ashura King
+
+> Martis is not a hero you pick to start fights. He is a hero you pick to survive the first exchange and then collect the pieces. His second skill's control immunity is the entire identity: learn when to hold it and the rest of the kit clicks into place.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: Jungle, EXP
+- Specialty: Finisher, Charge
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 47.23%
+- Pick rate: 0.61%
+- Ban rate: 0.44%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/martis
+
+## Guide
+
+### The draft conditions that make Martis worth picking
+
+Martis works best when the enemy team is built around soft CC and burst timing. He wins those games because Mortal Coil eats through grab-and-nuke combos during the cast window. What he does not beat is suppression, and he has a near-automatic counter in Phoveus, who gains massive cooldown reduction off every dash Mortal Coil generates.
+
+Pick Martis when the enemy has one or two burst assassins planning to dive your backline. His S2 counters that pattern directly: control immunity and heavy damage reduction engage the moment an assassin's CC would otherwise land. He is also effective into immobile mages and marksmen who cannot create distance after he arrives from the jungle.
+
+Avoid Martis when the enemy team has Franco or Kaja, whose suppression ults bypass control immunity entirely and can kill him through his defining defensive window. Minsitthar is a different veto: King's Calling's field blocks movement skills, which locks out the S2 re-press leap and Decimation's lunge and strands Martis without his escape. Phoveus is the other automatic veto: the three-hit structure of Mortal Coil refills Phoveus's passive so efficiently that picking Martis into him is a favor to the enemy draft.
+
+Before locking, ask yourself one question: can the enemy team CC him after S2's cast ends? If yes, and your team has no engage partner to absorb that rotation first, he is the wrong pick. The cast window is safe. The seconds immediately after it are not.
+
+### What actually makes Martis dangerous
+
+Martis is a combo-window fighter. His kit manufactures a brief period where nothing can stop him, then demands he cash out before the moment closes.
+
+When S2 first activates, Martis is simultaneously dealing damage, knocking enemies back, and running with full control immunity and substantial damage reduction for the entire cast duration. Any CC pressed into him during that window lands on nothing. Skills that would normally delete a fighter are absorbed completely. When the cast ends, a second press leaps him in any chosen direction and delivers another hit with a knockup, which is another skill activation, which stacks his passive attack speed further and resets his Endless Battle proc window.
+
+That passive is the multiplier. Each skill he uses stacks his attack speed. By the time a full rotation lands, including S1, both S2 presses, and Decimation, he is at the cap and hitting significantly harder than when the fight started. The extra attack bonus that unlocks at full passive stacks makes even the basic attacks between abilities relevant.
+
+Decimation closes the loop. Below the 50% HP threshold it deals true damage, meaning armor is irrelevant at the finish line. A target softened through S1 and S2 who is still alive at half HP is already dead to the ult. When Decimation secures a kill, the recast becomes available within ten seconds and each successive kill with it deals increasing damage. In a teamfight where two or three carries are clustered at low HP after the initial exchange, one clean ult becomes a sweep.
+
+### Jungling: the first eight minutes
+
+1. **Start your first buff and clear toward the second before the three-minute mark.** S1 is your primary camp-clearing tool: the fan-shaped pull groups creeps in front of you and the slow keeps them bunched for follow-up damage. S2 adds hits across multiple creeps simultaneously. Clear both buffs, then look at the map before recalling.
+2. **Your level-four power check is the enemy EXP laner.** If they are shoved in and trading at low health, Mortal Coil closes the gap. S1 to pull and slow, then S2 to chain into the re-press. Wait for their escape skill to be used or misdirected before committing to the dive. A failed gank burns your S2 cooldown and leaves you visible in their jungle.
+3. **Counter-jungle only after your first item is complete.** Before that threshold, a clean 1v1 duel against most junglers is not guaranteed. After War Axe, the sustain and damage reduction during S2 make exchanges favorable against non-suppress junglers. Trading into a jungler with your S2 still on cooldown is the fastest way to fall behind on a hero who needs a clean early game.
+
+### The two-item spike you are building toward
+
+War Axe and Endless Battle together are the moment Martis's extended fight becomes genuinely dangerous. War Axe rewards sustained in-melee fighting with stacking attack and, at full stacks, extra true damage on basic attacks. Endless Battle's Divine Justice proc delivers a true damage basic attack after each skill use. The Chase Fate movement speed on each proc keeps Martis attached to his target between casts rather than falling behind while waiting for the next skill.
+
+In a full rotation after both items, Martis delivers true damage from two independent sources inside the same fight window. Armor loses meaningful percentage of its value. The HP from both items (War Axe and Endless Battle together provide substantial bulk) also ensures he is not dying to a single burst combo during the post-S2 vulnerability window.
+
+Complete both items, typically in the nine-to-twelve-minute window depending on jungle efficiency, then rotate to objectives and force fights on your terms. Before that spike, avoid 1v2 situations you have not chosen. After it, you are the one choosing them.
+
+### Teamfight positioning and target priority
+
+The wrong reflex when your team initiates is to jump in with Mortal Coil first. That burns the invulnerability window before the enemy CC rotation has fired, and you exit S2 right when the enemy support's stun or the tank's grab is available.
+
+Three rules that correct this:
+
+1. **Let your initiator absorb the first CC wave.** Your tank or support triggers the enemy stuns and grabs. After that rotation is spent, you enter with S2. The control immunity is worth nothing against already-used skills. It is worth everything against the second wave.
+2. **Target the lowest-HP hero, not the most dangerous one.** Decimation's true damage conversion activates below 50% HP, and the kill recast is the payoff. A carry at 35% HP gives you a recast and the movement speed bonus. A carry at 70% HP gives you a slow ult that may or may not kill.
+3. **Point the S2 re-press toward your exit when the focus is too heavy.** The second press is a leap in any direction. After the first three hits connect, you can jump backward if the incoming damage is overwhelming instead of pushing further in. You deal full damage on the forward hits and leave before the CC lands. This is not retreating; it is the skill used correctly.
+
+If your support is Estes, his regen extends how long you can stay in the fight after S2 ends. If your support is Diggie, assume you are on your own for survivability and plan the re-press exit accordingly.
+
+### Itemization: two locked slots, four real decisions
+
+War Axe and Endless Battle are non-negotiable for the sustain-damage direction. They cover attack, HP, CDR, and the true damage layering that diminishes armor's return.
+
+The boot slot is a genuine choice. Tough Boots (30% CC and slow duration reduction) are the correct default in most games because Martis's most dangerous phase is the seconds after S2 ends, and shorter incoming CC directly reduces how long he stands exposed. Warrior Boots make sense only against a full physical lineup where the flat defense value outweighs the CC reduction.
+
+Flex slots four through six:
+
+- **Brute Force Breastplate** when you expect extended teamfights. It stacks adaptive attack and movement speed per second of dealing damage, and at full stacks it also reduces CC duration taken. This builds on the same loop War Axe rewards: stay in the fight, get stronger the longer you stay.
+- **Oracle** against burst mages or when the enemy runs healing-denial items. The 25% increase to shield and HP regen effects amplifies the regen you already have.
+- **Guardian Helmet** when you need raw HP recovery between skirmishes. The regen passive is strong on a jungler who rotates through multiple fights between recalls.
+- **Antique Cuirass** against a physical-heavy burst lineup. Each hit they land reduces their own physical damage through the Deter debuff, stacking up to three times.
+- **Blade of Despair** as the damage flex when you are ahead and the enemy is too squishy to need HP. Its below-50% HP passive layers with Decimation's true damage conversion on the exact targets you are already ulting. It is the close-out item on a lead, not the default fourth slot.
+
+### Mistakes that lose Martis games
+
+**Opening S2 into Kaja or Franco cancels the one advantage Martis has over their kit.** Suppression does not interact with control immunity. A Kaja pulling with Divine Judgment or a Franco suppressing with Bloody Hunt go through Mortal Coil without interruption. If either is in the enemy lineup, your answer to their engage is Flicker away before the hook or pull lands, not S2 into it.
+
+**Ulting a target above 50% HP when a lower-HP target is in range.** Decimation used as an opener on a full-health enemy is a wasted true damage window. Find the 40-50% HP target first, execute for the kill and the recast, then re-press onto the priority carry with the successive-cast bonus. This habit of sequencing by HP percentage, not perceived threat, is the difference between a Martis who cleans up teamfights and one who uses his ult to deal mediocre physical damage into a tank.
+
+**Using S2 on a jungle camp immediately before a teamfight starts.** S2's cooldown at max rank is still several seconds. If you clear a camp and your team initiates while it is recovering, you arrive with no invulnerability window. Clear, wait for the cooldown, then rotate. Thirty seconds of patience is worth more than camp gold if the alternative is entering a fight fully exposed.
+
+**Going pure damage with zero HP items.** Martis has no passive HP regen and no shield. Without the bulk from War Axe and Endless Battle at minimum, a single burst combo after S2 ends will kill him. The temptation to rush Blade of Despair as a third item on a lead ignores that his sustain in fights comes from HP, not from lifesteal. Items that only give attack create a hero who either wins in one combo or dies on the cooldown.
+
+**Trying to split-push alone in the mid game.** Martis has no reliable escape after S2 is spent. A two-hero rotation arriving while he is pushing a narrow tower lane means Mortal Coil buys time during the cast but does not create distance afterward. He is a teamfighter, not a split-pusher. Use mid-game windows to force fights near objectives, not to farm uncontested lanes.
+
+### Key tips
+
+> [!TIP]
+> Hold Mortal Coil until an enemy commits their CC against you. The control immunity is worth nothing when it absorbs nothing. The discipline of waiting to press S2 is the single biggest skill gap between average and strong Martis players.
+
+> [!NOTE]
+> Decimation's recast window is generous after a kill. Do not panic-press it onto the nearest target. Reposition for a second or two, find the sub-50% HP carrier, and use the true damage conversion on a target it actually kills.
+
+> [!TIP]
+> Tough Boots cut incoming CC duration by 30%. On a hero whose entire vulnerability exists in the seconds after S2 ends, this passive is usually more valuable than physical or magic defense boots. Default to Tough Boots unless the enemy roster is four or more physical damage sources with no crowd control.
+
+> [!NOTE]
+> Phoveus's passive charges off each individual dash Mortal Coil generates. That makes Martis one of his cleaner counter matchups in the game. If you are forced into the Phoveus matchup, shorten your S2 sequence by avoiding the re-press leap and play around Decimation execution rather than extended S2 trades.
+
+## Skills
+
+### Asura's Wrath (Passive)
+
+Each time Martis uses a skill, his Attack Speed will be increased by 30%, 120% maximum. Lasts 4s. He gains (+8*Hero Level) extra Attack at full stacks.
+
+### Asura Aura (Skill 1)
+
+Martis draws enemies to a fan-shaped area in front of him and deals 350 (+130% Extra Physical Attack) Physical Damage, slowing them by 40% for 2s.
+
+### Mortal Coil (Skill 2)
+
+Martis strikes in the target direction three times, each time dealing 225 (+120% Extra Physical Attack) Physical Damage to enemies hit. Enemies hit by the first and third strike are also knocked back. The attack direction can be changed once using the Joystick. Use Again: Martis leaps in the target direction, dealing 300 (+150% Extra Physical Attack) Physical Damage to enemies in his path and knocking them airborne. Martis gains Control Immunity and 60% Damage Reduction when casting this skill.
+
+### Decimation (Ultimate)
+
+Martis lunges at a designated enemy hero, dealing 700 (+120% Total Physical Attack) Physical Damage (deals True Damage if the enemy's HP is below 50%). If the enemy is killed by this skill, Martis can cast the skill again within 10s and gains 100% extra Movement Speed that gradually decays over 5s. Each successive cast also increases the skill's damage by 15% (up to 30%).
+
+Skill upgrade priority: 3-1-2-0-1/2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, engage using Martis' 1st Skill to gather enemies and slow them, then use his 2nd Skill to deal damage and knock them airborne, and continue with Basic Attacks. Finish enemies at low HP with his Ultimate, then chain more kills with the Ultimate.
+- LANING COMBOS (laning): In the laning phase, initiate with Martis' 1st Skill to gather enemies and slow them, then follow up with his 2nd Skill. Use his 2nd Skill again to stay on the enemy and knock them airborne, and continue attacking with Basic Attacks.
+
+## Counters to Martis (pick these against Martis)
+
+- X.Borg (Fighter): +3.9 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Martis throughout the game.
+- Minsitthar (Fighter): +2.8 pp edge. Minsitthar's durability and kit give them a strong matchup advantage against Martis throughout the game.
+- Balmond (Fighter): +2.1 pp edge. Balmond's durability and kit give them a strong matchup advantage against Martis throughout the game.
+- Marcel (Support): +1.8 pp edge. Marcel has a statistical edge over Martis based on ranked matchup data. Pick Marcel to gain an advantage in draft.
+- Angela (Support): +1.7 pp edge. Angela has a statistical edge over Martis based on ranked matchup data. Pick Angela to gain an advantage in draft.
+- Chang'e (Mage): +1.5 pp edge. Chang'e has a statistical edge over Martis based on ranked matchup data. Pick Chang'e to gain an advantage in draft.
+
+## Heroes Martis beats
+
+- Saber (Assassin): +2.2 pp edge for Martis.
+- Chip (Support/Tank): +2.0 pp edge for Martis.
+- Khufra (Tank): +1.8 pp edge for Martis.
+- Sora (Fighter/Assassin): +1.7 pp edge for Martis.
+- Moskov (Marksman): +1.6 pp edge for Martis.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/martis.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Bruiser Default (EXP)
+
+- Items: Tough Boots, War Axe, Endless Battle, Queen's Wings, Brute Force Breastplate, Immortality
+- Core: War Axe, Endless Battle, Queen's Wings
+- Emblem: Fighter Emblem with Rupture, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use only into mostly physical EXP lanes when crowd control is light enough to skip Fortitude.; Dominance Ice over Brute Force Breastplate when Use when attack-speed carries, sustain fighters, or shield-heavy frontliners must hit Martis first.; Athena's Shield over Immortality when Use when a burst mage can kill Martis during the vulnerable window after Mortal Coil ends.; Antique Cuirass over Brute Force Breastplate when Use against repeated physical skill burst from fighters or assassins that can chase through the second S2 cast.
+- Total cost: 11370 gold
+
+Default EXP setup for ranked games where Martis needs War Axe uptime, post-skill true damage, and enough low-HP durability to finish Decimation resets.
+
+### Jungle Reset Tempo (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Endless Battle, Blade of Despair, Immortality
+- Core: War Axe, Hunter Strike, Endless Battle
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Queen's Wings over Blade of Despair when Use when Turtle and Lord fights are long enough that damage reduction and spell vamp beat one more damage spike.; Malefic Roar over Blade of Despair when Use when enemy frontliners stack Physical Defense and are blocking access to execute targets.; Radiant Armor over Immortality when Use against repeated magic damage that chips Martis before he can spend Mortal Coil aggressively.; Sea Halberd over Blade of Despair when Use when healing or shield targets survive the first Decimation chain unless Lifebane is applied by damage.
+- Total cost: 12270 gold
+
+Jungle setup for early objective control, fast reset chases, and games where Ice Retribution helps Martis stay attached before the execute window opens.
+
+### EXP Execute Snowball (EXP)
+
+- Items: Warrior Boots, War Axe, Hunter Strike, Blade of Despair, Malefic Roar, Immortality
+- Core: War Axe, Hunter Strike, Blade of Despair
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Execute
+- Flex: Tough Boots over Warrior Boots when Use when enemy control or magic poke is the first thing stopping Martis from reaching reset range.; Endless Battle over Malefic Roar when Use when the enemy has not stacked armor and Martis needs true damage plus movement after every skill cast.; Queen's Wings over Malefic Roar when Use when the game stops being a snowball and Martis needs one defensive bridge before committing to resets.; Rose Gold Meteor over Immortality when Use against mixed skirmish damage when the Lifeline shield saves the first dive better than a late revive.
+- Total cost: 12020 gold
+
+High-tempo EXP setup for games where Martis can bully early, chain low-health targets with Execute, and rely on another ally to start the fight.
+
+All builds for this hero: https://mlbbhub.com/builds/martis.
+
+## Synergies
+
+- Alpha: Martis works best with Fighters that initiate teamfights like Alpha and Khaleed who he can follow up to secure a kill and chain more kills with his Ultimate.
+- Khaleed: Martis works best with Fighters that initiate teamfights like Alpha and Khaleed who he can follow up to secure a kill and chain more kills with his Ultimate.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

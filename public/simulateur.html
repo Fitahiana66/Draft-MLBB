@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Simulateur 5v5 — Draft &amp; Build Advisor MLBB</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">⚖</div>
+    <div>
+      <h1>Simulateur <span class="amp">5v5</span></h1>
+      <p class="subtitle">Estime le taux de victoire de chaque équipe à partir des matchups — pour savoir si tu es en avantage ou non</p>
+    </div>
+  </div>
+  <div class="top-meta" id="topMeta">Données MLBBHub en chargement…</div>
+</header>
+
+<nav class="topnav">
+  <a class="nav-link" href="/index.html">🧩 Conseiller build</a>
+  <a class="nav-link active" href="/simulateur.html">⚖ Simulateur 5v5</a>
+  <a class="nav-link" href="/pick.html">🎯 Pick &amp; Ban</a>
+</nav>
+
+<main>
+  <section class="panel">
+    <div class="teams">
+      <div class="team team-ally">
+        <h3>Ton équipe <span class="team-sub">(bleu — 1 à 5)</span></h3>
+        <div class="team-inputs">
+          <input class="team-a" list="heroList" data-i="0" placeholder="Allié 1" autocomplete="off">
+          <input class="team-a" list="heroList" data-i="1" placeholder="Allié 2" autocomplete="off">
+          <input class="team-a" list="heroList" data-i="2" placeholder="Allié 3" autocomplete="off">
+          <input class="team-a" list="heroList" data-i="3" placeholder="Allié 4" autocomplete="off">
+          <input class="team-a" list="heroList" data-i="4" placeholder="Allié 5" autocomplete="off">
+        </div>
+      </div>
+      <div class="team team-enemy">
+        <h3>Équipe adverse <span class="team-sub">(rouge — 1 à 5)</span></h3>
+        <div class="team-inputs">
+          <input class="team-b" list="heroList" data-i="0" placeholder="Adverse 1" autocomplete="off">
+          <input class="team-b" list="heroList" data-i="1" placeholder="Adverse 2" autocomplete="off">
+          <input class="team-b" list="heroList" data-i="2" placeholder="Adverse 3" autocomplete="off">
+          <input class="team-b" list="heroList" data-i="3" placeholder="Adverse 4" autocomplete="off">
+          <input class="team-b" list="heroList" data-i="4" placeholder="Adverse 5" autocomplete="off">
+        </div>
+      </div>
+    </div>
+    <datalist id="heroList"></datalist>
+    <div class="actions">
+      <button id="btnSim" class="primary">Simuler la partie</button>
+      <button id="btnSwap" class="ghost">Échanger les équipes</button>
+      <button id="btnClear" class="ghost">Effacer</button>
+    </div>
+    <div id="status" class="status" hidden></div>
+  </section>
+
+  <section class="panel help-panel">
+    <details>
+      <summary>Comment est calculé le taux de victoire ? (modèle et limites)</summary>
+      <div class="help-body">
+        <p>Aucune partie réelle n'est jouée : le modèle <b>estime</b> une probabilité à partir des données MLBBHub. Trois briques sont additionnées puis passées dans une fonction logistique :</p>
+        <p><b>① La force méta</b> — le taux de victoire de chaque héros (transformé en « cote ») + un bonus de palier (S/A/B/C/D). Compare la moyenne de ton équipe à celle d'en face.</p>
+        <p><b>② Les duels 1v1</b> — pour chaque paire allié × adverse (25 combinaisons), on lit l'avantage de matchup (bestMatchups / worstMatchups). La moyenne pondère le résultat — c'est le cœur du calcul.</p>
+        <p><b>③ La composition</b> — présence d'une ligne de front (tank/support), variété des dégâts (physique/magique), nombre de carries. Une compo sans frontline ou mono-dégâts est pénalisée.</p>
+        <p>Le pourcentage affiché est une <b>estimation indicative</b> (fenêtre de confiance), pas une prédiction. Plus il y a de matchups connus, plus le résultat est fiable — un héros récent sans données tire le résultat vers 50/50.</p>
+      </div>
+    </details>
+  </section>
+
+  <section id="results"></section>
+
+  <section class="panel glossary-panel">
+    <details>
+      <summary>Glossaire — rôles et lecture du résultat</summary>
+      <div id="glossary" class="glossary"></div>
+    </details>
+  </section>
+</main>
+
+<footer>
+  Données : <a href="https://mlbbhub.com" target="_blank" rel="noopener">mlbbhub.com</a>
+  — les % sont des estimations, à prendre comme un indice, pas une vérité.
+</footer>
+
+<script src="/fr.js"></script>
+<script src="/engine.js"></script>
+<script src="/common.js"></script>
+<script src="/simulateur.js"></script>
+</body>
+</html>

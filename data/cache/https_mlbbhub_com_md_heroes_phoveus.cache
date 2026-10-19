@@ -1,0 +1,212 @@
+# Phoveus, Chains of Sin
+
+> Phoveus is not a gimmick counter that only exists to swat dashes. He is an EXP bruiser who turns short-range chaos into repeatable mark loops, but only when the draft gives him targets he can actually stay attached to. Blind him into poke, long-range control, or lanes he cannot touch and the whole kit turns into a slow walk with a big weapon.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP
+- Specialty: Regen, Damage
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.50%
+- Pick rate: 0.26%
+- Ban rate: 0.58%
+- Released: 2021
+- Page: https://mlbbhub.com/heroes/phoveus
+
+## Guide
+
+### When the draft actually gives Phoveus permission
+
+Phoveus is still a reaction pick first and a comfort blind pick second. `patch 2.1.88` ([patch notes](/patch-notes)) trimmed his base HP, physical attack, and physical defense, so his early lane is now more fragile than the 2.1.61 version. That nerf makes the draft test stricter, not looser. You still need a lobby where enemies must enter his zone instead of one where they can simply kite it.
+
+Pick him when the enemy team has at least two heroes who solve fights with movement. Wanwan, Arlott, Chou, Benedetta, Harith, Mathilda, Nolan, and most engage roamers all hand him cooldown refunds and passive access just by playing their normal game. He is also far better when your own team brings displacement or reliable crowd control. Tigreal, Minotaur, Atlas, Ruby, and Jawhead all buy him the one thing he cares about: time to cash Sinner's Mark without leaping into a dead fight.
+
+Do not confuse "anti-dash" with "free win into any mobile hero." Phoveus is a bad pick when the enemy can trigger him from a safe distance and still never stand in front of him. He is also a bad pick into ranged control backlines that keep resetting him before he reaches melee. Aurora, Valir, and Vexana are annoying for exactly that reason. They do not need to out-stat him. They just need to stop him from finishing the second half of his turn.
+
+The real trap is locking him too early because the enemy showed one dash hero. One dash is not enough. Phoveus wants repeated movement, close-quarters skirmishes, or a team that drags enemies back into him. If the enemy draft is mostly static damage, layered poke, and disengage, you are drafting a bruiser who will spend mid game jogging at people.
+
+### The mark loop is the hero, not the jump
+
+Most Phoveus players still think the ultimate is the hero. It is not. The real engine is the loop between Demonic Force, skill-based marks, and cooldown refunds.
+
+His passive does three jobs at once: it gives him a gap-close on the next basic attack, turns enemy max HP into damage, and adds a shield scaled off his own max HP. Every dash, blink, or displacement near him shortens the wait for the next passive hit and trims the cooldown on the rest of his kit. That means enemy movement is not only something you punish. It is also the fuel that keeps your whole turn cycling.
+
+Demonic Impact is the skill that tells you whether a trade is worth extending. The first hit is not the scary part. The important part is that a clean hit turns the next cast into an Astaros Eye setup, which means the opponent now has to deal with delayed area pressure even if they disengage. Dark Wave is the bridge. It is the spell that turns proximity into commitment by knocking enemies up, dragging them, and applying a mark source that your ultimate can cash immediately.
+
+That is why the correct mental model is not "wait for ult, then dive." The better model is "build a marked target inside my space, then decide whether the leap is good for me." Infernal Pursuit is strongest when it finishes a sequence you already started with passive or crowd control. If you only look for raw leap highlights, you will throw away the safer, dirtier Phoveus fights where he wins by never losing contact.
+
+### Laning: the first six minutes
+
+1. **Start the lane by making Skill 1 hit both the wave and the hero.** Phoveus does not win early because his numbers are outrageous. He wins because one good Demonic Impact changes the next cast and forces the opponent to respect the delayed Eye. If your first casts only tag minions, you give away the whole reason to draft him in EXP.
+2. **Hold Dark Wave until the opponent steps into your half of the lane or commits movement first.** This skill is your lane tax collector. If you spend it from max range just to start a trade, you lose your best way to pin someone in place for passive plus mark follow-up. Let the enemy show impatience first, then drag them through the wave where retreat costs more.
+3. **Treat battle-spell tempo like insurance, not pressure.** If you are on Vengeance, save it for the moment the trade becomes mutual and ugly, not for poke. If you are on Flicker, do not burn it to finish a plate-side scramble before Turtle. Phoveus gets stronger when the fight keeps going. He gets weaker when he spends his only emergency button before the jungle arrives.
+
+The first six minutes are about lane shape, not flashy all-ins. Freeze when the matchup is ranged. Crash the wave only when you can step into river with cooldowns ready. The 2.1.88 base stat reductions mean early skirmishes cost more than they used to. Phoveus can still punish people who walk into him, but the margin for losing early trades is now thinner.
+
+### The two-item window you are actually farming toward
+
+The first real Phoveus spike is **War Axe plus Queen's Wings**, usually around the 7:30 to 10:00 window if the lane was stable. This is the point where his fights stop being one clean combo and start becoming attrition math the enemy often misreads.
+
+War Axe gives him exactly the stats he wants from a first buy: HP so passive shields matter more, cooldown reduction so the loop comes back sooner, spell vamp so short trades are not purely one-way, and a passive that rewards staying in contact instead of tagging once and backing out. Phoveus does not want a cute first item. He wants permission to keep fighting after the first exchange.
+
+Queen's Wings is where the hero starts lying to opponents about whether he is killable. The item gives more spell vamp, adaptive attack, and cooldown reduction, but the real reason it matters is Demonize. Once he drops low, he gets a burst of damage reduction plus a cooldown shave that often buys one more passive, one more Demonic Impact, or one more jump. That extra cycle is frequently the point where the enemy realizes the health bar they were chasing is no longer their kill.
+
+This is also the phase where the passive scaling earns its keep. The max-HP damage and shield scaling hold up better once defensive stats enter the lobby than the thinner base stats suggest early on. You are still not a hard scaler, but your threat no longer disappears the moment everyone finishes third item.
+
+Before this spike, play to shorten fights. After it, play to lengthen them.
+
+### Teamfight positioning starts with refusing the bad leap
+
+The most common wrong reflex on Phoveus is simple: a target is marked, so players press ultimate immediately. That reflex is how you throw games.
+
+1. **Stand one beat behind the first engage, not beside the enemy front line.** Phoveus wants to arrive after space has already been contested. If you front-door first, you eat every peel tool before your mark loop begins. If you hover just behind your engager, the enemy has already committed movement or crowd control by the time you enter.
+2. **Spend passive before ultimate whenever the fight allows it.** A passive hit gives you the shield, the knockback, and often the cleaner mark pattern. Leaping first can still be correct, but it should not be automatic. If you can enter with Demonic Force and then cash the mark, the whole sequence is safer and harder to peel.
+3. **Judge the landing zone, not the mark itself.** A marked target under three enemy health bars is usually bait. A marked target drifting toward your own CC chain is money. Phoveus does not get paid for pressing the button. He gets paid for landing where his next spell still matters.
+
+Target priority is also more boring than highlight videos make it look. You are not a backline assassin. You are a bruiser who wants the nearest target that lets the loop continue. Kill the diver that entered too deep. Kill the EXP laner that just used mobility into your zone. Kill the roamer your team has already pinned. Only jump past those people when your own support or roamer has already guaranteed the backline cannot kite the second cast.
+
+The support-dependent edge case is important. With Tigreal, Minotaur, Atlas, or Mathilda helping you enter, you can take deeper second-line jumps because someone else is buying the landing time. Without that support, play front-to-back and let enemy movement feed you.
+
+### Itemization is three locked slots and then real conversations
+
+The cleanest Phoveus pages start from four locked ideas: **boots, War Axe, Queen's Wings, and Oracle are the default spine**. Oracle is the item that turns his shielding and sustain from "annoying" into "why is he still alive?" If you skip that identity and rush greedier damage, you are building against the reason the hero wins trades.
+
+The boot choice is straightforward. Tough Boots is the normal buy into control, magic lanes, and most standard ranked drafts because the CC reduction matters more than tiny lane greed. Warrior Boots only takes over when the lane is mostly physical chip and you know the first eight minutes are about surviving repeated physical poke or autos.
+
+After the core, make the rest of the build answer the lobby:
+
+1. **Dominance Ice** when the enemy wins through sustain or grouped brawls. Esmeralda, Yu Zhong, Uranus, Estes-backed comps, or gold laners that cluster near you all justify it. Lifebane cuts the shield and HP regen of every enemy who stays close to you to 60% of normal, and Fortress Shield stacks Hybrid Defense for each of them.
+2. **Brute Force Breastplate** when you need to keep moving through extended fights instead of merely surviving them. The extra movement speed and control-duration reduction at full stacks are excellent in games where sticking to the second target matters more than raw bulk.
+3. **Radiant Armor** when the real problem is repeated magic poke, not one giant burst button. It is the better answer to mages who keep tagging you on the way in.
+4. **Immortality** when you are the first body in and death timers now decide Lord or inhibitor fights. Buy it late, not as a panic second item.
+5. **Thunder Belt** only when your team already has damage covered and needs you to become a harder frontline anchor. It scales well with the tankier version of Phoveus, but it should answer a draft need, not your urge to look clever.
+
+The bad pattern is stacking extra damage because one jump felt good in lane. Phoveus does not lose ranked games because he lacked one more attack item. He loses them because his first rotation lands, then he dies before the second.
+
+### Mistakes that lose Phoveus games
+
+**Blind-picking him off one enemy dash.** A single mobile target is not a draft invitation. Phoveus needs repeated movement, melee traffic, or allied setup. If the rest of the enemy draft is poke and reset, you picked a bruiser into a kite simulator.
+
+**Throwing Dark Wave first just because it is your control spell.** Dark Wave is strongest when the enemy has already stepped into your space or committed movement. Casting it early from comfort range turns your best conversion tool into a warning shot.
+
+**Jumping because a mark exists instead of because the landing is good.** Infernal Pursuit is not mandatory. If the marked target drags you under tower, into three peel tools, or away from your own frontline, let the mark expire and keep your feet.
+
+**Building like a damage fighter after winning one lane trade.** The all-damage versions of Phoveus look fun until the first real objective fight. Then you discover that you no longer have the shield value, damage reduction, or sustain to survive your own entry. Core bruiser stats are not optional decoration on this hero.
+
+**Trying to brute-force shield lanes without item timing.** Esmeralda-style lanes and high-sustain bruisers are not won by ego. They are won by wave control, anti-heal access, and choosing when to extend. If you try to stat-check those lanes before your real items land, you donate tempo for free.
+
+### Key tips you actually feel in game
+
+> [!TIP]
+> If Demonic Impact has already primed the next cast, aim the second slam where the target must walk, not where they are standing. The Eye is zoning first and damage second.
+
+> [!TIP]
+> Your best ultimate is often the second one in the fight. Passive basic attack into crowd control into the first leap creates far cleaner angles than opening from maximum range.
+
+> [!NOTE]
+> When the enemy has mobility but your own team has no engage, stop hunting the backline. Hold your ground near the first contact point and let their dashes refund your loop for free.
+
+> [!TIP]
+> Queen's Wings changes how low HP works on this hero. Once it is finished, low health is a timing window, not an instant retreat signal, as long as your cooldowns and mark access are still live.
+
+## Skills
+
+### Demonic Force (Passive)
+
+Phoveus's next Basic Attack charges at the enemy, knocking them back, dealing extra Magic Damage equal to 4% - 6% of the enemy's Max HP (scales with level), and gaining a 8% - 12% Max HP shield. Cooldown: 26s-14s (based on Infernal Pursuit's level). Astaros' Gaze: Whenever an enemy hero blinks, dashes, or is displaced within 8 units, reduces the cooldown of Demonic Force by 20% and other skills by 0.5s.
+
+### Demonic Impact (Skill 1)
+
+Phoveus slams his monolith into the ground, dealing 200 (+120% Total Physical Attack) Physical Damage to enemies in the area and slowing them by 70% for 0.5s. If this skill hits an enemy, Phoveus's next Demonic Impact will leave behind an Astaros Eye. Astaros Eye: Implodes after a short delay, dealing 100 (+60% Total Physical Attack) Magic Damage to the enemies.
+
+### Dark Wave (Skill 2)
+
+Phoveus lowers his monolith and releases his demonic power in the target direction, knocking enemies airborne, dragging them along, and dealing 250 (+100% Extra Physical Attack) Magic Damage.
+
+### Infernal Pursuit (Ultimate)
+
+Passive: Demonic Force, Astaros Eye, and Dark Wave apply Sinner's Mark to enemy heroes hit. Active: Phoveus leaps into the air and smashes down with his monolith at the enemy hero with Sinner's Mark, dealing 250 (+100% Total Physical Attack) (+ 5% target's Max HP) Physical Damage to enemies in the area and recovering 50 (+ 6% of his lost HP). Infernal Pursuit can only be used when there are enemies with Sinner's Mark nearby. HP recovered is reduced by 80% when multiple enemies are hit.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Phoveus should use his enhanced Basic Attack to charge at the enemy while knocking them back and marking them. Then immediately follow up with his Ultimate. Next, hit the target with his 1st Skill, then use his 2nd skill and his Ultimate again. Finally, use the enhanced 1st Skill to mark the enemy once more, and use his Ultimate.
+- LANING COMBOS (laning): In the laning phase, Phoveus should first use his enhanced Basic Attack to hit the enemy hero and gain a shield. Follow up with his 1st Skill to chip away their HP, then use his enhanced 1st Skill for additional damage and to slow the target, and end with his 2nd Skill for more damage.
+
+## Counters to Phoveus (pick these against Phoveus)
+
+- X.Borg (Fighter): +4.2 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Phoveus throughout the game.
+- Alpha (Fighter): +3.6 pp edge. Alpha's durability and kit give them a strong matchup advantage against Phoveus throughout the game.
+- Minsitthar (Fighter): +3.6 pp edge. Minsitthar's durability and kit give them a strong matchup advantage against Phoveus throughout the game.
+- Barats (Tank/Fighter): +3.2 pp edge. Barats's durability and kit give them a strong matchup advantage against Phoveus throughout the game.
+- Alice (Tank/Mage): +3.1 pp edge. Alice's durability and kit give them a strong matchup advantage against Phoveus throughout the game.
+- Bane (Fighter/Mage): +3.0 pp edge. Bane's durability and kit give them a strong matchup advantage against Phoveus throughout the game.
+- Baxia (Tank): +2.5 pp edge. Baxia's durability and kit give them a strong matchup advantage against Phoveus throughout the game.
+- Terizla (Fighter/Tank): +2.5 pp edge. Terizla's durability and kit give them a strong matchup advantage against Phoveus throughout the game.
+
+## Heroes Phoveus beats
+
+- Wanwan (Marksman): +5.9 pp edge for Phoveus.
+- Freya (Fighter): +4.9 pp edge for Phoveus.
+- Harith (Mage): +4.7 pp edge for Phoveus.
+- Benedetta (Assassin/Fighter): +3.8 pp edge for Phoveus.
+- Alucard (Fighter/Assassin): +3.1 pp edge for Phoveus.
+- Hirara (Assassin): +2.9 pp edge for Phoveus.
+- Lukas (Fighter): +2.9 pp edge for Phoveus.
+- Khaleed (Fighter): +2.8 pp edge for Phoveus.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/phoveus.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Sustain Default (EXP)
+
+- Items: Tough Boots, War Axe, Queen's Wings, Brute Force Breastplate, Oracle, Immortality
+- Core: War Axe, Queen's Wings, Oracle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Dominance Ice over Brute Force Breastplate when Use against sustain EXP laners, attack-speed cores, or shield-heavy drafts that keep hitting you during mark loops.; Radiant Armor over Brute Force Breastplate when Use when repeated magic poke is stopping you from walking into the second cast and ultimate reset.; Antique Cuirass over Brute Force Breastplate when Use against physical skill burst that must spend cooldowns into you before your team can follow.
+- Total cost: 10900 gold
+
+Default ranked EXP setup that keeps Phoveus alive long enough to recycle marks, shields, and lost-HP recovery in extended fights.
+
+### EXP Anti-Sustain Frontline (EXP)
+
+- Items: Warrior Boots, Thunder Belt, Dominance Ice, War Axe, Oracle, Immortality
+- Core: Thunder Belt, Dominance Ice, War Axe
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Flex: Tough Boots over Warrior Boots when Use when control duration or magic lane pressure matters more than early physical trading.; Queen's Wings over Thunder Belt when Use when you need more low-HP damage reduction and cooldown cycling instead of a slower tank stack path.; Brute Force Breastplate over Oracle when Use when the fight is about sticking through movement and crowd control rather than amplifying shields and recovery.
+- Total cost: 10630 gold
+
+Tankier EXP profile for physical or sustain-heavy drafts where Phoveus must front the first contact and apply anti-heal early.
+
+### EXP Catch and Peel (EXP)
+
+- Items: Tough Boots, War Axe, Queen's Wings, Oracle, Dominance Ice, Immortality
+- Core: War Axe, Queen's Wings, Dominance Ice
+- Emblem: Fighter Emblem with Rupture, Festival of Blood, Brave Smite
+- Battle spell: Flameshot
+- Flex: Brute Force Breastplate over Dominance Ice when Use when the enemy lacks lifesteal or attack speed and you need more movement through repeated skirmishes.; Winter Crown over Immortality when Use against predictable burst windows when stasis buys more value than a delayed revive.; Radiant Armor over Dominance Ice when Use into repeated magic damage where anti-heal is less important than surviving the walk-in.
+- Total cost: 11040 gold
+
+Catch-focused build that keeps the sustain core while using Flameshot as extra peel, displacement, or a long-range mark setup.
+
+All builds for this hero: https://mlbbhub.com/builds/phoveus.
+
+## Synergies
+
+- Gatotkaca: Tanks with good initiation like Gatotkaca, Minotaur, and Tigreal can create opportunities for Phoveus to maximize his damage while they take some of the incoming damage.
+- Minotaur: Tanks with good initiation like Gatotkaca, Minotaur, and Tigreal can create opportunities for Phoveus to maximize his damage while they take some of the incoming damage.
+- Tigreal: Tanks with good initiation like Gatotkaca, Minotaur, and Tigreal can create opportunities for Phoveus to maximize his damage while they take some of the incoming damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,205 @@
+# Chou, Kung Fu Boy
+
+> Chou is not a fighter in the traditional sense. He is a delivery service whose entire kit exists to grab one person and hand them to his team, dead. He works when the enemy has a specific target worth catching, and disappears when they do not.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP, Roam
+- Specialty: Chase, Control
+- Difficulty: Medium
+- Tier this patch: D
+- Win rate: 45.10%
+- Pick rate: 1.09%
+- Ban rate: 3.14%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/chou
+
+## Guide
+
+### The delivery test: is this a Chou draft?
+
+Chou's value is entirely conditional on one thing. Is there a single hero on the enemy team your team cannot reach without him? If the answer is yes, he is the right pick. If the answer is no, you are locking a fighter with mediocre sustained damage and no teamfight presence, and your slot would be better spent on Paquito, Yu Zhong, Lapu-Lapu, or Cici.
+
+The drafts where Chou actually delivers are ones where the enemy has a vulnerable hypercarry: Beatrix, Ixia, Cecilion, Pharsa, Chang'e, Layla, or any marksman without a built-in dash. Pick him when you can name the person you plan to kick before the draft screen closes. Pick him when your team has follow-up burst (a Lancelot, Gusion, or Kadita who can delete the delivery in 1.5 seconds). Pick him when you have Flicker available and the enemy roster lacks Purify.
+
+Avoid Chou into tanky bruiser stacks with no clear pick target. Avoid him into heavy shield comps (Esmeralda, Lolita) where the burst combo gets absorbed before the damage lands. Avoid him when the enemy roam is Diggie, because Time Journey grants Control Immunity and a shield that cleanses your kick instantly, making the whole game plan worthless. Avoid him against Minsitthar, whose ult disables every dash in Chou's kit for anyone standing inside the field. Avoid him against Phoveus, whose passive Astaros Eye fires a shield-and-slow projectile at any enemy who dashes or blinks nearby, punishing every step of Chou's S1 chain.
+
+If you cannot name who you plan to kick, Chou is not the right pick.
+
+### The one thing that makes Chou work
+
+Chou is a displacement machine disguised as a fighter.
+
+Every skill in his kit serves the same purpose: reach one person and move them somewhere they do not want to be. Jeet Kune Do is not a damage tool. It is three chained dashes that knock airborne on the third cast, and that knockup guarantees the follow-up ult lands. Shunpo is not a shield-and-run button. It is a Control-Immune gap closer that resets the moment the third-cast knockup connects, so every completed combo refunds its own escape. The Way of Dragon is not a finisher. It is a two-stage forced relocation that, combined with Flicker, delivers any hero on the map into the middle of your team.
+
+The passive, Only Fast, reinforces the identity. After moving a short distance, Chou's next basic attack hits far harder, cannot crit, heavily slows the target, and shreds a chunk of their physical defense for a few seconds, stacking on repeat hits. That is not a laning passive. That is an after-kick passive: the target is airborne, slowed to a crawl, and noticeably lighter in armor while your carry stands on top of them.
+
+Once that reframing lands, everything about how you play him changes. You stop looking for extended trades and start looking for the one kick that ends the fight.
+
+### Laning: the first four minutes
+
+Chou's EXP lane is about chip damage and survival, not domination. You are not trying to kill your lane opponent. You are trying to hit level 4 with enough HP to rotate for the first objective fight.
+
+1. **Level 1, take Jeet Kune Do and trade off the third cast.** Walk up, S1 first cast through the minion wave, S1 second cast to reposition, S1 third cast through the enemy hero for the knockup. Walk away. Do not commit further. The knockup plus the empowered passive auto with defense shred is the whole trade pattern and it costs no battle spell.
+2. **At level 2, take Shunpo and use it defensively.** Control Immunity on Shunpo is your answer to ganks and to EXP laners who try to all-in you at 2. Do not burn it as an engage tool until the ult is online.
+3. **At level 4, take The Way of Dragon and look at the map.** Chou with ult and Flicker up can rotate to mid or a jungle entrance and deliver a kill. The moment the ult unlocks, lane phase is optional. Push the wave, then disappear.
+
+Do not burn Flicker for a lane trade before level 4 under any circumstances. Flicker is not your escape. It is the second half of the kick combo, and wasting it in lane means you cannot execute your purpose for the next 120 seconds.
+
+### The power spike you are farming toward
+
+Chou is one of the least item-dependent heroes in the game. His spike is not an item. His spike is **level 4 with Flicker off cooldown**. That is the moment he goes from a mediocre EXP laner to a hero who can delete any squishy on the map.
+
+The first item that matters is Tough Boots, not for the magic defense but for the 30% CC duration reduction, because the one thing that stops a Chou combo is being stunned or rooted during the approach. The second item is Blade of the Heptaseas, usually completed somewhere in the 6-to-8-minute window depending on lane state. The Heptaseas Ambush proc (160 plus 40% Physical Attack as bonus damage after 5 seconds out of combat) combined with the passive-enhanced auto and the first ult kick is enough to kill a 70%-HP squishy without any help from the team.
+
+The moment Tough Boots plus Heptaseas come online, a Chou with Flicker up can walk into fog, S1 three times to knockup, S2 to close the final gap under Control Immunity, ult the target for the first kick, then Flicker backward to drag them behind your frontline before the second ult cast chases up. This is the combo that defines Chou at every rank from Legend to Mythical Glory. Practice it until the full sequence takes under 1.5 seconds. Any longer and Purify or Flicker comes off the target before the second cast lands.
+
+After Heptaseas the build diverges on whether your team needs damage or a tank. That conversation is the next section.
+
+### Teamfight positioning and target priority
+
+The reflex with Chou is to look for the biggest ongoing teamfight and S1 into the middle of it. That reflex is wrong.
+
+Chou is not a teamfight hero. He is a pre-fight hero. His job happens in the 3 seconds before the fight starts, not during it. You identify the target, you deliver the kick, your team kills them, and then you play the resulting 5v4.
+
+Three positioning rules:
+
+1. **Stand in fog, not on the frontline.** If the enemy can see you, they know the kick is coming and they position around it. Chou's threat radius is infinite when he is invisible and zero when he is visible. Hide in bushes, behind walls, in the jungle. The kick comes from the angle they do not expect.
+2. **Flicker backward, not forward.** The classic mistake is Flickering toward the enemy for the engage. The correct play is almost always to land the first ult cast, then Flicker backward to drag the knocked-back target into your team before the second cast chases up. The delivery ends with the target inside your backline and Chou safely behind his own.
+3. **If you miss the third-cast S1 knockup, do not commit.** The knockup is what guarantees the ult connects. Without it, the target can dash or Flicker out of ult range during your cast animation. Walk away and wait out the cooldown for the next cycle.
+
+If your team has no follow-up damage available, do not kick. A Chou who delivers a marksman into four half-health teammates who are retreating has just donated a free kill to the enemy. The kick only works when your team is healthy enough to finish the delivery.
+
+### Itemization: defaults vs flex slots
+
+Chou has one locked slot and five flex positions, which is the opposite of most fighters.
+
+**The one lock is Tough Boots.** Everything else depends on what the game wants from you. The 30% CC reduction on Tough Boots is non-negotiable because CC during the approach is what kills Chou. Warrior Boots only against full-physical lineups with no CC, which is rare. Never Swift Boots. You are not an auto-attacker.
+
+**If you are the primary damage threat** (no assassin in the jungle, team needs you to deal damage): Blade of the Heptaseas second for the Ambush burst, War Axe third for the 10% CDR plus stacking physical attack and 10% true damage conversion at full Fighting Spirit stacks, Endless Battle fourth for the 60% physical attack as true damage on every post-skill auto, Malefic Roar fifth if the enemy stacks armor, Immortality sixth. Endless Battle is the quiet power pick because Chou casts a skill roughly every second during a combo and Divine Justice fires off each one.
+
+**If your team has enough damage and needs a tank** (common in higher ranks where Chou plays roam): skip Heptaseas entirely. Build Dominance Ice for the Fortress Shield hybrid defense aura and Lifebane anti-heal aura, Athena's Shield against magic burst for the 25% magic damage reduction, Antique Cuirass for the stacking physical attack debuff on attackers, Queen's Wings for the 30% damage reduction below 40% HP, and Immortality. Tank Chou still kicks to deliver, but he survives long enough to kick twice per fight.
+
+**If you need a balanced bruiser** (enemy has one priority target but also enough dive to punish full-damage Chou): Heptaseas into War Axe into Brute Force Breastplate. Brute Force gives 10% CDR, stacking adaptive attack and movement speed per second of combat, and 15% extra CC reduction at full stacks on top of Tough Boots, bringing you near-immune to CC during extended fights. Fill out with Malefic Roar and Immortality.
+
+**The weakest common buy is Blade of Despair.** Chou's burst combo scales off fixed base damage on the passive auto, the S1 strikes, and the two ult casts. Despair's +25% attack trigger only activates below 50% HP, which is the point the target should already be dead. CDR from War Axe or penetration from Malefic Roar produces more effective damage per kick than a raw attack stat.
+
+### Mistakes that lose Chou games
+
+1. **Opening S2 into Benedetta during her parry window.** An Eye for An Eye blocks all damage with Control Immunity while it is up, and if she fends off any control effect her follow-up stab stuns you. Chou dashing in on S2 while her parry is active feeds it directly. The correct sequence is to bait her S2 with the first S1 cast, wait it out, then commit the real combo during her vulnerability window.
+2. **Ulting inside Diggie's Time Journey radius.** The ult grants allies Control Immunity and a shield, which cleanses your knockback and eats most of the kick damage. Track when Diggie uses it or dies into egg form. The window after his ult expires is the only reliable window where your delivery works.
+3. **Fighting inside Minsitthar's King's Calling.** The field disables every movement skill for enemies standing in it, which means your three S1 dashes, your S2 dash, and the chase cast on the ult all stop working. S2's Control Immunity is irrelevant here because the restriction is on movement skills themselves, not on a debuff you can cleanse. Walk out of the zone and wait it out; do not commit inside.
+4. **Dashing near Phoveus without tracking his passive.** Astaros Eye fires a homing projectile at any enemy who uses a dash or blink within range, dealing damage, slowing, and granting Phoveus a shield. Chou's three S1 dashes plus S2 equals four passive procs before you even press ult. If Phoveus is on the enemy team, either he is the kick target and you burst him before the passive stacks, or you do not dash near him at all.
+5. **Burning Flicker on lane harassment before level 4.** Flicker is not your escape. It is the second half of the combo, and spending it on a level-3 trade means you do nothing of value for the next 120 seconds. If you die in lane without Flicker, you still had the S2 Control Immunity and wall angles to escape. Using Flicker early was the mistake the death merely confirmed.
+
+### Key tips
+
+> [!TIP]
+> The full Flicker-kick combo: S1 three times to close and knockup, S2 for Control Immunity to cover any remaining distance, ult the target for the first kick, then Flicker backward to drag them into your team before the second ult cast chases up. The entire sequence must fit under 1.5 seconds. Any slower and Purify or Flicker comes off the target before the chase lands.
+
+> [!TIP]
+> Jeet Kune Do's third cast hitting an enemy hero resets Shunpo's cooldown immediately. After every completed knockup-into-kick, a fresh S2 is available as an escape. Never skip the third cast: without it you lose the knockup guarantee and the S2 reset in the same mistake.
+
+> [!NOTE]
+> Chou's passive auto cannot critically strike. This is a design choice that keeps him a combo-burst hero, not an auto-attacker. If a build guide recommends Berserker's Fury or any crit chance item on Chou, close that guide. The damage is in the fixed scaling on S1 and ult base numbers, not in auto-attack DPS.
+
+> [!TIP]
+> Check enemy battle spells during the loading screen. Purify gives 1.2 seconds of Control Immunity on a 90-second cooldown, which cleanses the kick on contact. Either switch targets to someone without Purify, or bait the Purify with a fake S1 approach before committing the real combo.
+
+> [!NOTE]
+> The passive defense shred stacks on repeat hits, so the same target gets meaningfully lighter in armor the longer you stay on them. That amplifies every physical attacker on your team, not just Chou. Weaving passive autos between S1 casts in an extended skirmish is a meaningful team-damage buff, not just a personal combo tool.
+
+## Skills
+
+### Only Fast (Passive)
+
+After traveling 5 units, Chou deals 180% damage on his next Basic Attack (cannot Crit), briefly slows the target by 90%, and reduces their Physical Defense by 10 (+1*Hero Level) for 3s (up to 2 stacks).
+
+### Jeet Kune Do (Skill 1)
+
+Chou strikes in the target direction, dealing 180 (+70% Total Physical Attack) Physical Damage to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne. Hitting an enemy hero with the 3rd cast resets the cooldown of Shunpo.
+
+### Shunpo (Skill 2)
+
+Chou charges in the target direction, gaining Control Immunity and a 200 (+200% Extra Physical Attack) shield.
+
+### The Way of Dragon (Ultimate)
+
+Chou strikes a roundhouse kick at the target enemy hero, dealing them 400 (+200% Extra Physical Attack) Physical Damage and knocking them back. Cast the skill again to chase up the target, dealing a total of 480 (+240% Extra Physical Attack) Physical Damage.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Chou's 2nd and 1st Skill to get next to a key target, then use his Ultimate to knock them out of position and secure the kill with his team.
+- LANING COMBOS (laning): In the laning phase, use Chou's 2nd Skill to get close to the enemy and follow up with his 1st Skill for multiple strikes. After landing the 3rd strike of his 1st Skill, use the refreshed 2nd Skill to stay on the target and finish them with his Ultimate.
+
+## Counters to Chou (pick these against Chou)
+
+- Phoveus (Fighter): +2.8 pp edge. Phoveus's durability and kit give them a strong matchup advantage against Chou throughout the game.
+- Esmeralda (Tank/Mage): +2.4 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Chou throughout the game.
+- Cyclops (Mage): +2.3 pp edge. Cyclops has a statistical edge over Chou based on ranked matchup data. Pick Cyclops to gain an advantage in draft.
+- Khufra (Tank): +2.2 pp edge. Khufra's CC abilities disrupt Chou's aggressive playstyle, preventing clean dives and resets.
+- Lukas (Fighter): +1.7 pp edge. Lukas's durability and kit give them a strong matchup advantage against Chou throughout the game.
+
+## Heroes Chou beats
+
+- X.Borg (Fighter): +3.0 pp edge for Chou.
+- Yve (Mage): +2.7 pp edge for Chou.
+- Fanny (Assassin): +2.2 pp edge for Chou.
+- Beatrix (Marksman): +2.1 pp edge for Chou.
+- Ixia (Marksman): +1.7 pp edge for Chou.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/chou.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-09-29. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Damage Dealer (EXP)
+
+- Items: Tough Boots, Blade of the Heptaseas, War Axe, Endless Battle, Malefic Roar, Immortality
+- Core: Blade of the Heptaseas, War Axe, Endless Battle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use against full-physical lineups with no hard crowd control where armor value matters more than CC reduction.; Sea Halberd over Malefic Roar when Use when the enemy has a healer, shield support, or high-HP fighter keeping the kick target alive through the burst.; Oracle over Immortality when Use when fights are frequent and Oracle's Bless passive, which raises the shields and HP regen you receive by 25%, keeps you in the fight longer than a revive.; Radiant Armor over Malefic Roar when Use against triple-magic-damage comps where stacked Magic Defense from Radiant Armor stacks prevents you from being burst before the combo lands.
+- Total cost: 11260 gold
+
+Default EXP setup for solo queue. Heptaseas rush into War Axe gives enough burst to kill a squishy from fog. Endless Battle's Divine Justice true damage fires off every skill cast during the combo chain.
+
+### Tank Roam (Roam)
+
+- Items: Tough Boots, Dominance Ice, Athena's Shield, Antique Cuirass, Queen's Wings, Immortality
+- Core: Dominance Ice, Athena's Shield, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Brute Force Breastplate over Antique Cuirass when Use when the enemy physical threat is split across multiple sources and you need the stacking CC reduction and adaptive attack rather than single-source Deter debuff.; Oracle over Athena's Shield when Use when magic damage is sustained poke rather than one-shot burst, and you have a healer support whose shields and heals on you are raised by 25% through Oracle's Bless passive.; Radiant Armor over Queen's Wings when Use against repeated magic damage from mages like Chang'e or Gord where Radiant Armor stacks outvalue Queen's Wings burst protection.
+- Total cost: 11400 gold
+
+Competitive and high-rank setup where Chou plays as a pick-focused roamer. Conceal is the income engine (Thriving replaces the minion gold and EXP he gives up) and its invisibility plus movement speed walks the whole team into kick range before the target can react. He still kicks to deliver, but the tank items let him survive the approach and kick twice per extended fight. Concussive Blast adds HP-scaling AOE damage on the passive auto.
+
+### Hybrid EXP Bruiser (EXP)
+
+- Items: Tough Boots, Blade of the Heptaseas, War Axe, Brute Force Breastplate, Malefic Roar, Immortality
+- Core: Blade of the Heptaseas, War Axe, Brute Force Breastplate
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Endless Battle over Brute Force Breastplate when Use when your team already has a tanky frontliner and you can commit to the full damage combo without needing the extra durability.; Dominance Ice over Malefic Roar when Use when the enemy jungler or marksman relies on attack speed and lifesteal to win fights, and your kick plus the anti-heal aura shuts them down.; Sea Halberd over Malefic Roar when Use when anti-heal is mandatory on your physical slot and the enemy front line has not yet stacked enough armor to justify penetration.; Radiant Armor over Malefic Roar when Use against teams with multiple magic-damage threats where you need to survive the approach before the kick connects.
+- Total cost: 10800 gold
+
+Balanced setup for drafts where the enemy has one priority kick target but enough dive threat to punish full-damage Chou. Brute Force Breastplate adds stacking CC reduction, adaptive attack, and movement speed per second of combat, which stacks with Tough Boots to make Chou nearly CC-immune during extended fights.
+
+All builds for this hero: https://mlbbhub.com/builds/chou.
+
+## Synergies
+
+- Angela: Chou works best with Healers that can boost his survivability and speed, such as Angela and Rafaela.
+- Rafaela: Chou works best with Healers that can boost his survivability and speed, such as Angela and Rafaela.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

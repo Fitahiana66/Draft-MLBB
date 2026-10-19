@@ -1,0 +1,208 @@
+# Floryn, Budding Hope
+
+> Floryn is not a hero, she is a buff that follows your carry. Lock her into a draft that already has a sustain-based damage-dealing core, then never let her get caught alone. The skill ceiling is low; the draft and positioning ceiling is everything.
+
+## Snapshot
+
+- Role: Support
+- Lane: Roam
+- Also played (MLBBHub editorial, not Moonton's listed lane): Mid
+- Specialty: Poke, Guard
+- Difficulty: Easy
+- Tier this patch: S
+- Win rate: 53.97%
+- Pick rate: 0.95%
+- Ban rate: 13.04%
+- Released: 2021
+- Page: https://mlbbhub.com/heroes/floryn
+
+## Guide
+
+### When Floryn is the 7th hero on your team
+
+Floryn can share Flower of Hope with an ally and transfer it after she leaves combat, once the share cooldown is ready. Choose the ally who needs its protection for the next fight. Dew's Lantern is a 6th-item slot for whoever holds the Flower of Hope, and her job is to deliver heals onto that ally so the Flower procs its shield and adaptive attack bonus on every tick. That mechanic is what you are drafting. Not the global heal, not the stun, the bond.
+
+She belongs in compositions that fight long fights and want a hyper-carry to outscale: marksmen who win extended trades (Karrie, Kimmy, Wanwan), a Granger who needs to live through dive attempts, an Aldous whose ult dives can be saved from across the map. She also belongs in any draft running a designated late-game core that the enemy will try to delete first. Bond Flower of Hope to that core, then play the whole game as their second life.
+
+She does not belong in burst-and-rotate compositions. Hit-and-run assassin junglers like Ling, Lancelot, and Saber do not benefit from a sustained-fight buff. They are out of fights in a few seconds, before the Flower of Hope's value compounds. She also does not belong on a team that already has another sustain support like Estes, Angela, or Mathilda, because the heal stacking gets diminishing returns and you are giving up your roam slot for redundant throughput.
+
+The disqualifying tests for the draft. **If your team's primary damage dealer is a fast-rotation assassin, Floryn is the wrong pick.** **If the enemy team has both Saber and Gusion, Floryn is the wrong pick because she dies to either before her ult comes up.** **If you cannot name which ally needs Flower of Hope before the first fight, Floryn is the wrong pick.**
+
+The matchup the casual ranked queue underrates. Baxia. His Baxia Mark passive reduces the Shield and HP Regen of any enemy he hits with a skill. That is your entire job, cut down on every team member he rolls through. Drafting Floryn into a Baxia game is functionally drafting her with Sow disabled.
+
+Patch 2.1.88 ([patch notes](/patch-notes)) trimmed Sow and Sprout's mana costs, which quietly removes the early-game mana crunch that used to tax low-rank Floryn players. It does not change who she is or when to draft her. It just means you can poke and feed the Flower of Hope loop more freely before your first back.
+
+### The one thing that makes Floryn work
+
+Floryn is not a healer with a global ult. She is a Flower of Hope dispenser with a heal attached.
+
+The Lantern is permanent and grows her attributes through the game. The Flower of Hope, shared once she has dropped out of combat, gives the bonded ally a shield every time Floryn heals them, plus a meaningful Adaptive Attack bonus on the bonded ally's basic attacks. Every other ability on her bar exists to feed that loop. Sow is the trigger. It pokes one enemy and bounces healing fruits to nearby allies, including the bonded carry, which procs the Flower's shield and damage. Bloom is the global panic reset, a two-tick heal that lands anywhere on the map and briefly amplifies received Shield and HP Regen effects afterward. Sprout, the short stun, is not a fight tool. It exists to peel one assassin off Floryn herself.
+
+This is why beginner Floryn players feel underwhelming and high-rank Floryn players feel oppressive. The hero only has one button that does anything for "Floryn the hero". The other three buttons are infrastructure. The skill is recognizing which ally to bond, where to stand to keep the loop running, and when to spend the global heal to flip a fight rather than save a chip-damage scuffle.
+
+### Laning: the first 5 minutes
+
+1. **Take Sow at level 1 and confirm the Flower of Hope target before minions spawn.** The share is on a long cooldown, so whoever you bond first is your bonded ally for the early game. If you misclick onto your tank instead of your gold lane MM, you are paying a real fight tax until the bond comes back up.
+2. **Stay one screen behind your gold lane MM, never beside them.** Floryn has zero mobility and dies to a single ability from any roamer. Flower of Hope works at any range, so there is no reason to sit in the wave. Stand at tower or in the brush behind your carry, fire Sow when they are trading, walk away.
+3. **Never burn Bloom to top up a single poked laner in the first 10 minutes.** Its cooldown is long enough that one wasted cast leaves you without a global save when objective fights start. Save it for the first 4-vs-5 contest where two allies are committed and dropping. A Bloom spent on a single laner getting chipped is a Bloom that does not exist when Lord spawns.
+
+### The power spike you are farming toward
+
+Floryn does not have a damage spike. She has a healing-throughput spike, and it is the two-item combination that flips her from "small heal bot" to "second life for the carry".
+
+The pair is **Oracle plus Fleeting Time**, target window 8 to 11 minutes in a standard game. Oracle amplifies every Shield and HP Regen effect Floryn receives, which stacks on top of Bloom's own amp window and inflates every Flower of Hope shield she sends to her bonded ally. Fleeting Time refunds a chunk of the Ultimate's current cooldown on every kill or assist. Floryn assists nearly every fight her team wins, which means after this spike the effective Bloom cooldown in active fights nearly halves.
+
+What changes mechanically: the bonded carry now eats two skills' worth of incoming damage before Floryn's heals stop being able to hold them up. Bloom comes up often enough that the enemy can no longer trade two fights in a row without expecting a global save. The team can play sustain-bait macro, where they intentionally let the enemy commit to a 4-vs-5 dive and rely on Bloom plus Flower of Hope to hold a recipient through the burst.
+
+The team that picks Floryn and does not let her get to this spike is throwing the pick. If she is 800 gold behind 11-minute Oracle, the enemy is winning the macro game.
+
+### Teamfight positioning and target priority
+
+The reflex when you see your team start a fight is to walk forward and start healing in melee range of the action. That reflex is wrong on Floryn. She does not have to be near the fight to heal it.
+
+Three positioning rules.
+
+1. **Stand behind your bonded ally, not behind your tank.** Sow's healing fruits bounce to allies near the cast target, which means you need to be in bounce range of your bonded carry, not your front line. The right position is one screen behind your MM, hugging a wall, with line of sight to where the carry is shooting from.
+2. **Save Sprout for the diver, not the front line.** Sprout's stun is the only CC Floryn has, and the only thing that gives her a window to walk out of a Hayabusa or Ling rotation alive. Firing it into the enemy tank for chip damage is throwing your only self-defense for nothing.
+3. **Press Bloom mid-fight, never pre-fight.** Bloom's Shield and HP Regen amp window is brief. If you press it before your team commits, the amp window expires before the heals matter. Wait until at least two allies are low and committed, then Bloom and immediately follow with Sow on the bonded carry to layer a Flower of Hope shield inside the amp window.
+
+The support-conditional edge case. If your team has a Tigreal, Khufra, or Atlas, you have hard peel insurance and can stand one screen further forward, which lets you reach the front line with Sow bounces faster. If your team has Mathilda, Diggie, or no peel-tank at all, sit behind the carry and do not advance. Floryn dying first means the bonded ally loses the Flower until well after she respawns, which is the rest of the fight.
+
+### Itemization: defaults vs flex slots
+
+Three locked slots, then five real conversations.
+
+The locks are **Demon Boots with the Favor enchant**, **Oracle**, and **Fleeting Time**. Demon Boots gives you the mana sustain to spam Sow without backing, and the Favor enchant chain (Devotion, Thriving, Blessing) layers passive gold for being near allies who get last hits. Oracle is the healing-throughput multiplier explained above. Fleeting Time is the Bloom cycle.
+
+The flex slots are where the matchup actually matters.
+
+- **Glowing Wand** when the enemy team has two or more sustain heroes (Estes, Mathilda, Angela, Yve, Esmeralda), or when a lifesteal-heavy diver keeps picking you (a fed Wanwan or Granger with Demon Hunter Sword, a bruiser jungler). It now carries the Lifebane passive that used to live on Necklace of Durance: dealing damage to a target cuts their Shield and HP Regen, and the Scorch burn chips a slice of their Max HP over the next few seconds. Sow procs both, so it lands on whichever diver you actually tag rather than only whoever happens to be hitting you. This is the Floryn-specific anti-heal slot.
+- **Flask of the Oasis** when your bonded ally is squishy and dive-prone (Ling, Karrie, Granger). Casting a heal or shield on a critically low ally hands them an emergency shield and shaves your own skill cooldowns. The cooldown refund hidden inside that panic save quietly accelerates Bloom on top of Fleeting Time.
+- **Enchanted Talisman** when the enemy is a poke composition that forces you to spam Sow nonstop (Yve, Pharsa, Valir, Beatrix). Magic Mastery raises your cooldown-reduction ceiling past the normal cap and Mana Spring refunds a slice of Max Mana on a timer so you stop running dry mid-fight. The 2.1.88 mana cuts softened her old mana problem, so treat this as a poke-matchup answer now, not an autopilot default.
+- **Immortality** when the enemy team has any high-burst assassin who is specifically targeting you (Saber, Gusion, Hayabusa). The revive lets you eat one assassination and come back to keep healing. This is the only flex slot that exists for Floryn-the-hero rather than for the bonded ally.
+
+The weakest common default is **Immortality slotted in every game**. It is a fine sixth item against burst comps but it does nothing for the team's sustain output. Against poke or sustain compositions, Glowing Wand or stacking a second pure-utility item like Athena's Shield gives more team value than reviving Floryn herself. Read the matchup, do not autopilot.
+
+### Mistakes that lose Floryn games
+
+1. **Re-bonding Flower of Hope mid-game.** The re-share only opens after Floryn drops out of combat, and the bonded ally loses the buff during the swap, so almost every mid-game re-bond costs you the next fight. Pick the right ally in champ select. Do not swap unless your bonded ally has been dead long enough that the next fight will start before they respawn.
+2. **Pressing Bloom every time it is off cooldown.** Floryn gets only a handful of Blooms per game even with optimal Fleeting Time cycling. Spending one to top up an ally who was going to live anyway is a hard throw if it means Bloom is down when your team contests Lord moments later.
+3. **Standing in Sow's max range when Saber is in the enemy draft.** Saber's Triple Sweep locks you airborne, and once he ults you there is no reacting in time to survive it. Against Saber compositions, your max forward range is shorter than the matchup math says it is.
+4. **Opening Sprout into a fight for damage.** The poke looks tempting and the stun feels like a contribution. It is not. Sprout is the only ability Floryn has that buys her time against a diver. Spend it on the Hayabusa, the Ling, the Helcurt, the Benedetta. Spending it on the front-line tank is donating your peel for chip damage.
+5. **Following your team to invade.** Floryn has no mobility, no vision tools, and zero ability to get out of a counter-invade. Stand at your blue camp, farm gold from your jungler's clears, and let the rest of the team fight. The game where Floryn dies in the enemy jungle at minute 3 is the game where the bonded carry plays the rest of laning without their second-life buff.
+
+### Key tips
+
+> [!TIP]
+> Once Floryn drops out of combat, Flower of Hope becomes available to re-share. If your bonded ally died with the Flower on cooldown, use the dead window to re-bond to a different ally rather than waiting for them to respawn. The new bond locks for a while, so commit to the swap.
+
+> [!NOTE]
+> Sow's healing fruits bounce to allies near the cast target, not near Floryn. If your bonded carry is shooting an enemy who has a low-HP ally beside them, casting Sow on the enemy pokes them AND heals two allies at once. One button, three effects.
+
+> [!TIP]
+> Bloom's Shield and HP Regen amp window is brief. Press Bloom and immediately follow with Sow on your bonded ally. The Sow heal that lands inside the amp window procs Flower of Hope's shield at amplified value, which is a meaningful damage cushion on the carry during the fight's most dangerous second.
+
+> [!NOTE]
+> Sprout briefly reveals enemy positions on hit. Against heroes who hide in bush before engaging (Hayabusa staging his shadow, Helcurt scouting his stealth path, a Natalia Camouflaged in the Lord pit), firing Sprout into a suspected bush both scouts the position and lands a poke if anyone is there.
+
+## Skills
+
+### Dew (Passive)
+
+Dew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat for 5s, Floryn can share the Flower of Hope with an allied hero (30s cooldown), which will grant them a 100 (+70% Total Magic Power) shield each time they are healed by Floryn. Floryn will never sell the Lantern.
+
+### Sow (Skill 1)
+
+Floryn tosses an Energy Seed at the target enemy, dealing 180 (+100% Total Magic Power) Magic Damage. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring their HP by 175 (+90% Total Magic Power).
+
+### Sprout (Skill 2)
+
+Floryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing 175 (+90% Total Magic Power) Magic Damage to nearby enemies and stunning them for 0.5s (and revealing their positions briefly).
+
+### Bloom (Ultimate)
+
+Floryn resonates with Dew's power, recovering 250 (+100% Total Magic Power) HP for all allied heroes 2 time(s) no matter where they are. This effect also increases their Shield and HP Regen effects by 12% for 2s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Floryn's 2nd Skill to CC enemies, and her 1st Skill for damage and healing. When a teammate is in bad shape, use Floryn's Ultimate to save them.
+- LANING COMBOS (laning): In the laning phase, use Floryn's 2nd Skill to stun enemies, then follow up with her 1st Skill for damage and healing.
+
+## Counters to Floryn (pick these against Floryn)
+
+- Lolita (Support/Tank): +3.9 pp edge. Across Floryn's measured matchups, Floryn is weakest once matches pass 16 minutes. Take the game long with Lolita.
+- Chip (Support/Tank): +2.8 pp edge. Across Floryn's measured matchups, Floryn is weakest once matches pass 16 minutes. Take the game long with Chip.
+- Yin (Fighter/Assassin): +2.7 pp edge. Across Floryn's measured matchups, Floryn is weakest once matches pass 16 minutes. Take the game long with Yin.
+- Ixia (Marksman): +2.5 pp edge. Ixia has a statistical edge over Floryn based on ranked matchup data. Pick Ixia to gain an advantage in draft.
+- Eudora (Mage): +2.4 pp edge. Across Floryn's measured matchups, Floryn is weakest once matches pass 16 minutes. Take the game long with Eudora.
+- Nolan (Assassin): +2.3 pp edge. Nolan has a statistical edge over Floryn based on ranked matchup data. Pick Nolan to gain an advantage in draft.
+- Silvanna (Fighter): +2.0 pp edge. Across Floryn's measured matchups, Floryn is weakest once matches pass 16 minutes. Take the game long with Silvanna.
+- Franco (Tank): +2.0 pp edge. Across Floryn's measured matchups, Floryn is weakest once matches pass 16 minutes. Take the game long with Franco.
+
+## Heroes Floryn beats
+
+- Marcel (Support): +4.1 pp edge for Floryn.
+- Alice (Tank/Mage): +3.8 pp edge for Floryn.
+- X.Borg (Fighter): +3.6 pp edge for Floryn.
+- Natalia (Assassin): +2.6 pp edge for Floryn.
+- Ling (Assassin): +2.5 pp edge for Floryn.
+- Lancelot (Assassin): +2.3 pp edge for Floryn.
+- Zetian (Mage): +1.9 pp edge for Floryn.
+- Xavier (Mage): +1.8 pp edge for Floryn.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/floryn.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-09-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Favor Tempo (Roam)
+
+- Items: Lantern of Hope, Demon Boots, Flask of the Oasis, Fleeting Time, Glowing Wand, Oracle
+- Core: Flask of the Oasis, Fleeting Time, Glowing Wand
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Favor
+- Flex: Dominance Ice over Glowing Wand when Use when enemy sustain is tied to divers and basic attackers who will repeatedly damage Floryn or her front line.; Athena's Shield over Oracle when Use against Eudora, Kagura, or other magic burst that can remove Floryn before Bloom matters.; Winter Crown over Oracle when Use when a single dive combo is predictable and stasis buys more survival value than Oracle's shield and regen boost.; Immortality over Oracle when Use when games run long enough that a guaranteed second life matters more than Oracle's shield and regen boost.
+- Total cost: 8530 gold
+
+Default ranked roam setup built around Favor, Flask, Bloom resets, ranged anti-heal pressure, and Oracle's defensive boost to survive dives. The Lantern of Hope holds the first slot all game and can never be sold, so Floryn buys five items.
+
+### Roam Anti-Sustain Defense (Roam)
+
+- Items: Lantern of Hope, Tough Boots, Flask of the Oasis, Dominance Ice, Oracle, Fleeting Time
+- Core: Flask of the Oasis, Dominance Ice, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Favor
+- Flex: Warrior Boots over Tough Boots when Use when repeated physical contact is the main threat and the enemy has limited crowd control.; Radiant Armor over Oracle when Use against sustained magic poke or burn that chips Floryn before objective fights.; Antique Cuirass over Oracle when Use when physical skill burst from fighters or assassins is killing Floryn during rotation windows.; Glowing Wand over Dominance Ice when Use when Floryn can stay outside dive range and needs ranged Lifebane application instead of contact-based anti-heal.
+- Total cost: 8470 gold
+
+Defensive roam setup for sustain brawls where Floryn must live close enough to keep Favor, Oracle, and anti-heal value online. The Lantern of Hope holds the first slot all game and can never be sold, so Floryn buys five items.
+
+### Roam Revitalize Heal Scaling (Roam)
+
+- Items: Lantern of Hope, Demon Boots, Flask of the Oasis, Fleeting Time, Holy Crystal, Blood Wings
+- Core: Flask of the Oasis, Fleeting Time, Blood Wings
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Revitalize
+- Blessing: Favor
+- Flex: Glowing Wand over Holy Crystal when Use when enemy sustain or shields matter more than maximum heal scaling.; Athena's Shield over Holy Crystal when Use when magic burst reaches Floryn before she can safely convert the extra magic power into healing.; Winter Crown over Holy Crystal when Use against delayed dive patterns where stasis buys time for Bloom and Sow to land, even at the cost of Holy Crystal's magic power.; Immortality over Blood Wings when Use when the enemy bursts through Blood Wings' shield in one combo, and a second life matters more than its magic power and movement speed.
+- Total cost: 9720 gold
+
+Greedier save setup for grouped objective fights where Revitalize and magic power scaling matter more than personal escape tools. The Lantern of Hope holds the first slot all game and can never be sold, so Floryn buys five items.
+
+All builds for this hero: https://mlbbhub.com/builds/floryn.
+
+## Synergies
+
+- Terizla: Floryn works well with tanky Fighters, such as Terizla and Thamuz, because they are easier to keep alive with heals and can peel enemies off of her.
+- Thamuz: Floryn works well with tanky Fighters, such as Terizla and Thamuz, because they are easier to keep alive with heals and can peel enemies off of her.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,199 @@
+# Johnson, Wild Engine
+
+> Johnson is not a tank you pick to stand in front of your team. He is a long-range delivery vehicle, and after the 2.1.40 rework shifted his direct damage onto Physical Defense, every armor item you stack now doubles as a damage stat. The real draft question is never "is Johnson strong," it is "do we have a passenger worth delivering."
+
+## Snapshot
+
+- Role: Tank, Support
+- Lane: Roam
+- Specialty: Support, Crowd Control
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.58%
+- Pick rate: 0.77%
+- Ban rate: 2.13%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/johnson
+
+## Guide
+
+### Is your team ready to catch a car?
+
+Johnson is a setup roamer. His ultimate is a long-range engage that delivers himself plus one allied hero to the enemy backline with a 0.5-1s stun and a lingering electrified zone. That package is worthless unless someone in your lobby converts it into a kill before the stun expires.
+
+Lock him when your team has at least one of three follow-ups. A burst passenger who can delete the marksman during the stun (Aurora, Eudora, Selena, Lancelot post two-item spike, Ling) is the cleanest draft. A mid-range flex carry who can follow up from their current lane position (Beatrix, Kimmy, Pharsa) works when their setup range is longer than Johnson's landing area. A diver-jungler who can lock the same target down as a second wave (Fredrinn, Yin, Saber) turns Johnson's impact into a chained CC kill window. The enemy draft should lean squishy in the backline and prefer grouping: two mages who rotate with the jungler, a marksman who farms mid, a support without dash mobility.
+
+Do not lock him when the team is a late-game scaling comp with no early-game kill threat, when your jungler is a slow farmer who will not be level 4 on the same tempo Johnson is, or when the enemy draft contains any of the following on a core slot: Selena (arrows reveal your ult path mid-approach), Chou (immunity dodges the impact outright), Khufra (his cannonball cancels your trajectory), Diggie (ult cleanses your stun), Ruby (immune during her dash chain), or two of Fanny, Lancelot, Benedetta, or Wanwan (mobile heroes sidestep the hitbox even on a full-speed crash).
+
+The disqualifying test: name the exact teammate who is on board with you for the first full-throttle ult. If you cannot say their hero name during champion select, someone else is rolling for you.
+
+### The one thing that makes Johnson work
+
+Johnson is the only hero in the game where buying more armor makes him hit harder. Every defensive purchase feeds into three separate damage profiles at once, and once you internalize that, every build decision simplifies.
+
+Electro Airbag, the passive, scales its shield off Total Physical Defense, not HP. A Leather Jerkin is a bigger shield buy than a Vitality Crystal at equal gold. Impact Wrench is a skillshot that explicitly scales with Physical Defense, so the same Cuirass that keeps you alive longer also makes your pre-ult poke threaten a kill. After the 2.1.40 rework, Full Throttle's crash explosion scales with Physical Defense too, meaning the ult's burst damage now rides the same stat curve as the shield and the wrench. Only the electrified zone left behind still scales with Magic Power, which is why you rarely need a single magic item on the build.
+
+Patch 2.1.88 ([patch notes](/patch-notes)) nudged his base Physical Defense up to keep pace with the wider roaming-attribute changes, and on this kit that is not just survivability. Base armor feeds the same shield, wrench, and crash math as every item you buy, so a free early-game defense bump reads as a small free damage bump on the pre-ult poke that other roamers do not get.
+
+Electromagnetic Waves remains a utility skill that slows and shreds Magic Defense in stacks, useful to soften a target before the wrench stun or slow an approaching dive. Full Throttle's passive grants a percentage Physical Defense bonus that grows with each skill rank on top of everything else, so the ult makes you more durable just by existing. The whole kit points at one build philosophy: buy defense, press the 3 buttons, let the stats do the math.
+
+### The first 4 minutes: getting to ult level
+
+As a roam, Johnson has no lane to farm. The first four minutes decide whether you show up to the minute-6 Turtle fight as a level-5 threat with first back items, or as a level-3 body with 600 gold.
+
+1. **Tax XP lane level 1, then walk to your jungler.** Johnson has no mana bar, so sitting in the EXP lane bush at spawn costs nothing. Land one Impact Wrench on the first wave, then peel off to help your jungler kill buff. If your jungler is physical damage, the red buff slow pairs with the wrench stun for a guaranteed invade or counter-gank opener.
+2. **Level 4 is your first real engage window.** Rush your second skill so you have both wrench and the wave cone, then pick up ultimate the moment it unlocks. Until level 4 you are a body with one stun, not a threat. The ideal opening ult is a scripted gank called before the cast: ping the mid-laner, ult from the river bush, land wrench then cone on impact. A successful level-4 kill sets the tempo for the next two rotations and the first Turtle fight.
+3. **Do not burn ultimate on a panic save.** Full Throttle's cooldown at rank 1 is long enough that a misused cast means one fewer teamfight engage per rotation. Using it to save a dying mid-laner across the map is a defensible call once, but doing it twice means you have no ult when the enemy jungler counter-invades at the first Turtle timing.
+
+### The power spike you are farming toward
+
+Dominance Ice plus Antique Cuirass, finished around the 9 to 11 minute window, is the moment Johnson flips from free CC into a real burst threat. Before that spike, the ult stuns and chips. After it, the stack of Physical Defense from both items amplifies the passive shield, the wrench damage, and the crash explosion all at once, and Dominance Ice's two passives now key off the crowd around you rather than the hit: Fortress Shield adds 8 Hybrid Defense for every enemy hero within 5 units, up to 40, and Lifebane cuts the Shield and HP Regen of those same enemies to 60% of normal.
+
+The timing matters because it aligns with the second Turtle at roughly minute 6 and the Lord setup window at minute 10. Dominance Ice should be finishing as the second Turtle spawns, so your ult on the turtle-contest fight lands with the damage bonus. Cuirass must be online for the first Lord attempt. If you reach Lord at minute 10 without both items, your carpool does not carry the explosion damage to win the fight on its own, and your carry has to solo-burst whatever Johnson's crash stunned.
+
+Concussive Blast from Tank Emblem scales with max HP and comes online at the same window. Once you cross roughly 4000 HP (after Cuirass and the HP stat from Athena's Shield or Radiant Armor), the Blast proc on the auto-attack after S1 adds a meaningful burst chunk on top of the stun.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a chaotic fight is to ult into it so you can help. That reflex is wrong. Johnson's value is preventing the fight from starting in your team's terms by forcing it to start in his: one carry is isolated, one ally is already on board, and the rest of the enemy team is three screens away when the stun lands.
+
+1. Ult begins with a 3-second location reveal. You are not sneaking up on a team with any map awareness. Plan the approach such that the reveal is the last warning they get, not the first. Cut through jungle walls. Emerge as the car, not as a dot heading toward them. Give them no time to Flicker before impact.
+2. Brake before contact if your passenger has a channeled or targeted cast. Aurora, Pharsa, and Eudora all need to land their cast during the stun window. A full-speed impact pushes the target past their cone. Stop half a car length short, let the ally dismount, then follow with S1 behind the target to knock them forward into the cast.
+3. Never approach at maximum speed if the target has Flicker up. Full Throttle's stun duration scales with driving time, so reaching top speed applies the longest stun but also gives the longest telegraph. A mid-speed crash that lands half a second after the reveal often trades better against a target who can Flicker the hitbox.
+
+Support-conditional edge case: if your passenger is a dash-based hit-and-run (Lancelot, Ling, Karina), brake early so they can dismount and dash through the target. If your passenger is a channeled or hard-lock carry (Aurora, Eudora, Selena), full-speed crash is correct because the longer stun keeps the target in place while they cast.
+
+### Itemization: three locked slots, three real conversations
+
+The locked slots are Tough Boots, Dominance Ice, and Antique Cuirass. Tough Boots because the squishies you are diving past all run at least one CC skill, and the 30% CC reduction keeps you functional during the impact. Dominance Ice because the 40 Physical Defense amplifies every part of your damage profile, the 5% movement speed matters on ult approaches, and both passives pay you for landing in the middle of them: Fortress Shield adds 8 Hybrid Defense per enemy hero within 5 units, up to 40, and Lifebane drops the Shield and HP Regen of everyone in that radius to 60% of normal. Cuirass because every physical-skill hero in the lobby weakens themselves by attacking you, and the 40 Physical Defense stacks into the same damage curve as Dominance Ice.
+
+The three real conversations are:
+
+1. **Magic defense slot: Athena's Shield or Radiant Armor.** Athena gives a flat 25% magic damage reduction and a bigger HP pool, best against burst mages (Eudora, Aurora, Cyclops, Kagura). Radiant Armor stacks magic defense over 3-5 seconds of sustained magic damage, best against DoT mages (Zhask, Valentina, Kadita) and magic-damage fighters (Alice, X.Borg). One assassin mage means Athena, two magic threats across different damage windows means Radiant.
+2. **Second physical slot: Blade Armor or skip.** Blade Armor is a specific counter to auto-attack marksmen (Karrie, Claude, Moskov, Melissa) because the reflect and slow punish the DPS rotation. When enemy physical damage is mostly skill-based (Yu Zhong, Leomord, Esmeralda), Cuirass already stacks against their burst and Blade Armor is wasted gold. Skip it for the last slot.
+3. **Sixth slot: Immortality, Oracle, or Concentrated Energy.** Immortality is the default and correct choice in roughly 8 out of 10 games, because a second engage with the same passenger wins the late-game Lord fight. Oracle is the call when you carry Estes, Rafaela, or Angela, because the shield and regen amp turn their heals into genuine walls. Concentrated Energy is the off-meta pick that buys sustained magic damage for the electrified zone DoT; only defensible when your team already has no other magic damage and you are coasting on a kill lead.
+
+Emblem: Tank Emblem with Vitality, Tenacity, and Concussive Blast. The Blast proc on the basic attack after your S1 stun adds real burst once your HP pool crosses the 4000 threshold. Support Emblem with Pull Yourself Together is the alternative for fast-rotation comps where you value more Flicker uptime and the 6% movement speed for the approach over raw HP.
+
+Battle spell: Flicker, always. Arrival is defensible for split-push comps that want a backup cross-map engage from base. Sprint is never correct; you have no early all-in that needs chase speed.
+
+### Mistakes that lose Johnson games
+
+1. **Ulting without naming your passenger.** Full Throttle with an empty seat is a solo engage that stuns the target for under a second and then asks a tank with 120 base physical attack to kill the marksman alone. Always ping your intended rider before you cast, confirm their position on the minimap, and wait the half-second for the board animation. An empty Johnson ult lands you deep in enemy territory with a full-length cooldown and no escape.
+2. **Throwing Impact Wrench before the car lands.** The wrench has a travel window. Casting it mid-approach usually means it lands before you do, the stun resolves before impact, and the target walks out of the electrified zone before your passenger can cast. Hold S1 until after the crash, then wrench the target to extend the stun chain.
+3. **Nitrous all the way to the target.** A full-distance drive applies the longest stun but also the longest telegraph. Good players Flicker sideways the instant a reveal indicator crosses their jungle. Against any team with two Flickers on cooldown, a mid-speed crash that forces the dodge early (stranding their Flicker on the wrong side of the fight) is the higher EV play.
+4. **Treating Johnson like a main tank.** His base HP is below average for the tank pool, and his kit has no sustain. When an enemy fighter flanks and you try to peel by standing in front, you die. Johnson is a setup tank and a peel-deny tank; the actual front-line role belongs to your EXP laner. If your team composition has no true tank in the EXP slot, Johnson was the wrong draft.
+5. **Saving the car for a safer moment.** Johnson's power curve is front-loaded: objective setups, level-4 ganks, minute-6 Turtle tempo. Holding the ult "for a better angle" past the minute-4 window is how you lose the second Turtle and surrender map control. A 60% ult with a clear passenger right now beats a 100% ult in an empty minute later.
+
+### Key tips
+
+> [!TIP]
+> Precast Electromagnetic Waves as your passenger is boarding, not after impact. The cone's Magic Defense shred applies to any target in it, and one stack landing before the crash turns your explosion from "stun and chip" into "stun and delete."
+
+> [!NOTE]
+> Electro Airbag scales with Total Physical Defense, not HP. A 900-gold Leather Jerkin gives you a bigger passive shield than a 900-gold Vitality Crystal, and Antique Cuirass is a bigger shield buy than any pure-HP item at equal gold.
+
+> [!TIP]
+> A braked car still creates the electrified zone. If the enemy Flickers out of your crash range, brake on top of the objective pit or the choke point anyway. The zone's slow and damage-over-time zones the area for your team to force the contest on your terms.
+
+> [!WARNING]
+> The 3-second ult location reveal is pre-cast, not pre-impact. The enemy mid-laner sees you as a glowing dot before you have even started moving. Plan the approach path and the passenger handshake before hitting the ult button, not after.
+
+## Skills
+
+### Electro Airbag (Passive)
+
+When Johnson's HP drops below 30%, he gains a 300 (+700% Total Physical Defense) shield for 10s. Cooldown: 100s.
+
+### Impact Wrench (Skill 1)
+
+Johnson throws his wrench toward the target location, dealing 120 (+220% Total Physical Defense) Magic Damage to enemies in its path. Enemies around the landing point are stunned for 0.8s.
+
+### Electromagnetic Waves (Skill 2)
+
+Johnson raises his shield, continuously dealing 120 (+60% Total Magic Power) Magic Damage to enemies in a fan-shaped area in the target direction, reducing their Movement Speed and Magic Defense by 10% (stacks up to 3 times) for 2s. While his shield is raised, Johnson can perform Basic Attacks and cast skills.
+
+### Full Throttle (Ultimate)
+
+Passive: Johnson's Physical Defense is increased by 10%. Active: Johnson transforms into a car. Nearby allied heroes can use Hop In to ride with him (only 1 at a time). When the car hits an enemy hero, it explodes and deals 300 (+240% Total Physical Defense)–450 (+360% Total Physical Defense) Magic Damage to nearby enemies, stunning them for 0.5–1s (scales with driving time). It also creates an electrified zone at the location that continuously deals 60 (+20% Total Magic Power) Magic Damage and slows enemies within. Johnson's location is revealed to enemies for 3s when he casts this skill.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, cast Johnson's Ultimate and pick up a teammate before engaging the enemy. Then follow up with his 2nd Skill and 1st Skill to CC the enemy again.
+- LANING COMBOS (laning): In the laning phase, use Johnson's 1st Skill to stun enemies, then move in and hit them with his 2nd Skill and Basic Attacks.
+
+## Counters to Johnson (pick these against Johnson)
+
+- Gloo (Tank): +3.5 pp edge. Gloo's durability and kit give them a strong matchup advantage against Johnson throughout the game.
+- Marcel (Support): +3.3 pp edge. Marcel has a statistical edge over Johnson based on ranked matchup data. Pick Marcel to gain an advantage in draft.
+- Atlas (Tank): +3.1 pp edge. Atlas's durability and kit give them a strong matchup advantage against Johnson throughout the game.
+- Minotaur (Tank/Support): +3.1 pp edge. Minotaur's durability and kit give them a strong matchup advantage against Johnson throughout the game.
+- Zhuxin (Mage): +2.8 pp edge. Zhuxin has a statistical edge over Johnson based on ranked matchup data. Pick Zhuxin to gain an advantage in draft.
+- Carmilla (Support/Tank): +2.5 pp edge. Carmilla's durability and kit give them a strong matchup advantage against Johnson throughout the game.
+- Lylia (Mage): +2.4 pp edge. Lylia has a statistical edge over Johnson based on ranked matchup data. Pick Lylia to gain an advantage in draft.
+- Kadita (Mage/Assassin): +2.3 pp edge. Kadita has a statistical edge over Johnson based on ranked matchup data. Pick Kadita to gain an advantage in draft.
+
+## Heroes Johnson beats
+
+- Layla (Marksman): +2.7 pp edge for Johnson.
+- Zilong (Fighter/Assassin): +2.7 pp edge for Johnson.
+- Saber (Assassin): +2.3 pp edge for Johnson.
+- Valentina (Mage): +2.2 pp edge for Johnson.
+- Yin (Fighter/Assassin): +2.2 pp edge for Johnson.
+- Dyrroth (Fighter): +2.0 pp edge for Johnson.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/johnson.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Armor Crash (Roam)
+
+- Items: Tough Boots, Dominance Ice, Antique Cuirass, Blade Armor, Athena's Shield, Immortality
+- Core: Dominance Ice, Antique Cuirass, Blade Armor
+- Emblem: Tank Emblem with Firmness, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Warrior Boots over Tough Boots when Use into low-control physical drafts when the first collision must survive marksman retaliation.; Radiant Armor over Athena's Shield when Use against repeated magic damage that keeps hitting after the crash instead of one burst combo.; Oracle over Athena's Shield when Use when your passive shield and allied sustain decide whether you live through the second rotation.; Guardian Helmet over Immortality when Use before the final item slot when repeated drives and resets matter more than one revive.
+- Total cost: 11060 gold
+
+Default roam setup that turns Johnson's Physical Defense scaling into crash damage, shield value, and front-line punishment.
+
+### Roam Pickoff Dire Hit (Roam)
+
+- Items: Rapid Boots, Dominance Ice, Blade Armor, Thunder Belt, Athena's Shield, Immortality
+- Core: Dominance Ice, Blade Armor, Thunder Belt
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Petrify
+- Blessing: Dire Hit
+- Flex: Tough Boots over Rapid Boots when Use when control chains catch you after impact and Rapid Boots loses too much value.; Conceal over Dire Hit when Use when the team needs hidden lane entries more than the extra damage Johnson brings out of the crash.; Antique Cuirass over Athena's Shield when Use when physical skill burst is the main threat and magic damage is not deciding fights.; Radiant Armor over Athena's Shield when Use into Chang'e, Valir, Kimmy, or other repeated magic hits that extend beyond the first impact.
+- Total cost: 10760 gold
+
+Fast-rotation pickoff setup for games built around one delivered passenger and chain control. Force banked while rotating is still loaded when the car lands, so Impact Wrench or the first Basic Attack after impact spends it.
+
+### EXP Thunder Armor (EXP)
+
+- Items: Warrior Boots, Thunder Belt, Cursed Helmet, Dominance Ice, Oracle, Immortality
+- Core: Thunder Belt, Cursed Helmet, Dominance Ice
+- Emblem: Tank Emblem with Firmness, Tenacity, Brave Smite
+- Battle spell: Flicker
+- Flex: Tough Boots over Warrior Boots when Use against magic lane pressure or control-heavy teams where CC reduction beats early armor stacking.; Antique Cuirass over Oracle when Use when physical skill damage, not magic poke or shielding value, is what forces you out of lane.; Blade Armor over Oracle when Use when the enemy marksman is the late-game carry and must basic attack through your front line.; Athena's Shield over Oracle when Use against one-shot magic burst that can remove you before Electro Airbag and Flicker buy time.
+- Total cost: 10440 gold
+
+EXP variant for games with another primary roamer, farming Thunder Belt stacks and wave control before joining car engages.
+
+All builds for this hero: https://mlbbhub.com/builds/johnson.
+
+## Synergies
+
+- Odette: Johnson works well with heroes that need help initiating like Odette and Kadita since they can just jump into Johnson's Ultimate for a ride.
+- Kadita: Johnson works well with heroes that need help initiating like Odette and Kadita since they can just jump into Johnson's Ultimate for a ride.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,196 @@
+# Argus, Dark Angel
+
+> Argus is an EXP lane fighter who wins by turning one committed target into health, tempo, and turret pressure. He is pickable when the enemy must fight him in melee range. He becomes a liability when the draft can kite, suppress, or waste his transformation without giving him something meaningful to hit.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP
+- Specialty: Charge, Burst
+- Difficulty: Medium
+- Tier this patch: S
+- Win rate: 56.17%
+- Pick rate: 0.48%
+- Ban rate: 1.06%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/argus
+
+## Guide
+
+### Pick Argus when the fight has nowhere to run
+
+Argus is correct into drafts that have to answer side-lane pressure with bodies, not wave clear from a screen away. He wants bruisers, short-range marksmen, melee assassins, and tanks that walk forward first. If the enemy EXP laner or jungler has to stand in his attack range to contest a wave, Argus can force a trade, heal through the reply, and make the next side wave expensive to defend. Patch 2.2.16 ([patch notes](/patch-notes)) leaned the identity further into crit: Argus starts with built-in crit chance, every critical hit rolls an extra Demonic Slash instead of bonus damage, and Meteoric Sword stuns whatever its charged thrust catches. The melee-bully plan lands its slash sequence more often and pins the target for it, so the early trades are less of a coin flip than they used to be.
+
+The pick is a trap when the enemy can deny the fight instead of losing it. Suppression is the cleanest answer because it removes the one thing Argus needs during Eternal Evil: control over his own basic attacks. Akai, Franco, Kaja, and Chou can turn his transformation into a timer that expires while he is pinned or displaced. Heavy kiting does the same job in a different way. Valir, Lylia, Pharsa, and long-range gold laners do not have to beat Argus in a duel if they can make him spend Demonic Grip just to arrive.
+
+Your own draft matters just as much. Argus is not the only front line. He is the side-lane threat that pulls a defender away, arrives late to a fight from the flank, or punishes a greedy objective call. Pick him when your roamer can start fights without him and your mid laner can clear waves while he pressures the opposite side. Avoid him when your team already lacks engage, because an Argus who starts the fight into five heroes usually spends his best window walking through crowd control.
+
+### Warmonger is the hero, the ultimate is the contract
+
+Argus works because Warmonger changes every trade from a normal HP exchange into an energy problem. He wants to fill Malice Energy, cash it in through Demonic Slash, then use the heal and armor bypass to keep the next basic attack cycle moving. Critical hits feed that loop directly now: a crit no longer pads the damage number, it rolls an additional Demonic Slash, so crit chance and attack speed are slash-frequency stats on him before they are damage stats.
+
+Meteoric Sword is the skill that makes the engine practical: it triggers attack effects, its charged thrust stuns whatever it catches, and its damage rides his crit stats instead of rolling its own crit. Landing one on a hero raises his attack speed and refills the Warmonger sequence outright. One clean sword on an enemy turns the follow-up Demonic Slash from a wish into a guarantee.
+
+That is why attack-effect items are no longer just a marksman habit on him. Corrosion Scythe keeps the target close, Demon Hunter Sword punishes high-HP defenders, and Golden Staff repeats attack effects while raising the attack-speed ceiling. Those items do not merely add DPS. They increase how often Argus reaches the next meaningful slash and how reliably he converts a stuck target into a won side-lane trade.
+
+Eternal Evil is the contract that lets him overdraw the account. It removes ordinary debuffs, turns damage dealt during the transformation into HP, and only gives death immunity when lethal damage actually arrives. Pressing it with no target in range is not defensive play. It is throwing away the only window where Argus can spend HP with confidence.
+
+### EXP lane: the first four minutes
+
+1. **Use Meteoric Sword to win the first wave, not to fish for a clip.** The first lane goal is control of the minion line. Hit the wave and the opposing laner together when possible: a sword that connects on a hero refills your Malice Energy, spikes attack speed, and leaves the target stunned, so the follow-up Demonic Slash trade lands unanswered. If you miss the hero, accept the clear and do not chase through the next minion wave.
+2. **Hold Demonic Grip until it changes the lane state.** A raw hook at level two invites a counter-trade because Argus has not built the attack-effect core yet. Save the first cast to punish a dash, dodge a jungle visit, or confirm a Meteoric Sword hit. The second cast is your exit button if the opponent's roamer appears from river.
+3. **Treat battle-spell tempo as lane insurance.** Flicker should protect the first important side-lane crash or convert a post-level-four kill when the target is already slowed. Inspire is greedier and only makes sense when the enemy has low control and must duel you. If the matchup has a reliable stun chain, take Flicker and keep it for the disengage after Eternal Evil ends.
+
+### The two-item spike is chase plus HP pressure
+
+The practical spike is **Corrosion Scythe plus Demon Hunter Sword**, usually around minutes seven to nine if Argus keeps the side wave moving. Corrosion Scythe gives the slow and attack-speed ramp that keep a defender inside basic range. Demon Hunter Sword adds current-HP damage and on-hit recovery, so the same target that tries to tank the wave also feeds Argus enough value to keep trading.
+
+Once those two items are finished, your job changes. Before the spike, you are farming, clearing, and looking for short Meteoric Sword trades. After the spike, you can hold the wave near the enemy turret, force the defender to show, and punish every missed control skill with Demonic Grip. The first objective is not always a kill. It is making the enemy send a second hero, which gives your team space around Turtle, Lord setup, or mid lane.
+
+Golden Staff turns that pressure into the full attack-effect version of Argus. It repeats attack effects and converts whatever crit chance the build carries into attack speed, which is the cleaner way to buy slash frequency on a hero who wants sustained contact. Crit itself is not a separate path any more: a critical hit rolls another Demonic Slash, so crit chance feeds Warmonger the same way attack speed does. The ranked default still wants slow and uptime first, but a crit item is no longer just a luxury for squishy drafts.
+
+### Stop ulting as the engage button
+
+The common wrong reflex is to press Eternal Evil the moment Argus sees five enemies. That turns the ultimate into a panic animation and gives the enemy permission to walk away. Argus should enter fights after the first control spell has been spent, not before it.
+
+1. **Enter from the side of the fight, not through the tank.** If Argus starts in front of his team, the enemy front line decides who he hits. If he starts from a side brush or a pushed lane, he decides whether the first target is the marksman, mage, or isolated jungler.
+2. **Press Eternal Evil only when basic attacks are guaranteed.** The transformation pays you back for damage dealt. If the target has Flicker, a dash, or a support peel still available, force that tool with Meteoric Sword or Demonic Grip first, then transform when the target has to stand and trade.
+3. **Let the first enemy mistake choose the target.** Do not tunnel on the backline if the enemy EXP laner oversteps with no escape. A trapped frontliner can be the correct target when killing or chunking them opens Lord or exposes the carry behind them.
+
+There is one support-dependent exception. With Angela, Mathilda, or a hard peel roamer tracking him, Argus can commit deeper because someone else can cover the exit. With a pure engage roamer such as Tigreal or Atlas, he cannot assume rescue. Those heroes start the fight for the team, but they do not always have a second button left for Argus when Eternal Evil ends.
+
+### Itemization is core engine plus two honest choices
+
+The default engine is **Swift Boots, Corrosion Scythe, Demon Hunter Sword, and Golden Staff**. Swift Boots accelerates the early basic-attack cycle. Corrosion Scythe keeps defenders from walking out. Demon Hunter Sword punishes tanks and fighters for absorbing the wave. Golden Staff multiplies the attack-effect plan once fights last longer than one hook.
+
+From there, the fifth and sixth slots should answer the actual game:
+
+**Haas's Claws** belongs in the default build when Argus is getting continuous side-lane contact. It adds crit chance and attack speed, and both stats now pull in the same direction: the crit chance rolls extra Demonic Slashes, and its Frenzy passive converts those crits into more attack speed.
+
+**Malefic Roar** is the clean armor answer. Buy it when the enemy EXP laner or roamer already has physical defense and the fight is still decided by hitting the nearest durable target.
+
+**Sea Halberd** is the anti-sustain slot. It is worth delaying raw damage when the enemy has Estes, Floryn, Ruby, Yu Zhong, Alpha, or shield-heavy front-to-back fights.
+
+**Rose Gold Meteor** is the magic-burst answer. It gives attack stats without making Argus completely paper into Eudora, Kadita, Lunox, or a fed magic jungler.
+
+**Immortality** is not a snowball item. Buy it when one death loses Lord or base. If Argus is ahead and still has side-lane control, damage or anti-armor usually ends the game faster.
+
+### Mistakes that lose Argus games
+
+**Hooking first into suppression loses the whole fight.** If Akai, Franco, Kaja, or Chou still has the suppressing skill ready, Demonic Grip delivers Argus into the exact button that beats him. Bait the cooldown, hit a different target, or split the opposite side until they show.
+
+**Using Eternal Evil while chasing wastes the heal window.** The transformation is strongest when Argus is already attacking. If half the duration disappears while he walks after a Flicker target, the exit heal will be tiny and the enemy can re-engage as soon as the form ends.
+
+**Clearing side waves without tracking mid priority invites the collapse.** Argus can pressure a side lane, but he is not invisible. If your mid wave is lost and the enemy roamer is missing, stop at the river line. The correct split-push dies only after forcing two enemies to show. The bad one dies before your team can trade anything.
+
+**Building only damage into kiting drafts gives you no second contact.** Corrosion Scythe helps, but it does not solve every Pharsa, Valir, Bruno, or Mathilda game by itself. If the enemy wins by disengaging, value Flicker, Rose Gold Meteor, and careful brush starts more than another greed item.
+
+**Treating Inspire as the default spell ignores draft reality.** Inspire is strong when the enemy must stand and fight. Flicker is stronger when Argus needs one more angle to reach the target or leave after Eternal Evil. Pick the spell for the game you are actually entering.
+
+### Key tips
+
+> [!TIP]
+> Meteoric Sword can trigger attack effects, so do not think of it as a separate poke spell. In the attack-effect build, a clean Meteoric Sword hit starts the same item engine your basic attacks are trying to repeat.
+
+> [!NOTE]
+> Eternal Evil's auto-trigger, which fires when a lethal hit lands while the skill is off cooldown, grants the Death Immunity but deals no damage. The manual cast is the version that hits, and its damage climbs as Argus' HP drops. That split sets the discipline: hold the transformation until the fight has already taken your health, spend it on the counterkill, and let the auto-trigger catch you if you leave it too late.
+
+> [!TIP]
+> Keep Demonic Grip's second cast available until you know whether the target is dying or the enemy roamer is arriving. The first cast commits Argus. The second cast decides whether that commit becomes a kill, a dodge, or a clean exit.
+
+> [!NOTE]
+> Against anti-heal, Argus must shorten the fight. Sea Halberd, Dominance Ice, and similar effects reduce the sustain that makes his extended trades comfortable, so play for one locked target instead of walking through the whole front line.
+
+## Skills
+
+### Warmonger (Passive)
+
+Malice Energy grants Argus an initial Crit Chance of 30%. Argus's Crits are converted into Demonic Slash, which ignores 30% of the target's Physical Defense, deals 90 (+25% Total Physical Attack) Physical Damage, and recovers 140 HP. Demonic Slash cannot Crit, but can still trigger Crit-related effects.
+
+### Demonic Grip (Skill 1)
+
+First Cast: Argus stretches out a demonic hand in the target direction, dealing 125 (+60% Extra Physical Attack) Physical Damage to the first enemy hero or creep hit, stunning them for 0.7s. Both Argus and the target are pulled toward each other, then the target is slowed by 40% for 2s. If no enemy is hit, Argus pulls himself toward the hand's destination instead. Use Again: Argus dashes and performs a wide slash, dealing 175 (+100% Extra Physical Attack) Physical Damage.
+
+### Meteoric Sword (Skill 2)
+
+After a short charge, Argus thrusts his Meteoric Sword in the target direction, dealing 120 (+100% Total Physical Attack) Physical Damage. If this hits an enemy hero, Argus briefly stuns them and gains 30% Attack Speed for 3s. Meteoric Sword's damage also gains a 40% boost to Crit Chance and Crit Damage. Meteoric Sword counts as a Basic Attack and can trigger Attack Effects. Attack Speed shortens the charge time.
+
+### Eternal Evil (Ultimate)
+
+Argus removes all control effects, gains Death Immunity for 4s, and deals 300 (+180% Extra Physical Attack) Physical Damage to nearby enemies. This damage scales with Argus's lost HP, dealing up to 50% extra damage when his HP falls below 30%. When Death Immunity ends, Argus recovers HP equal to all damage dealt to enemy heroes during its duration. Passive: If Argus takes fatal damage while Eternal Evil is not on cooldown, he automatically enters Death Immunity.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- LANING COMBOS (laning): In the laning phase, use Argus's 1st Skill to close in on the opponent and slow them with his 2nd Skill while hitting with Basic Attacks. If the enemy tries to run, use the second cast of his 1st Skill to chase.
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Argus's 1st Skill to pull himself towards the enemy formation, then use the skill again to dash into their backline. Next, slow the enemy with his 2nd Skill and use Basic Attacks until his HP is low, then pop his Ultimate and continue the assault with Basic Attacks.
+
+## Counters to Argus (pick these against Argus)
+
+- Uranus (Tank): +3.3 pp edge. Uranus's durability and kit give them a strong matchup advantage against Argus throughout the game.
+- Barats (Tank/Fighter): +3.0 pp edge. Barats's durability and kit give them a strong matchup advantage against Argus throughout the game.
+- Terizla (Fighter/Tank): +2.9 pp edge. Terizla's durability and kit give them a strong matchup advantage against Argus throughout the game.
+- Fredrinn (Fighter/Tank): +2.5 pp edge. Fredrinn's durability and kit give them a strong matchup advantage against Argus throughout the game.
+- Ruby (Fighter): +2.3 pp edge. Ruby's sustain and durability allow them to outlast Argus's burst combos and win extended trades.
+
+## Heroes Argus beats
+
+- Helcurt (Assassin): +3.0 pp edge for Argus.
+- Karrie (Marksman): +2.8 pp edge for Argus.
+- Saber (Assassin): +2.4 pp edge for Argus.
+- Guinevere (Fighter): +2.3 pp edge for Argus.
+- Arlott (Fighter/Assassin): +2.3 pp edge for Argus.
+- Lunox (Mage): +2.0 pp edge for Argus.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/argus.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Attack-Effect Default (EXP)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Haas's Claws, Malefic Roar
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, War Cry
+- Battle spell: Flicker
+- Flex: Sea Halberd over Haas's Claws when Use when sustain, shields, or high-extra-HP frontliners are keeping the first target alive.; Rose Gold Meteor over Malefic Roar when Use against magic burst that can force Eternal Evil before Argus reaches basic-attack range.; Wind of Nature over Haas's Claws when Use against physical basic-attack burst when one immunity window decides the Lord fight.
+- Total cost: 11020 gold
+
+Default ranked setup built around Corrosion slow, Demon Hunter Sword HP pressure, and Golden Staff attack-effect repeats.
+
+### Split-Push Crit Pressure (EXP)
+
+- Items: Swift Boots, Corrosion Scythe, Haas's Claws, Berserker's Fury, Golden Staff, Malefic Roar
+- Core: Corrosion Scythe, Haas's Claws, Berserker's Fury
+- Emblem: Marksman Emblem with Fatal, Weapon Master, War Cry
+- Battle spell: Inspire
+- Flex: Demon Hunter Sword over Malefic Roar when Use when the enemy front line answers you with stacked HP instead of armor, so the percent-current-HP hit beats flat penetration.; Sea Halberd over Malefic Roar when Use against Estes, Floryn, Yu Zhong, or any shield-heavy front-to-back comp that outlasts a side-lane siege.; Rose Gold Meteor over Golden Staff when Use when a magic jungler or burst mage can delete Argus on the rotation to your lane.; Immortality over Malefic Roar when Use once a single death hands over Lord or the base, and the split needs to survive the collapse rather than out-damage it.
+- Total cost: 11230 gold
+
+Side-lane pressure build. Patch 2.1.90 rebalanced Demonic Slash from 80 (+50% Total Physical Attack) to 120 (+25%) and made its regen a flat 140, which halves what raw attack items return to the passive, so this stays on the crit and attack-effect engine instead of stacking Physical Attack. Berserker's Fury carries it after the 2.1.88 rework: crits now add True Damage, which is what gets through the defender who walks into the side lane to stop the push.
+
+### CC and Burst Safe (EXP)
+
+- Items: Tough Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Rose Gold Meteor, Immortality
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Fighter Emblem with Firmness, Weapon Master, War Cry
+- Battle spell: Flicker
+- Flex: Sea Halberd over Rose Gold Meteor when Use when healing or shields are the reason enemies survive Argus' first locked target.; Malefic Roar over Immortality when Use when the enemy front line is armor-heavy and Argus is not dying first.; Wind of Nature over Rose Gold Meteor when Use against physical burst or marksman focus when magic burst is not the threat.
+- Total cost: 10870 gold
+
+Safer teamfight setup for control-heavy or magic-burst games where Argus needs to survive the first lockout before attacking.
+
+All builds for this hero: https://mlbbhub.com/builds/argus.
+
+## Synergies
+
+- Angela: Argus works well with utility Supports like Angela and Rafaela who can provide extra Movement Speed and CC to allow Argus to stick to his targets and dish out maximum damage.
+- Rafaela: Argus works well with utility Supports like Angela and Rafaela who can provide extra Movement Speed and CC to allow Argus to stick to his targets and dish out maximum damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

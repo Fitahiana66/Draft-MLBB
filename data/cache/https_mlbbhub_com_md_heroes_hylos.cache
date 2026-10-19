@@ -1,0 +1,223 @@
+# Hylos, Grand Warden
+
+> Hylos is not a tank in the classical engage sense. He is a mobile wall that trades Tigreal-style catch potential for the one thing no other tank can replicate: the ability to out-sustain a 5v1 and drag your squishies wherever they need to be. Pick him when your draft is built around that sustain, not around his ultimate.
+
+## Snapshot
+
+- Role: Tank
+- Lane: Roam
+- Also played (MLBBHub editorial, not Moonton's listed lane): EXP
+- Specialty: Guard, Initiator
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.97%
+- Pick rate: 0.31%
+- Ban rate: 0.27%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/hylos
+
+## Guide
+
+### Is this a Hylos game?
+
+Hylos is a conditional pick, and the draft filter is narrow. He does not have a point-and-click stun like Atlas, he does not have the gap-close of Khufra or Gatotkaca, and his burst is effectively zero. What he gives you is cross-map mobility for 5 people, an AOE knockback interrupt, and a front line that keeps producing after his cooldowns are spent: Ring of Punishment stays lit through an empty mana bar and Glorious Pathway heals him while he backs out through it. That is a specific tool for specific problems. Patch 2.2.16 ([patch notes](/patch-notes)) flipped Thickened Blood so bonus HP converts into bonus mana instead of the reverse, which makes the health he buys for tanking double as fuel for the aura. Two items deep, that loop is at its strongest, and the old mana-tank build is gone.
+
+Lock Hylos when:
+1. Your carries are immobile hyper-scalers (Karrie, Kagura, Lesley, Beatrix). [Glorious Pathway](/heroes/hylos) is the only reposition tool in the game that does not require enemy targeting.
+2. The enemy draft is stacked with slows (Selena, Aurora, Carmilla, Odette). Pathway slow immunity flips the entire engage vector.
+3. Your mid or jungle already solves burst engage (Julian jungle, Yve mid, Aamon jungle). Hylos adds a second durability layer, not a redundant stun.
+4. You need a roam that survives prolonged 2v1 tower pressure. He is one of the only tanks who can live under a tower for 10 seconds while your team rotates.
+
+Avoid Hylos when:
+1. The enemy has Helcurt, Kagura, or Silvanna. Helcurt's silence cuts off his entire skill cast window, Kagura's distance and burst bypass his durability, and Silvanna's ult locks him in a zone where his mobility is irrelevant.
+2. The enemy jungle is Fanny or Ling. Hylos cannot touch either one, and [Ring of Punishment](/heroes/hylos) does not punish heroes who never stand still.
+3. The enemy has Karrie, Kimmy, Baxia, or any percent-HP damage dealer stacked on your side of the draft. Three of them together shred his HP pool faster than he can sustain.
+4. Your team has no other engage. Hylos does not start fights. He survives them. If nobody on your team can initiate, Hylos games devolve into 45 minutes of poke you cannot respond to.
+
+If you cannot name which of those conditions your current draft is in, Hylos is the wrong pick. He is not the Swiss Army knife roamer most players treat him as.
+
+### The one thing that makes Hylos work
+
+His kit is built around one unusual identity: Hylos runs on his health bar, not his mana bar. His passive [Thickened Blood](/heroes/hylos) turns bonus Max HP into bonus Max Mana, and when the mana runs dry he pays for casts with HP instead. So every defensive item does double duty: it thickens the bar he tanks with and it tops up the pool that keeps Ring of Punishment running. Mana is a byproduct of building tanky, not a stat you shop for. The aura is always available, even on an empty mana bar.
+
+Every other tank has a tempo where they are vulnerable: mana-gated, cooldown-gated, or CC-immune-gated. Hylos does not have that tempo. If he is next to your carry, he is always producing peel. Ring of Punishment is a toggled aura that ticks attack speed slow and stacking damage amplification onto anyone standing next to him. His S1 is not a combo piece; it is a knockback interrupt on a short cooldown. His ultimate is a corridor: allies gain a large movement speed boost along it, enemies on it are slowed, and the cast point lands a brief near-freeze slow on everyone caught in it.
+
+Reading the kit correctly: Hylos is a five-target escort, not a one-target initiator. The skill floor is low. The ceiling is in where you pathway at.
+
+### Laning: the first 4 minutes
+
+Hylos starts roam with [Flicker](/spells) as the default pick and [Vengeance](/spells) as the dive-heavy alternative. Level 1 take Ring of Punishment for leash damage and the attack speed debuff. Level 2 take Law and Order for the knockback.
+
+1. **Leash once for your jungler, then immediately rotate to whichever carry is most immobile.** Your first clear is not worth sitting mid. If your MM is a Lesley or Kimmy, you belong in that lane before the first wave enters tower range. Every second Hylos spends in mid lane pre-level-4 is a second your carry is farming without a zoning body.
+2. **Open level-4 ganks with Ring of Punishment toggled before you enter vision.** The attack speed slow lands the moment you are in range, and enemies with no minimap tick catch it late. Commit S1 only after they burn their dash. Law and Order is the commit, not the opener.
+3. **Turtle at 2:00 belongs to you, not the jungler.** Ring of Punishment plus Hylos's native HP pool means he out-sustains turtle aggro for the final stretch while your jungler smites. Stand on the turtle, not behind it. The bonus: your jungler rotates freely because you are the one holding the pit.
+
+### The power spike you are farming toward
+
+[Cursed Helmet](/items/cursed-helmet) plus [Dominance Ice](/items/dominance-ice) at roughly 9 to 11 minutes. That is the two-item combination that turns Hylos from "annoying roamer" into "5v1 objective holder."
+
+Cursed Helmet's Burning Soul deals 1.2% of your Max HP per second as magic damage to nearby enemies, and its Curse passive stacks Hybrid Defense reduction onto them while you stand there. Ring of Punishment is already ticking magic damage per second plus stacking a damage amplifier on each target, so the two passives stack into a compounding aura that pulls several percent of enemy Max HP per second off anyone who refuses to disengage. Dominance Ice then punishes whoever stays close enough to trade with you: Lifebane cuts nearby enemies' Shield and HP Regen to 60% of normal and Fortress Shield stacks Hybrid Defense for each of them, on top of the attack speed slow Ring of Punishment is already applying. Marksmen who walked up confidently at 8 minutes now walk into a zone where their sustain is gutted and Ring of Punishment alone is already slowing every swing they take.
+
+The practical effect: past 10 minutes Hylos is the only tank in the game who can 1v2 a Lord pit and live long enough for rotation. Not win the fight, but buy 15 seconds of stall against 5 people. That is the spike you are buying toward, not damage.
+
+### Teamfight positioning and target priority
+
+The reflex on Hylos is to ult into the enemy team and knock back the first hero you see. That reflex is wrong most of the time.
+
+1. **Your ult is a road, not a bomb.** Cast Glorious Pathway behind your carries, not in front of them. The cast-point slow and the lingering enemy slow on the road matter, but the ally movement speed matters more. If your carry walks the full length of the pathway, they kite every melee threat for the full duration. If you dropped it on the enemy and your carry cannot reach it, you just bought the enemy team 6 seconds of disengage.
+2. **Ring of Punishment is a teamfight toggle, not a poke tool.** The moment the fight starts, you stand on the highest-priority enemy DPS threat, not the enemy tank. Ring of Punishment's attack speed slow applied to the enemy Karrie or Beatrix is a real DPS reduction. Applied to the enemy Tigreal it is useless. Body-block the carry; let your teammates kite.
+3. **S1 knockback saves your carry, it does not start the fight.** The single most common Hylos mistake is opening a fight by Law and Order-ing a dashing assassin. You just spent your only interrupt. Save S1 for the Fanny re-cable window, the Hayabusa shadow return, the Ling sword-stance dash. Your S1 is the peel. Your teammates bring the kill.
+
+Edge case: if your support is a pure-peel hero (Angela, Estes, Mathilda), you get to push pathway further forward because your carry has a second layer of peel behind you. If your support is a catch hero (Franco, Tigreal), pathway stays defensive. Those supports hand-grab for the kill, and your job is exclusively to keep the carry alive until the catch lands.
+
+### Itemization: defaults vs flex slots
+
+Two locked slots, four real conversations, plus boots.
+
+**Locked:**
+- [Cursed Helmet](/items/cursed-helmet). First tank item, every game. Wave clear plus aura stacking with Ring of Punishment is the single largest damage amplification Hylos gets in the entire build.
+- [Dominance Ice](/items/dominance-ice). Second tank item in almost every game. Lifebane's heal and shield reduction against the current sustain meta, Fortress Shield's stacking Hybrid Defense, and the 5% movement speed compounds with pathway.
+
+**Flex slots (pick two or three based on enemy damage profile):**
+- [Radiant Armor](/items/radiant-armor): the enemy has two or more magic damage dealers (Valir plus Kagura, Pharsa plus Eudora). Stacking magic defense on hit plus the HP and HP regen is the correct answer.
+- [Antique Cuirass](/items/antique-cuirass): the enemy jungle is Fanny, Hayabusa, Ling, or Gusion. Deter's stacking physical damage reduction cuts their burst windows in half.
+- [Athena's Shield](/items/athenas-shield): the enemy has a late-game mage DPS (Kagura, Valir, Cecilion stacked). Shield's magic damage reduction on the first hit of a combo eats one-shot openers.
+- [Blade Armor](/items/blade-armor): the enemy marksman is a right-click hyper (Layla, Miya, Hanabi). Reflect plus 70 physical defense plus the slow-on-reflect chains into Ring of Punishment's aura.
+- [Oracle](/items/oracle): your team has Estes or Rafaela. The 25% received shield and HP regen amplification plus 10% CDR lowers Ring of Punishment and ult cooldowns meaningfully.
+- [Immortality](/items/immortality): always correct as a sixth item, never correct as a third. Slot it only when you have committed to a fight-ending death reset.
+
+**Boots:** [Tough Boots](/items/tough-boots) in 90% of games. CC duration reduction is the single strongest tank boot against Kagura, Helcurt, Aurora, and Diggie. [Warrior Boots](/items/warrior-boots) is acceptable when the enemy has almost no CC (rare).
+
+[Guardian Helmet](/items/guardian-helmet) costs 2500 gold and gives 1800 HP and 20 HP Regen. Recovery activates after five seconds out of combat and restores 2.5% Total HP per second. It has no reduced in-combat state. Defender works separately. When a single damage instance exceeds 500, it recovers 30 (+0.3% Total HP)% of the damage above 500 as HP.
+
+The item's bonus HP also supplies bonus mana through Thickened Blood, adding fuel for Ring of Punishment. Recovery will not sustain a continuous aura fight, but Defender can return HP after qualifying hits during that fight. That makes "Hylos is always taking damage" an incomplete reason to reject it. Treat Guardian Helmet as a sustain flex slot, weighing those benefits against the Physical or Magic Defense the enemy draft requires.
+
+### Mistakes that lose Hylos games
+
+**Opening a fight by ulting into the enemy team.** Glorious Pathway's initial 1-second slow looks like an engage tool. It is not. Your team is four heroes behind you, your carry is still farming the side wave, and you just spent your only escape route to walk into a 1v5. Wait for your jungler and mid to rotate, then ult through your carries, not at the enemy.
+
+**Using Law and Order on the enemy tank.** Knocking back Tigreal achieves nothing. He wanted to be there. Save S1 for the Fanny re-cable, the Lancelot S1 return, the Hayabusa shadow recall. If your S1 is on cooldown when the assassin commits, your carry dies. This single mistake loses more Hylos games than any itemization error.
+
+**Building Hunter Strike, Blade of Despair, or any damage item "because he scales with HP."** He does not. Hylos has no base magic power and his skills scale lightly off magic power, which makes damage items a scaling trap. His entire kit is designed around defense-as-damage through items like Cursed Helmet, [Thunder Belt](/items/thunder-belt), and [Brute Force Breastplate](/items/brute-force-breastplate). Magic power items on Hylos are throwing the game.
+
+**Chasing an enemy off the pathway.** The moment you step off Glorious Pathway, you lose slow immunity and the regen tick. Enemy Natalia smokes, walks behind you, and your support dies because you chased a Lesley you were never going to catch. Stay on the road.
+
+**Opening S2 range on Baxia.** Baxia's passive reduces all magic damage he takes based on his missing HP, and his ultimate is a sustain bomb. Ring of Punishment is magic damage. Burning Soul is magic damage. Your entire sustain frontline trade is magic damage. Against Baxia you pull back to your team and let your marksman resolve him. Dueling him in a Ring of Punishment aura is the fight he is designed to win.
+
+### Key tips
+
+> [!TIP]
+> The mana-tank Hylos build ended in 2.2.16. Thickened Blood used to turn bonus Max Mana into bonus Max HP, which is what made [Clock of Destiny](/items/clock-of-destiny) a stealth core. The passive now pays out the other way, so mana is no longer a defensive stat and a mana item is worth only its other passives. Buy HP: the fuel that keeps Ring of Punishment running now arrives as a byproduct of the tank stats you wanted anyway.
+
+> [!NOTE]
+> Ring of Punishment's attack speed slow stacks up to 8 times. Against a Layla or Bruno in the 12-minute bracket, that is a stapled attack speed reduction sitting on their face for as long as you are touching them. Park on the marksman, not the frontline. Your job is DPS denial, not CC.
+
+> [!WARNING]
+> Never cast Glorious Pathway toward the enemy base while your team is retreating. The pathway's movement speed effect applies to whoever walks on it, and enemies will use your own ult as a free chase lane. If you are retreating, cast perpendicular or back toward your own base. This mistake is so common it deserves to be said out loud.
+
+> [!TIP]
+> [Vengeance](/spells) over Flicker is a real pick against draft with two or more assassins (Fanny plus Hayabusa, Ling plus Natalia comps). The damage reduction and reflected damage burst window answers a coordinated dive in a way Flicker cannot. Flicker remains the default for safer drafts.
+
+## Skills
+
+### Thickened Blood (Passive)
+
+Hylos gains 1 extra Max Mana for every 2.5 Extra Max HP gained. When out of Mana, he can consume HP to cast skills.
+
+### Law and Order (Skill 1)
+
+Hylos gains 50% Movement Speed and causes his next Basic Attack within 3s to deal 300 (+80% Total Magic Power) Magic Damage to the target, knocking back and stunning them for 1s. The extra Movement Speed rapidly decays over the duration and vanishes after the next Basic Attack.
+
+### Ring of Punishment (Skill 2)
+
+Hylos releases the Ring of Punishment, dealing 100 (+20% Total Magic Power) Magic Damage to nearby enemies per second while slowing them by 4% and reducing their Attack Speed by 7.5% for 2.5s (up to 8 stacks). Each stack also increases the enemy's damage taken from the Ring of Punishment by 5%. The Ring of Punishment consumes 30 Mana per second when it's active. Use Again: Hylos cancels the Ring of Punishment.
+
+### Glorious Pathway (Ultimate)
+
+Hylos creates a huge pathway in the target direction, reducing enemies' Movement Speed by 75% for 1s. The pathway lasts 6s. When on the pathway, Hylos gains Slow Immunity and recovers 3% Max HP per second. Allied heroes moving along the pathway gain 60% extra Movement Speed, while enemy heroes on the pathway will be slowed by 25%.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Hylos' Ultimate to create a pathway into the enemy team and then his 1st Skill to get in and stun an enemy. At the same time, use his 2nd Skill and Basic Attacks to deal continuous damage.
+- LANING COMBOS (laning): In the laning phase, Hylos should use his 1st Skill to get close and stun the enemy, then follow up with his 2nd Skill and Basic Attacks to deal damage.
+
+## Counters to Hylos (pick these against Hylos)
+
+- X.Borg (Fighter): +3.8 pp edge. Across Hylos's measured matchups, Hylos is weakest in the early game. Apply pressure with X.Borg before Hylos can scale.
+- Zhuxin (Mage): +3.7 pp edge. Across Hylos's measured matchups, Hylos is weakest in the early game. Apply pressure with Zhuxin before Hylos can scale.
+- Kimmy (Marksman/Mage): +3.3 pp edge. Across Hylos's measured matchups, Hylos is weakest in the early game. Apply pressure with Kimmy before Hylos can scale.
+- Yve (Mage): +3.1 pp edge. Yve has a statistical edge over Hylos based on ranked matchup data. Pick Yve to gain an advantage in draft.
+- Cici (Fighter): +3.0 pp edge. Across Hylos's measured matchups, Hylos is weakest in the early game. Apply pressure with Cici before Hylos can scale.
+- Karrie (Marksman): +2.9 pp edge. Hylos is countered by high mobility heroes like Karrie and Lesley, as they are hard for him to lock down and can also take him out.
+- Rafaela (Support): +2.3 pp edge. Across Hylos's measured matchups, Hylos is weakest in the early game. Apply pressure with Rafaela before Hylos can scale.
+- Xavier (Mage): +1.9 pp edge. Across Hylos's measured matchups, Hylos is weakest in the early game. Apply pressure with Xavier before Hylos can scale.
+
+## Heroes Hylos beats
+
+- Zilong (Fighter/Assassin): +2.4 pp edge for Hylos.
+- Silvanna (Fighter): +2.3 pp edge for Hylos.
+- Layla (Marksman): +2.3 pp edge for Hylos.
+- Gatotkaca (Tank/Fighter): +2.3 pp edge for Hylos.
+- Saber (Assassin): +2.3 pp edge for Hylos.
+- Nana (Mage): +2.0 pp edge for Hylos.
+- Vale (Mage): +1.8 pp edge for Hylos.
+- Julian (Assassin/Fighter): +1.5 pp edge for Hylos.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/hylos.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Mana Wall (Roam)
+
+- Items: Tough Boots, Clock of Destiny, Cursed Helmet, Dominance Ice, Oracle, Immortality
+- Core: Clock of Destiny, Cursed Helmet, Dominance Ice
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Guardian Helmet over Oracle when Use when repeated siege resets matter more than amplifying Glorious Pathway's self-heal.; Radiant Armor over Oracle when Use against repeated magic ticks that keep hitting Hylos after he walks through the first control chain.; Antique Cuirass over Oracle when Use when physical skill burst is deleting Hylos before his Vengeance window finishes.; Conceal over Encourage when Use as the roam blessing when your team needs hidden Pathway angles instead of grouped stat sharing.
+- Total cost: 10630 gold
+
+Default roam setup that converts Clock's mana into extra HP, then uses aura damage and Dominance Ice to hold front-to-back fights.
+
+### Roam Conceal Pathway (Roam)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Guardian Helmet, Radiant Armor, Immortality
+- Core: Thunder Belt, Dominance Ice, Guardian Helmet
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Clock of Destiny over Guardian Helmet when Use when the game will slow down and Hylos can cash mana into HP before Lord fights.; Antique Cuirass over Radiant Armor when Use against physical assassins or EXP bruisers whose skill burst decides the first contact.; Blade Armor over Radiant Armor when Use when a basic-attack marksman must keep hitting Hylos during the Pathway collapse.; Encourage over Conceal when Use as the roam blessing when your team groups early and does not need stealth to force entry.
+- Total cost: 11030 gold
+
+Tempo roam setup for coordinated picks, using Conceal, Pathway, Flicker, and Focusing Mark to carry allies into the same target.
+
+### Jungle HP Burn (Jungle)
+
+- Items: Tough Boots, Cursed Helmet, Clock of Destiny, Thunder Belt, Dominance Ice, Guardian Helmet
+- Core: Cursed Helmet, Clock of Destiny, Thunder Belt
+- Emblem: Tank Emblem with Vitality, Seasoned Hunter, Concussive Blast
+- Battle spell: Retribution
+- Blessing: Bloody Retribution
+- Flex: Ice Retribution over Bloody Retribution when Use when stealing movement speed is more valuable than another HP swing on the enemy frontliner.; Immortality over Guardian Helmet when Use when one death before Lord decides the game and Hylos must buy a second body.; Radiant Armor over Guardian Helmet when Use against double magic damage or repeated poke that prevents Hylos from staying in the pit.; Antique Cuirass over Guardian Helmet when Use when the enemy jungler is a physical skill diver who bursts before Thunder Belt stacks matter.
+- Total cost: 10970 gold
+
+Jungle variant that clears through Cursed Helmet, scales HP through Clock, and turns long objective fights into repeated Thunder Belt procs.
+
+All builds for this hero: https://mlbbhub.com/builds/hylos.
+
+## Synergies
+
+- Terizla: Hylos works best with heroes that need faster Movement Speed to engage,
+such as Terizla and Minsitthar.
+- Minsitthar: Hylos works best with heroes that need faster Movement Speed to engage,
+such as Terizla and Minsitthar.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

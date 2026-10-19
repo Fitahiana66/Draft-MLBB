@@ -1,0 +1,203 @@
+# Cecilion, Embrace of Night
+
+> Cecilion is not a mage in the burst sense. He is a mana-stacking countdown wrapped in a robe, a hero whose damage grows every time he casts a skill and whose usefulness is measured in how long the game goes. Draft him into the right shell and he wins fights at minute 20 that no other mage can win; draft him into the wrong one and he never reaches minute 20.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Poke, Burst
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 51.10%
+- Pick rate: 0.65%
+- Ban rate: 0.14%
+- Released: 2020
+- Page: https://mlbbhub.com/heroes/cecilion
+
+## Guide
+
+### When the draft decides the game
+
+Cecilion is one of the few heroes where the draft, not the player, decides whether he was the correct pick. His kit has three hard requirements. The first is a frontline that can lock targets inside Sanguine Claws long enough for him to dump a full S1 into S3 rotation. Tigreal Attack Order, Atlas Fatal Links, Khufra Bouncing Ball, and Minotaur Despair all qualify, because each creates a CC window long enough for Cecilion to dump a full S1 into S3 rotation. Gloo and Belerick do not qualify because their stun windows are too short for Bats Feast to connect with more than half its bolts. The second requirement is either a pocket peel hero (Angela, Diggie, Estes) or a counter-engage frontline (Franco sitting on the backline), because his own kit provides zero escape tools beyond Flicker. The third is a slow, teamfight-oriented team comp. A fast assassin pick comp built around Natalia and Helcurt will end the game before Lightning Truncheon comes online, and Cecilion is a passenger in that version of the match.
+
+Avoid drafting Cecilion when the enemy locks in two or more of Gusion, Ling, Chou, Saber, Fanny, Natalia, Yin, or Harley. Any one of them is survivable with peel. Two stacked means every teamfight starts with someone standing on top of you, and Cecilion's only answer (cast faster) is not a real answer. Also avoid when your own team has no engage. Cecilion cannot create picks on his own, so if your jungler is a farming Lancelot and your tank is Edith locked in backline mode, the match becomes 4v5 with Cecilion stacking mana for a fight that never arrives.
+
+The Carmilla duo is a distinct draft and should be treated as such. When Carmilla is also on your team, Cecilion unlocks his paired ultimate Moonlit Waltz, which only activates while she is nearby. That ult is the entire reason to play the duo gold lane: Carmilla Curse of Blood links two enemies and pins one in place while Cecilion drops Sanguine Claws into both, and Moonlit Waltz turns Carmilla into a shield around him or a burst-exit missile aimed at a priority target. Without Carmilla, Cecilion is mid only and Moonlit Waltz simply does not appear in his skill bar.
+
+If your draft has no reliable hard CC, or if the enemy has two or more of the high-mobility assassins listed above with no peel support on your side, Cecilion is the wrong pick.
+
+### Mana is damage, and damage is patience
+
+Cecilion's entire kit is an argument for delayed gratification. Every skill scales with his Total Mana, so the pool that Overflowing builds across the game feeds back into every damage number on the page. There is no other hero in the game whose maximum output is unlocked by the game itself.
+
+This is why Cecilion looks weak through minute 6. He is weak through minute 6. The fantasy of the hero is not early-game combat; it is the moment at minute 14 when his passive has accumulated hundreds of bonus Max Mana from laning, Lightning Truncheon's Resonate procs off the first bat in every fight, and every S1 suddenly chunks a third of a squishy's health instead of a sixth. The hero's job is to survive long enough to become that version of himself. Everything in his kit, from the self-heal on every S3 bolt to the immobilize on Sanguine Claws bought at a shorter cooldown than most hard stuns in the game, exists to keep him alive through the slow half.
+
+### Laning: the first six minutes
+
+The goal of laning is not kills. It is mana. Level 1 you take Bat Impact because nothing else matters; wave one is about landing S1 on the minion line twice so you walk into level 2 already carrying Overflowing procs and a growing pool. Level 2, take Sanguine Claws only if you are facing a melee mid who can step onto you (Yin, Chou, Guinevere); otherwise keep pumping S1.
+
+1. **Blue buff is non-negotiable.** Coordinate with your jungler pre-game. S1's mana cost escalates every time you cast it in quick succession, so a single poke sequence can drain the whole bar. Without blue, one poke sequence dries you. With blue, you can sustain the escalation window twice per wave.
+2. **Cast S1 at a steady rhythm, not faster.** Overflowing's mana gain runs on its own internal cooldown, so spamming through that window wastes passive procs. Line each cast up with the next wave crash, not the animation recovery. Fast casting feels good and costs mana for nothing.
+3. **Flicker is an escape spell, period.** With base Movement Speed at 250 and Physical Defense at 17, every river approach is a risk. Reserve Flicker for surviving ganks, not chasing kills. If the enemy jungler is Baxia or Lancelot, drop a ward at mid-river buff before every wave push.
+
+Against a long-range mage (Pharsa, Yve, Xavier), stay at the back of your wave and use Bat Impact's path damage, not the landing hit, to poke. The bat deals damage along its entire path, which means you can fire over your own minions and chunk the enemy without walking into their counter-poke range. The near-landing bonus is a finisher for when someone is already rooted by Sanguine Claws; do not chase it.
+
+### The Clock of Destiny plus Lightning Truncheon spike
+
+Demon Boots, Clock of Destiny, and Lightning Truncheon is the locked opening sequence and the second item is where the hero changes shape. Clock of Destiny gives 400 Mana, 400 HP, and 45 Magic Power at 2030 gold. The mana stat matters more than the Magic Power here: 400 extra Max Mana feeds directly into Overflowing's scaling so every S1 landing hit lands harder before you touch the rest of your stacks. The item's Destiny passive (stacking Hybrid Defense on every damaging skill proc) also provides the sustain Cecilion needs to trade through the exchanges he would otherwise lose. Complete this around minute 6 at worst, minute 5 if your blue schedule is clean.
+
+Lightning Truncheon is the item that flips Cecilion from scaling to winning. Its Resonate passive fires every 6 seconds: the next damaging skill becomes an AoE nuke for 120% Total Magic Power to up to three enemies, plus a 30% movement speed burst that decays over 2 seconds. Layered on top of S1's existing AoE, this means a single Bat Impact now hits for the bat's regular damage plus 120% TMP to everything nearby, with Cecilion sliding forward on the movement burst. Complete Truncheon by minute 8 or 9; any later and your teamfight timing slips behind the enemy's first tower push.
+
+After the spike, Cecilion can chunk a squishy for roughly a third of their health with a single S1 landing hit and clear a full back wave from over terrain. This is the moment to stop playing laner and start grouping for first Dragon or a mid-to-bot rotation with your tank. Before the spike, every fight is a gamble. After it, every fight is a countdown.
+
+### Teamfight positioning: the wrong reflex
+
+The reflex when you see Cecilion in a fight is to walk forward into S1 max-stack range because more stacks mean more damage. That reflex is backwards. More stacks inside the fight mean more mana burned on cast, because the cost multiplies with every quick repeat. If you enter the fight cold, you get exactly one useful cast before the rotation decays. If you enter at max stack having pre-stacked on nearby creeps, the first bat already crashes for full damage and every subsequent one layers a Resonate proc on top.
+
+1. **Pre-stack on jungle camps before every objective.** Walk to a nearby camp moments before Dragon or Lord, burn a few S1 casts into the camp creeps, then walk into the objective at max stack with Bats Feast already off cooldown.
+2. **Never fire Bats Feast first.** The volley sprays in a wide cone, and enemies hit by the first bolt almost always sprint out before the rest connect. Open with Sanguine Claws to immobilize the formation, wait for the root to land, then fire S3 into the frozen cluster.
+3. **Angle Sanguine Claws off open lanes, not through walls.** The two claws converge from opposite directions, so the spell works best aimed across open lane width. Firing it perpendicular to a wall wastes the far half of the pull. The best cast positions are mid-lane choke, jungle entrance, and the Dragon pit pillars.
+
+Support-conditional adjustment. If your support is Tigreal or Atlas, push up to stack on creeps near the river because their engage buys you a long cast window at zero risk. If your support is Angela or Diggie, stay one screen behind the frontline and cast from max range; your safety comes from distance, not cover. If your support is Mathilda or Johnson rotating, do not push without the rotation already arriving, because Cecilion has no exit when the roam is elsewhere on the map.
+
+### Itemization: three locks, two conversations
+
+Cecilion has three locked items and then two real conversations. The locked slots are Demon Boots, Clock of Destiny, and Lightning Truncheon, in that order. Demon Boots pays for Mysticism (4% Mana on every minion kill or assist) through laning. Clock of Destiny is the mana pool scaler and the sustain passive. Lightning Truncheon is the teamfight spike. Every build, in every patch, in every matchup, opens with these three.
+
+The first conversation is the flex fourth slot. Three options dominate, and the choice should be made at minute 8 based on the actual game state, not locked in pre-game.
+
+- **Holy Crystal** if you are ahead. The Mystery passive grants 21% to 35% bonus Magic Power scaling with hero level, which multiplies with Divine Glaive's penetration at full build. Pick it when you have kills and the enemy mid has no magic defense yet.
+- **Genius Wand** if the enemy has stacked magic defense early (Belerick, Gloo, Esmeralda, Barats). The passive shreds Magic Defense on every hit and stacks up to three times, and since Cecilion procs it on every S1 bat, he keeps the stack near-maxed through a poke war. This is the poke-heavy pick and the one most players undervalue.
+- **Glowing Wand** if your laning matchup is forcing you below 50% HP often. The 400 HP buffer plus the Scorch burn (1.5% Max HP per second for 3 seconds) stretches your lane time and punishes dive assassins who walk through the fire. The Lifebane passive also cuts enemy shield and HP regen by 50%, which matters against sustain-heavy comps running Esmeralda, Uranus, or a Rafaela support.
+
+The second conversation is the boot slot. Demon Boots stays locked unless you are facing a magic-heavy enemy mid (Chang'e mirror, Xavier, Valentina). In those matchups, Enchanted Talisman replaces Demon Boots as the mana-regen source because Talisman's Mana Spring passive restores 15% of Max Mana every 10 seconds, and Cecilion's Max Mana at two items is already deep enough to make that regeneration meaningful.
+
+Close the build with Divine Glaive and Blood Wings as the standard fifth and sixth. Divine Glaive converts each point of the enemy's Magic Defense into bonus Magic Penetration up to a cap, which is what you need against any enemy sixth-item magic defense. Blood Wings gives Cecilion an 800 plus 100 per Total Magic Power shield and 150 movement speed burst on shield break, neither of which his kit provides.
+
+Winter Crown replaces Blood Wings when the enemy has multiple untouchable assassins; its Frozen active is a panic button for Natalia or Ling lockdown attempts. Wishing Lantern is the greed option that replaces Holy Crystal against teams with three or more HP-stacking frontliners; its Butterfly Goddess passive summons a 10% current HP nuke every 800 damage, and Cecilion's constant casting triggers it on schedule.
+
+Battle spell is Flicker in every matchup except against CC-chain comps. If the enemy has Khufra plus Tigreal stacked, Purify is the correct pick because you only need one CC break to survive the opening engage, and Flicker's range is too short to exit the combo chain once you are already pulled. Do not take Purify specifically for Franco or Kaja: their ultimate suppression is not a debuff, so Purify will not remove it, and Flicker remains the better answer to their lockdown. Emblem is Mage with Impure Rage as the core talent: it restores mana on hit, feeding Overflowing and shortening the path to max stacks every fight.
+
+### Mistakes that lose Cecilion games
+
+**Opening Bats Feast into a team that is not already CC'd.** The volley fires in a cone, and enemies hit by the first bolt almost always sprint out before the remaining bolts land. Without Sanguine Claws locking the cluster first, most of the volley connects with nothing. S2 first, wait for the immobilize to trigger, then S3. Reversing that order is the single largest damage loss on this hero.
+
+**Spamming S1 faster than its cost allows.** Overflowing pays out on its own internal cooldown, so casting S1 faster than that rhythm wastes passive procs and runs straight into the cost escalation, burning through the expensive stacks in seconds. The pacing that wastes zero mana is one cast per wave crash, timed to S1's cooldown instead of overclocked by high cooldown reduction.
+
+**Walking into max range to land the near hit instead of pre-stacking.** New Cecilion players push forward for the landing-point damage because the number is bigger. Against any team with a single initiator, that step forward is the step that gets you killed. Path damage from range is plenty for poke work. The near-landing hit is a finisher, not an opener, and only lands reliably when the target is already rooted by Sanguine Claws.
+
+**Burning Flicker to chase a kill.** Cecilion's base Movement Speed of 250 and Physical Defense of 17 turn every post-Flicker disengage into a death window. If you Flicker into a stacked S1 against a low-HP target and the kill is not secured by the cast, you die for the attempt. Flicker is the only exit button on a hero with no dash, no blink, and no defensive steroid.
+
+**Picking Cecilion into a premade Gusion without a peel support.** Gusion's full recall combo executes before Cecilion can react. Cecilion's only survival tool is Flicker, which is too short to exit that range. Tigreal Attack Order pointed at Gusion on his approach is the only realistic counter, and you must draft it on your side. Without it, Gusion ends your game before you reach Lightning Truncheon.
+
+### Key tips
+
+> [!TIP]
+> Pre-stack S1 on a jungle camp just before every Dragon or Lord spawn. You want to enter the objective fight already at max S1 stack with Lightning Truncheon Resonate off cooldown. Entering cold means the first fight rotation is half-damage, and Cecilion's half-damage is not good enough.
+
+> [!NOTE]
+> Sanguine Claws gives you brief vision at the cast location before the claws clasp. This lets you scout bushes near river, check positioning before Lord pit, and confirm whether the enemy jungler is rotating, at no mana waste. Treat it as a second ward on top of its stun function.
+
+> [!TIP]
+> Against Belerick, Gloo, or Barats, swap Holy Crystal for Genius Wand in the fourth slot. The Magic Defense shred stacks on every S1 bat, and Cecilion's constant casting keeps it stacked through the fight. You will shred their natural defenses before Divine Glaive even comes online.
+
+> [!NOTE]
+> The S1 cost reset matters more than most players realize. If you stop casting for a few seconds, the next S1 drops back to base cost. Use this deliberately in laning: three bats into the wave, walk back to top up mana, then enter the next minion line at base cost. The rhythm saves enough mana across laning for an entire extra combo window.
+
+## Skills
+
+### Overflowing (Passive)
+
+Cecilion gains 10 extra Max Mana and recovers 10 Mana each time his skill hits an enemy. Cooldown: 1s. Cecilion has higher Max Mana and Mana Regen, and his skill damage scales with his Max Mana.
+
+### Bat Impact (Skill 1)
+
+Cecilion commands a giant bat to dive at the target location, gaining 30% extra Movement Speed for 1s, dealing 85 (+70% Total Magic Power) (+7% Total Mana) Magic Damage to enemies in its path. The bat also deals 170 (+140% Total Magic Power) (+14% Total Mana) extra Magic Damage to those near the landing point, and applies Overflowing effect once. Each subsequent cast within 6s increases this skill's Mana cost by 1.5 times (up to 4 stacks).
+
+### Sanguine Claws (Skill 2)
+
+Cecilion summons a pair of opposing claws at the target location that will clasp together after a short delay, pulling enemies in their paths to the center while dealing them 200 (+45% Total Magic Power) (+1.2% Total Mana) Magic Damage and immobilizing them for 1s.
+
+### Bats Feast (Skill 3)
+
+Cecilion unleashes his Blood Demon power, gaining 60% Movement Speed (decays over the duration) and Slow Immunity for 1.5s. Meanwhile, he fires 36 bolts of blood energy at nearby enemies, each dealing 35 (+8% Total Magic Power) (+0.3% Total Mana) Magic Damage and slowing enemies hit by 3% for 1s (up to 30%total). Each bolt that hits restores HP equal to 10 plus 1% of Cecilion's lost HP.
+
+### Moonlit Waltz (Ultimate)
+
+When Carmilla is nearby, Cecilion can summon her to become a Vermil Shadow around him, granting him a 520-800 shield (scales with Carmilla's level). Carmilla can choose to leave Cecilion and charge at the target location, gaining an equal shield while dealing 520-800 Magic Damage (scales with level) to nearby enemies and slowing them by 30% for 1s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, initiate with Cecilion's Ultimate to slow the enemy, then hit them with his 1st Skill. When the time is right, pull the enemies together using his 2nd Skill and spam his 1st Skill for damage.
+- LANING COMBOS (laning): In the laning phase, use Cecilion's 2nd Skill to pull enemies together, then repeatedly hit them with his 1st Skill.
+
+## Counters to Cecilion (pick these against Cecilion)
+
+- Ixia (Marksman): +2.1 pp edge. Ixia has a statistical edge over Cecilion based on ranked matchup data. Pick Ixia to gain an advantage in draft.
+- Hanzo (Assassin): +1.6 pp edge. Hanzo has a statistical edge over Cecilion based on ranked matchup data. Pick Hanzo to gain an advantage in draft.
+- Natalia (Assassin): +1.6 pp edge. Natalia has a statistical edge over Cecilion based on ranked matchup data. Pick Natalia to gain an advantage in draft.
+- Hayabusa (Assassin): +1.6 pp edge. Hayabusa has a statistical edge over Cecilion based on ranked matchup data. Pick Hayabusa to gain an advantage in draft.
+- Helcurt (Assassin): +1.5 pp edge. Helcurt has a statistical edge over Cecilion based on ranked matchup data. Pick Helcurt to gain an advantage in draft.
+
+## Heroes Cecilion beats
+
+- Lolita (Support/Tank): +4.1 pp edge for Cecilion.
+- Barats (Tank/Fighter): +2.1 pp edge for Cecilion.
+- Grock (Tank/Fighter): +1.8 pp edge for Cecilion.
+- Minotaur (Tank/Support): +1.6 pp edge for Cecilion.
+- Hylos (Tank): +1.6 pp edge for Cecilion.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/cecilion.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-08. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Lane Standard (Mid)
+
+- Items: Demon Boots, Clock of Destiny, Lightning Truncheon, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Clock of Destiny, Lightning Truncheon, Divine Glaive
+- Emblem: Mage Emblem with Rupture, Weapon Master, Impure Rage
+- Battle spell: Flicker
+- Flex: Genius Wand over Holy Crystal when Enemy has stacked magic defense early (Belerick, Gloo, Barats, Esmeralda). Genius Wand shreds MDEF faster than Holy Crystal multiplies raw damage.; Winter Crown over Blood Wings when Enemy has two or more untargetable assassins (Ling, Natalia, Fanny). Frozen active buys 2 seconds for your team to collapse.; Glowing Wand over Holy Crystal when Your lane phase is forcing you below 50% HP often or the enemy has heavy sustain (Uranus, Esmeralda, Rafaela support). Scorch burn plus Lifebane anti-heal cut.
+- Total cost: 12070 gold
+
+Standard ranked build for squishy matchups. Holy Crystal converts early lead into faster spike timings, Blood Wings closes with a defensive layer Cecilion's kit cannot provide.
+
+### Anti-Tank Shred (Mid)
+
+- Items: Demon Boots, Clock of Destiny, Lightning Truncheon, Genius Wand, Divine Glaive, Glowing Wand
+- Core: Clock of Destiny, Lightning Truncheon, Genius Wand
+- Emblem: Mage Emblem with Rupture, Weapon Master, Impure Rage
+- Battle spell: Flicker
+- Flex: Holy Crystal over Glowing Wand when Enemy tanks are the only HP stackers and have minimal sustain. Raw magic power scales harder vs single high-HP targets.; Wishing Lantern over Glowing Wand when Enemy runs three or more HP-stacking frontliners without healing. Butterfly Goddess 10% current HP nuke triggers constantly from Cecilion's multi-hit kit.; Winter Crown over Glowing Wand when Enemy dives through the frontline to reach you. Sacrifice the HP% burn slot for the survival button.
+- Total cost: 11020 gold
+
+When enemy has two or more high-HP frontliners. Genius Wand stacks MDEF shred on every S1 cast, Glowing Wand burns HP% and cuts sustain. Divine Glaive multiplies the shred for true tank-killing output.
+
+### Carmilla Duo Gold Lane (Gold)
+
+- Items: Demon Boots, Clock of Destiny, Lightning Truncheon, Holy Crystal, Genius Wand, Blood Wings
+- Core: Clock of Destiny, Lightning Truncheon, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Weapon Master, Impure Rage
+- Battle spell: Flicker
+- Flex: Divine Glaive over Genius Wand when Enemy runs standard frontline without stacked magic defense. Penetration scales better than shred in even matchups.; Winter Crown over Blood Wings when Enemy coordinates multiple divers onto your lane. Carmilla's shield plus Frozen buys two survival layers.; Glowing Wand over Genius Wand when Extended sustain fights where Carmilla is tanking and you need the HP burn from range.
+- Total cost: 12100 gold
+
+Gold lane build for the Carmilla pair. Carmilla's frontline presence covers Divine Glaive slot; Holy Crystal plus Genius Wand front-loads damage for Moonlit Waltz engages. Blood Wings shield resets between waves when Carmilla soaks pressure.
+
+All builds for this hero: https://mlbbhub.com/builds/cecilion.
+
+## Synergies
+
+- Carmilla: Cecilion works well with Tanks with sustained CC abilities, such as Carmilla and Minotaur, since their CC can help Cecilion land his skills.
+- Minotaur: Cecilion works well with Tanks with sustained CC abilities, such as Carmilla and Minotaur, since their CC can help Cecilion land his skills.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

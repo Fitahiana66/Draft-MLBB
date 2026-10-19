@@ -1,0 +1,196 @@
+# Franco, Frozen Warrior
+
+> Franco is the only hero in Mobile Legends whose primary job is deciding where the enemy carry is allowed to stand. Iron Hook does not win teamfights by itself; it removes the enemy's right to hold a position, and that single removal is worth more than a kill most of the time.
+
+## Snapshot
+
+- Role: Tank
+- Lane: Roam
+- Specialty: Initiator, Control
+- Difficulty: Easy
+- Tier this patch: D
+- Win rate: 41.54%
+- Pick rate: 1.02%
+- Ban rate: 3.32%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/franco
+
+## Guide
+
+### Franco's draft question: is anyone standing still?
+
+Franco is a pickoff roam, not a peel roam, and his entire value depends on the enemy team having at least one hero who has to commit to a spot to do her job. If the enemy drafts Layla (zero mobility), Hanabi (stand-still channel), Pharsa (static flight cast), Odette (Swan Song channel), Hanzo-in-human-form, Irithel, or any healer that walks in a straight line (Estes, Floryn, Angela, Rafaela), Franco takes that target out of the fight on demand. Lock him in.
+
+Do not pick him into a draft where the enemy runs 2+ dash-heavy heroes (Wanwan, Fanny, Ling, Benedetta, Lancelot, Joy). Every dash-priority hero is a hook that lands on empty air, and Franco contributes nothing to a teamfight his hook does not start. Also skip him when your own team already has an engage tank like Atlas or Tigreal, because Franco's suppression is a single-target CC that does not stack well on top of another AoE initiator; you end up double-hooking the same drafted target and wasting the ult of whichever player pressed second.
+
+Franco struggles most against **Hanzo** (his demon form is uncatchable, and human-form Hanzo out-trades you while the demon ramps), **Atlas** (a competing initiator who wants the same hook range you want), **Sun** (clones eat the hook projectile), **Tigreal** (role overlap plus better AoE), and **Johnson** (sidecar ult engages without needing a hook). **Diggie** is the worst of them: Time Journey strips the debuff off a hooked target, so your entire pickoff evaporates the moment the egg casts. If you cannot name a single standing-still target in the enemy draft, Franco is the wrong pick.
+
+### Franco is a location eraser, not a tank
+
+Call him a tank if you want, but Franco's HP and defense are just what keeps him alive long enough to delete a position. The whole kit serves one purpose: make the enemy choose between standing where they need to stand and standing where they will not get hooked.
+
+Wasteland Force is the tell. The passive rewards staying out of combat: give it a few seconds without taking damage and Franco picks up movement speed, HP recovery, and a boosted next skill that stacks the longer he waits. No hero in the roster is more powerful out-of-combat, and no hero punishes you harder for wading into a skirmish you did not need to be in. Hook-range Franco is always stacked Franco.
+
+Iron Hook is not a damage skill; the drag is the point. You are not doing damage with the hook; you are turning the enemy backliner into a melee hero for the duration of the drag. That melee hero then eats Bloody Hunt, a multi-strike **Suppression** that cannot be cleansed by Purify (Purify's tooltip literally reads "excluding Suppression"). Fury Shock is not there for damage either; it is the insurance that the dragged target does not walk out of your team's follow-up before the suppression ends. Three skills, one purpose: the carry is gone.
+
+### Laning: the first 4 minutes
+
+You do not lane. You rotate. But the first 4 minutes decide whether your mid-game hooks have mana and a passive stack behind them.
+
+1. **Start S2 and hit the first enemy buff invade or defense.** Fury Shock clears the melee creeps in the jungle camp in one cast, which gives your jungler the speed clear without forcing you to burn hook mana. The hook is too expensive to waste on a minion.
+2. **By 1:30, you are in the river, not the side lane.** Walk to the side with the weaker duo (usually the gold lane side if they drafted an immobile marksman). Sit in the tribush long enough for Wasteland Force to reach full stacks. Your first hook of the game should always be a passive-stacked one; the boost is what kills most level-2 marksmen outright.
+3. **Never waste a hook for the first 90 seconds.** Even a miss puts your only pickoff tool on a long cooldown. Walk up, check the minion wave for a blocker, check whether the enemy support is positioned such that the hook could snag him instead, and only then fire. A Franco who hooks nothing for the first 2 minutes is better than a Franco who hooks minions twice and shows up to the second gank with no mana.
+
+### The power spike: Rapid Boots plus Dominance Ice
+
+Franco goes from "the roamer who sometimes hooks" to "the half of the map you do not walk in" at around the 7-to-8 minute mark, once Rapid Boots (750g) plus Dominance Ice (2010g) are done. Rapid Boots stacks flat movement speed with the passive's out-of-combat bonus, meaning an out-of-combat Franco who just exited a bush is faster than almost any non-boosted enemy on the map. That is what gives the Flicker-hook combo its range: you are already closer than the opponent thinks you should be.
+
+Dominance Ice is the second half of the spike. Its Lifebane aura reduces the shield and HP regen effects of all nearby enemies to 60% of normal. Against a team with Estes, Floryn, Angela, or Mathilda's shields, that constant aura is the anti-heal that turns your hook from "pulled, healed, walked away" into "pulled, burst, dead." Its Fortress Shield passive also stacks hybrid defense for each enemy hero within range, so a Franco standing in the middle of a contested objective gets tougher the more enemies show up. This pair is the earliest window you can legitimately walk into the enemy jungle and invade, not just gank.
+
+### Teamfight positioning and target priority
+
+The reflex when you see an Estes or Floryn on the enemy team is to hook the healer. That reflex is usually wrong. Hooking the healer pulls them to you and, more importantly, pulls them away from the carry you actually wanted to kill. Now your team kills the healer, and the un-peeled Beatrix wipes your backline 4 seconds later.
+
+1. **Hook the carry they cannot peel.** The priority target is always the hero whose death ends the teamfight, not the hero whose death feels satisfying. Against a double-mage draft, that is the Pharsa, not the Kagura. Against a poke comp, it is the Melissa, not the Rafaela.
+2. **Always have Fury Shock off cooldown before you hook.** If you cast S2 to clear a wave and then see a gank opportunity 3 seconds later, you are down to a hook-and-ult combo with no slow safety net. The dragged target can walk out of Bloody Hunt's range when it ends if Fury Shock is not there to lock them down.
+3. **Do not stand in the front line before you hook.** Your HP pool is fine but your hook range is your only real weapon, and you lose it the moment a Kagura umbrella or a Valentina copy knocks you to the back. Stand just behind your team's frontline so the enemy cannot see the hook angle loading.
+
+Support-conditional edge: if your team has Joy or Fanny, you can hook anyone from anywhere because the dive follows the hook. If your team has a Claude or a Melissa, you only hook targets they can basic-attack during the suppression window. A Claude hits the hooked target from range. A Melissa has to walk over. The distance matters.
+
+### Itemization: 3 locked slots and 3 real conversations
+
+Locked: **Rapid Boots** (the passive MS synergy is non-negotiable, you are always the fastest tank on the map with them), **Dominance Ice** (anti-heal aura plus hybrid defense scaling near enemies), and **Guardian Helmet** (the 2.5%/sec regen passive turns your Wasteland Force into practical invulnerability during rotations).
+
+Flex slots 4-6 are the real conversations:
+
+- **Antique Cuirass** when the enemy has 3+ physical sources (standard physical fighter draft). The 6% physical damage reduction stacks 3 times per skill-hit, which is exactly how a hook tank takes damage.
+- **Athena's Shield** against a 2+ mage draft. The 25% magic damage reduction pre-applies on the incoming magic hit, which matters against burst mages like Eudora who would otherwise one-shot the squishy shell of a Franco in teamfights.
+- **Radiant Armor** against sustained magic damage (Valentina, Vexana, Luo Yi, Cecilion). It stacks 6-20 magic defense per level on every magic hit, up to 6 stacks, and is the better pick when the enemy magic damage is DoT-style rather than burst.
+- **Oracle** when your team runs Estes, Angela, Mathilda, or Rafaela. The Bless passive multiplies received shield and HP regen by 25%, which means every heal or shield your support lands on you comes back bigger than they expected.
+- **Immortality** is the 6th slot 90% of the time. Franco's job ends with a hook landing; dying after the pickoff is acceptable as long as you come back for the next one.
+- **Queen's Wings** only if you are building a damage Franco in a casual draft. It is a real option (40 adaptive attack, 30% damage reduction under 40% HP), not a meta one.
+
+Boot choice: Rapid Boots is the default 95% of the time. The only exception is Tough Boots + Conceal against a 2+ chain-CC enemy comp (Tigreal + Eudora, Atlas + Valentina), where the 30% CC duration reduction buys you the window to land your own hook before their engage locks you.
+
+### Mistakes that lose Franco games
+
+**Hooking an engage tank before they've burned their ultimate.** Pulling a Tigreal, Atlas, or Khufra into your team saves them the engage walk. Their AoE stun is in melee range now, and it is your marksman standing next to you. Let Tigreal-style tanks walk to your team on their own cooldown, then hook the carry who is supposed to follow up behind them.
+
+**Walking into fog without passive stacks.** Wasteland Force needs time out of combat. If you just tanked a Fury Shock from the enemy tank or ate a poke skill, your hook damage is normal and your MS is normal. Sit in the bush or the river for the full recharge before rotating. The stacked hook wins the gank; the unstacked one starts a fair fight.
+
+**Casting Fury Shock before Iron Hook when passive is stacked.** Wasteland Force consumes all stacks on the next skill cast, full stop. Fury Shock is a cheap slow; you do not need the amplified damage on it. Always S1 first when passive is loaded, then S2 to lock the drag, then ult to finish. Reverse the order and you throw away the biggest damage spike in your kit.
+
+**Flicker-hooking a hero who has a dash up.** Bloody Hunt bypasses Purify's cleanse (suppression immunity is explicit in the Purify tooltip), but Iron Hook's drag does not bypass dash i-frames. A Benedetta, Wanwan, or Lancelot with their dash available can Flicker-hook-dash out before your ult locks, and you burned Flicker for a wasted trade. Check the enemy's dash cooldowns before committing Flicker.
+
+**Solo-hooking the enemy main tank.** Pulling a Tigreal into your team pulls an AoE-stun tank into your team. Pulling a Grock pulls a wall-charge tank into your team. The list is long. Unless your team is specifically set up to burst a tank down during the suppression (which almost no team is), hooking the enemy tank just means you dragged the enemy engage to your backline for free.
+
+### Key tips
+
+> [!TIP]
+> Flicker-hook: press Flicker, then Iron Hook in the same motion. The teleport fires first, then the hook launches from the new position, which extends total hook range and catches carries who positioned against your normal hook distance. Practice against bots until it's a single fluid input; it is the single highest-skill-expression combo on the hero.
+
+> [!NOTE]
+> Bloody Hunt cannot be cleansed by Purify. Purify's tooltip explicitly excludes Suppression, and Assassin Emblem's Killing Spree does nothing against it. Diggie's Time Journey is the one real exception: it removes the debuff after it lands, so a good Diggie erases your pickoff. If the enemy carries burn Purify defensively after your hook lands, they just wasted the battle spell.
+
+> [!TIP]
+> Stack the passive in the bush before every rotation. A few seconds of no-damage dwell time gives you movement speed, missing HP back, and a boosted opening skill. The difference between a stacked opening hook and an unstacked one is the difference between a pickoff and a trade.
+
+> [!NOTE]
+> Against a Diggie comp, hook Diggie first. Your pickoff only sticks if the egg is dead or already used his ult, so removing him before you engage is the whole matchup.
+
+## Skills
+
+### Wasteland Force (Passive)
+
+If Franco takes no damage for 5s, he gains 10% Movement Speed, recovers 1% Max HP per second, and begins gaining Wasteland Force (up to 10 stacks). Franco's next skill consumes all Wasteland Force stacks, increasing its damage by up to 150%.
+
+### Iron Hook (Skill 1)
+
+Franco launches an Iron Hook in the target direction. The hook snags the first enemy unit hit, dealing 400 (+100% Total Physical Attack) Physical Damage and dragging them to him.
+
+### Fury Shock (Skill 2)
+
+Franco lashes out, dealing 300 (+ 4% of his Max HP) Physical Damage to nearby enemies, slowing them by 70% for 1.5s.
+
+### Bloody Hunt (Ultimate)
+
+Franco suppresses the target enemy hero for 1.8s and strikes them 6 times over the duration, each time dealing 50 (+70% Total Physical Attack) Physical Damage.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Use Flicker to reach key targets for his Ultimate. Follow up with 1st Skill to extend the CC, then 2nd Skill to deal damage and slow.
+- LANING COMBOS (laning): Use 1st Skill to hook the enemy into a bad position. Follow up with 2nd Skill to slow, then Ultimate to suppress and secure a kill.
+
+## Counters to Franco (pick these against Franco)
+
+- Hanzo (Assassin): +2.8 pp edge. Hanzo has a statistical edge over Franco based on ranked matchup data. Pick Hanzo to gain an advantage in draft.
+- Sun (Fighter): +2.7 pp edge. Sun's durability and kit give them a strong matchup advantage against Franco throughout the game.
+- Atlas (Tank): +2.4 pp edge. Atlas's durability and kit give them a strong matchup advantage against Franco throughout the game.
+- Tigreal (Tank): +2.3 pp edge. Tigreal's durability and kit give them a strong matchup advantage against Franco throughout the game.
+- Chip (Support/Tank): +2.1 pp edge. Chip's durability and kit give them a strong matchup advantage against Franco throughout the game.
+
+## Heroes Franco beats
+
+- Diggie (Support): +3.0 pp edge for Franco.
+- Fanny (Assassin): +2.4 pp edge for Franco.
+- Angela (Support): +2.3 pp edge for Franco.
+- Floryn (Support): +2.0 pp edge for Franco.
+- Freya (Fighter): +1.8 pp edge for Franco.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/franco.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Conceal Pickoff (Roam)
+
+- Items: Rapid Boots, Dominance Ice, Fleeting Time, Oracle, Antique Cuirass, Immortality
+- Core: Rapid Boots, Dominance Ice, Fleeting Time
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Athena's Shield over Oracle when Use against one-rotation magic burst that can delete Franco before Bloody Hunt finishes.; Guardian Helmet over Oracle when Use when your team is winning vision but Franco keeps entering river fights too low to threaten a hook.; Blade Armor over Antique Cuirass when Use when the main threat is a basic-attack marksman who has to hit Franco after the hook lands.
+- Total cost: 10960 gold
+
+Default ranked Franco setup for fast bush-to-bush rotations, Conceal pickoffs, and repeated Flicker suppression attempts.
+
+### Roam Frontline Encourage (Roam)
+
+- Items: Tough Boots, Dominance Ice, Athena's Shield, Antique Cuirass, Guardian Helmet, Immortality
+- Core: Dominance Ice, Athena's Shield, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Rapid Boots over Tough Boots when Use when enemy control is light and map speed matters more than Fortitude's control reduction.; Radiant Armor over Athena's Shield when Use against repeated magic poke or burn damage instead of one clean magic burst combo.; Oracle over Guardian Helmet when Use when cooldown and stronger regeneration matter more than raw out-of-combat HP recovery.
+- Total cost: 11650 gold
+
+Safer five-man setup for games where Franco must hold front vision longer and the team benefits more from Encourage than hidden entry.
+
+### Roam Vengeance Anti-Physical (Roam)
+
+- Items: Warrior Boots, Dominance Ice, Blade Armor, Antique Cuirass, Guardian Helmet, Immortality
+- Core: Dominance Ice, Blade Armor, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Tough Boots over Warrior Boots when Use when the physical threats are backed by chain control that stops Franco before he can suppress.; Athena's Shield over Guardian Helmet when Use when the enemy still has one magic burst threat who can punish Franco's first step into river.; Radiant Armor over Guardian Helmet when Use against sustained magic damage that follows Franco through extended front-to-back fights.
+- Total cost: 11430 gold
+
+Anti-physical variant for drafts where Franco cannot rely on Flicker picks and must survive marksman or fighter focus after contesting vision.
+
+All builds for this hero: https://mlbbhub.com/builds/franco.
+
+## Synergies
+
+- Vale: Heroes with high burst damage such as Vale, Karina and Brody to take advantage of his CC.
+- Karina: Heroes with high burst damage such as Vale, Karina and Brody to take advantage of his CC.
+- Brody: Heroes with high burst damage such as Vale, Karina and Brody to take advantage of his CC.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

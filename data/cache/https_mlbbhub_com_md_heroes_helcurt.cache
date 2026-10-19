@@ -1,0 +1,198 @@
+# Helcurt, Shadowbringer
+
+> Helcurt is not a burst assassin who happens to be invisible. He is a stalker: every ability exists to control when the enemy sees him, to reward the moment they finally do, and to let him vanish after each kill. Draft him when your team can strike a blind enemy, and bench him when someone on the other side can burn the fog away.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle, Roam
+- Specialty: Push, Burst
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 47.10%
+- Pick rate: 0.55%
+- Ban rate: 4.92%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/helcurt
+
+## Guide
+
+### Draft Helcurt into fog they cannot burn
+
+Lock Helcurt when the enemy backline has to stand still to aim and cannot escape what it cannot see. Valir, Yve, X.Borg, Layla, Miya: all of them need a visible target to hit, and all of them fold when the darkness turns their lane into noise. Pair him with one engage tool (Tigreal, Atlas, Khufra, Franco) so the team can convert the blind window into a real fight. Helcurt's job in that composition is to be the blade that arrives inside it, not the hand that throws the fight.
+
+Do not pick him into heroes who break the basic-attack engine or ignore his burst. Karina's Dance of Blades blocks basic attacks and her ult dashes onto you, which deletes the stinger economy before it starts. Natalia camouflages like you do and opens on you first, and her Smoke Bomb blocks basics too. Wanwan, Hayabusa, and Lancelot all have untargetable windows that land inside your kill window, so the whole combo goes into air. Heavy point-click comps (Khufra plus Franco; Atlas plus Eudora) also stop the backline reach: Helcurt has no way to fight through a wall of lock to a carry he cannot exit from.
+
+Test the draft before you lock it: if the enemy team can see you before you choose to be seen (Karina, Natalia) or deny your burst with an untargetable window (Wanwan, Hayabusa, Lancelot), Helcurt is the wrong pick. If they cannot, and the backline is immobile, he is a win condition the other team did not ban.
+
+### The one thing that makes Helcurt work
+
+Helcurt's kit is a stealth economy disguised as an assassin. Shadow of Styx keeps him in Prowler while unseen, regenerating and recharging S1 faster; the moment he is spotted he bursts with attack speed and movement speed for the engage. Every basic attack stacks a Deadly Stinger, and S2 dumps all of them forward as one burst, so his damage is gated on his own auto-attack cadence rather than on a single skill. The ult is the same idea scaled to the whole team: it strips enemy sight of their allies for a few seconds, so everyone has to fight the fog while Helcurt moves freely inside it. And the kill condition is the reset: any hero he kills drops a dark fog he can stand in to become concealed again, rearming Prowler for the next target.
+
+This is why the 2024 revamp retired the old silence-assassin reading, and why builds that treat him like a crit marksman still fail. Deadly Stinger counts as a basic attack but cannot crit, so crit items are dead gold. The items that scale him are the ones that feed the attack-speed loop and the skill-to-auto cadence: Blade of the Heptaseas keeps its ambush bonus armed while he approaches unseen, and Endless Battle turns every S1 blink into a true-damage follow-up.
+
+Play him as the second wave of a fight, not the first. Approach from the fog, let a teammate force the enemy to look one way, and arrive where nobody is looking.
+
+### Laning: the first 4 minutes
+
+Helcurt is not a strong early-game duelist. Respect the stealth economy instead of fighting it.
+
+1. **Clear the rotation with the stinger loop, not skill spam.** Basic attacks build stingers and S2 dumps them onto the camp, so the clear speed lives in your auto-attack cadence. S1 is your gap closer, and it recharges faster while you stay in Prowler, so keep it for an invade escape rather than moving between camps.
+2. **Stop attacking before the gank and let Prowler come back.** Clearing camps costs you the regen and disarms the Heptaseas ambush bonus. On the last camp before a rotation, finish it, then walk the rest of the way untouched so both are back online when you arrive.
+3. **Level 4, gank the lane you can approach unseen.** Slip into Prowler on the brush line, break stealth only with the S1 blink onto the target. The blink terrifies them on impact, the spotted burst feeds the stinger dump, and the ult is your insurance against their peel. If they Flicker out, do not chase past the tower; one kill is not worth handing the map back.
+
+### The power spike you are farming toward
+
+The flip happens at Blade of the Heptaseas plus Endless Battle, roughly minute 8 to 10 on a clean path. Heptaseas keeps its ambush bonus armed while Helcurt approaches without touching anyone, so the opening auto of a Prowler engage carries bonus damage and a slow that stops the target from kiting the dump. Endless Battle then turns the S1 blink into a true-damage follow-up basic, which is exactly where Helcurt's skill-to-auto cadence lives. Hunter Strike lands third to complete the engine: five damage instances later, the move-speed burst is what lets you chase through a fog chain or leave one.
+
+Before this spike, Helcurt is a pick-off assassin who needs the full darkness window to kill anyone at full HP. After it, he can open a mid laner from Prowler with no ult at all: S1 blinks in, the ambush auto hits, basics load the stingers, S2 fires, the target dies, and the kill-fog resets you for the next one. The ult stops being the kill condition and becomes the second kill in the same rotation.
+
+If you are past minute 12 and still on one finished item, the game is already lost. The spike is not flexible; the hero is either online by then or a fast-moving corpse.
+
+### Teamfight positioning and target priority
+
+The reflex when you see the enemy commit is to ult and dive immediately. That reflex loses games, because the darkness strips the enemy team's sight of their allies but leaves your own frontline just as blind: they still need to know where the engage is. Opening solo in the dark strands you among five enemies who can still auto-attack a silhouette.
+
+1. **Enter from a flank, in Prowler, and let someone else force the look.** Tigreal ult, Atlas chain, Franco hook: any of these makes the enemy turn toward the pressure, which is the moment you are unseen somewhere else. Your job is to be the arrival nobody scouted.
+2. **Open on the carry, but only after the untargetables are spent.** Wanwan's ult, Hayabusa's shadows, Lancelot's execution: if any of them is up, your combo lands on nothing. Bait the window with your frontline, then blink in with the stinger dump while the backline is committed.
+3. **Plan the fog before you engage.** Know which enemy body is the kill that drops a fog you can stand in. If you kill without a fog to reset into, you are trading your life for the carry's, which is a losing trade for a jungler.
+
+The support-dependent edge: with Mathilda, or an engage like Tigreal on Flicker, you get to push further because extraction exists. Without it, the fog is your only exit, so you take the kill and leave rather than hunting the second one.
+
+### Itemization: two locked slots plus four real conversations
+
+Locked: Assassin Emblem with the Seasoned Hunter middle talent for the jungle clear (Master Assassin if you are running the roam Dire Hit line), and Blade of the Heptaseas first. Everything after that is a conversation with the enemy draft.
+
+- **Boot slot.** Swift Boots by default: attack speed is more stingers per second and faster stinger economy. Tough Boots against a triple-mage or heavy CC draft where one lock ends the dive.
+- **Second item.** Endless Battle in nearly every game, because the skill-to-auto true damage is the kit's scaling axis. There is no real alternative here; skip it only when the enemy is so tanky that the whole game shifts to the stinger DPS line.
+- **Third slot: penetration or tempo.** Hunter Strike when the fight is about chaining kills, since five damage instances give you the move-speed burst to walk a fog chain. Malefic Roar when the enemy support and tank have both built a defensive item (around minute 14 to 16), and Blade of Despair when the enemy has stayed squishy and you need threshold damage to end the rotation. The choice is whether the fight is gated by their armor (Roar) or by your burst speed (BoD).
+- **Defensive slot.** Immortality is the default because the loop is one dive and a fog reset: you either kill the backline and die in the follow-up, or miss and get chased down. Rose Gold Meteor only against a dedicated lockdown mage (Eudora, Aurora) where the shield survives the initial burst your own team cannot peel.
+- **The weakest common default is crit.** Deadly Stinger counts as a basic attack but cannot crit, so crit chance is dead gold on a hero whose main burst is a non-crit basic. If you feel the urge to build critical chance, you are playing the wrong assassin.
+
+### Mistakes that lose Helcurt games
+
+**Breaking Prowler before the engage.** Poking with a basic attack or letting a stray camp hit you before the blink hands the enemy warning and disarms the Heptaseas bonus. Approach in Prowler, and let the S1 blink be the first thing the enemy sees.
+
+**Dumping S2 under five stingers.** The skill fires whatever you have, and the damage scales with the stingers released. Pressing S2 at two or three stacks in a panic deals a fraction of a clean five-stack release, and the stacks you fired are gone. If you are below five stingers and the fight is starting, basic attack first and S2 last.
+
+**Ulting and diving while your team is not committed.** The darkness is an engagement tool, not a solo kill button. If your frontline is not following the blind window, you are diving five enemies alone inside an ability that also confuses your own team's reads. Use ult when the fight is real, not to start a pick nobody can convert.
+
+**Engaging a revealer or an untargetable on equal footing.** Karina blocks basic attacks and dashes onto you, so your stinger engine never starts. Natalia opens on you first from her own camouflage. Wanwan, Hayabusa, and Lancelot have untargetable windows that swallow your combo. All of them need a teammate to spend their answer before your blink matters; solo dives into any of them are the death animation.
+
+**Saving the fog for a clean-up kill.** The ult and the kill-fog are how you chain kills, not how you finish a low-HP target. Burning the darkness to clean up a nearly-dead enemy means your team loses the blind for a full minute. If the target is that low, S1 plus a clean S2 closes it without touching ult; save the darkness for the next objective window.
+
+### Key tips
+
+> [!TIP]
+> The moment you are spotted, you burst with attack speed and movement speed for the engage. That window is the whole kill: approach in Prowler, break stealth with the S1 blink, and land the five-stinger S2 inside it before the bonus decays.
+
+> [!TIP]
+> Blade of the Heptaseas stays armed while you approach in Prowler, because you deal no damage until the blink. That is why it is the first item: the opening auto of every gank carries bonus damage and a slow, so the target cannot walk out of the stinger dump.
+
+> [!NOTE]
+> Karina and Natalia block basic attacks entirely, and stingers are built by basic attacks. Against either of them, your kill window is gone until a teammate forces their defensive; treat those matchups as coordination checks, not solos.
+
+> [!TIP]
+> Every hero you kill drops a dark fog that conceals you and re-arms Prowler. Chain kills through fogs and you reset between targets for free; the difference between a good Helcurt and a great one is whether they stand in the open after the pick or step into the smoke.
+
+## Skills
+
+### Shadow of Styx (Passive)
+
+Helcurt remains in Prowler state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating (+30% Total Physical Attack) HP if he has not dealt any damage. He gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4s upon being spotted and leaves Prowler state 0.75s later. Any hero killed after being hit by Helcurt leaves a dark fog that explodes and spreads with a cooldown of 10s. Helcurt Conceals himself while within the dark fog.
+
+### Hidden Terror (Skill 1)
+
+Passive: When Helcurt is in the Prowler state, Terrify also affects enemy heroes hit and briefly reveals them. Its cooldown decreases 3 times as fast as normal. Active: Helcurt blinks to the target location and deals 150 (+70% Total Physical Attack) Physical Damage to enemies in the area, reducing their Movement Speed by 60% for 0.75s.
+
+### Deadly Stinger (Skill 2)
+
+Passive: Helcurt gains 1 Deadly Stinger for every 1.5s spent in Prowler state or on each Basic Attack. Up to 5 Deadly Stingers can be stored. Active: Helcurt fires all Deadly Stingers forward, each dealing 180 (+50% Extra Physical Attack) Physical Damage to enemies (minions and creeps take only 70% of the damage). Deadly Stinger counts as a Basic Attack but cannot Crit.
+
+### Dark Night Falls (Ultimate)
+
+Helcurt summons the Dark Night, reducing all enemies' sight range and blocking ally vision sharing for 3s. During Dark Night, Helcurt gains 40% extra Movement Speed. The Dark Night makes it easier for Helcurt to leave enemies' sight range.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, cast Helcurt's Ultimate to obscure the enemies' vision, then blink to their backline with his 1st Skill to hit with his Basic Attacks, and end with his 2nd Skill.
+- LANING COMBOS (laning): In the laning phase, blink to the target using Helcurt's 1st Skill, then stack up stingers with his Basic Attacks and finish the combo with his 2nd Skill.
+
+## Counters to Helcurt (pick these against Helcurt)
+
+- Mathilda (Support/Assassin): +3.0 pp edge. Mathilda's protective abilities and vision control make it difficult for Helcurt to find isolated targets.
+- Karina (Assassin): +3.0 pp edge. Karina has a statistical edge over Helcurt based on ranked matchup data. Pick Karina to gain an advantage in draft.
+- Argus (Fighter): +3.0 pp edge. Argus's durability and kit give them a strong matchup advantage against Helcurt throughout the game.
+- Chip (Support/Tank): +2.8 pp edge. Chip's crowd control can lock down Helcurt's mobility, shutting down engages before they start.
+- Obsidia (Marksman): +2.7 pp edge. Obsidia has a statistical edge over Helcurt based on ranked matchup data. Pick Obsidia to gain an advantage in draft.
+- Khaleed (Fighter): +2.6 pp edge. Khaleed's sustain and durability allow them to outlast Helcurt's burst combos and win extended trades.
+- Hilda (Fighter/Tank): +2.6 pp edge. Hilda's sustain and durability allow them to outlast Helcurt's burst combos and win extended trades.
+- Kalea (Support/Fighter): +2.6 pp edge. Kalea's sustain and durability allow them to outlast Helcurt's burst combos and win extended trades.
+
+## Heroes Helcurt beats
+
+- X.Borg (Fighter): +3.4 pp edge for Helcurt.
+- Valir (Mage): +3.3 pp edge for Helcurt.
+- Gord (Mage): +2.7 pp edge for Helcurt.
+- Xavier (Mage): +2.6 pp edge for Helcurt.
+- Diggie (Support): +2.6 pp edge for Helcurt.
+- Luo Yi (Mage): +2.0 pp edge for Helcurt.
+- Cecilion (Mage): +1.5 pp edge for Helcurt.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/helcurt.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Pickoff Default (Jungle)
+
+- Items: Swift Boots, Blade of the Heptaseas, Endless Battle, Hunter Strike, Malefic Roar, Immortality
+- Core: Blade of the Heptaseas, Endless Battle, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Tough Boots over Swift Boots when Use when chain crowd control is the main reason Helcurt cannot finish after the first blink.; Blade of Despair over Immortality when Use while ahead against low-control drafts where one more raw damage slot decides the backline kill.; Rose Gold Meteor over Immortality when Use against magic burst when a shield and movement burst protect the first dive better than a revive.
+- Total cost: 11180 gold
+
+Default jungle setup for converting Dark Night Falls into one isolated carry kill, then using Flame Retribution and Hunter Strike tempo to exit or chase the reset.
+
+### Roam Dire Hit Burst (Roam)
+
+- Items: Tough Boots, Blade of the Heptaseas, Sky Piercer, Hunter Strike, Malefic Roar, Blade of Despair
+- Core: Blade of the Heptaseas, Sky Piercer, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Lethal Ignition
+- Battle spell: Petrify
+- Blessing: Dire Hit
+- Flex: Rapid Boots over Tough Boots when Use when the enemy lacks reliable point-click lockdown and Helcurt's job is constant fog-to-lane pressure.; Immortality over Blade of Despair when Use before the final Lord fight when dying after one pick would lose more value than the last damage slot adds.; Sea Halberd over Blade of Despair when Use when healing, shields, or high-extra-HP frontliners keep the target above Sky Piercer's execute threshold.
+- Total cost: 11230 gold
+
+Damage-roam setup for coordinated pickoff games without taking jungle economy. Prowler movement keeps Force stacking between fights, so Deadly Stinger opens loaded and Petrify plus the darkness hold the target in place for the follow-up.
+
+### Anti-Frontline Stinger DPS (Jungle)
+
+- Items: Swift Boots, Demon Hunter Sword, Corrosion Scythe, Sea Halberd, Malefic Roar, Immortality
+- Core: Demon Hunter Sword, Corrosion Scythe, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Blade of the Heptaseas over Sea Halberd when Use when the enemy sustain threat is low and Helcurt can still reach a squishy target from fog.; Blade of Despair over Immortality when Use when the frontline is already cracked and the next fight is about deleting the exposed carry.; Rose Gold Meteor over Immortality when Use when magic burst is killing Helcurt before Demon Hunter Sword and Corrosion Scythe can stack value.
+- Total cost: 11170 gold
+
+Anti-frontline jungle setup for games where Helcurt cannot one-tap the backline and must use stinger stacks, attack effects, and Malefic Roar to fight through durable targets.
+
+All builds for this hero: https://mlbbhub.com/builds/helcurt.
+
+## Synergies
+
+- Tigreal: Helcurt's Ultimate is a great tool to obscure the enemy's vision and makes it easier for him and his team to engage. Additionally, heroes with CC like Tigreal, Esmeralda, and Terizla work great with Helcurt to secure kills.
+- Esmeralda: Helcurt's Ultimate is a great tool to obscure the enemy's vision and makes it easier for him and his team to engage. Additionally, heroes with CC like Tigreal, Esmeralda, and Terizla work great with Helcurt to secure kills.
+- Terizla: Helcurt's Ultimate is a great tool to obscure the enemy's vision and makes it easier for him and his team to engage. Additionally, heroes with CC like Tigreal, Esmeralda, and Terizla work great with Helcurt to secure kills.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

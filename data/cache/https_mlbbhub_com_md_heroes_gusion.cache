@@ -1,0 +1,213 @@
+# Gusion, Holy Blade
+
+> Gusion is a one-second assassin. The window between "target alive" and "target dead" is shorter on Gusion than on any other hero in the game, and that speed is the entire point. Outside the combo window, he is a magic-damage assassin with one slow and one single-target blink.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Burst, Magic Damage
+- Difficulty: Hard
+- Tier this patch: C
+- Win rate: 48.33%
+- Pick rate: 1.37%
+- Ban rate: 4.13%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/gusion
+
+## Guide
+
+### The draft read that justifies a Gusion lock
+
+Gusion does one thing: delete a single squishy target in under a second. If the enemy draft has a target worth deleting and no reliable way to stop the combo, Gusion is a strong pick. If either condition is missing, you have locked a magic assassin who falls off at 15 minutes and contributes nothing to late-game teamfights.
+
+Pick Gusion when the enemy mid or gold laner is squishy and immobile: Pharsa, Cecilion, Layla, Change'e, Lunox in light form, or Lylia without her ult available. Pick him when the enemy lacks instant-response CC, because the S1 move-behind cannot be interrupted, but the S1 throw, S2 volley, and recall casts can be; a Saber ult, Franco hook, or Kaja drag landing on any of those breaks the combo. Pick him when your team has a real frontline that can absorb the first round of CC so you can enter after abilities are blown.
+
+Avoid Gusion when the enemy has two or more of: Khufra (Bouncing Ball knocks you airborne mid-S1 because it counts as a blink), Chou (the kick catches you in the dash window), Franco (suppress through the combo), Lolita (shield blocks every dagger), Minsitthar (King's Calling locks out S1 and ult inside the zone), or Ruby (her S2 pulls you in and ends the combo). Avoid him when the enemy team is all bruisers with no squishy worth a full combo rotation.
+
+If you cannot name the specific hero you plan to delete before champion select ends, Gusion is the wrong pick.
+
+### The one thing that makes Gusion work
+
+Gusion is a cooldown-reset assassin. His ult, Incandescence, deals zero damage. It resets the cooldowns of S1 and S2, and that reset is the entire hero.
+
+The combo works like this: S1 throws a dagger that marks the first enemy hit. S2 throws a fan of daggers that each deal magic damage and slow. Then Incandescence resets both, and now S1 is available again. You throw the second dagger to mark, recast S1 to teleport behind the target, and recast S2 in the same beat to recall every dagger back through their position. Each dagger hits twice (throw plus recall), the S1 teleport carries its own damage on top, and the passive Dagger Specialist adds bonus max-HP damage to a basic attack you weave between casts.
+
+Executed clean, the entire sequence resolves in under 1.5 seconds. The target reads "Gusion appeared" and "I am dead" as the same event. The passive heal on the woven basic attack is the only sustain in the kit, and it is what lets a Gusion who lands the combo immediately rotate to the next fight instead of recalling.
+
+Every part of the kit serves the combo. Nothing in the kit is useful outside of it. If the combo does not kill, Gusion is standing next to a furious enemy with every ability on cooldown and no way out.
+
+### Laning: the first four minutes
+
+Gusion can be played mid lane or jungle. Both paths converge on the same goal: hit level 4 fast, because Incandescence is the entire hero.
+
+1. **If jungling, start blue and full clear toward red.** Gusion's S2 fan clears camps reasonably fast but he is mana-hungry, and blue solves both problems at once. Aim for level 4 by roughly the 1:40 mark. Your first gank should land on a lane with a pushed-up squishy below 80% HP. Burn the full S1, S2, ult, S1, S2 rotation; do not save ult for "later."
+2. **If playing mid, take S2 first and clear the wave with the dagger fan.** Position so the daggers hit the entire wave in one cast. Take S1 at level 2 for the mark and teleport, but do not use it aggressively before level 4. Without ult, you only get one S1 cycle and the cooldown leaves you helpless if it misses.
+3. **Never pick extended trades before level 4.** Gusion without ult is functionally a mage with one slow and one blink. He loses sustained trades to every fighter and most marksmen. Farm, dodge skillshots, and wait for the ult unlock. Your first kill attempt is at level 4 with ult available, never before.
+
+Retribution is the spell for jungle, Execute for mid. Execute earns its slot on this hero specifically because the combo frequently leaves squishies at single-digit HP before the first magic penetration item, and the true-damage finisher closes those kills cleanly.
+
+### The power spike you are farming toward
+
+Arcane Boots first for the flat magic penetration. Genius Wand second, usually completed around the 5-to-7 minute mark. Together they stack flat magic penetration plus Genius Wand's passive that reduces the target's magic defense per damage instance and stacks three times. Because the combo lands roughly ten dagger hits in rapid succession, Genius Wand reaches full stacks on the first volley, which means the back half of the combo is hitting through reduced magic defense without you doing anything extra.
+
+The real spike is **Genius Wand plus Holy Crystal**, usually around the 9-to-11 minute mark. Holy Crystal's Mystery passive multiplies your total magic power by a percentage that scales with hero level, which means every dagger throw, every dagger recall, and the S1 teleport damage all scale together off the same item. The jump from one offensive item to two roughly doubles the combo's effective damage, and that is the window where Gusion goes from "pokes the carry" to "deletes the carry."
+
+The window lasts from roughly minute 9 to minute 18. After that, enemy magic resist items and HP scaling outpace your damage curve and the combo stops one-shotting. You either snowballed during this window or you become a 12-minute irrelevance who farms jungle while the team tries to fight 4v5.
+
+### Teamfight positioning and target priority
+
+The reflex when a fight breaks out is to S1 the nearest enemy and start the combo. That reflex is wrong about half the time, because the nearest enemy is usually the tank and a full combo on a tank does roughly a third of their HP and burns your only damage rotation.
+
+Gusion is not a teamfight hero. Like Chou, he is a pre-fight hero. His job is to delete one person before the actual fight starts, and then play the resulting 5v4.
+
+1. **Wait in fog until you identify your target.** Gusion's threat comes from the speed of the combo, not from his presence on the map. If the enemy can see you, they cluster around the carry and you cannot reach the back without eating CC. If they cannot see you, the carry steps forward and you delete them before the team reacts. Showing up early is the most common Gusion mistake.
+2. **S1 is your range check, not your engage.** Throw the first dagger from fog. If it lands on the right target, immediately follow with S2, ult, S1, S2 recall. If it hits a tank or whiffs, walk away. The S1 cooldown is short enough that you get another chance at a clean angle before the fight moves. Committing the full combo on the wrong target wastes your entire rotation and usually gets you killed.
+3. **Never ult into more than two enemies.** Incandescence dashes you forward into the cluster. Two enemies is the absolute maximum your combo can resolve before the third lands CC. One target is ideal, two is acceptable when ahead, three is suicide regardless of how fed you are.
+
+If the enemy groups tight and your target stays inside the ball, do not engage. Push a side wave, take a jungle camp, ping for vision, and wait. Gusion's combo requires an isolated or edge-positioned target. Patience here is not passive play; it is the correct play.
+
+### Itemization: defaults vs flex slots
+
+Three locked slots and three real conversations.
+
+**The locks are Arcane Boots, Genius Wand, and Holy Crystal.** Magic penetration plus the magic-defense shred plus the magic power multiplier. Without these three, the combo does not delete a squishy from full HP.
+
+**The fourth slot is the penetration conversation:**
+
+- **Divine Glaive** when two or more enemies have stacked magic defense items. The percentage magic penetration stacks multiplicatively with Genius Wand's flat shred, and your combo target dies through 80+ magic defense.
+- **Concentrated Energy** when you are snowballing and want to stay on the map after the first kill. The 400 HP absorbs the return trade, and Recharge stacks magic power on every damage instance, which the multi-dagger combo feeds fast enough that the bonus magic damage window is up for the follow-up rotation.
+
+**The fifth slot:**
+
+- **Blood Wings** for raw magic power and the Guard shield. The shield is an extra 800 plus a percentage of magic power, which gives you a real defensive layer when the combo target is gone and you have to walk out through the rest of the enemy team.
+- **Winter Crown** when the enemy carries delayed burst that fires after your combo ends. Saber ult, Karina ult, Aldous ult: all of them resolve after Incandescence's window closes, and the 2-second freeze buys you the cooldown reset on S1 to reposition.
+- **Immortality** when behind. The resurrection often coincides with S1 cooldown coming back, which is a free escape if you read the situation in the second between dying and respawning.
+
+**The weakest common buy is Blade of Despair.** Gusion deals magic damage. Physical attack items do nothing for the combo. Build guides that suggest BoD on Gusion were generated by a script that does not check damage type, and you should ignore them.
+
+The emblem question has only one real answer: **Assassin Emblem with Rupture, Master Assassin, and Killing Spree**. Rupture's adaptive penetration converts to magic penetration because Gusion's magic power exceeds his physical attack at every point in the build. Master Assassin's lone-target damage bonus is essentially free because you are explicitly hunting isolated heroes. Killing Spree gives you the post-kill HP and movement to immediately threaten the next target. Mage Emblem is a measurable downgrade because Lethal Ignition needs three damage instances over five seconds and your combo overdelivers in 1.5 seconds, which means the proc lands on a target that is already dead.
+
+### Mistakes that lose Gusion games
+
+**Comboing into a target standing behind Lolita's shield.** Her ult-blocking shield absorbs both the throw and the recall waves of S2, and S2 is more than half your combo damage. The combo that kills a 2000-HP mage does roughly 40% of its real value when the daggers hit the shield first. Wait for the shield to drop, or flank from an angle the cone does not cover. Comboing through the shield is a guaranteed waste of your rotation.
+
+**Walking through unwarded jungle when Natalia is missing.** Her stealth auto attack silences you for one second, and if she catches you between the ult dash and the S1 recast, the combo stops mid-rotation and you die with abilities on cooldown. Buy a Demon Hunter Sting if you have to (kidding, that does not exist on this hero). Just ward your jungle entrances and treat any "Natalia missing" ping as a hard "do not enter fog" signal until she is spotted again.
+
+**Opening S1 into Helcurt's passive range.** His passive silences enemies who deal damage to him, which means your first S1 dagger silences *you* for a full second. Reverse the skill order against Helcurt: open with S2 from outside his passive range so the daggers trigger his silence at distance, wait out the second, then S1 to mark and combo cleanly. Skill order beats the passive.
+
+**Comboing Harith without baiting Chrono Dash first.** Harith's blink dodges the S1 teleport entirely. You land where he was, the S2 recall converges on empty ground, and your combo evaporates. Wait for him to burn Chrono Dash on a wave or a trade, then commit during the cooldown window. Comboing while his blink is up is throwing the rotation.
+
+**Pressing ult into three or more enemies because "I have flicker."** Flicker on a 120-second cooldown is not an escape from a 5-man collapse. The Gusion fantasy is one isolated kill, and the moment you ult into a cluster you stop being a hero and become a kill on the enemy scoreboard. If your only target is inside the enemy ball, the correct play is to leave and farm a side wave. Patience is not passive; impatience is the loss condition.
+
+### Key tips
+
+> [!TIP]
+> The full combo sequence is S1 throw to mark, then S2 throw, then ult to reset both, then S1 again to teleport behind the target, then S2 recall to pull every dagger back through them. Practice in custom games until you can execute it in under 1.5 seconds. The speed is the survival tool: a 3-second combo gives the enemy time to CC you, a 1.2-second combo does not.
+
+> [!NOTE]
+> Gusion deals magic damage, full stop. His passive scales off magic power, every skill scales off magic power, and his penetration need is magic penetration. Physical attack items, attack speed items, and crit items do literally nothing for the combo. This is the most common mistake in auto-generated build guides and the easiest to avoid.
+
+> [!TIP]
+> Weave one basic attack between S1 and S2 whenever possible. The passive procs max-HP bonus damage on that auto and heals you off Total Magic Power, which means the woven attack adds damage and gives you sustain that the rest of the kit does not. At two items, that single auto heals enough HP to matter when you walk out of the combo zone.
+
+> [!NOTE]
+> If S1 misses, do not commit S2 to "salvage the rotation." Without the S1 mark, you cannot teleport behind the target, which means the S2 recall daggers do not converge on a single point. You lose half your damage and all your mobility, and you walk into the fight with nothing to follow up. Reset, wait the cooldown, try again.
+
+> [!TIP]
+> Identify the squishiest enemy and the one with the fewest dashes during the loading screen, then mentally rehearse the combo angle on that specific hero before minute 0. Gusion's macro is "find the same target every fight." If you have to pick the target on the fly, you are already too slow.
+
+## Skills
+
+### Dagger Specialist (Passive)
+
+Each skill cast adds a rune to Gusion's dagger (stacks up to 4 times). Each stack enhances Gusion's next Basic Attack to deal additional damage equal to 3% of the target's Max HP and recover 50 (+25% Total Magic Power) HP for himself.
+
+### Sword Spike (Skill 1)
+
+Gusion throws a dagger in the target direction, dealing 200 (+50% Total Magic Power) Magic Damage to the first enemy hit and marking them. Use Again: Gusion moves behind the marked enemy, dealing 200 (+100% Total Magic Power) Magic Damage to them. This skill cannot be interrupted while Gusion is moving behind the marked enemy.
+
+### Shadowblade Slaughter (Skill 2)
+
+Gusion throws a volley of daggers in the target direction, each dealing 100 (+40% Total Magic Power) Magic Damage to enemies hit and slowing them by 6% for 2s (when hit by multiple daggers, the slow effect can stack up to 30%). Use Again: Gusion recalls the daggers, each dealing 65 (+40% Total Magic Power) Magic Damage to enemies in its path.
+
+### Incandescence (Ultimate)
+
+Gusion dashes to the target location, resetting the cooldowns of Sword Spike and Shadowblade Slaughter. If Shadowblade Slaughter was cast once before the reset, Gusion can throw another five daggers on his next Shadowblade Slaughter cast, and recall a total of ten daggers afterward. Use Again: Gusion dashes a short distance in the target direction.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Gusion should first use his 2nd Skill for damage, then his Ultimate to reset the cooldown for his 2nd Skill. Follow up with his 2nd and 1st Skill combo for more damage. And use his 2nd Skill again to recall all 10 daggers right after moving behind a target with his 1st Skill for massive damage. He can then finish off any remaining low-HP heroes and escape with his Ultimate.
+- LANING COMBOS (laning): In the laning phase, Gusion can use his 1st Skill to mark the enemies, then use his 2nd Skill to slow them down. Next, he can use his 1st Skill again to move behind a target enemy and use his 2nd Skill again to deal massive damage. And finally, use his Basic Attacks to finish off the target.
+
+## Counters to Gusion (pick these against Gusion)
+
+- Lolita (Support/Tank): +3.3 pp edge. Lolita's crowd control can lock down Gusion's mobility, shutting down engages before they start.
+- Roger (Fighter/Marksman): +2.2 pp edge. Roger's durability and kit give them a strong matchup advantage against Gusion throughout the game.
+- Khufra (Tank): +2.1 pp edge. Khufra's crowd control can lock down Gusion's mobility, shutting down engages before they start.
+- Brody (Marksman): +1.8 pp edge. Brody has a statistical edge over Gusion based on ranked matchup data. Pick Brody to gain an advantage in draft.
+- Khaleed (Fighter): +1.8 pp edge. Khaleed's sustain and durability allow them to outlast Gusion's burst combos and win extended trades.
+
+## Heroes Gusion beats
+
+- Aamon (Assassin): +2.4 pp edge for Gusion.
+- Valir (Mage): +2.2 pp edge for Gusion.
+- Yve (Mage): +1.9 pp edge for Gusion.
+- X.Borg (Fighter): +1.9 pp edge for Gusion.
+- Gord (Mage): +1.7 pp edge for Gusion.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/gusion.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Burst Default (Jungle)
+
+- Items: Arcane Boots, Genius Wand, Holy Crystal, Divine Glaive, Blood Wings, Winter Crown
+- Core: Genius Wand, Holy Crystal, Divine Glaive
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Arcane Boots when Use when chain crowd control, not raw damage, is stopping Gusion from finishing the reset combo.; Glowing Wand over Blood Wings when Use when healing or shields keep priority targets alive after the dagger recall.; Immortality over Winter Crown when Use for final Lord fights when a revive gives more value than one freeze active.
+- Total cost: 11670 gold
+
+Default jungle setup for farming level four quickly, stacking magic penetration through repeated dagger hits, and deleting isolated carries.
+
+### Mid Execute Burst (Mid)
+
+- Items: Arcane Boots, Genius Wand, Starlium Scythe, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Genius Wand, Starlium Scythe, Holy Crystal
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Execute
+- Flex: Tough Boots over Arcane Boots when Use when the enemy mid and roamer can lock Gusion before the second S1 cast.; Winter Crown over Blood Wings when Use when a delayed counter-burst lands after Gusion spends Incandescence.; Glowing Wand over Blood Wings when Use against sustain-heavy lineups where anti-regen matters more than a larger shield.
+- Total cost: 11980 gold
+
+Mid-lane burst setup for waveclear into roam timing, with Execute covering targets that survive the first full combo.
+
+### Jungle Snowball Execute (Jungle)
+
+- Items: Arcane Boots, Genius Wand, Sky Piercer, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Genius Wand, Sky Piercer, Holy Crystal
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Winter Crown over Blood Wings when Use when protecting Sky Piercer stacks matters more than another raw magic power slot.; Glowing Wand over Sky Piercer when Use when the early snowball fails and enemy sustain makes an execute-only slot unreliable.; Concentrated Energy over Blood Wings when Use while far ahead when repeated magic hits can keep Recharge stacked through back-to-back skirmishes.
+- Total cost: 11260 gold
+
+High-risk jungle setup for games where Gusion wins the first rotation and can convert early kills into Sky Piercer pressure.
+
+All builds for this hero: https://mlbbhub.com/builds/gusion.
+
+## Synergies
+
+- Vexana: Gusion works well with heroes with strong opening CC, which will allow him to hit the target more easily with his 1st Skill, such as Vexana and Pharsa.
+- Pharsa: Gusion works well with heroes with strong opening CC, which will allow him to hit the target more easily with his 1st Skill, such as Vexana and Pharsa.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

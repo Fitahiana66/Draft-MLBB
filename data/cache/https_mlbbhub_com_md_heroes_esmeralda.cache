@@ -1,0 +1,202 @@
+# Esmeralda, Astrologer
+
+> Esmeralda is not a shield caster. She is a shield thief. Her passive turns enemy shields into her own HP, which means her entire viability in a match is decided in the draft lobby before you touch the keyboard. Into the wrong lineup she is a mana-starved melee mage with no hard CC. Into the right one, the enemy frontline fights at half health from minute four.
+
+## Snapshot
+
+- Role: Tank, Mage
+- Lane: EXP
+- Specialty: Regen, Mixed Damage
+- Difficulty: Hard
+- Tier this patch: C
+- Win rate: 47.17%
+- Pick rate: 0.88%
+- Ban rate: 2.20%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/esmeralda
+
+## Guide
+
+### The drafts that feed Esmeralda, and the drafts that eat her
+
+Esmeralda is a flex EXP pick, not a blind-pick EXP pick. She is a direct punish on one specific kind of composition: enemy teams that rely on personal shields to survive.
+
+Lock her when you see Hanabi (passive shield on basic attack hits), Uranus (stacking shields on skill hits), Lunox (shield in Order state), Chou (shield on S2), Yve, or Lolita on the enemy team. Every shield those heroes activate inside her radius gets absorbed by Frostmoon Shield, capped at a portion of her Max HP, and then gradually converted into her own HP through the passive. A comp with two or more of those heroes gives her a guaranteed shield supply she does not need to farm for.
+
+Do not lock her into Karrie, Baxia, Dyrroth, Thamuz, Kaja, or Valir. Karrie's Lightwheel Marks deal true damage based on the target's Max HP, so every shield and regen item Esmeralda builds makes Karrie's passive hit her harder. Baxia's passive reduces her shield generation and HP regen on every skill hit, which dismantles both halves of her kit simultaneously. Dyrroth's Abysm Strike shreds Physical Defense and deals bonus damage as a percent of lost HP. Thamuz builds Dominance Ice and out-trades her in every extended brawl. Kaja's suppression ultimate cancels Falling Starmoon before the blink lands. Valir's knockback keeps her out of melee range, where her entire kit lives.
+
+If you cannot name which of those two groups the enemy draft falls into, Esmeralda is the wrong pick.
+
+### The one thing that makes Esmeralda work
+
+Esmeralda does not survive fights because she builds defense items. She survives because she is permanently stealing HP from the enemy team through a mechanic no one else has.
+
+Her passive does two things simultaneously: her basic attacks ignore all shield effects on the target (so enemy shields never block her damage), and her own shields gradually convert into HP as she takes damage. Frostmoon Shield then absorbs nearby enemy shields up to a cap tied to her own Max HP, and those absorbed shields feed the same conversion pipeline.
+
+That is why she brawls the way she does. Every shield an enemy activates in her radius is a gift. Hanabi's passive shield on hit, Chou's S2 shield, Lunox's Order shields, the personal shield from Blood Wings on any mage. All of them enter Esmeralda's HP pool within one animation. Stardust Dance hits in a ring and spams the absorption cycle by shaving time off Frostmoon Shield's cooldown for every hero it clips, so in a 5v5 brawl she refreshes her shield generator far faster than her tooltip suggests.
+
+The tradeoff is that none of this helps against a composition that does not activate shields in melee range. Against a poke comp or a ranged-kiting lineup, she is a melee mage with no dash and no hard CC of her own.
+
+### Laning: the first 6 minutes
+
+1. **Take Frostmoon Shield at level 1.** The shield plus its decaying movement speed is both your wave-clear survival tool and your trade-in button. Walk up, Frostmoon Shield on, auto through the first wave while the shield absorbs the opposing EXP laner's poke.
+2. **Demand blue buff on the first spawn.** Esmeralda casts on cooldown and her kit is mana-hungry: without blue buff before minute 3 you will run out of mana mid-trade and die to a followup you cannot dodge. If your jungler will not give it, rotate to the enemy blue when it respawns at 2:00 and contest.
+3. **Open trades with Stardust Dance, not Frostmoon Shield.** The S1 is your escape and your shield stacker. If you burn it on the approach, you have nothing to disengage with. S2 first to proc the slow and cut the S1 cooldown, then S1 to stack the shield, then auto-attack to proc the passive damage.
+
+### The power spike you are farming toward
+
+The number that matters is minute 8. By then you should have Enchanted Talisman plus one component of Oracle. That combination is what turns Esmeralda from a laning scaler into a killer.
+
+Enchanted Talisman solves the two problems that keep her out of fights before minute 8: it gives you 20% cooldown reduction so Frostmoon Shield and Stardust Dance cycle noticeably faster, and its Mana Spring passive regenerates 15% of your max mana every 10 seconds, which is roughly one full shield rotation refunded per blue buff interval.
+
+Oracle is the multiplier. Its Bless passive increases received shield and HP regen effects by 25%, and every shield Esmeralda generates counts as a received shield (including the ones she steals from enemies). That is a 25% buff to the entire passive economy, stacked on top of the existing loop. Before this spike, her shield cap is slow to fill. After it, she refills it inside a single S2 rotation.
+
+The clock matters. If you are still building Enchanted Talisman at minute 10, the game has left you behind. Your team is at first turret trades, and you need to be the one brawling under them. If you cannot hit this spike by 8 minutes, the laning phase went wrong and you should play defensively instead of forcing fights you will lose.
+
+### Teamfight positioning and target priority
+
+The reflex when you see an Esmeralda engage is to charge in first and absorb shields. That reflex gets you killed against any competent team. Your job is not to initiate, it is to finish what your tank starts.
+
+1. **Ultimate is your gap-closer, not your opener.** Falling Starmoon channels before the blink lands, and any hard CC during the channel cancels it. Do not cast it naked. Cast it after your frontline has committed and the enemy CC has been spent. One wasted ult is a lost teamfight.
+2. **Stay in the second wave.** You are a frontline-adjacent brawler, not a true tank. Your shields do not hold up to five people focusing you because the conversion is slow. Position behind your tank, S2 through the fight, wait for the enemy to commit CC on your tank, then ult the carry.
+3. **Prioritize enemies who just activated a shield.** If Hanabi just refreshed her passive, if Chou's S2 is active, if Lunox is mid-Order, those are the targets. Absorbing an active shield is a free HP gain for you and a free HP loss for the enemy team in the same tick.
+
+The exception: if your support is Tigreal, Atlas, or Khufra, you can engage first because their chain CC stacks into your ult's immobilize. If your support is Estes, Rafaela, or Floryn, you wait.
+
+### Itemization: defaults vs flex slots
+
+Three slots are locked. Tough Boots against any comp with multiple CC threats (which is most comps), Enchanted Talisman as the mana and cooldown foundation, and Oracle as the shield multiplier. Holy Crystal is a fourth near-lock because her scaling is mostly Magic Power and nothing else gives you 165 MP plus a 21-35% amplifier on the same slot.
+
+That leaves two real conversations: slot 5 and slot 6.
+
+Slot 5 is usually Dominance Ice. It is hybrid armor on a budget: 40 Physical Defense and 40 Magic Defense, plus up to 40 more Hybrid Defense from Fortress Shield for every enemy standing close to her, which describes every brawl she wants to be in. The Lifebane passive matters more than the stats: it cuts the Shield and HP Regen of nearby enemies to 60% of normal, which quietly bleeds the shield-dependent heroes you are supposed to counter. If the enemy team has no marksman at all, swap this slot for a second magic item like Blood Wings.
+
+Slot 6 is the matchup call. Immortality against any lineup with reliable burst, because your shields do not replace an outright respawn. Blood Wings when the enemy cannot one-shot you and you want the 90 extra Magic Power for carry pressure. Lightning Truncheon when you need the Resonate proc to finish off squishies that your passive damage alone cannot kill (this is the build most guides skip, but it is the correct pick when your team composition already has enough frontline and you are being asked to carry damage).
+
+The weakest common default is Divine Glaive. Guides list it because the Magic Penetration reads well on paper, but Esmeralda's damage profile is split Physical and Magic, so pure Magic Pen only boosts half her output. Save it for a specific high-Magic-Defense target, not as a general-purpose slot.
+
+### Mistakes that lose Esmeralda games
+
+**Ulting before the enemy CC is spent.** Falling Starmoon has a cast channel. If you ult first and the enemy tank presses their stun or knockback during the channel, your ult is consumed and delivers nothing. You are now a melee mage with no escape. Wait for the enemy to commit CC on your frontline, then ult into the backline.
+
+**Engaging into Baxia without baiting his S1 first.** Baxia's passive suppresses your Shield and HP Regen on every skill hit. If he opens with his S1 stun, your Frostmoon Shield generates a fraction of its value and you are fighting at a huge disadvantage. Force him to press S1 on a teammate first, or bait it out yourself with a feint S2 at max range, then engage when his S1 is on cooldown.
+
+**Building pure magic power.** Esmeralda's passive splits each basic attack into a Physical and a Magic hit, so stacking only Magic Power items ignores half her damage profile. The correct build keeps Holy Crystal and Blood Wings as the only pure MP items and uses defensive items (Oracle, Dominance Ice, Immortality) for the rest of the slots. That is why she lives in semi-tank mage builds, not full mage burst.
+
+**Walking into the enemy with Frostmoon Shield on cooldown.** Your shield is your only defensive tool. If S1 is on cooldown and you are not using Stardust Dance to cycle it down, you are a melee mage with no escape. Check the S1 cooldown icon before every trade.
+
+**Skipping blue buff in favor of forcing a lane kill.** Blue buff first, kills second. A dry Esmeralda has no shield cycle because her spells are expensive and her S1 refreshes by spamming S2. Missing the first blue buff is how the power spike slips from minute 8 to minute 11, and an 11-minute Esmeralda is already behind.
+
+### Key tips
+
+> [!TIP]
+> **Every S2 that hits an enemy hero shortens Frostmoon Shield's cooldown.** In a 5v5 brawl where S2 clips several heroes, your shield comes back almost immediately. Position to land S2 on as many heroes as possible per cast, not to finish a single target.
+
+> [!NOTE]
+> **The ultimate's cast range scales with channel time.** Short channels land at close range for a surprise immobilize. Max-channel ults reach all the way to backline carries from safe distance. Practice both animations in custom games before relying on the max-range variant in a ranked teamfight.
+
+> [!TIP]
+> **Vengeance outperforms Flicker into brawl-heavy EXP matchups.** The 35% damage reduction plus 35% magic damage reflection for 3 seconds turns a losing trade against a Thamuz or Paquito into a winning one. The tradeoff is you lose the gap-close when your carry is being dived. Pick Vengeance when you expect to hold a 1v1 lane, Flicker when you expect to rotate.
+
+> [!NOTE]
+> **Dominance Ice is a counterpick item on Esmeralda, not just a defense item.** Its Lifebane passive cuts the Shield and HP Regen of every enemy who stays near you, so enemy frontline shields shrink the moment they close in to fight. Build it before Immortality if the enemy has any shield-dependent hero (Hanabi, Uranus, Chou).
+
+## Skills
+
+### Starmoon Casket (Passive)
+
+Esmeralda manipulates Stardust and Frostmoon: Stardust deals Physical Damage while Frostmoon deals Magic Damage and gives the target a shield equal to 135% of Frostmoon's damage dealt. Each Basic Attack deals (+100% Total Physical Attack) Physical Damage and 100 (+75% Total Magic Power) Magic Damage. The damage dealt by Esmeralda ignores all shield effects and gradually converts her shield into HP.
+
+### Frostmoon Shield (Skill 1)
+
+Esmeralda gains a 500 (+150% Total Magic Power) shield and 40% Movement Speed that rapidly decays over 4s. Meanwhile, she gradually transforms the shields of nearby enemies into her own shield, capped at 50% of her Max HP.
+
+### Stardust Dance (Skill 2)
+
+Esmeralda waves Stardust and Frostmoon, dealing 240 (+60% Total Physical Attack) Physical Damage and 300 (+120% Total Magic Power) Magic Damage to nearby enemies. Each time she deals damage to a hero, the cooldown of Frostmoon Shield is reduced by 1.5s (damaging non-hero units grants a 0.5s reduction) and the enemy's Movement Speed is reduced by 20% for 1.5s.
+
+### Falling Starmoon (Ultimate)
+
+Esmeralda coheres the power of Astrospace into her two weapons - Stardust and Frostmoon. The longer this skill is channeled, the longer the cast range. Use Again: Esmeralda casts Stardust at the target location, dealing 350 (+90% Total Physical Attack) Physical Damage, and then blinks to the target location and casts Frostmoon, dealing 350 (+140% Total Magic Power) Magic Damage and immobilizing enemies in the area for 1s.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, enter the fight using Esmeralda's Ultimate, then use her 1st Skill to gain Movement Speed and steal the shields of nearby enemies, before finishing them off with her 2nd Skill and Basic Attacks.
+- LANING COMBOS (laning): In the laning phase, use Esmeralda's 1st Skill to approach the enemy and hit them with her 2nd Skill followed by Basic Attacks. Her 1st Skill should be up again soon thanks to the CD reduction from her 2nd Skill, so use her 1st Skill again for Movement Speed and shields, and continue using her 2nd Skill and Basic Attacks.
+
+## Counters to Esmeralda (pick these against Esmeralda)
+
+- Karrie (Marksman): +3.2 pp edge. Esmeralda is countered by highly mobile Marksmen, such as Karrie and Lesley, because she lacks the burst damage to finish them off quickly and can't keep up with their mobility.
+- Dyrroth (Fighter): +3.1 pp edge. Dyrroth's durability and kit give them a strong matchup advantage against Esmeralda throughout the game.
+- Lunox (Mage): +2.9 pp edge. Lunox has a statistical edge over Esmeralda based on ranked matchup data. Pick Lunox to gain an advantage in draft.
+- Edith (Tank/Marksman): +2.9 pp edge. Edith's durability and kit give them a strong matchup advantage against Esmeralda throughout the game.
+- Natan (Marksman): +2.9 pp edge. Natan has a statistical edge over Esmeralda based on ranked matchup data. Pick Natan to gain an advantage in draft.
+- Julian (Assassin/Fighter): +2.6 pp edge. Julian's durability and kit give them a strong matchup advantage against Esmeralda throughout the game.
+- Fredrinn (Fighter/Tank): +2.6 pp edge. Fredrinn's durability and kit give them a strong matchup advantage against Esmeralda throughout the game.
+- Guinevere (Fighter): +1.8 pp edge. Guinevere's durability and kit give them a strong matchup advantage against Esmeralda throughout the game.
+
+## Heroes Esmeralda beats
+
+- Lolita (Support/Tank): +6.3 pp edge for Esmeralda.
+- Mathilda (Support/Assassin): +4.3 pp edge for Esmeralda.
+- Aldous (Fighter): +3.7 pp edge for Esmeralda.
+- Yin (Fighter/Assassin): +3.7 pp edge for Esmeralda.
+- Diggie (Support): +3.5 pp edge for Esmeralda.
+- Lapu-Lapu (Fighter): +3.5 pp edge for Esmeralda.
+- Hilda (Fighter/Tank): +3.1 pp edge for Esmeralda.
+- Paquito (Fighter/Assassin): +3.0 pp edge for Esmeralda.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/esmeralda.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Sustain Frontline (EXP)
+
+- Items: Tough Boots, Enchanted Talisman, Oracle, Dominance Ice, Holy Crystal, Immortality
+- Core: Enchanted Talisman, Oracle, Dominance Ice
+- Emblem: Support Emblem with Inspire, Tenacity, Impure Rage
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use when the enemy EXP and jungler are both physical damage threats and the control chain is manageable.; Athena's Shield over Immortality when Use against burst mages who can remove your shield before you complete a second Frostmoon Shield cycle.; Radiant Armor over Immortality when Use against repeated magic damage that stacks up across long front-to-back fights.; Glowing Wand over Dominance Ice when Use when your team still needs anti-heal and you cannot safely stay in Dominance Ice range. Both items carry Lifebane and it does not stack, so this moves the cut onto whatever Stardust is burning.
+- Total cost: 11760 gold
+
+Default EXP setup that turns cooldown, shield amplification, and anti-sustain into a stable front line for ranked drafts.
+
+### EXP Damage Bruiser (EXP)
+
+- Items: Tough Boots, Enchanted Talisman, Starlium Scythe, Holy Crystal, Blood Wings, Oracle
+- Core: Enchanted Talisman, Starlium Scythe, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Bargain Hunter, Lethal Ignition
+- Battle spell: Petrify
+- Flex: Divine Glaive over Blood Wings when Use only when the enemy front line is stacking Magic Defense and you need penetration more than a regenerating shield.; Ice Queen Wand over Blood Wings when Use when your team needs sticking power against mobile backliners more than raw Magic Power.; Winter Crown over Blood Wings when Use against dive comps where you must survive the first collapse after committing Falling Starmoon.; Dominance Ice over Blood Wings when Use when a lifesteal marksman or sustain fighter is winning fights through regen instead of burst.
+- Total cost: 11950 gold
+
+Damage-leaning EXP build for games where another tank can start fights and Esmeralda is allowed to threaten carries after the first rotation.
+
+### Jungle Tempo (Jungle)
+
+- Items: Tough Boots, Feather of Heaven, Starlium Scythe, Holy Crystal, Blood Wings, Winter Crown
+- Core: Feather of Heaven, Starlium Scythe, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Oracle over Winter Crown when Use when fights are extended and shield amplification matters more than a one-time active stasis.; Immortality over Winter Crown when Use when late-game objective fights are decided by whether you can rejoin after the first pick attempt.; Genius Wand over Blood Wings when Use when your team has another magic damage core and repeated skill hits can shred Magic Defense for both of you.; Glowing Wand over Blood Wings when Use against HP-stacking sustain cores where burn and Lifebane provide more objective-fight value than raw burst.
+- Total cost: 11960 gold
+
+Jungle variant for tempo drafts that want Esmeralda farming into skirmishes instead of anchoring EXP lane.
+
+All builds for this hero: https://mlbbhub.com/builds/esmeralda.
+
+## Synergies
+
+- Atlas: Esmeralda works best with heroes that can pull enemies together like Atlas and Tigreal to allow her to hit more targets with her Ultimate.
+- Tigreal: Esmeralda works best with heroes that can pull enemies together like Atlas and Tigreal to allow her to hit more targets with her Ultimate.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,213 @@
+# Odette, Swan Princess
+
+> Odette is not the mid laner you draft to win lane. She is the mid laner you draft to win a single teamfight window in the center of the fight, provided your team has already built a wall of CC and peel around her. Get that condition wrong and she becomes the easiest ult interrupt in the game.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Burst, Poke
+- Difficulty: Easy
+- Tier this patch: B
+- Win rate: 49.35%
+- Pick rate: 0.59%
+- Ban rate: 0.32%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/odette
+
+## Guide
+
+### What Odette Asks of Her Draft
+
+The real question before locking Odette is not "can she farm mid?" She is serviceable there. The question is: who in this lineup will stop Chou from walking up and kicking her out of Swan Song three seconds into the channel?
+
+She requires one thing from her draft: a reliable answer to enemy gap-closers and rapid CC. That answer can come from a tank with heavy displacement (Khufra, Atlas, Tigreal rotating to peel), a protect support (Mathilda, Angela), or a comp that fights in chokepoints where enemies cluster naturally rather than in open terrain where they scatter.
+
+Lock Odette when all of these are true:
+1. The enemy team is melee-heavy and tends to cluster during initiates (Tigreal engage, Franco hooks, Johnson crash comps, Hylos frontlines).
+2. Your team has at least two reliable sources of peel or pre-engage CC.
+3. The map setup favors chokepoints: Lord pit entrance, base tower defense, narrow jungle paths. The ult hits every enemy standing inside its radius, so her damage compounds when the whole team is funneled together and cannot easily walk out.
+4. You can confirm the enemy lineup has no free channel interrupt, because Purify answers exactly one airborne per cast and nothing against suppression.
+
+Do not lock Odette when any of these apply:
+1. Enemy has Chou, Guinevere, Saber, Kadita, or Franco. Each carries an airborne or suppression ability that cancels Swan Song before it delivers meaningful ticks. Purify answers one airborne per cast, but it does not cleanse suppression, so Saber and Franco are a hard stop no matter your spell. The rest of the game, those heroes are a free interrupt.
+2. Your team is running split-push or aggressive roam. Odette does not rotate fast enough to force tempo; she waits for fights to arrive in favorable positions.
+3. It is solo queue and nobody is building a protect comp. Swan Song with no peel is charity AoE that gets canceled within the first two seconds.
+
+If you cannot name two heroes in your lineup who can extend a fight long enough for Swan Song to run most of its duration, Odette is the wrong pick for this game.
+
+### The One Thing That Makes Odette Work
+
+Odette is not a burst mage. She is a sustained AOE source whose peak output requires enemies to stand still in a radius around her for several seconds at a time. That framing changes how you evaluate every decision on her.
+
+The mechanic most players undervalue is Lakeshore Ambience. After each skill cast, Odette's next attack or skill triggers a sound wave that bounces between her and nearby enemies. Patch 2.2.16 ([patch notes](/patch-notes)) removed the boost to bounce speed and frequency that Swan Song used to grant, and spent the power on movement instead: Odette now walks during the channel at slightly reduced speed. The ult is no longer a commitment to the ground where you pressed it.
+
+In a 1v1, she is a slow mage with a CC setup tool and a risky channeled ult. In a five-man cluster where her team has landed initial CC, she becomes a compounding AOE source whose damage ceiling depends on enemy positioning rather than raw magic power.
+
+Two things players discover late. First, the walk is your repositioning tool, so drift with a cluster that is stepping out of the zone instead of watching it leave from a fixed spot. It is not a dash: a hero with a real gap-closer still leaves the radius, and a stun that lands mid-walk still cancels the channel. Second, Winter Crown's active does not cancel Swan Song. The item explicitly protects skills already cast, which means she can pop it mid-channel and survive the burst that was designed to stop her while the ult continues ticking.
+
+Patch 2.1.61 ([patch notes](/patch-notes)) made this adjustment worthwhile to understand: buffed base HP, movement speed, and significantly reduced S1 and S2 mana costs, while nerfing Swan Song's base shield and total damage output. The net shift moves her identity toward sustained poke and mid-fight staying power rather than one-rotation burst. The mana economy improvement means she arrives at her two-item spike in much better shape.
+
+### Laning: The First Seven Minutes
+
+1. **Take S2 at level 1, then prioritize S1.** Blue Nova's immobilize plus the passive bounce follow-up is the level-1 trade window. Avian Authority becomes your primary wave-clear and poke tool from level 2 onward, but S2 has more value in the first 30 seconds when trades are tight and the immobilize sets up a free jungler dive.
+2. **Every skill cast should be followed by an attack or another skill.** Lakeshore Ambience procs after each cast and activates on the next attack or skill. Players who ignore this lose a significant portion of their poke output. The habit is: cast S1, auto-attack to proc the bounce, then cast S2 which fires another bounce while simultaneously charging a new passive proc. The chain is skill-into-basic or skill-into-skill; either triggers the bounced sound wave.
+3. **Hold S2 for setup, not for wave clear.** Its early cooldown makes it too expensive to use as a poke tool. Burn it when you have a clear sight line on an isolated enemy hero or when your jungler is already in range. If the enemy jungler arrives two seconds after you used S2 on a minion, you have no CC and no answer.
+
+### The Power Spike You Are Farming Toward
+
+The inflection point is Clock of Destiny plus Holy Crystal. What makes the pair Odette-specific is how Clock of Destiny stacks now: every time she deals magic damage to an enemy hero she gains hybrid defense, up to six stacks, refreshed as long as she keeps hitting. A Swan Song channel against a cluster lands damage constantly, so she hits the full defense stack mid-dance instead of needing minutes to grow into it. The Gift passive (recovering HP and mana below half) doubles as her mid-channel sustain when the enemy does get through.
+
+The window is somewhere between the 9 and 12 minute mark, assuming a competent mid-lane farm rate. Before it, Odette's job is CS, poke, and vision. After it, Swan Song in a 3v3 or 5v5 fight is dangerous enough that enemies need to respect her radius, and she is noticeably harder to burst while the channel runs. A Clock of Destiny buyer who dies twice before the pair comes online has done less total damage than one who survived to the two-item fight.
+
+### Teamfight Positioning and Target Priority
+
+The reflex most Odette players fall back on at the start of a fight is standing at maximum S1 range and poking while waiting for a safe ult opening. That reflex wastes the rework. The zone now travels with Odette at her reduced channel speed, so if you open from max range you spend the ult walking the zone into a fight whose engage CC is already expiring.
+
+Good positioning starts where the engage lands. Wait for your tank's CC to cluster the enemy team, then press Swan Song as the fight locks down and steer the zone with small drifts instead of accepting the spot where you cast it. You are not diving the backline. You are keeping the cluster inside the radius so the channel ticks land on as many targets as possible.
+
+Three positioning rules:
+1. Never open Swan Song before the engage CC lands. The ult carries no crowd control of its own, so into uncommitted enemies the only thing holding them in the radius is nothing, and they walk out before the sustained damage begins.
+2. Find the chokepoint before the fight. Lord pit, tower funnel, narrow jungle corridors. Odette with a wall on at least one side is Odette who cannot be circled.
+3. Track the enemy interrupt threat before pressing the ult button. If you do not know where their Chou or Saber is, you are not ready to ult.
+
+When your support is Mathilda, her airborne CC from the dive extends your safe channeling window enough that you can ult mid-engage. When your support is Angela, wait until she is already attached before pressing Swan Song: her bind is your front-line anti-assassin layer, and ulting without it active means walking in unprotected. When your support is Estes, lean into longer fights: the sustained healing during your channel changes the survivability math in your favor and lets you hold the ult through moderate burst that would otherwise force a cancel.
+
+### Itemization: Defaults vs Flex Slots
+
+Three slots are locked. Three are real conversations.
+
+**Locked slots:** Arcane Boots (magic penetration on a slow-moving mid laner who needs every early damage advantage in poke trades), Clock of Destiny (mana backbone plus the in-combat hybrid defense ramp that makes a channeled Swan Song survivable; removing it breaks the mid-fight tankiness that the whole pick is built on), Holy Crystal (the percentage amplifier that multiplies the stacked CoD statline into the number that makes enemies leave the radius).
+
+**Slot 4: Lightning Truncheon or Glowing Wand.** Lightning Truncheon's Resonate passive (every six seconds, the next skill deals bonus damage and grants a brief movement speed burst) synergizes with her poke rhythm and gives her a micro-kiting tool between S1 casts. It is the standard slot-4 pick against enemies not running significant sustain. Glowing Wand is the situational replacement: Scorch's max HP burn stacks through every Swan Song tick, and Lifebane significantly reduces healing effectiveness on any target it hits. Any game with a healer support or a sustain tank, Glowing Wand goes here.
+
+**Slot 5: Divine Glaive.** Lock it in when two or more enemies are building magic resistance. Its Spellbreaker passive scales penetration with the enemy's current magic defense, so the more they itemize against you, the more you punch through. Skip it when nobody on the enemy team is prioritizing MR.
+
+**Slot 6: Winter Crown.** This is not the defensive item players skip to fit in Blood Wings. The brief untargetable immunity from the active does not cancel Swan Song (the item explicitly protects skills already cast), which means you can pop it mid-channel and survive the burst that was designed to stop you. Blood Wings provides a regenerating shield and more raw magic power, and it is the correct swap in games where no enemy can ever reach you during the ult. Those games exist, but they are rarer than champion select makes them feel.
+
+**Emblem:** Mage Emblem with Lethal Ignition. Her kit is built on multi-hit damage: the passive ricochets between clustered enemies, and a full Swan Song channel lands repeated ticks on everything inside the zone, so Lethal Ignition's condition has plenty of chances to trigger without any extra setup.
+
+### Mistakes That Lose Odette Games
+
+**Ulting before S2 lands.** The most common sequencing error. Swan Song itself carries no crowd control, so if you ult first nothing is holding the enemy team inside the radius and they walk out before the damage pays off. The correct rotation is S2 (immobilize) into Swan Song, not Swan Song into S2. Immobilizing first keeps enemies inside the radius while the first several ult ticks land on locked-down targets.
+
+**Channeling in open terrain.** Swan Song's damage lives in a zone centered on Odette, and the reduced-speed walk cannot follow a hero who commits to leaving. In open terrain the enemy team fans out in two directions and you can only shadow one, so most of the channel lands on whoever stood still. The ult is a chokepoint tool: Dragon pit, Lord pit entrance, tower range, narrow jungle corridors. If the fight breaks into open terrain, delay the ult until someone pushes it into a corner or skip it entirely.
+
+**Taking Flicker over Purify in solo queue.** Flicker has a higher ceiling for experienced players: it lets you reposition mid-ult and enables creative engagement geometry. But in solo queue with no dedicated peel, one Chou kick cancels the ult and kills her in the same rotation. Purify removes that CC and gives a brief immunity window to complete two or three more ult ticks. Flicker becomes the correct pick when your team is coordinated enough that assassins cannot reach her in the first place. Until then, it is a luxury.
+
+**Chasing with the channel instead of steering it.** The reduced-speed walk tempts players into spending the whole channel chasing a retreating backline. Every step forward is also a step into the enemy's interrupt range, and the walk is slower than any gap-closer, so you arrive with the shield chewed through and the ult canceled. Drift to keep a cluster inside the radius; do not use the movement to dive. If the fight collapses forward, finish the channel where you are and rejoin after it ends.
+
+**Saving Winter Crown for "later."** Players treat it as an emergency button and forget to press it until after they are dead mid-channel. The correct timing is proactive: as soon as you see the enemy burst combo initiating toward you while Swan Song is active, press Winter Crown immediately. Waiting for the first hit to land means the combo has already interrupted the ult. Pressing it one second early means the burst passes through you harmlessly while the ult completes two more ticks.
+
+### Key Tips
+
+> [!TIP]
+> If you are mid-ult and a burst assassin combo is incoming, activate Winter Crown before the first hit lands. The brief immunity does not cancel Swan Song. Most players save it "for emergencies" and forget to use it in time. The moment you see the Gusion blink or the Saber ult targeting you, press it immediately.
+
+> [!NOTE]
+> Blue Nova splits on contact with the first target and automatically tracks a second nearby enemy hero. In teamfights, aim it at the closest frontline hero rather than trying to thread it to the backline. The split projectile will home in on a backline target from there, often immobilizing two heroes simultaneously without requiring a perfect angle.
+
+> [!TIP]
+> The second cast is gone, so Swan Song no longer has a panic button. The reduced-speed walk is the only repositioning inside the channel, and it cleanses nothing: a stun or knock-up that lands mid-dance still cancels the ult. Press it when your peel is close enough to cover the channel, and keep Purify or Winter Crown for the interrupt instead of trusting the walk to save you.
+
+> [!NOTE]
+> Glowing Wand is not a default slot-4 choice. It is the correct pick specifically against lineups with a healer support or a sustain tank. Against standard comps with no meaningful HP regen, Lightning Truncheon's Resonate passive delivers more useful output per game than the burn DoT.
+
+## Skills
+
+### Lakeshore Ambience (Passive)
+
+For 8s after casting a skill, Odette's next Basic Attack gains extra range and bounces between enemies (or an enemy and herself), dealing 144-200 (+50% Total Magic Power) Magic Damage per hit. Odette's skills also trigger this effect on hit (up to 3 stacks).
+
+### Avian Authority (Skill 1)
+
+Odette releases a magic swan in the target direction, dealing 300 (+150% Total Magic Power) Magic Damage to enemies hit and slowing them by 30% for 2s.
+
+### Blue Nova (Skill 2)
+
+Odette releases magic energy balls in the target direction, dealing 250 (+50% Total Magic Power) Magic Damage to the first enemy hit and immobilizing them for 1.5s. Upon hit, an energy ball splits off to attack a nearby enemy (prioritizes enemy heroes), dealing 250 (+50% Total Magic Power) Magic Damage and immobilizing them for 1.5s.
+
+### Swan Song (Ultimate)
+
+Odette channels a dance, gaining a 1200 (+150% Total Magic Power) shield and dealing up to 2000 (+750% Total Magic Power) Magic Damage to nearby enemies in a large area for 5s. During this time, her Movement Speed is reduced by 40%, but she can move freely. Use again to cancel. Only high-level control effects can interrupt this skill.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, initiate with Odette's 2nd Skill to immobilize the enemy and activate her Ultimate to continuously damage the controlled targets. Activate the dash from her Ultimate to reposition when enemies are about to escape, and finish them off with her 1st Skill after her Ultimate ends.
+- LANING COMBOS (laning): In the laning phase, use Odette's 1st Skill to harass the opponent, and immobilize them with her 2nd Skill at the right moment before securing the kill with her Ultimate.
+
+## Counters to Odette (pick these against Odette)
+
+- Nana (Mage): +2.8 pp edge. Nana has a statistical edge over Odette based on ranked matchup data. Pick Nana to gain an advantage in draft.
+- Vale (Mage): +2.7 pp edge. Vale has a statistical edge over Odette based on ranked matchup data. Pick Vale to gain an advantage in draft.
+- Gatotkaca (Tank/Fighter): +2.7 pp edge. Gatotkaca's durability and kit give them a strong matchup advantage against Odette throughout the game.
+- Alpha (Fighter): +2.6 pp edge. Alpha's durability and kit give them a strong matchup advantage against Odette throughout the game.
+- Edith (Tank/Marksman): +2.4 pp edge. Odette is countered by heroes with Crowd Control skills, such as Minotaur and Edith, because they can easily interrupt her Ultimate.
+- Thamuz (Fighter): +2.3 pp edge. Thamuz's durability and kit give them a strong matchup advantage against Odette throughout the game.
+- Aurora (Mage): +2.1 pp edge. Aurora has a statistical edge over Odette based on ranked matchup data. Pick Aurora to gain an advantage in draft.
+- Bane (Fighter/Mage): +2.0 pp edge. Bane's durability and kit give them a strong matchup advantage against Odette throughout the game.
+
+## Heroes Odette beats
+
+- Kaja (Support): +4.5 pp edge for Odette.
+- Mathilda (Support/Assassin): +3.4 pp edge for Odette.
+- Valentina (Mage): +2.9 pp edge for Odette.
+- Rafaela (Support): +2.7 pp edge for Odette.
+- Joy (Assassin): +2.6 pp edge for Odette.
+- Obsidia (Marksman): +2.5 pp edge for Odette.
+- Harith (Mage): +2.4 pp edge for Odette.
+- Hirara (Assassin): +2.4 pp edge for Odette.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/odette.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Sustained DPS (Mid)
+
+- Items: Arcane Boots, Clock of Destiny, Glowing Wand, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Clock of Destiny, Glowing Wand, Holy Crystal
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Lightning Truncheon over Glowing Wand when Use when the enemy draft has low sustain and Odette needs cleaner poke tempo before committing Swan Song.; Winter Crown over Blood Wings when Use against burst divers who can reach Odette during the channel before Guard's shield has time to matter.; Genius Wand over Divine Glaive when Use when enemies delay high Magic Defense and repeated Swan Song ticks can stack shred for the whole magic-damage lineup.
+- Total cost: 11840 gold
+
+Default ranked mid build that turns Odette's safer mana curve into repeated poke, teamfight burn, and enough shield value to finish channels.
+
+### Frontline HP Burn (Mid)
+
+- Items: Arcane Boots, Clock of Destiny, Glowing Wand, Wishing Lantern, Divine Glaive, Blood Wings
+- Core: Clock of Destiny, Glowing Wand, Wishing Lantern
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Lethal Ignition
+- Battle spell: Purify
+- Flex: Holy Crystal over Wishing Lantern when Use when the enemy has one frontline and the carries are still the targets Odette must delete.; Ice Queen Wand over Blood Wings when Use when your team needs Swan Song and passive bounces to keep melee frontliners trapped in follow-up damage.; Winter Crown over Blood Wings when Use when Odette must channel into hard engage and Purify alone cannot cover the second control layer.
+- Total cost: 11090 gold
+
+Front-to-back setup for HP-stacking tanks and sustain drafts, using repeated magic hits to trigger burn, anti-heal, and current-HP pressure.
+
+### Anti-CC Channel (Mid)
+
+- Items: Tough Boots, Clock of Destiny, Lightning Truncheon, Winter Crown, Divine Glaive, Blood Wings
+- Core: Clock of Destiny, Lightning Truncheon, Winter Crown
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Lethal Ignition
+- Battle spell: Purify
+- Flex: Arcane Boots over Tough Boots when Use when the enemy has burst threats but not enough repeated control to justify Fortitude.; Glowing Wand over Lightning Truncheon when Use against healer supports, shield-heavy comps, or sustain fighters that can outlast one Swan Song.; Holy Crystal over Blood Wings when Use when the frontline reliably peels Odette and the last slot can stay focused on raw magic-power scaling.
+- Total cost: 10960 gold
+
+Safety build for games where Odette's damage is already useful, but the real win condition is keeping Swan Song alive through control chains.
+
+All builds for this hero: https://mlbbhub.com/builds/odette.
+
+## Synergies
+
+- Johnson: Pair Odette with heroes who can relocate their teammates like Johnson and Jawhead to make it easier for her to find the perfect position for her Ultimate.
+- Jawhead: Pair Odette with heroes who can relocate their teammates like Johnson and Jawhead to make it easier for her to find the perfect position for her Ultimate.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

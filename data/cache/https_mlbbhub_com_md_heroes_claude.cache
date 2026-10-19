@@ -1,0 +1,205 @@
+# Claude, Master Thief
+
+> Claude is a gold lane marksman who wins by preparing one controlled entry, not by standing still and out-ranging the enemy carry. Pick him when your team can start fights for him and when the enemy crowd control has visible cooldowns. If he has to invent every engage alone, Blazing Duet becomes a donation button.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Burst, Chase
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 49.11%
+- Pick rate: 0.76%
+- Ban rate: 0.23%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/claude
+
+## Guide
+
+### Claude is a draft promise, not a blind comfort pick
+
+Patch 2.1.88 ([patch notes](/patch-notes)) pushed Claude's payoff further into the late game. His early-to-mid game ultimate damage was trimmed again while the late-game damage stayed put, on top of the mana costs from 2.1.67. The result is a hero who lanes less desperately but has to reach the two-item spike before Blazing Duet can actually win a fight.
+
+That matters in draft. Claude is correct when your team already has the first move: a roamer who can lock two bodies, a jungler who can force enemies through a choke, or a mid laner who makes the backline spend control before Claude swaps in. He is also good into drafts that group around objectives and rely on durable frontliners, because Demon Hunter Sword and repeated attack effects make those bodies worth hitting.
+
+He is a trap when the enemy has simple, patient answers to his channel. Franco and Kaja can hold suppression for the moment Claude commits. Moskov can dodge the center of Blazing Duet and cancel the channel if Claude enters predictably. Lesley pressures the lane from longer range and punishes him after the ultimate ends. These matchups are not just bad because they "counter marksmen." They attack Claude's exact contract: enter, channel, exit.
+
+Before locking him, answer three questions. Who starts the first real fight for your team? Which enemy control spell must be baited before the mirror swap? Which target can you hit safely if the backline never gives you a clean flank? If those answers are vague, a simpler gold laner will usually do more with the same farm.
+
+### The mirror is the whole hero
+
+Claude is not built around raw basic-attack duels. He is built around creating a temporary second position.
+
+Battle Mirror Image does three jobs at once: it scouts the edge of a fight, adds more attack-effect touches through Dexter, and gives Claude a return point after he spends his body forward. Art of Thievery loads the entry with movement speed and attack speed. Blazing Duet cashes that setup by firing basic-attack damage into nearby enemies while Claude shields from successful hits.
+
+That is the one idea behind the kit. Claude wins when the mirror turns a dangerous space into a timed rental. He loses when players treat the mirror like free poke. If the image is placed only because the button is available, the enemy can wait for the swap, save the interrupt, and punish the one moment Claude has no honest exit.
+
+Dexter is why itemization is so strict. Claude's passive, mirror, and ultimate all reward repeated attack effects, so Demon Hunter Sword, Golden Staff, and attack-speed tools are not cosmetic preferences. They are the engine. Crit shortcuts look tempting when a lane feels slow, but they pull the hero away from the part of the kit that actually wins objective fights.
+
+### Laning: the first six minutes
+
+1. **Use the first mirror to control risk, not to look busy.** Place Battle Mirror Image where it covers river vision or gives a retreat path behind the caster wave. If the enemy roamer is missing, a defensive mirror is stronger than a forward one because Claude only needs an even lane before his first item.
+2. **Tag hero plus wave with Art of Thievery, then stop draining mana.** The ideal early fan trims minions while touching the enemy laner for movement and attack-speed stacks. Recasting into empty waves after patch 2.1.67 turns the first Turtle setup into a resource problem, which is the easiest way to make Claude late to his own spike.
+3. **Spend battle spell tempo only for lane control or a real skirmish.** Inspire is the default because it multiplies Claude's short damage windows. Flicker is the safer answer when the enemy has reliable catch. Either way, do not burn the spell for a low-value trade unless it buys crab, turret plate pressure, or the first river rotation.
+
+Claude's lane is successful when he exits minute six with stable farm, enough mana to contest river, and a mirror available when the gank arrives. He does not need to solo-kill the enemy marksman. He needs to deny the enemy the clean punish that delays Demon Hunter Sword.
+
+### The DHS plus Golden Staff window is the match timer
+
+Claude is farming toward Demon Hunter Sword plus Golden Staff, usually around minutes eight to ten in an even game. If the lane went badly, that window slips, and the team should stop forcing fights until the second item is finished.
+
+Demon Hunter Sword makes every basic-attack touch matter because its current-HP damage and sustain trigger through basic attacks and attack effects. Golden Staff is the multiplier because it turns non-critical basic attacks into extra attack-effect triggers and raises the attack-speed ceiling. On Claude, that means Dexter, the mirror, and Blazing Duet all become more threatening in the same fight pattern.
+
+The third core item is usually Corrosion Scythe. It gives attack speed, movement speed, and a repeated slow that helps Claude stay attached after the first channel starts. But the real permission slip is DHS plus Golden Staff. Before that pair, Claude is mostly buying time. After that pair, he can stand behind a tank, shred the closest durable target, and punish two enemies who collapse into the same space.
+
+When you hit this window on time, move first. Hover near Lord or Turtle before the wave fully crashes. Ask the roamer to show threat before Claude reveals his mirror. The spike is wasted if you keep collecting side farm while the enemy support uses cooldowns somewhere else.
+
+### Stop diving the carry by reflex
+
+The common wrong reflex is to mirror past the frontline and press Blazing Duet on the enemy marksman every fight. That only works when the enemy peel is already spent. In normal ranked games, Claude often wins by deleting the space in front of him first.
+
+1. **Enter from the edge of the fight.** Claude wants two nearby enemies who cannot separate, not one expensive target standing behind unused crowd control. Chokes, turret entrances, Lord pit walls, and collapsed side lanes give him better ult value than open mid lane.
+2. **Load Art of Thievery before the channel.** A pre-fight fan on the nearest safe body gives Claude the speed to enter and the attack speed to make Blazing Duet matter. Walking in unstacked is why many Claude ultimates look weak even with items.
+3. **Keep the mirror exit outside the enemy's first turn.** The return point should force the opponent to choose between stopping the channel and chasing the exit. If both choices are covered by the same stun, the mirror was placed too close.
+
+There is one support-dependent edge case. With Mathilda, Estes, or a clean hard-engage tank already controlling the first enemy turn, Claude can take a deeper mirror and trust the extraction, healing, or lock-down to extend the channel. Without that help, play second wave. Claude is mobile, but he is not a solo diver into held control.
+
+### Itemization is locked core plus survival choices
+
+The locked core is Demon Hunter Sword, Golden Staff, and Corrosion Scythe. Swift Boots is the normal boot because Claude wants attack-speed tempo as early as possible. Tough Boots replaces it when magic control or repeated slows decide whether he can finish a channel. Warrior Boots is only a lane-specific physical answer, not a default.
+
+After the core, ask what stops the next Blazing Duet:
+
+- **Hunter Strike** when you are even or ahead and the enemy lacks instant punishment. Its movement burst after repeated damage fits Claude's chase and exit pattern.
+- **Wind of Nature** when a physical assassin, fighter, or fed marksman can kill you before the channel finishes. Buy it earlier if Saber, Hayabusa, Ling, or a snowballing gold laner is the whole game.
+- **Sea Halberd** when healing, shields, or extra-HP bruisers are keeping the first target alive. Estes, Esmeralda, Yu Zhong, sustain EXP laners, and shield-heavy supports make this a real fourth or fifth slot.
+- **Malefic Gun** when range and movement solve more than raw armor shredding. It is useful when Claude can hit safely but needs a little more reach to start the fight without overcommitting.
+- **Malefic Roar** when two or more enemies have stacked physical defense and your ultimate is only scratching the frontline.
+- **Rose Gold Meteor or Immortality** when one death ends the match. Rose Gold Meteor covers magic or mixed burst with a lifeline shield. Immortality is the final-fight insurance when the enemy is willing to trade everything for Claude.
+
+Do not stack defensive actives without a reason. Wind of Nature already asks for timing discipline, and Claude still needs enough damage to justify the slot. The best defensive item is the one that answers the specific cooldown stopping Blazing Duet.
+
+### Mistakes that lose Claude games
+
+**Using Battle Mirror Image as random poke.** A forward mirror with no exit plan tells the enemy exactly when Claude is punishable. Use it for vision, angle control, or a planned return. Anything else is just giving the roamer a timer.
+
+**Spamming Art of Thievery before objectives.** Claude now pays real mana for setup. If you enter the first Turtle or Lord dance after wasting fan casts on empty waves, you cannot stack, swap, and ult in the same sequence. Reset earlier or concede the setup instead of arriving half-ready.
+
+**Ulting into held interruption.** Franco suppression, Kaja lock, Moskov stun, and Lesley knockback all punish the channel directly. Force those buttons first, enter after a teammate eats them, or hold the ultimate. A cancelled Blazing Duet usually loses the objective, not just the duel.
+
+**Buying comfort instead of solving the enemy draft.** Greedy fourth damage into dive, delayed anti-heal into sustain, or skipping Wind of Nature against physical burst all come from the same mistake. Claude's build should answer the cooldown that reaches him, not the item curve that looks cleanest in a vacuum.
+
+**Side-laning while ultimate and spell are both down.** Claude without Blazing Duet and Inspire or Flicker is not threatening a side wave. He is showing a bounty on the map. Clear what is safe, then reconnect with the team before the next objective timer.
+
+### Key tips
+
+> [!TIP]
+> Place the mirror sideways against hook and suppression threats. A backward mirror keeps Claude in the same line. A sideways mirror forces Franco or Kaja to turn before they can punish the exit.
+
+> [!NOTE]
+> Hitting the enemy tank first is not a failure when DHS plus Golden Staff is online. If the tank and fighter are trapped in the same choke, Claude can win the fight by breaking the front door before chasing the carry.
+
+> [!TIP]
+> Wind of Nature can come before Hunter Strike. The cleanest damage curve means nothing if the first physical dive cancels every Blazing Duet.
+
+> [!NOTE]
+> The best Art of Thievery before a fight is often on the nearest safe target, not the perfect target. Claude needs to enter loaded more than he needs a stylish first hit.
+
+> [!TIP]
+> If the first mirror forces an enemy interrupt without getting Claude killed, the next five seconds belong to him. Do not panic swap back instantly. Let the enemy waste the button, then choose whether the real channel is available.
+
+## Skills
+
+### Battle Side-by-side (Passive)
+
+Dexter assists Claude on each of his Basic Attacks, dealing 25 (+25% Total Physical Attack) Physical Damage to the same target (inherits a portion of Attack Effects).
+
+### Art of Thievery (Skill 1)
+
+Claude emits a disruption wave in the target direction, dealing 250 (+40% Total Physical Attack) Physical Damage to enemies in a fan-shaped area, reducing their Movement Speed by 20% and Attack Speed by 10%. For each enemy hit, he gains 4% Movement and Attack Speed (doubled if hitting enemy heroes) for 6s (up to 5 stacks).
+
+### Battle Mirror Image (Skill 2)
+
+Claude conjures a mirror image of Dexter at the target location that automatically attacks nearby enemies for 5.5s. The mirror image's Basic Attacks deal 25 (+25% Total Physical Attack) Physical Damage and trigger Claude's Attack Effects. Use Again: Claude switches places with the mirror image.
+
+### Blazing Duet (Ultimate)
+
+Claude and Dexter rapidly fire at nearby enemies for 3s, dealing 40 (+40% Total Physical Attack) Physical Damage to up to two enemies with each shot (counts as Basic Attack Damage). Claude also gains a 20 (+3% Total Physical Attack) shield each time the Ultimate deals damage to an enemy.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Claude should use his 1st Skill to stack up his buff first, and look for the best opportunities to get close to enemies with his 2nd Skill, and then use his Ultimate to finish them off.
+- LANING COMBOS (laning): In the laning phase, Claude can use his 1st Skill to poke the enemy, and use his 2nd Skill to close in on them when their HP is low, then use his Ultimate to kill them.
+
+## Counters to Claude (pick these against Claude)
+
+- Lesley (Marksman/Assassin): +3.7 pp edge. Lesley's burst damage can eliminate Claude before they can deal sustained damage in team fights.
+- Aamon (Assassin): +2.9 pp edge. Aamon has a statistical edge over Claude based on ranked matchup data. Pick Aamon to gain an advantage in draft.
+- Baxia (Tank): +2.4 pp edge. Baxia's durability and kit give them a strong matchup advantage against Claude throughout the game.
+- Bruno (Marksman): +2.3 pp edge. Bruno's burst damage can eliminate Claude before they can deal sustained damage in team fights.
+- Edith (Tank/Marksman): +2.3 pp edge. Edith's burst damage can eliminate Claude before they can deal sustained damage in team fights.
+
+## Heroes Claude beats
+
+- Lolita (Support/Tank): +2.8 pp edge for Claude.
+- Ixia (Marksman): +2.7 pp edge for Claude.
+- Chang'e (Mage): +2.6 pp edge for Claude.
+- Johnson (Tank/Support): +2.3 pp edge for Claude.
+- Balmond (Fighter): +2.2 pp edge for Claude.
+- Lapu-Lapu (Fighter): +1.9 pp edge for Claude.
+- Yu Zhong (Fighter): +1.9 pp edge for Claude.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/claude.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-08. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Default (Gold)
+
+- Items: Swift Boots, Demon Hunter Sword, Golden Staff, Corrosion Scythe, Hunter Strike, Wind of Nature
+- Core: Demon Hunter Sword, Golden Staff, Corrosion Scythe
+- Emblem: Marksman Emblem with Swift, Weapon Master, Quantum Charge
+- Battle spell: Inspire
+- Flex: Malefic Gun over Hunter Strike when Use when range and movement speed let Claude start fights without committing the mirror too deeply.; Sea Halberd over Hunter Strike when Use when healing, shields, or extra-HP bruisers keep the first target alive through Blazing Duet.; Rose Gold Meteor over Wind of Nature when Use against magic or mixed burst when physical immunity will not stop the first collapse.
+- Total cost: 10860 gold
+
+Default ranked setup that reaches Claude's DHS plus Golden Staff engine quickly, then adds chase tempo and one physical-burst answer.
+
+### Front-to-Back Anti-Tank (Gold)
+
+- Items: Swift Boots, Demon Hunter Sword, Golden Staff, Corrosion Scythe, Sea Halberd, Malefic Roar
+- Core: Demon Hunter Sword, Golden Staff, Corrosion Scythe
+- Emblem: Marksman Emblem with Swift, Weapon Master, Quantum Charge
+- Battle spell: Inspire
+- Flex: Malefic Gun over Malefic Roar when Use when the enemy has moderate armor but Claude needs safer basic-attack range more than scaling penetration.; Wind of Nature over Malefic Roar when Use when a physical diver can bypass the front line before Claude finishes the first target.; Hunter Strike over Sea Halberd when Use when the enemy front line is durable but does not rely on healing or shield recovery.
+- Total cost: 11050 gold
+
+Tank-breaking setup for grouped objective fights where Claude can hit the nearest durable target behind reliable peel.
+
+### CC-Heavy Survival (Gold)
+
+- Items: Tough Boots, Demon Hunter Sword, Golden Staff, Corrosion Scythe, Rose Gold Meteor, Immortality
+- Core: Demon Hunter Sword, Golden Staff, Corrosion Scythe
+- Emblem: Marksman Emblem with Swift, Weapon Master, Quantum Charge
+- Battle spell: Purify
+- Flex: Wind of Nature over Rose Gold Meteor when Use when the main threat is physical burst rather than magic or mixed burst.; Athena's Shield over Immortality when Use against front-loaded magic burst that decides the fight before a revive can matter.; Radiant Armor over Immortality when Use against repeated magic damage that chips Claude before every objective fight.
+- Total cost: 10870 gold
+
+Defensive setup for control-heavy drafts where Claude must survive the first lockout before committing Blazing Duet.
+
+All builds for this hero: https://mlbbhub.com/builds/claude.
+
+## Synergies
+
+- Angela: Claude works best with heroes who can buff him, like Angela and Faramis.
+- Faramis: Claude works best with heroes who can buff him, like Angela and Faramis.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

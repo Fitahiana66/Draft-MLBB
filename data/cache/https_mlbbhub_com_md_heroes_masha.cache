@@ -1,0 +1,208 @@
+# Masha, Wild-oats Fist
+
+> Masha is not the side-lane split-pusher she used to be. The 2.2.16 rework turned her into a berserker who opens a Wound with a skill, tears it with one basic attack, and enters Feral, where her claw strikes hit an area and heal her as they land. She only pays off in fights the enemy cannot walk out of.
+
+## Snapshot
+
+- Role: Fighter, Tank
+- Lane: EXP
+- Also played (MLBBHub editorial, not Moonton's listed lane): Roam, Gold
+- Specialty: Push, Damage
+- Difficulty: Easy
+- Tier this patch: S
+- Win rate: 60.49%
+- Pick rate: 0.56%
+- Ban rate: 33.46%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/masha
+
+## Guide
+
+### Draft Masha for the fight nobody can leave
+
+Patch 2.2.16 ([patch notes](/patch-notes)) rebuilt Masha from an assassin-split-pusher into a berserker whose damage starts when a skill touches a hero. Nothing about her works from range, so the draft question is simple: can the enemy leave the fight whenever they want?
+
+Lock her when the enemy has to stand and trade. Burst mages are the cleanest food: Eudora and Kadita commit their whole combo to popping one bar, and the bar break blocks a hit and clears the control while Masha keeps walking forward. She also wants teammates who pin bodies together, because Atlas pulls and Minotaur knockups turn two enemies into one claw-strike target.
+
+The picks that beat her are the ones that refuse contact. Fanny and Claude can leave her basic-attack range on command, which denies the Wound break, and a Masha who never enters Feral is just a fighter with three health bars. Long-range chip is the slower version of the same problem: it keeps her from landing a skill on a hero at all, so no Wound, no Feral, no clock. Lockdown is the hard version, and Franco or Kaja are the names to fear, because a hook or a suppression starts the fight before she has anything loaded.
+
+Apply the test before locking her: name the enemy hero who cannot leave your basic-attack range, and the skill or teammate that keeps them there. If the draft gives you neither, she has nothing to tear.
+
+### The Wound is the whole kit
+
+Every part of Masha's rework points at one loop. Skill damage on a hero leaves a Wound in a random direction. A basic attack thrown from that direction breaks the Wound and flips her into Feral. Feral hands her three claw strikes that hit a fan of enemies and heal her with each swipe, plus a burst of Resilience, attack speed, and movement speed. Breaking another Wound while Feral is active refreshes the state and stacks the claws she is holding.
+
+Everything else in the kit serves that loop. Feral Swipe pokes and slows from range. Claw Strike closes the distance, and its cooldown resets every time she loses an HP bar, so a break is also a second dash. Savage Maul charges a hero, stuns, and knocks the neighbours back, which makes it an engage, not a delete button. The damage is the string of claws that follows.
+
+The old Masha spent HP to cast and got free skills on her last bar. The rework deleted that cost entirely. Bars are now her lives, not her mana: the first two breaks clear control effects and block one instance of damage on the way out, and the sustain comes from the loop itself. Feral is banked by dealing damage to heroes or creeps and converts into HP once she leaves combat, and every claw strike heals on hit, so her health comes back by fighting and farming rather than by hiding.
+
+### EXP lane: the first four minutes
+
+1. **Take Feral Swipe at level one and shove the wave with it.** It is her only ranged damage tool, so it handles the first waves and doubles as the trade opener. Aim the line so it clips the enemy laner, because a hero hit both slows and plants the Wound.
+2. **At level two, Claw Strike is a positioner first and damage second.** The Wound can appear on any side of the target, and walking around them is often too slow. Dash through or past them to the correct side, then auto to break the Wound. The break is the trade: the claw strikes and their healing can win an exchange that her raw stats lose.
+3. **Read the first bar break as a turn, not a retreat.** When the first bar empties, control effects fall off, the next hit is blocked, and Claw Strike comes back up. That is the moment to keep fighting the exchange, not to walk away. The third bar is different: it is her real health bar, so spend the first two aggressively and keep the last one for a fight the team can win.
+
+The lane goal is not a kill. It is leaving lane with Feral banked and at least two bars when the first objective fight starts. Sprint is the insurance spell here: pop it to reach a Wound before the target walks out of it, or to leave a trade the lane cannot win.
+
+### The spike is War Axe into Corrosion Scythe
+
+War Axe completed with Corrosion Scythe queued next lands around the 8-to-10 minute mark, and it is the point where a Feral window stops winning trades and starts ending fights.
+
+War Axe stacks as she keeps attacking, and at full stacks a slice of her damage converts to true damage. Claw strikes are basic attacks, so a triple swipe into a clump jumps the stacks in a hurry, and the spell vamp refunds health on the skill hits that open her Wounds, which matters most on her last bar.
+
+Corrosion Scythe is the second half of the trap. Every basic slows, the slow stacks, and the attack speed accelerates War Axe toward full stacks. The slow is the part that matters now: the Wound has to be reached before it expires, and every second the target spends slowed is a shorter walk for her next skill cycle.
+
+Once both items are up, she stops being a hero who trades and becomes a hero who keeps. Whoever stands inside the claw arc dies, and whoever leaves bleeding is a target for the next charge.
+
+### Teamfight positioning and target priority
+
+The reflex is to charge Savage Maul at the enemy carry the moment the fight starts. It is the wrong opener for the same reason it looks right: the stun is brief, and if she arrives with no Wound broken, she has nothing to spend inside it. The claws are the damage, not the charge.
+
+1. **Plant the Wound on the closest body, not the carry.** Feral comes from the break, not from the target's role. Landing Feral Swipe on the frontliner and breaking it puts three claw strikes in her hands, and now the carry is a target instead of a wish.
+2. **Fight in the fan.** Claw strikes hit an area, so meeting the enemy where two of them stand is worth more than a duel. This is why Atlas and Minotaur are her best partners: their pulls and knockups hand her clumped targets for free.
+3. **Spend the first two bar breaks on the enemy's burst, not on escape.** The block and the control clear fire on depletion, and Claw Strike resets with them. Diving through a bar break keeps the pressure on; running from it burns the only free defensive tool she owns. The third bar is her life, so it is the one break worth respecting.
+
+If your roam is a pull or knockup tank, hold Savage Maul until their engage lands. Charging first and stunning alone gives the enemy time to scatter before the claws arrive.
+
+### Itemization: locked slots and why HP is damage
+
+Old Masha bought defense to survive her own HP spending. The rework deleted the spending and replaced it with a different reason to build tanky: Savage Maul's damage scales with the bonus HP in her build, so every HP item is also a damage item. That makes Thunder Belt more than a defensive slot, and it makes plain tank stats less wasted than they look.
+
+The settled core is War Axe, Corrosion Scythe, and Thunder Belt. Boots first: Warrior Boots is the default because her lane is a long chain of physical hits and its stacks build while she eats them. Tough Boots is the answer when the enemy draft leans on slows and control chains, because her cleanse only fires when a bar breaks and prevention is cheaper than the cure.
+
+After the core, the conversations:
+
+**Sea Halberd** when the enemy's sustain or shields stall the claw window. Every basic trims the healing and shielding on the target, and its bonus damage against heroes carrying more extra HP than Masha suits the fights she wants.
+
+**Demon Hunter Sword** against a real HP-stacked front. It turns her basics, claw strikes included, into current-HP damage, and its healing on every basic stacks with the claw healing she already owns.
+
+**Queen's Wings** when the enemy's burst can delete whichever bar she is on. The damage reduction and cooldown refund buy the second half of the loop, which is where her damage actually lives.
+
+**Brute Force Breastplate** against physical dive comps. It stacks adaptive attack and movement speed as she deals damage, and at full stacks it shortens the control effects that land between her bar breaks.
+
+**Antique Cuirass** against physical skill casters like Paquito or Fredrinn. Every skill they land on her trims their physical damage, so their rotation loses punch the longer the fight runs, and long fights are the whole plan.
+
+**Immortality** is the closer, for the objective fight that decides the game when she expects to be the focus.
+
+Emblems follow the bruiser plan: Fighter with Firmness, Festival of Blood, and Brave Smite. Brave Smite recovers health when her skills damage a hero, and her skill hits come often enough that the cooldown is always running. Her Fighter/Tank tags are the tell: Assassin emblems belong only on dedicated damage builds.
+
+### Mistakes that lose Masha games
+
+**Playing her like the old split-pusher.** Her kit now pays for fights: claws heal, Feral banks, and Savage Maul is an engage. Shoving a side lane to tier three while the objective fight happens is how old muscle memory throws games. Join the fight first, then take towers with the numbers advantage.
+
+**Autoing from wherever she stands.** The Wound has a direction, and attacking from the wrong side means no break and no Feral. Watch which side the mark appears on and step or dash there before the next basic. This is the single mechanical skill that separates a real Masha from a body with three bars.
+
+**Burning Savage Maul before Feral is up.** The charge stuns, but a stun only pays if claw strikes are already in hand. Plant a skill, break the Wound, then charge. A naked ult is an expensive way to give the enemy a free disengage.
+
+**Chasing Fanny or Claude off the objective.** The cleanest answers to her are dashes that leave her basic range, which means no break and no Feral. Let them dash away from the fight and take the objective instead; forcing the chase is the fight they want.
+
+**Rotating with an empty bank.** Feral only converts out of combat, so leave lane after clearing the wave, not before it; the walk to the next fight is when the bank pays out. Arriving with nothing banked is how a three-bar hero still enters a fight at half strength.
+
+### Key tips
+
+> [!TIP]
+> The Wound points a direction. Step to that side before you auto. One step is the difference between Feral and a skill cooldown spent on nothing.
+
+> [!TIP]
+> Breaking a second Wound while Feral is active refreshes the state and stacks the claw strikes she is holding, up to six. In long fights, chain the next break instead of spending every claw on the first body in range.
+
+> [!NOTE]
+> Feral converts to HP the moment combat ends. Clear the wave or a camp on the way out, and the bank pays you back during the rotation instead of at the fountain.
+
+> [!WARNING]
+> Her first two bar breaks are tempo: control effects drop, one hit is blocked, and Claw Strike resets. The third bar is just her health bar. Trade the first two like they are free, and treat the third like the match depends on it.
+
+## Skills
+
+### Primal Pact (Passive)
+
+Bear's Blessing: Masha has 3 HP bars, each inheriting 50% of her Equipment HP bonuses. When an HP bar is depleted, she removes control effects and blocks damage once. She gains Feral by dealing damage to enemy heroes or creeps. Feral converts into HP after leaving combat. Power of Wildness: After Masha's skills deal damage to an enemy hero, she leaves a Wound in a random direction. Her Basic Attacks can break the Wound and cause her to enter the Feral state. Feral: Masha gains 15 (+1*Hero Level)% Resilience, Attack Speed, and Movement Speed. Her next 3 Basic Attacks become fan-shaped claw strikes, dealing 3 (+2% Extra Physical Attack) (+0.2*Hero Level)% Max HP extra Physical Damage to enemies in the area (extra damage does not apply to Turrets) and recovering 4 (+0.4*Hero Level)% HP. It lasts 3s. [C8Breaking a Wound again during the Feral state will refresh its duration. Up to 6 claw strikes can be stored.]
+
+### Feral Swipe (Skill 1)
+
+Masha releases energy forward, dealing 250 (+70% Total Physical Attack) Physical Damage to enemies in its path. If an enemy hero is hit, they are slowed by 50% for 1s.
+
+### Claw Strike (Skill 2)
+
+Masha dashes in the target direction, dealing 120 (+80% Extra Physical Attack) Physical Damage. [C8Whenever an HP bar is depleted, the cooldown of Claw Strike resets.]
+
+### Savage Maul (Ultimate)
+
+Masha charges toward an enemy hero, dealing 300 (+50% Extra Max HP) Physical Damage and stunning them for 1s while knocking back nearby enemies.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- LANING COMBOS (laning): In the laning phase, use Masha's 2nd Skill to close in and Basic Attack to inflict Wounds. Slow the target with the 1st Skill, then continue attacking to trigger the Enhanced Basic Attack, and keep up the pressure!
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Masha's Ultimate to dive a squishy target. Follow with an Enhanced Basic Attack, then 2nd Skill to inflict Wounds on multiple enemies, and AoE them down with repeated Basic Attacks.
+
+## Counters to Masha (pick these against Masha)
+
+- Estes (Support): +2.8 pp edge. Estes has a statistical edge over Masha based on ranked matchup data. Pick Estes to gain an advantage in draft.
+- Freya (Fighter): +2.6 pp edge. Freya's durability and kit give them a strong matchup advantage against Masha throughout the game.
+- Uranus (Tank): +2.1 pp edge. Uranus's durability and kit give them a strong matchup advantage against Masha throughout the game.
+- Bruno (Marksman): +2.0 pp edge. Bruno has a statistical edge over Masha based on ranked matchup data. Pick Bruno to gain an advantage in draft.
+- Kimmy (Marksman/Mage): +2.0 pp edge. Kimmy has a statistical edge over Masha based on ranked matchup data. Pick Kimmy to gain an advantage in draft.
+- Hirara (Assassin): +1.9 pp edge. Hirara has a statistical edge over Masha based on ranked matchup data. Pick Hirara to gain an advantage in draft.
+
+## Heroes Masha beats
+
+- Gloo (Tank): +3.5 pp edge for Masha.
+- Eudora (Mage): +2.8 pp edge for Masha.
+- Yu Zhong (Fighter): +2.6 pp edge for Masha.
+- Cici (Fighter): +2.3 pp edge for Masha.
+- Brody (Marksman): +2.2 pp edge for Masha.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/masha.
+
+## Curated builds
+
+Reviewed against patch 2.2.16 on 2026-10-01. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Bruiser Sprint (EXP)
+
+- Items: Warrior Boots, War Axe, Corrosion Scythe, Thunder Belt, Queen's Wings, Immortality
+- Core: War Axe, Corrosion Scythe, Thunder Belt
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Sprint
+- Flex: Tough Boots over Warrior Boots when Use when slows, chain control, or early magic poke keep Masha from reaching the marked side of a Wound.; Sea Halberd over Thunder Belt when Use against healing, shield supports, or high-extra-HP fighters when anti-sustain matters before defense stacking.; Oracle over Immortality when Use when Masha can reset between trades and needs stronger claw-strike healing and out-of-combat Feral recovery more than a revive.
+- Total cost: 11060 gold
+
+Default EXP bruiser setup for repeated Wound breaks and Feral claw strikes. Corrosion Scythe and Sprint keep targets close, while Thunder Belt's bonus HP strengthens Savage Maul.
+
+### EXP Anti-Tank Sprint (EXP)
+
+- Items: Tough Boots, War Axe, Corrosion Scythe, Demon Hunter Sword, Thunder Belt, Queen's Wings
+- Core: War Axe, Corrosion Scythe, Demon Hunter Sword
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Sprint
+- Flex: Sea Halberd over Thunder Belt when Use against healing or shield-heavy frontliners when reducing sustain matters more than Thunder Belt's durability.; Malefic Roar over Thunder Belt when Use when the enemy frontline stacks Physical Defense and Demon Hunter Sword's physical on-hit damage needs penetration.; Immortality over Queen's Wings when Use before decisive Lord fights when a revive matters more than Queen's Wings' low-HP protection.
+- Total cost: 11100 gold
+
+EXP option against HP-stacking frontliners. Break a Wound to enter Feral, then use Corrosion Scythe and Sprint to keep landing claw strikes. Demon Hunter Sword adds current-HP damage, while Thunder Belt and Queen's Wings support extended fights.
+
+### Jungle Objective Ice (Jungle)
+
+- Items: Tough Boots, Corrosion Scythe, War Axe, Demon Hunter Sword, Malefic Roar, Immortality
+- Core: Corrosion Scythe, War Axe, Demon Hunter Sword
+- Emblem: Basic Common Emblem with Swift, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Warrior Boots over Tough Boots when Use when the early jungle contest is mostly physical and crowd control is not the main threat.; Sea Halberd over Malefic Roar when Use when sustain or shields matter more than cutting through stacked Physical Defense.; Queen's Wings over Immortality when Use when fights are extended and Masha needs low-HP damage reduction before a revive would matter.
+- Total cost: 11210 gold
+
+Situational jungle setup for objective races and side-map pressure, using Ice Retribution plus Corrosion to keep targets inside basic-attack range.
+
+All builds for this hero: https://mlbbhub.com/builds/masha.
+
+## Synergies
+
+- Atlas: Masha also pairs well with CC heroes like Atlas and Minotaur. Once they pull the enemies together, she can tear them to shreds with her savage claws!
+- Minotaur: Masha also pairs well with CC heroes like Atlas and Minotaur. Once they pull the enemies together, she can tear them to shreds with her savage claws!
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

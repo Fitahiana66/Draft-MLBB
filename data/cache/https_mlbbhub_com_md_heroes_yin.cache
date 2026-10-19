@@ -1,0 +1,206 @@
+# Yin, Martial Genius
+
+> Yin is a jungle fighter built around one question: can you find the right target and beat them alone in eight seconds? Everything in his kit feeds that question, and understanding its limits is what separates players who win with him from players who feed their own team.
+
+## Snapshot
+
+- Role: Fighter, Assassin
+- Lane: Jungle, EXP
+- Specialty: Burst, Control
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.91%
+- Pick rate: 0.48%
+- Ban rate: 1.65%
+- Released: 2022
+- Page: https://mlbbhub.com/heroes/yin
+
+## Guide
+
+### The Pick Conditions for Yin
+
+Yin earns his slot when three things line up simultaneously: the enemy team has a squishy, immobile carry your team cannot otherwise reach, their lineup has no heroes who specifically break the domain, and your remaining four teammates can hold a four-on-four for eight seconds without collapsing.
+
+That third condition is the one most Yin players skip. When My Turn activates, Yin removes one hero from the teamfight and vanishes for up to eight seconds. Your four face their four. If your four cannot hold, it does not matter whether Yin wins the domain, because the game will be over by the time he exits.
+
+Five specific enemy picks turn Yin from a weapon into a liability. **Kaja** can suppress Yin before he finishes the pre-ult combo, stopping the pull entirely. **Franco** hooks him mid-approach, burning Yin's positioning and giving the enemy a free cooldown window. **Argus** activates his ult right before the killing blow inside the domain, becomes invincible, and waits Yin out until the arena expires. **Zhask** at level 4 summons Nightmaric Spawn inside the domain, forcing Yin to kill two bodies in eight seconds with no assistance. **Sun** fills the domain with doppelgangers that scatter Yin's target priority and dilute his damage window.
+
+Against any two of those five on a single team, Yin is the wrong pick. Conversely, lock him when their carries are fragile immobile threats like Clint or Layla, no Franco or Kaja is in the draft, and your team has a frontline that can peel for eight seconds while Yin works. The disqualifying test before you lock: can you name which specific enemy hero dies in the domain, and confirm none of the five domain-breakers are in the lineup?
+
+### The One Mechanism Yin's Entire Kit Serves
+
+Yin's passive amplifies his damage and grants spell vamp whenever no allied hero stands nearby. He is not just a 1v1 specialist by design. He is literally weaker when playing with his team.
+
+Every skill reinforces that isolation loop. Charged Punch gives a burst of movement speed plus an enhanced basic attack that fires a follow-up punch on hit, functioning as a gap closer that loads the next skill window. Instant Blast dashes Yin forward and drops a Golden Ring that follows up a second later with a one-second stun, which is the entry point for My Turn. My Turn seals one enemy in a domain where no outside skills can interfere, transforms Yin into Lieh with stronger abilities and added physical and magic defense, and resets Frenzy Strike and Instant Blast cooldowns if Lieh secures the kill. He exits the domain with bonus Lieh time remaining to press a second objective.
+
+Yin carries no mana. Farming, skirmishing, and repeated domain attempts cost nothing except cooldowns. That removes the resource leak that slows down most fighters after extended fights, but it does not remove the health cost. The domain is a clean fight, and clean fights go to whoever enters with more HP.
+
+### The First Eight Minutes
+
+1. **Start at Blue Buff and push toward the Lithowanderer.** Charged Punch at level one clears faster than most junglers at the same camp. Take Instant Blast second; the dash and stun are your gank tool.
+2. **Hit level 4 before committing to a gank.** My Turn unlocks at level 4. Before that, you are a fighter with a dash and no execution tool. Ganking at level 3 with no ult almost always gifts the enemy a kill.
+3. **Invade the enemy blue side when their jungler shows on your map.** Yin's passive solo damage bonus makes early invades profitable when you have vision confirmation. Do not invade below 60% HP; you cannot afford to enter your first domain fight depleted.
+
+Stay out of your team's cluster for the first six minutes. An allied hero within four yards costs you the passive damage bonus. The early game goal is farm tempo and isolated skirmishes, not early five-man rotations.
+
+### The Power Spike You Are Farming Toward
+
+War Axe into Hunter Strike, typically finished between 7 and 9 minutes.
+
+War Axe builds Fighting Spirit stacks during extended fights, adding physical attack per hit up to six stacks. At six stacks it converts 10% of all damage dealt to true damage. Inside the domain, where Lieh's Frenzy Strike can be recast almost immediately after it ends, those stacks build in the first two seconds of the fight and stay at full through the whole execution. Hunter Strike adds physical attack plus cooldown reduction, and its Retribution passive fires a burst of movement speed after five consecutive hits, letting Yin reposition mid-domain or chase a fleeing target on exit. Both items contribute cooldown reduction, pulling My Turn's cooldown meaningfully lower across the game.
+
+Before both items complete, Yin can pick off isolated targets but struggles in a fair fight against a well-itemized midlaner. After them, the domain becomes close to a guaranteed kill against any hero without a defensive ult. That is the window to start hunting.
+
+### Finding the Right Entry Point
+
+The reflex when you spot a low-HP enemy carry is to immediately press My Turn. That reflex is what gets Yin reported after a wasted ult.
+
+Three checks before pressing the ult: your HP versus theirs (you need to be above them, not just alive), whether their defensive ult cooldown is available (Argus is the obvious one, but Uranus and Alice also extend their survival windows significantly inside the domain), and whether any of the five domain-breakers listed in section one are within cast range.
+
+When the checks clear, the approach is S1 to trigger the speed boost and close the gap, S2 during the approach to drop the Golden Ring, then My Turn during the one-second stun window that follows.
+
+Three rules once Lieh is active inside:
+1. Open with Frenzy Strike immediately. Lieh is crowd control-immune for the duration, so starting with it protects him from any reaction CC the trapped enemy throws out. The 2.1.88 rework dropped the auto-lock on the opening smashes, so aim the first hits yourself instead of expecting the skill to track.
+2. Follow with Lieh's Instant Blast to chase or re-stun after Frenzy Strike ends. The additional knockback on Lieh's kick version makes it a better chase tool than Yin's.
+3. Keep your HP above the target through the full exchange. Killing Spree (Assassin Emblem core) restores 15% of lost HP on kill. War Axe spellvamp adds recovery on each hit. The domain is not a trade; it is a complete execution, and the HP margin going in determines whether you exit at 60% or 25%.
+
+If your support is Angela or Rafaela, they cannot affect what happens inside. You are fully alone in the domain, which means no external heals and no peel. Every HP point you enter with is all you get.
+
+### Itemization: Three Locked Slots, Two Real Conversations
+
+War Axe, Hunter Strike, and Warrior Boots (upgraded to Ice Retribution once the spell evolves, at five creep kills, hero kills, or assists) are locked in every game. They provide the fighting spirit stacking, cooldown reduction, true damage conversion, movement tools, and the jungle scaling. The Ice Retribution upgrade adds a slow to the evolved spell on enemy heroes, enough to land the Golden Ring follow-up on targets who juke the S2 dash.
+
+That leaves two real conversations per game.
+
+**Slot 4** defaults to **Brute Force Breastplate**: HP, CDR, and at full stacks 15% control duration reduction, which shortens any CC applied to Yin between engages. Swap it for **Queen's Wings** when the enemy has heavy burst assassins or mages. Queen's Wings' Demonize passive triggers 30% damage reduction when Yin drops below 40% HP, and its Defiance passive increases Yin's damage for every HP he has lost, which pairs well with the domain's isolated fight dynamic.
+
+**Slot 5** depends on state. **Blade of Despair** when you are ahead: the Despair passive activates before damage connects against targets below 50% HP, so the 25% physical attack bonus applies to the killing hit inside the domain. **Malefic Roar** against tank-heavy lineups, since Armor Buster scales penetration against enemies with high physical defense. **Immortality** when the game is volatile and Yin keeps getting caught before he can set up the approach.
+
+For boots, **Tough Boots** can replace Warrior Boots against heavy CC compositions where stun duration is the primary risk. The tradeoff is losing Valor's physical defense stacking, so only switch when the enemy has three or more hard-CC heroes.
+
+### Mistakes That Lose Yin Games
+
+**Ulting Argus with his ult available.** Argus presses Undying Fury at the moment Yin lands the killing blow inside the domain, becomes invincible for the remaining duration, and exits at full health when the domain expires. Check Argus's ult icon on the side portrait before entering. If it is lit, walk away and force him to blow it on a different fight.
+
+**Opening S2 before S1 in the approach.** S1 grants 60% extra movement speed that decays over three seconds. Using that speed window to close the gap before triggering S2 is the correct sequence. Reversing the order means the Golden Ring lands but Yin is still at distance when the stun expires, and the target walks out of ult range.
+
+**Entering the domain at lower HP than the target.** The domain removes all external help. If the target has 60% HP and Yin has 50%, the fight starts against Yin before accounting for any defensive item they carry. Patience before the ult costs nothing. Forcing a bad domain fight costs the ult cooldown and usually Yin's life.
+
+**Grouping with allies before initiating.** An allied hero within four yards drops the passive damage bonus. Walking into position alongside your carry and tank makes Yin objectively weaker before the fight begins. Split off 3 to 5 seconds before pressing the approach so the passive has time to confirm.
+
+**Ulting Zhask at level 4 or beyond without baiting Nightmare first.** Nightmaric Spawn enters the domain alongside Zhask and continues dealing damage. The two-body problem inside a sealed arena regularly flips fights Yin would otherwise win cleanly. Either ult Zhask before he hits level 4, or wait for Nightmare to be on cooldown from a skirmish before committing.
+
+### Key Tips
+
+> [!TIP]
+> Lieh exits the domain with Frenzy Strike and Instant Blast cooldowns fully reset if he secures the kill. Move toward the nearest objective or the next-lowest-HP enemy immediately on exit. The 8-second Lieh window is a second fight window, not recovery time.
+
+> [!NOTE]
+> Yin carries no mana, which means aggressive Charged Punch usage in the jungle costs nothing except cooldown. Spam it on camps to practice the approach rhythm so that the S1 into S2 into ult sequence is mechanical by the time you need it in a real fight.
+
+> [!TIP]
+> If My Turn fails to pull the target because they dashed away, the ult enters only a 3-second cooldown instead of the full timer. Do not hesitate to throw the ult at mobile targets; a miss costs almost nothing, and the threat alone forces their dash early.
+
+> [!NOTE]
+> Master Assassin (Assassin Emblem standard talent) increases damage to lone heroes by 7%. Yin's passive and Master Assassin stack independently, meaning he deals higher base damage and bonus penetration simultaneously when the target is isolated. Always check that no allied hero is near the target before engaging to get both bonuses active at once.
+
+## Skills
+
+### Leave It to Me (Passive)
+
+If there are no allied heroes within 4 units of Yin, his damage is increased to 120% and he gains 8% Spell Vamp.
+
+### Charged Punch (Skill 1)
+
+Yin gains 60% extra Movement Speed (decays over 3s). During this time, his next Basic Attack will be enhanced, dealing 25 (+100% Total Physical Attack) Physical Damage. If the enhanced Basic Attack hits an enemy, Yin throws a charged punch forward, dealing 360 (+200% Extra Physical Attack) Physical Damage to enemies in its path. Successfully throwing the charged punch reduces the skill's cooldown by 35%.
+
+### Instant Blast (Skill 2)
+
+Yin dashes forward, leaving a Golden Ring behind while dealing 75 (+35% Extra Physical Attack) Physical Damage to enemies along the way. He gains 30% extra Damage Reduction for 4s if an enemy hero is hit. After 1s, the Golden Ring will catch up with Yin, dealing 150 (+70% Extra Physical Attack) Physical Damage to enemies it passes through and stunning them for 1s.
+
+### My Turn (Ultimate)
+
+After a short delay, Yin locks onto an enemy hero (cannot lock onto pets or clones) and pulls them into a domain for up to 8s and turns into Lieh. When in the domain, the two cannot be affected by other heroes' skills. Lieh has stronger skills and 50 extra Physical Defense and Magic Defense that last 8s. The domain will end early if either of the two is killed. If Lieh successfully kills the enemy, he'll recover 20% of his Max HP, leave the domain with the cooldowns of Frenzy Strike and Instant Blast reset, and continue to fight as Lieh for 8s. If Yin fails to pull his target into the domain, the skill will enter a 3s cooldown.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Yin should use his 1st Skill to gain Movement Speed and then his 2nd Skill to get close to a key enemy and hit them with his enhanced Basic Attack before trapping them in his Ultimate. In Lieh form, use his 2nd Skill to stun the enemy and finish them off with his 1st Skill.
+- LANING COMBOS (laning): In the laning phase, Yin should use his 1st Skill to gain Movement Speed, then use his 2nd Skill to dash behind the enemy so the Golden Rings will stun them on their return, and end with his enhanced Basic Attack.
+
+## Counters to Yin (pick these against Yin)
+
+- Wanwan (Marksman): +4.4 pp edge. Across Yin's measured matchups, Yin is weakest in the early game. Apply pressure with Wanwan before Yin can scale.
+- Esmeralda (Tank/Mage): +3.7 pp edge. Across Yin's measured matchups, Yin is weakest in the early game. Apply pressure with Esmeralda before Yin can scale.
+- Uranus (Tank): +3.4 pp edge. Across Yin's measured matchups, Yin is weakest in the early game. Apply pressure with Uranus before Yin can scale.
+- Hilda (Fighter/Tank): +2.9 pp edge. Hilda's sustain and durability allow them to outlast Yin's burst combos and win extended trades.
+- Gloo (Tank): +2.7 pp edge. Across Yin's measured matchups, Yin is weakest in the early game. Apply pressure with Gloo before Yin can scale.
+- Khaleed (Fighter): +2.5 pp edge. Khaleed's sustain and durability allow them to outlast Yin's burst combos and win extended trades.
+- Lancelot (Assassin): +2.2 pp edge. Across Yin's measured matchups, Yin is weakest in the early game. Apply pressure with Lancelot before Yin can scale.
+- Johnson (Tank/Support): +2.2 pp edge. Johnson's crowd control can lock down Yin's mobility, shutting down engages before they start.
+
+## Heroes Yin beats
+
+- Yve (Mage): +3.1 pp edge for Yin.
+- Minsitthar (Fighter): +2.8 pp edge for Yin.
+- Diggie (Support): +2.8 pp edge for Yin.
+- Floryn (Support): +2.7 pp edge for Yin.
+- Ixia (Marksman): +2.6 pp edge for Yin.
+- Aurora (Mage): +2.1 pp edge for Yin.
+- Luo Yi (Mage): +1.9 pp edge for Yin.
+- Melissa (Marksman): +1.5 pp edge for Yin.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/yin.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Pickoff Default (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Blade of Despair, Malefic Roar, Immortality
+- Core: War Axe, Hunter Strike, Blade of Despair
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Warrior Boots over Tough Boots when Use when the enemy draft is mostly physical and crowd control is not the main reason your domain fails.; Sea Halberd over Malefic Roar when Use when the isolated target relies on healing, shields, or high extra HP more than armor stacking.; Rose Gold Meteor over Immortality when Use against magic burst when the Lifeline shield saves the first entry better than a delayed revive.; Queen's Wings over Immortality when Use when Yin is ahead but the target survives long enough that a low-HP damage reduction window matters.
+- Total cost: 12000 gold
+
+Default jungle setup for reaching level four on time, isolating a carry with Ice Retribution, and converting one domain kill into reset tempo.
+
+### EXP Isolate Burst (EXP)
+
+- Items: Warrior Boots, War Axe, Hunter Strike, Blade of Despair, Malefic Roar, Immortality
+- Core: War Axe, Hunter Strike, Blade of Despair
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Execute
+- Flex: Tough Boots over Warrior Boots when Use when magic poke, slows, or chain control stop the lane trade before Charged Punch connects.; Blade of the Heptaseas over Malefic Roar when Use when you are snowballing through bush pickoffs and the enemy has not started real Physical Defense.; Sea Halberd over Malefic Roar when Use when the lane matchup or backline target survives through regen, shields, or high extra HP.; Antique Cuirass over Immortality when Use against physical skill fighters who can punish Yin before My Turn is available again.
+- Total cost: 12020 gold
+
+EXP lane setup for side-lane punish games where Execute finishes the domain target and Master Assassin rewards clean isolation.
+
+### Jungle Domain Bruiser (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Queen's Wings, Malefic Roar, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Seasoned Hunter, Brave Smite
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Blade of Despair over Queen's Wings when Use when the first two Turtles created a lead and Yin needs the domain to end before defensive items come online.; Brute Force Breastplate over Malefic Roar when Use when sticking to targets and resisting control matters more than cutting through armor.; Athena's Shield over Immortality when Use when front-loaded magic burst deletes Yin before Queen's Wings can extend the duel.; Radiant Armor over Immortality when Use against repeated magic damage that chips Yin before he can choose a domain target.
+- Total cost: 11240 gold
+
+Durable jungle setup for games where Yin still farms as the core but must survive longer domain duels and messy Lord exits.
+
+All builds for this hero: https://mlbbhub.com/builds/yin.
+
+## Synergies
+
+- Mathilda: Yin works best with Supports that can enhance his mobility, such as Mathilda and Rafaela to help him get to the enemy and eliminate key targets.
+- Rafaela: Yin works best with Supports that can enhance his mobility, such as Mathilda and Rafaela to help him get to the enemy and eliminate key targets.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

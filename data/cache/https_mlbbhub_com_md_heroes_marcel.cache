@@ -1,0 +1,196 @@
+# Marcel, Split-Soul Artist
+
+> Marcel is a roaming support who wins by turning one chokepoint into a kill box. His value is conditional, not constant: he needs a doorway both teams have to fight through and a carry who can convert his freeze into damage. Pick him to pin a fight in place, never to start a dive.
+
+## Snapshot
+
+- Role: Support
+- Lane: Roam
+- Specialty: Crowd Control, Support
+- Difficulty: Easy
+- Tier this patch: S
+- Win rate: 58.15%
+- Pick rate: 0.28%
+- Ban rate: 33.47%
+- Released: 2026
+- Page: https://mlbbhub.com/heroes/marcel
+
+## Guide
+
+### The drafts where Marcel earns his slot
+
+Patch 2.2.16 ([patch notes](/patch-notes)) is the current pass, and it asks for sharper timing. His skill cooldowns stretched and his early damage came down, while Golden Hour gained a new trick: it now interrupts location-targeted skills, so an Eudora ultimate or Vexana Skill 2 aimed into the freeze never lands. The 2.1.88 rework underneath that is why he plays the way he does. Framed Moment lost its immobilize and became a heavy slow, and Golden Hour's frozen enemies can now be targeted and killed by your whole team instead of sitting damage-immune. The devs traded away his oppressive lockdown for a real kill window. Marcel no longer cages a fight by himself. He hands his team a short pocket of free damage and asks them to spend it.
+
+That reframes the draft test entirely. Pick Marcel when the enemy has two or three heroes that fall apart the moment they are slowed and pinned in a tight fight: Cecilion, Vexana, Hanabi, Xavier, or a Layla who needs space to kite. Their value lives in standing still and throwing damage through a narrow entrance, and that is exactly the fight Marcel forces. But the second half of the test matters more now: point at the hero on your own team who will dump damage into the freeze. The window is only as good as the burst standing ready to fire into it.
+
+Avoid Marcel when your own comp wants to scatter and dive. Ling plus Lancelot plus Marcel is a draft arguing with itself, because your assassins want to collapse on split targets while Marcel wants every kill to happen in one square of ground. Avoid him into high mobility that walks straight out of a slow before the shot lands (Ling, Harith, dash-heavy assassins) and into hard suppression that ignores his setup entirely (Kaja, Khufra). The simple gate: name the chokepoint your team will fight at and the carry who will spend the freeze. If you cannot name both, pick a different roamer.
+
+### The one thing that makes Marcel work
+
+Marcel is the only support whose damage scales with his own defense, and the entire kit is built on that one fact. His passive converts bonus HP into Hybrid Defense, and both his enhanced basic attack and Framed Moment draw their damage from his Physical Defense and Magic Defense at the same time. There is no tank-versus-damage dilemma here. Every defensive item you buy, even a pure magic-resist piece, is also a damage item. The answer is always more defense.
+
+Clemar, the camera floating beside him, is the second half. The passive runs on its own and snaps photos of nearby enemies for true damage, gifting a matching shield to Marcel and a nearby ally. Patch 2.1.88 removed the Basic Attack reduction to Platinum Snap's cooldown and let him partly use attack speed. Weave autos for their damage, then position around the next photo instead of expecting extra attacks to refresh its shield. Clemar is also why Skill 2 carries the best tech in the kit. Plant Framed Moment, then dash out with Tracking Shot, and Clemar stays behind to finish the shot from the original spot. You commit a wind-up skill without committing your body. Very few heroes can do that, and Marcel is the cleanest one.
+
+Golden Hour is the payoff, and the 2.1.88 rework rewrote it. It still drops a brief stasis bubble that freezes everyone in range except Marcel, but the frozen enemies are no longer untouchable. Your team can now focus and kill them inside it. Read it as a free-damage window, a short one, not an unkillable cage. It is a kill setup that only works if the damage is already there to spend.
+
+### Laning: the first four minutes
+
+1. **Help clear the blue buff, do not take it.** Marcel's enhanced basics already hit hard at level 1 because the damage scales off his starting defenses, so hand your jungler a few autos of bonus damage while they execute, then peel off to rotate. The mana belongs to your jungler, and Platinum Snap keeps you topped up anyway.
+2. **Take Tracking Shot at level 1, not Framed Moment.** The approach speed boost is how you physically arrive at the gold-lane gank in time. Framed Moment is not a wave-clear tool, and you want it off cooldown for the first real roam.
+3. **The first real roam is at level 4, not level 2.** You need both basic skills available and a healthy enough carry to finish the trade. Walk the gold-lane brush, dash in to trigger the approach speed, plant Framed Moment at your landing spot, then dash back out and let Clemar finish. After 2.1.88 that finish is a slow, not a stun, and 2.2.16 trimmed the shot's damage, so your marksman has to be close enough to punish before the target walks out.
+
+### The spike you are farming toward
+
+Marcel's first real spike is Thunder Belt, usually around the eight to eleven minute mark on a normal roam economy. Its proc lands a defense-scaled true-damage hit that briefly near-roots the target and permanently grows his Hybrid Defense every time it connects, which loops straight back into his own damage. Thunder Belt's slow is your new lockdown floor now that Framed Moment cannot stun. Chain that near-freeze into Framed Moment's slow and a target without a dash simply cannot leave the zone before the shot completes.
+
+Pair it with Dominance Ice when the enemy leans on sustain: Lifebane cuts the Shield and HP Regen of nearby enemies to 60% of normal, and Fortress Shield stacks Hybrid Defense for every enemy hero close by, so the pair turns every trade into one you slowly win. Against a basic-attack-heavy comp, swap to the anti-basic line instead. Before this spike Marcel is a ward-dropping, gank-assisting support. After it, every chokepoint fight at Turtle or Lord bends around him.
+
+### Teamfight positioning and target priority
+
+The reflex when you pick Marcel up is to ult the enemy backline from max range. That reflex is wrong. The radius is wide but not infinite, the enemy tank is almost always the closest body, and a bad cast catches the tank plus nobody who matters. Since the window dropped to a couple of seconds, a wasted ult hurts more than it used to: shorter cast, longer regret.
+
+1. **Catch the targets your team can actually kill, not the scariest one.** Now that frozen enemies are targetable, the ult is only as strong as the damage standing ready to fire into it. Freeze the carry your team is already in range to delete, not the fed assassin halfway across the map.
+2. **Ult with your back to a wall.** You cannot be frozen by your own Golden Hour, but a Franco or Phoveus who reads the cast will dash onto you mid-animation. A wall behind you cuts their approach angle in half.
+3. **The S2 phantom trick is for disengage, not just engage.** When your team is losing a fight, plant Framed Moment on your retreating carries, then dash backward to safety. Clemar finishes the slow and damage on whoever chased, your carries get clean, and you ate nothing. This wins more lost fights than any initiation.
+
+If your carry is holding the Platinum Snap shield when you ult, remember they keep shooting because shielded allies are not frozen. Set up so their cone of fire covers the frozen enemies, and your couple of seconds becomes their free DPS.
+
+### Itemization: locked slots and real conversations
+
+Thunder Belt is the only truly locked item, and Oracle has become a genuine core pickup rather than a luxury: the cooldown reduction keeps your skills cycling after 2.2.16 stretched them, and the shield amplification makes every Platinum Snap shield count for more. Boots are Tough Boots by default, because the tenacity is what keeps a Franco or Khufra from interrupting your cast. Swap to faster boots in the Conceal pickoff line when you are chasing rather than tanking.
+
+Battle spell is Petrify now, not Flicker. It directly replaces the hard crowd control that Framed Moment lost in 2.1.88 and gives you a real lockdown to pair with the slow. Vengeance fits the tankier anti-basic frontline build instead.
+
+The flex slots, each with the trigger that calls for it:
+
+1. **Dominance Ice against sustain comps or grouped fights:** enemies who stay close to you lose 40% of their shield and HP regen effects, and you stack Hybrid Defense for each one nearby, so it pays off the longer the brawl runs.
+2. **Athena's Shield against magic burst (Cecilion, Lylia, Valentina):** the on-hit magic damage reduction is stats you will actually use; skip it into physical comps.
+3. **Antique Cuirass against a fed physical carry (Lancelot, Fanny, Yi Sun-shin):** the stacking physical damage cut plus Thunder Belt's defense scaling means the armor is also damage.
+4. **Chastise Pauldron and Blade Armor in the anti-basic build against marksman-heavy drafts:** punish the comp that wants to auto you down.
+5. **Immortality against dive when you expect to trade your life for the freeze:** you die in the setup and revive mid-fight with a shield, forcing the enemy to spend the same cooldowns twice.
+
+Do not tunnel pure damage on Marcel. For this hero, defense is damage, so the defensive buy almost always wins.
+
+### Mistakes that lose Marcel games
+
+1. **Burning Golden Hour on the first skirmish you see.** The ult is a long cooldown that 2.2.16 pushed even longer, and the window is still short, so spending it on a river 2v2 means a long walk to the next objective with nothing to follow up. Hold it for the fight where both teams have committed everything.
+2. **Walking in with the Skill 2 approach boost toward a hook.** You are a slow support sprinting in a straight line directly at a Franco or Selena. The approach speed is for finishing already-engaged targets, not for starting fights. Burn it the wrong way and you die before the fight begins.
+3. **Treating Framed Moment as a stun.** After 2.1.88 it slows, it does not lock. If your carry is not in range to punish that slow before the target dashes out, the cast did nothing. Pair it with Thunder Belt's slow or Petrify for the actual pin, and stop expecting a free immobilize that no longer exists.
+4. **Spending Framed Moment on a minion wave for damage.** It is not a wave-clear tool, and every cast that does not land on a hero is a peel you will badly want two minutes later.
+5. **Ulting into a Kaja or Khufra mid-cast.** Suppression channels run straight through your setup and yank you out of your own position. Watch for the channel, wait it out, then drop the freeze once the threat is spent.
+
+### Key tips
+
+> [!TIP]
+> Platinum Snap shields the nearest allied hero, not the lowest-HP one. If you are standing next to your tank while your marksman is the one about to take burst, you armor the wrong body. Stand closer to your carry than your tank whenever the shield is up.
+
+> [!NOTE]
+> Golden Hour resets Platinum Snap for each enemy caught in the freeze, so a multi-hero ult sprays shields across your whole team at once. That wave of shields is how you set up the counter-engage right after the window closes.
+
+> [!TIP]
+> Basic Attacks no longer reduce Platinum Snap's cooldown after patch 2.1.88. Do not take a risky extra attack to force a shield refresh. Keep your carry close enough to receive the next photo's shield.
+
+> [!WARNING]
+> The reworked ult lets your team damage frozen enemies, but only for a short window. It is a kill setup, not a cage. If you commit Golden Hour without your carry positioned to fire into it, you froze the enemy for free and handed them a reset.
+
+## Skills
+
+### Platinum Snap (Passive)
+
+Marcel's split soul, Clemar, enters the camera to freeze the moment. His Basic Attacks deal 50 (+40% Total Physical Attack)(+40% Total Magic Defense)(+40% Total Physical Defense) Physical Damage. His Extra Max HP is converted into 1.5% Hybrid Defense. Clemar automatically snaps photos of enemy heroes near Marcel, causing a brief Frozen Moment and dealing 20 (+ 5% of Max HP) True Damage (triggers Attack Effects). It also grants a shield of the same value to Marcel and a nearby allied hero. Cooldown: 12s per target.
+
+### Framed Moment (Skill 1)
+
+Clemar focuses on an area around Marcel, slowing enemy heroes within by 60%. After 2.5s, he completes the shot, dealing 300 (+50% Total Physical Attack)(+120% Total Magic Defense)(+120% Total Physical Defense) Physical Damage to enemies within.
+
+### Tracking Shot (Skill 2)
+
+Artist inspiration time! Marcel enters the Tracking Haste state for 3s, gaining 15% Movement Speed. This bonus increases to 75% when moving toward an enemy hero. Use Again: Marcel dashes in the target direction, leaving a framing phantom behind while the Framed Moment area remains at the original location.
+
+### Golden Hour (Ultimate)
+
+Marcel and Clemar perform a joint shoot. After a short delay, Clemar takes a wide-angle shot of the target area for 2s. During this time, Marcel enters the Tracking Haste state while inside the area. All other units in the area are put into a Frozen Moment and are immune to all effects except from Marcel. All projectiles are also frozen and will continue after a delay (targeted projectiles will deal 50% damage). Golden Hour resets the cooldown of Platinum Snap for each enemy hero. Allied heroes with the Platinum Snap shield can move freely within the area.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Marcel should activate his 2nd Skill, followed by his 1st Skill. Run into the enemy's formation, then use the 2nd Skill again to dash away and drop his 1st Skill on top of them. Once the enemies are immobilized, use his Ultimate.
+- LANING COMBOS (laning): During the laning phase, use Marcel's 2nd Skill to run up to the enemy and cast his 1st Skill. While the enemy is immobilized, lay into them with Basic Attacks.
+
+## Counters to Marcel (pick these against Marcel)
+
+- Angela (Support): +4.7 pp edge. Across Marcel's measured matchups, Marcel is weakest once matches pass 16 minutes. Take the game long with Angela.
+- Floryn (Support): +4.1 pp edge. Floryn has a statistical edge over Marcel based on ranked matchup data. Pick Floryn to gain an advantage in draft.
+- Lesley (Marksman/Assassin): +3.4 pp edge. Across Marcel's measured matchups, Marcel is weakest once matches pass 16 minutes. Take the game long with Lesley.
+- Aamon (Assassin): +3.1 pp edge. Across Marcel's measured matchups, Marcel is weakest once matches pass 16 minutes. Take the game long with Aamon.
+- Karina (Assassin): +3.1 pp edge. Across Marcel's measured matchups, Marcel is weakest once matches pass 16 minutes. Take the game long with Karina.
+- Cyclops (Mage): +3.0 pp edge. Across Marcel's measured matchups, Marcel is weakest once matches pass 16 minutes. Take the game long with Cyclops.
+- Rafaela (Support): +2.7 pp edge. Rafaela has a statistical edge over Marcel based on ranked matchup data. Pick Rafaela to gain an advantage in draft.
+- Bruno (Marksman): +2.4 pp edge. Across Marcel's measured matchups, Marcel is weakest once matches pass 16 minutes. Take the game long with Bruno.
+
+## Heroes Marcel beats
+
+- Atlas (Tank): +5.6 pp edge for Marcel.
+- Akai (Tank): +3.9 pp edge for Marcel.
+- Sun (Fighter): +3.9 pp edge for Marcel.
+- Johnson (Tank/Support): +3.3 pp edge for Marcel.
+- Belerick (Tank): +3.0 pp edge for Marcel.
+- Grock (Tank/Fighter): +2.7 pp edge for Marcel.
+- Kadita (Mage/Assassin): +2.5 pp edge for Marcel.
+- Khufra (Tank): +2.5 pp edge for Marcel.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/marcel.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Favor Control (Roam)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Oracle, Athena's Shield, Immortality
+- Core: Thunder Belt, Dominance Ice, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Petrify
+- Blessing: Favor
+- Flex: Rapid Boots over Tough Boots when Use when enemy crowd control is light and Marcel needs faster bush checks before the first Turtle setup.; Radiant Armor over Athena's Shield when Use against repeated magic poke or burn that tags Marcel before he can walk into Platinum Snap range.; Antique Cuirass over Athena's Shield when Use when physical skill burst from the EXP laner or jungler is the threat that breaks Marcel before Golden Hour.; Flask of the Oasis over Athena's Shield when Use only with coordinated backline partners who consistently stand close enough to receive Marcel's passive shield.
+- Total cost: 10660 gold
+
+Default ranked roam setup that rushes Thunder Belt for passive-proc stacks, then uses Favor and Oracle to turn Marcel's shield windows into real peel.
+
+### Roam Conceal Pickoff (Roam)
+
+- Items: Rapid Boots, Thunder Belt, Fleeting Time, Oracle, Antique Cuirass, Immortality
+- Core: Thunder Belt, Fleeting Time, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Petrify
+- Blessing: Conceal
+- Flex: Tough Boots over Rapid Boots when Use when layered crowd control will punish every failed Conceal entry before Marcel can recast Tracking Shot.; Dominance Ice over Fleeting Time when Use when enemy sustain or attack-speed pressure must be checked before ultimate reset value matters.; Athena's Shield over Antique Cuirass when Use when one magic burst combo decides whether Marcel survives long enough to drop Golden Hour.; Guardian Helmet over Antique Cuirass when Use when Marcel wins vision but has to reset HP between repeated Lord dances without recalling.
+- Total cost: 10770 gold
+
+Tempo pickoff setup for squads that can follow Conceal, Petrify, and Golden Hour with delayed projectiles instead of asking Marcel to solo-start fights.
+
+### Roam Anti-Basic Frontline (Roam)
+
+- Items: Warrior Boots, Thunder Belt, Dominance Ice, Chastise Pauldron, Blade Armor, Immortality
+- Core: Thunder Belt, Dominance Ice, Chastise Pauldron
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Tough Boots over Warrior Boots when Use when the marksman is protected by enough magic control that raw physical armor no longer covers the first contact.; Oracle over Blade Armor when Use when Marcel needs stronger passive shields more than reflected basic-attack punishment.; Athena's Shield over Blade Armor when Use when burst magic is the actual finisher after Marcel soaks the marksman's opening hits.; Favor over Encourage when Use as the roam blessing when your carry needs extra sustain more than grouped stat sharing.
+- Total cost: 10680 gold
+
+Anti-basic setup for front-to-back games where Marcel must stand between his carry and a basic-attack core while Vengeance buys time for the team to fire back.
+
+All builds for this hero: https://mlbbhub.com/builds/marcel.
+
+## Synergies
+
+- Hanabi: Because of Marcel's excellent AOE CC, he pairs well with allies with high AOE damage, like Hanabi and Ixia, to maximize their damage potential.
+- Ixia: Because of Marcel's excellent AOE CC, he pairs well with allies with high AOE damage, like Hanabi and Ixia, to maximize their damage potential.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

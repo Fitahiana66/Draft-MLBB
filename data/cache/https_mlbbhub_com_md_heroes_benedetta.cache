@@ -1,0 +1,216 @@
+# Benedetta, Shadow Ranger
+
+> Benedetta is not a swordsman. She is a flanking assassin whose entire kill condition lives inside a 2.5-second window. If your comp cannot deliver her to the enemy backline uninterrupted, do not lock her.
+
+## Snapshot
+
+- Role: Assassin, Fighter
+- Lane: EXP
+- Specialty: Chase, Burst
+- Difficulty: Hard
+- Tier this patch: A
+- Win rate: 52.60%
+- Pick rate: 0.37%
+- Ban rate: 0.31%
+- Released: 2020
+- Page: https://mlbbhub.com/heroes/benedetta
+
+## Guide
+
+### The draft test every Benedetta player must pass
+
+Benedetta wants one thing: an unbuffed backline target she can touch for 2.5 seconds without someone cancelling her. Every draft decision traces back to that sentence. She is correct when your team has at least one reliable engage tank (Atlas, Tigreal, Khufra) and the enemy stacks immobile damage dealers like Pharsa, Layla, Hanabi, or Aurora. She thrives into mid-tempo comps that want to teamfight near the 10-minute mark because her two-item spike lines up with that window exactly.
+
+Two enemy picks remove her from the draft entirely, and neither is negotiable.
+
+**Minsitthar.** King's Calling disables every movement skill inside the field. Swordout Slash is a dash. Phantom Slash includes a dash. An Eye for An Eye's stab is a directional movement. Alecto: Final Blow is an untargetable dash. Every component of Benedetta's kit is a movement skill, and inside King's Calling none of them cast. You are not a hero standing in that circle. You are a basic-attack statline with no escape and no engage. If the enemy first-picks Minsitthar, Benedetta leaves your draft pool.
+
+**Phoveus.** Astaros' Gaze reduces his Demonic Force cooldown by 20% every time an enemy within range blinks, dashes, or is displaced. Every other skill loses 0.5 seconds of cooldown per dash detected. Benedetta is a dash hero. Every Swordout Slash, every Phantom Slash, every Alecto cast refunds cooldown to the hero designed to jump on you. His Infernal Pursuit ultimate lands on a marked Benedetta with no reaction window because the mark fires from the dash, not from anything you can parry.
+
+If you cannot look at the enemy draft and say "neither Minsitthar nor Phoveus is on screen," do not lock Benedetta. This is not a soft counter or a skill matchup. It is a structural kit conflict that practice does not fix.
+
+Beyond the hard counters, scan the enemy draft for a second filter: does the enemy have at least two backline heroes who lack escape tools? If they drafted Wanwan plus Kagura, the answer is no. Wanwan has a multi-directional dash on her passive and Kagura's umbrella teleport resets on every S2 cast. Benedetta's Alecto requires the target to be where the dash lands, and both of those heroes can reposition before the Sword Intent detonation completes. She works against comps that fight standing still. She does not work against comps that fight on the move.
+
+### The one thing that makes Benedetta work
+
+Benedetta is a conditional assassin, and the condition is 2.5 uninterrupted seconds on the correct target. Every skill in her kit, every item in her build, and every timing decision in her gameplay exists to manufacture that window.
+
+Alecto: Final Blow is the kill. The dash forward is untargetable, so no one can stop it once it leaves. For 2.5 seconds after landing, Sword Intent detonates along the path, dealing massive damage and applying a heavy slow to everything inside the zone. Every other ability feeds Sword Intent before the ult fires.
+
+Elapsed Daytime charges Sword Intent by holding the basic attack button. Release at full charge to fire Swordout Slash, a damage-and-dash skill that counts as skill damage rather than basic-attack damage, which means it benefits from physical penetration, not attack speed. Phantom Slash drops a shadow fan that slashes forward after a short delay, slowing anything it hits, while Benedetta dashes in the opposite direction. If the shadow connects first, Benedetta's follow-up dash damage is doubled, which is why the correct cast sequence always places the shadow between you and the target. An Eye for An Eye raises a defensive stance giving full control immunity and blocking all damage for a brief window, then stabs in a chosen direction. If anything hits her during the parry window, she gains full Sword Intent. If a crowd-control effect is blocked, the stab stuns. This is the skill that turns a defensive posture into the strongest setup tool in the kit.
+
+She has no sustained damage. She has no frontline presence. She has one very good 2.5 seconds. Every game outcome turns on whether that window hits the right target without interruption.
+
+### Laning: the first six minutes
+
+EXP-lane Benedetta is a zone-of-control bully until level 4, then a kill threat once An Eye for An Eye unlocks. Three actions, in order:
+
+1. **Take Phantom Slash at level 1.** The fan-shaped shadow clears the caster minion line in one cast and the backward dash gives you insurance against early invades. Do not trade damage with the enemy hero before level 2. You have no follow-up and the only thing a level-1 trade buys you is a wasted potion.
+2. **Charge Sword Intent through basic attacks between levels 2 and 3.** Hold the basic attack button to enter Swordout state. Since the 2.1.30 quality-of-life buff, three auto-attacks fully charge the gauge. Release after charging to fire Swordout Slash through the wave and into the enemy laner. This is your jab. It costs no mana and refreshes on every damage instance, so you chain it between Phantom Slash casts.
+3. **Level 4 changes the lane permanently.** Walk into melee range. The enemy EXP laner now has two options: commit a skill and let you parry it for a free stun plus full Sword Intent, or retreat and let you zone the wave for free. Either outcome wins the lane. If they commit, parry the incoming attack, stab them for the stun, Phantom Slash with shadow-first positioning, and Swordout Slash through the body. If they refuse to commit, take the wave, rotate mid, and force their jungler to respond.
+
+Do not spend Petrify on a lane kill before level 6. It is your insurance for the Alecto combo after the first core item. A solo kill at level 5 costs you the tool that guarantees your first rotation pickoff.
+
+### The power spike you are farming toward
+
+Benedetta's identity-defining spike is War Axe plus Hunter Strike, finished between the 8 and 11 minute mark depending on lane prio and crab control. Before these two items, she trades. After them, she deletes.
+
+War Axe gives 35 Physical Attack, 400 HP, 10% CDR, and the Fighting Spirit passive (up to 6 stacks of bonus Physical Attack, plus an additional 10% True Damage boost at full stacks). Benedetta's standard engage pattern, charged Sword Intent into Phantom Slash into a basic attack into Swordout Slash, routes multiple damage instances through the target in under two seconds, pushing Fighting Spirit hard before Alecto fires. If the stack tops out, the Sword Intent detonation inside the ult zone lands with the 10% True Damage multiplier on top of its own scaling.
+
+Hunter Strike adds 80 Physical Attack and 10% CDR, and its Retribution passive gives a movement speed burst after five consecutive hits. The burst converts every retreat into a potential re-engage because Benedetta's base movement speed of 255 sits below the 260 most assassins carry, and Hunter Strike is the only early-game item that bridges the gap between her dash cooldowns.
+
+Before this spike, avoid 2v2 contests at the river crab and do not rotate for early turtle unless your jungler has prio. After this spike, walk into the enemy jungle and kill the first carry you see. The window from minute 8 to minute 11 is the strongest Benedetta gets relative to the rest of the map, and players who treat those three minutes as more farming are throwing the peak power curve.
+
+### Teamfight positioning: enter from the side or do not enter at all
+
+The reflex when the enemy Atlas or Tigreal engages is to follow the tank into the fight and open on whatever is closest. That reflex loses Benedetta games. Alecto is a burst tool, and burst into a frontliner's armor and HP pool disappears before it matters. Your target is the mage and the marksman, and neither of them is standing near your tank's engage.
+
+Three rules:
+
+1. **Never commit first.** Alecto is your commit, not your opener. Wait for your frontline to eat the enemy's first CC rotation, then flank from an angle perpendicular to the fight's axis. The enemy mage still has Flicker, Purify, and her ultimate at 0 seconds. At 3 seconds into the fight, she has none of those.
+2. **Alecto first, everything else second.** The untargetable dash is the gap-closer that no one reacts to because Benedetta cannot be targeted during the travel frames. Land the ult, confirm the target is inside the Sword Intent zone, then Phantom Slash and Swordout Slash inside the field to re-detonate Sword Intent for the back half of the 2.5-second window. Pressing S1 before ulting telegraphs the approach vector and gives the mage time to Flicker out.
+3. **Scout the escape before the engage.** Before you dash, look at the enemy backliner's spell icon. If the Flicker cooldown dot is green, you need Petrify to land within the same frame as Alecto's landing. If it is grey, you have a free kill. This is the single most important pre-fight check, and skipping it turns every fifth Alecto into a whiff.
+
+If your support is Atlas or Khufra, you can commit one second earlier because the AoE stun buys enough time to guarantee the Petrify follow-up. If your support is Estes or Rafaela, wait an extra full second. The enemy's Flicker gets burned on the tank's engage, not on your approach, and the spacing is everything.
+
+### Itemization: locked slots and real conversations
+
+Benedetta has four locked slots and two flex slots, plus the boot decision.
+
+**Locked: War Axe, Hunter Strike, Malefic Roar.** War Axe enables the Fighting Spirit ramp. Hunter Strike's movement burst converts every landed combo into a reposition, and its stats carry her mid-game damage. Malefic Roar's Armor Buster converts enemy Physical Defense into your penetration, capping at 30%. Without Malefic Roar, every tank and bruiser in the game sits at a level of damage reduction where Alecto stops killing anything. This is not a situational buy. This is the item that keeps your ult lethal past minute 12.
+
+**Boot slot**: Tough Boots against any composition with two or more hard crowd-control skills (Khufra, Franco, Atlas, Aurora, Eudora, Chou). The 30% CC duration reduction turns a Chou kick into a shorter stun window where S2 can come off cooldown. Warrior Boots only when the enemy team is full physical damage with no CC chain. The Physical Defense stacking from Valor is useful in lane but irrelevant in teamfights, where most of your damage taken is burst, not poke.
+
+**Flex slot 1 (defensive)**: Queen's Wings versus Brute Force Breastplate. Queen's Wings is correct when the enemy has one-shot magic burst (Eudora, Aurora, Vale, Lylia). The Demonize passive triggers at 40% HP with a 30% damage reduction and a skill cooldown cut, which can bring An Eye for An Eye back mid-fight. Brute Force Breastplate is correct against sustained physical threats (Beatrix, Moskov, Karrie, Wanwan) where the stacking Adaptive Attack and 15% Control Duration Reduction at full stacks provide value over the entire fight rather than a single burst window.
+
+**Flex slot 2 (offensive)**: Blade of the Heptaseas versus Blade of Despair. Blade of the Heptaseas is the buy when you need the spike to arrive faster. At 1950 gold with the Ambush passive providing an extra 160 plus 40% Physical Attack on the next basic attack after 5 seconds out of combat, it synergizes with Benedetta's flanking approach. You are out of combat until you are not, and Ambush guarantees the first proc. Blade of Despair at 3010 gold is the luxury buy for when the game is already yours. Despair's 25% Physical Attack bonus only activates when the target is already below 50% HP, which means it amplifies a kill you were already securing rather than creating the kill in the first place. Default to Heptaseas. Buy Despair when you are 3/0 and the match is a formality.
+
+**Battle spell**: Petrify. Cast Alecto, land on the target, press Petrify, and the enemy is pinned at the start of the Sword Intent detonation while the zone's own slow holds them for the rest. Flicker is a mistake on this hero. You already have three dashes (Swordout Slash, Phantom Slash, Alecto). A fourth dash does not solve the problem of the target escaping the ult zone. Petrify solves that.
+
+**Emblem**: Assassin. Rupture gives 5 flat Adaptive Penetration. Master Assassin adds 7% bonus damage to isolated targets, which is your target type (the mage standing behind the tank with no teammate within range). Killing Spree restores 15% of lost HP and grants 20% Movement Speed when you damage a hero below 30% HP, resetting on the kill, which is the sustain that lets you exit the fight after the pick rather than trading one-for-one.
+
+### Mistakes that lose Benedetta games
+
+**Opening An Eye for An Eye defensively when no CC is incoming.** S2's early cooldown is long. Pressing it because an enemy walked toward you spends the parry on a moment of damage immunity you did not need and leaves a long stretch of vulnerability you just created. Hold the button until the enemy visibly commits a skill animation: Chou's kick wind-up, Franco's hook release, Eudora's S2 cast. That is the window that converts S2 from a shield into a stun and a full Sword Intent refund.
+
+**Burning Alecto on the enemy tank.** This is the highest-damage mistake a Benedetta player can make. Your ult is a burst tool, not a tank-breaker: dumped into a frontliner's armor and HP pool, it comes out as a dent instead of a kill. Meanwhile the enemy mage, standing safely behind the tank, is now free to cast her full combo with no fear of your follow-up because your ult is on cooldown. If the tank is the only visible target, do not ult. Wait.
+
+**Casting Phantom Slash dash-first instead of shadow-first.** The S1 description creates the wrong instinct. If the shadow hits first, Benedetta's own dash damage is doubled, so the order is the whole skill. The correct cast sequence is: aim the shadow at the target's position, dash directly away from the target to place the shadow in the middle, and let both the shadow slash and your dash path land. Players who dash toward the target and let the shadow land behind them lose roughly half their S1 damage on every cast.
+
+**Forcing the fight before the two-item spike.** Pre-spike Benedetta at minute 6 with only Boots and a partial War Axe runs Alecto into a full-HP marksman and watches them walk away. The same ult at minute 10 with War Axe plus Hunter Strike kills that target. Playing the early game like you have late-game damage invites counter-ganks, feeds shutdown gold, and tilts the map toward the enemy jungler who now knows your ult is on cooldown. Farm the first two items. Do not experiment.
+
+**Diving into Minsitthar or Phoveus without scanning the draft first.** This is the single most preventable loss condition and it happens at the lock-in screen, not in the game. If the enemy has already locked either hero, Benedetta is the wrong pick. If you notice the Minsitthar or Phoveus pick after you have already locked, you play a completely different game: farm under tower, do not roam alone, and wait for your team to kill the Minsitthar before you ever press Alecto. Adapting to a hard counter is not the same as outplaying it.
+
+### Key tips
+
+> [!TIP]
+> Hold the basic attack button during retreats. Benedetta charges Sword Intent whether she is running toward or away from danger. If the enemy commits and you retreat through the lane brush, three auto-attacks on the minion wave arm a full Swordout Slash for an immediate counter-engage when you round the corner. The enemy expects you to be on cooldowns. You are not.
+
+> [!NOTE]
+> Alecto: Final Blow passes through thin terrain. The untargetable dash is not only a gap-closer, it is a positioning tool. Learn the wall angles on the EXP-lane side of the map: the tri-brush wall, the crab wall, and the jungle wall near Lord pit. Dashing through a wall puts you behind the enemy mage's stun angle with Sword Intent pre-charged and no travel path to react to.
+
+> [!TIP]
+> Cast Petrify during Alecto, not during Phantom Slash. The freeze fits the opening of the Sword Intent detonation, and the zone's own slow covers the rest. If you Petrify during S1, the stun expires while you are still dashing and the target walks out before Alecto connects. The correct sequence is Alecto dash -> Petrify on landing -> Phantom Slash inside the zone -> Swordout Slash.
+
+> [!WARNING]
+> An Eye for An Eye does not block turret damage. Diving a lane opponent under tower with S2 pressed does not parry the turret shot; the shot is structure damage, not hero damage. Either Petrify first to interrupt the shot timing, or wait for the enemy to step past the tower line before committing the dash.
+
+## Skills
+
+### Elapsed Daytime (Passive)
+
+Hold the Basic Attack button to enter the Swordout state and charge Sword Intent. Once fully charged, release it to perform a Swordout Slash in the direction she's facing and dash forward, dealing (+215% Total Physical Attack) Physical Damage to enemies on the path (counts as basic attack damage and is reduced to 50% against minions and creeps). Benedetta can only cast Swordout Slash when her Sword Intent is full and she is in the Swordout state. Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.
+
+### Phantom Slash (Skill 1)
+
+Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing 200 (+75% Total Physical Attack) Physical Damage and slowing the enemies by 60% for 0.5s. Meanwhile, Benedetta dashes forward to slash, dealing 75 (+100% Total Physical Attack) Physical Damage. (If the target is hit by her shadow, damage caused by Benedetta herself will increase to 200%.)
+
+### An Eye for An Eye (Skill 2)
+
+Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8s. After this, she stabs in the designated direction, dealing 300 (+80% Total Physical Attack) Physical Damage. If Benedetta successfully fends off any damage while defending, she will gain full Sword Intent. If she fends off any control effects, her subsequent stab stuns the target for 1.5s.
+
+### Alecto: Final Blow (Ultimate)
+
+Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5s, the Sword Intent deals up to a total of 1560 (+1105% Extra Physical Attack) Physical Damage to enemies within and slows them by 50%.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Swordout Slash to get close to the enemy, then use Benedetta's Ultimate where the enemy is clustered, and follow up with her 1st Skill for additional damage and 2nd Skill to block incoming CC.
+- LANING COMBOS (laning): In the laning phase, gather Sword Intent by holding Benedetta's Basic Attack button, then use Swordout Slash after Sword Intent is maxed to strike the enemy. Follow up with her 1st Skill and try to max out Sword Intent again by blocking the enemy's attack with her 2nd Skill, then end the combo with another Swordout Slash.
+
+## Counters to Benedetta (pick these against Benedetta)
+
+- Phoveus (Fighter): +3.8 pp edge. Benedetta is countered by heroes with skills that shutdown mobility skills, such as Minsitthar and Phoveus, since all of Benedetta's skills are considered mobility.
+- Obsidia (Marksman): +3.1 pp edge. Obsidia has a statistical edge over Benedetta based on ranked matchup data. Pick Obsidia to gain an advantage in draft.
+- Mathilda (Support/Assassin): +2.9 pp edge. Mathilda's protective abilities and vision control make it difficult for Benedetta to find isolated targets.
+- Irithel (Marksman): +2.5 pp edge. Irithel has a statistical edge over Benedetta based on ranked matchup data. Pick Irithel to gain an advantage in draft.
+- Cici (Fighter): +2.3 pp edge. Cici's sustain and durability allow them to outlast Benedetta's burst combos and win extended trades.
+- Selena (Assassin/Mage): +1.8 pp edge. Selena has a statistical edge over Benedetta based on ranked matchup data. Pick Selena to gain an advantage in draft.
+- Yi Sun-shin (Assassin/Marksman): +1.8 pp edge. Yi Sun-shin has a statistical edge over Benedetta based on ranked matchup data. Pick Yi Sun-shin to gain an advantage in draft.
+- Paquito (Fighter/Assassin): +1.5 pp edge. Paquito's durability and kit give them a strong matchup advantage against Benedetta throughout the game.
+
+## Heroes Benedetta beats
+
+- X.Borg (Fighter): +3.9 pp edge for Benedetta.
+- Alpha (Fighter): +3.7 pp edge for Benedetta.
+- Silvanna (Fighter): +3.2 pp edge for Benedetta.
+- Thamuz (Fighter): +2.8 pp edge for Benedetta.
+- Ixia (Marksman): +2.8 pp edge for Benedetta.
+- Hanabi (Marksman): +2.7 pp edge for Benedetta.
+- Vexana (Mage): +2.1 pp edge for Benedetta.
+- Luo Yi (Mage): +2.1 pp edge for Benedetta.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/benedetta.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-08. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Lane Standard (EXP)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Malefic Roar, Queen's Wings, Blade of the Heptaseas
+- Core: War Axe, Hunter Strike, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Petrify
+- Flex: Blade of Despair over Blade of the Heptaseas when Swap to Blade of Despair when you are snowballing and need the late-game one-shot on the first target.; Brute Force Breastplate over Queen's Wings when Use against sustained physical damage cores (Beatrix, Moskov, Karrie) where stacking defenses over a long fight beats a single burst window.; Immortality over Queen's Wings when Use in the late-game deciding fight where the revive is worth more than the mid-fight damage reduction.
+- Total cost: 11070 gold
+
+Default EXP-lane setup. War Axe into Hunter Strike spikes at minute 8-11, then Malefic Roar keeps the ult lethal past minute 12. Queen's Wings gives the anti-burst window to survive the first CC rotation. Blade of the Heptaseas synergizes with flanking approach vectors where you are out of combat until the moment you dash in.
+
+### EXP Lane Anti-Physical (EXP)
+
+- Items: Warrior Boots, War Axe, Hunter Strike, Blade of the Heptaseas, Malefic Roar, Brute Force Breastplate
+- Core: War Axe, Hunter Strike, Blade of the Heptaseas
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Petrify
+- Flex: Dominance Ice over Brute Force Breastplate when Use against lifesteal fighters (Freya, Zilong, Argus) where the Lifebane aura suppresses their sustain and Fortress Shield adds hybrid defense in close quarters.; Blade of Despair over Blade of the Heptaseas when Use when snowball is confirmed and the extra 160 Physical Attack plus Despair passive closes games.; Immortality over Brute Force Breastplate when Use as a late-game swap when one fight decides the match and the revive is the margin.
+- Total cost: 10710 gold
+
+Anti-physical setup for enemy comps stacking AD damage with minimal CC. Warrior Boots plus Brute Force Breastplate stacking gives scaling Physical Defense and movement speed that keeps Benedetta alive through extended trades where Queen's Wings would only trigger once.
+
+### Jungle Assassin (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Blade of the Heptaseas, Malefic Roar, Queen's Wings
+- Core: War Axe, Hunter Strike, Blade of the Heptaseas
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Blade of Despair over Blade of the Heptaseas when Use when the game goes past minute 14 and you need the 160 Physical Attack to one-shot the enemy carry with a single Alecto rotation.; Immortality over Queen's Wings when Use in the final teamfight when the revive timer matters more than the mid-fight damage reduction.; Sea Halberd over Malefic Roar when Use against heavy sustain or shield comps (Rafaela, Estes, Angela, Esmeralda) where Lifebane is worth more than the penetration.
+- Total cost: 11070 gold
+
+Jungle Benedetta with Ice Retribution for the movement speed steal on ganks. The Heptaseas early buy lines up with the first rotation timing and gives Ambush proc on every flank. Queen's Wings provides the survive-the-engage layer since junglers have less CC peel than EXP-lane setups.
+
+All builds for this hero: https://mlbbhub.com/builds/benedetta.
+
+## Synergies
+
+- Johnson: Benedetta works well with strong CC initiators, like Johnson and Gatotkaca, because they allow her to maximize the effects of her Ultimate.
+- Gatotkaca: Benedetta works well with strong CC initiators, like Johnson and Gatotkaca, because they allow her to maximize the effects of her Ultimate.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

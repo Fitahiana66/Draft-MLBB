@@ -1,0 +1,205 @@
+# Khaleed, Desert Scimitar
+
+> Khaleed is sold in the hero pool as an EXP fighter, but the version that actually wins games in 2026 is a roamer carrying Thunder Belt. The Desert Power passive plus a Thunder Belt proc is the single cleanest true-damage tick a non-jungler can produce, and his ultimate is the longest CC-immune forced engage in the roam pool.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: Roam, EXP
+- Specialty: Damage, Regen
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 50.83%
+- Pick rate: 0.12%
+- Ban rate: 0.08%
+- Released: 2020
+- Page: https://mlbbhub.com/heroes/khaleed
+
+## Guide
+
+### Is Khaleed the right roamer for this draft?
+
+Lock Khaleed when your team already has two damage threats and needs an initiator who can walk the long route between lanes without buying a mana item. He wins the draft against squishy-mage comps (Marcel, Silvanna, Ling, Hanzo) where his ult lands straight on the backline and the enhanced basic slow pins them before they can escape. His S2 self-heal plus damage reduction means he trades well in pure melee scuffles where no one has a hard displacement.
+
+Avoid him when the enemy has Phoveus, Khufra, or Chou. Phoveus's revamped kit punishes exactly what Khaleed does: his ultimate is CD-free and leaps onto any hero he marks with Dark Wave, and Astaros' Gaze trims his cooldowns every time you dash near him, so the Raging Sandstorm charge feeds Phoveus's rotation instead of opening the fight. Khufra's S2 ball can cancel the ult at the landing and wastes Khaleed's only hard gap-closer for a full rotation. Chou out-mobilities him in both directions and punishes an over-extended engage with a displaced ult.
+
+If your draft has no tank and you are considering Khaleed to fill the slot, he is the wrong answer. Khaleed peaks around 20 minutes and falls off into Yu Zhong, Uranus, and Esmeralda in the 25+ window. If you cannot name a primary damage carry who is scaling past him, someone else should be rotating.
+
+Patch 2.1.88 ([patch notes](/patch-notes)) trimmed his early Desert Tornado burst and shortened his Quicksand Guard cooldown. That only sharpens the read: play him as a durable engage roamer who survives the first exchange and re-commits, not as a damage threat who deletes a backline.
+
+### The one thing that makes Khaleed work
+
+Khaleed is not a fighter. He is a mobile CC platform whose basic attacks true-damage-proc defense items.
+
+Sand Walk charges while he is moving, not while he is fighting, which is why he is a roamer and not a laner. A roamer walks more than a laner in the first ten minutes, and every step charges the next enhanced basic. That enhanced basic lands a heavy slow on the target, which is enough time to land all three casts of Desert Tornado on them and long enough for a Thunder Belt proc to add true damage in the same window. Nothing else in the kit makes sense without this loop. S2 exists to survive the part of the fight before the loop resets. The ult exists to start the loop on a target who is not standing next to him yet.
+
+The tell for a good Khaleed is whether he arrives at the fight with Desert Power already charged. If he crosses the river with no orange ring under his feet, he is playing the kit wrong.
+
+### Laning: the first six minutes
+
+Khaleed is a roamer. He visits lanes; he does not own one. The opening rotation is the game.
+
+1. **Take S1 at level 1 and start at the buff your jungler does not want.** Usually that means starting red if your jungler takes blue, then rotating to river before minions clash. Desert Power charges during the walk, so by the time you arrive at mid, your enhanced basic is ready for the first harass window.
+2. **First gank target is the squishy mid mage.** Ult at an angle so the knockback pushes them into your mid laner, not into their own tower. If you ult straight down-lane, you hand them free tower range. If you ult from the side, the stun lands in kill range.
+3. **Never cast S2 before you are already committed.** Quicksand Guard is a Focused Cast, which means any CC interrupts it and you eat the full combo with no heal and no damage reduction. Use it after the fight has started and the enemy has blown their first hard lock, not as a pre-emptive shield.
+
+### The power spike you are farming toward
+
+Thunder Belt plus a boot upgrade. That is the whole conversation.
+
+[Thunder Belt](/items/thunder-belt) turns a periodic basic attack into a true-damage tick that scales with your defensive stats instead of your attack, and staples a near-total slow onto the target for a beat. Because the proc reads your physical and magic defense, every tank item you buy quietly raises that tick. Khaleed's enhanced basic already carries its own slow, and Desert Power recharges fast enough during rotations that the enhanced basic comes back every few seconds of walking. Land the two on the same swing and a squishy is frozen in place long enough for your team's follow-up to connect.
+
+Before Thunder Belt the hero ganks. After Thunder Belt the hero executes. That is the line. The spike lands around the 9 to 12 minute mark depending on rotation farm, and it is the point where Khaleed stops being a nuisance and starts being the reason a fight opens.
+
+### Teamfight positioning and target priority
+
+The reflex when you play a mana-less fighter with a big ult is to charge first and ask questions later. On Khaleed that reflex gets your team aced.
+
+1. **Ult last, not first.** Raging Sandstorm is CC-immune during the charge but it is loud and slow, which means any tank with a ready engage tool (Khufra ball, Atlas ult, Tigreal hook) will catch you the instant you land. Let your primary tank burn the enemy's hard CC first, then ult into the backline while their lock is on cooldown.
+2. **Angle the ult to knock them toward your team, not through it.** The knockback path runs from Khaleed's start position to the destination. If you ult from behind the enemy carry, they get shoved further from your team and toward their own support. Ult from the side or from your team's flank so the displacement lands them inside your damage.
+3. **S1 is a commit, not an escape.** Desert Tornado is an AoE whirl that pulls enemies in and lets you reposition a step between each of its three casts. It is sticking power, not a getaway: it barely moves you and it dodges nothing. Cast it when you already have a target pinned, not as a panic button when you are the one caught out.
+
+Edge case: if your support is Angela or Faramis, you can ult further forward than usual because Angela's shield follows you through the charge and Faramis can rez the greed. If your second frontliner is Johnson or Franco, stay conservative; both of them expect the initiator to survive their own engage.
+
+### Itemization: defaults vs flex slots
+
+Two slots are locked, four are real conversations.
+
+**Locked**: Warrior Boots or Tough Boots (read the enemy comp, not the guide) and Thunder Belt. Go Tough Boots if the enemy has two CC threats or two burst mages; the 30% slow and CC duration reduction is worth more than 18 physical defense in every roam fight.
+
+**Flex slot 1 is anti-heal when the enemy has Estes, Esmeralda, Alice, or Yu Zhong.** [Dominance Ice](/items/dominance-ice) is the right pick over [Sea Halberd](/items/sea-halberd) for this build: its Lifebane cuts the shield and HP regen of every enemy within 5 units to 60% of normal, which is always ticking in a melee where your whole job is to stand in the middle of the fight, and its 40 physical defense plus 5% movement speed feed the Thunder Belt proc and Desert Power rotations. Sea Halberd's cut lasts three seconds on your target, but the attack stats on it fight the defense-scaling thesis of this build.
+
+**Flex slot 2 is defense scaling**. Against a physical-heavy enemy take [Antique Cuirass](/items/antique-cuirass) for the stacking damage reduction against skill users. Against a mage-heavy enemy take [Athena's Shield](/items/athenas-shield) for the 25% magic damage reduction on hit. Do not take both; the second defensive item should be situational, not symmetric.
+
+**Flex slot 3 is utility**. [Oracle](/items/oracle) is underrated on Khaleed specifically because its Bless passive increases received shield and HP regen effects by 25%, which makes the S2 heal roughly a quarter bigger during the focused cast. Alternatively, [Queen's Wings](/items/queens-wings) if you are the primary engage and dying first; the 30% damage reduction under 40% HP plus the 2-second cooldown refund means you get S2 back faster when it matters.
+
+**Flex slot 4 is closer**. [Immortality](/items/immortality) is the default if the fights are lasting past 6 seconds. If the enemy has two burst assassins who erase you the moment the revive lands, skip Immortality entirely and take [Guardian Helmet](/items/guardian-helmet) for the 2.5% max HP regen that lets you pressure lanes without base trips.
+
+The weakest common buy is [Blade Armor](/items/blade-armor). Every guide recommends it against auto-attackers but Khaleed has no way to force them to basic him; his S2 pulses quicksand, not a taunt, and his ult is a displacement that moves enemies away from him. Blade Armor punishes stationary trades Khaleed is not built to hold.
+
+### Mistakes that lose Khaleed games
+
+**Casting S2 before the enemy burns their hard CC.** Quicksand Guard is a Focused Cast. Any stun, knockup, silence, or displacement cancels it and refunds nothing. Players instinctively press S2 when their HP drops below 60% because they see the shield icon in their head, but if the enemy has not used their lock yet, the cast gets interrupted, you lose the heal, and the self-slow from the quicksand pool keeps you pinned. Correct order: eat the first CC, survive it with your HP bar and Thunder Belt's defense stats, then S2 during the 3-second window before their cooldowns come back.
+
+**Ulting into Khufra ball.** Raging Sandstorm is CC-immune during the charge, not at the destination. The instant Khaleed reaches the end of the dash, his CC immunity ends and the stun he applies to enemies can also be applied to him. Khufra timing her S2 to intercept the landing is a free cancel every time. Against Khufra, save the ult until her S2 is on cooldown, or use it as a disengage out of her engage rather than into her.
+
+**Expecting S1 to close the gap.** Desert Tornado pulls enemies into you and lets you shuffle a step between casts, but it is not a dash and it will not chase a target who is already running. Khaleed's only real gap-closers are the Sand Walk glide and the ult charge. If you walk into a gank expecting the whirl to catch a fleeing squishy, you whiff the combo and hand them the kill. Arrive already on top of the target with Desert Power charged, or do not commit at all.
+
+**Buying damage items on a roam build.** Corrosion Scythe, Blade of Despair, and Haas's Claws all look tempting because the enhanced basic does physical damage that scales with total physical attack. They are traps on a roamer because Khaleed does not have enough farm priority to reach the two-item spike before 18 minutes, and a physical-damage Khaleed with no defense stats gets deleted by any assassin who walks to the side lane. Thunder Belt plus tank items does more damage in a real fight because the Thunder Belt proc scales with the defense stats you are already buying.
+
+**Rotating without Desert Power charged.** Arriving at a gank with the orange ring still filling means the first enhanced basic is 2 to 3 seconds away, which is exactly long enough for the squishy target to Flicker out. Take the long path between lanes instead of the direct one. Walk the river bushes on the way to mid rather than cutting through tri-bush. The few extra seconds of movement are what makes the gank lethal.
+
+### Key tips
+
+> [!TIP]
+> Thunder Belt's true-damage proc ignores armor, magic resistance, and damage reduction. That is why it works against Uranus and Yu Zhong specifically: both stack defense stats that blunt physical damage, but the Thunder Belt tick scales with your defense, not theirs, so it does not care how tanky they are.
+
+> [!NOTE]
+> The Desert Power ring is visible to enemies. Good mages will intentionally trade a spell to force you to burn your enhanced basic before the gank lands. Against Pharsa, Valentina, or Kagura specifically, pre-charge out of vision and enter the lane already loaded rather than walking in neutrally.
+
+> [!TIP]
+> Desert Tornado lets you reposition between its three casts, and that reposition is the whole skill ceiling. As enemies scatter out of the first whirl, drift toward the carry trying to walk out so the second and third casts re-center the pull on them, instead of re-hitting the frontliner you already caught.
+
+> [!NOTE]
+> Against Phoveus, your movement is his fuel. The revamped kit no longer resets his ultimate off enemy dashes: Infernal Pursuit is CD-free and leaps onto any hero he marks with Dark Wave, and Astaros' Gaze trims his cooldowns every time you dash, blink, or get displaced within 8 units. Treat it as a distance problem, not an ult-restraint problem: keep the Sand Walk glide outside that radius, and never commit the Raging Sandstorm charge while a Dark Wave mark is already on you, because the leap is coming either way.
+
+> [!TIP]
+> Take [Flicker](/spells) over [Sprint](/spells) even though the hero has built-in mobility. Sprint wastes a slot on a hero who already gets a movement-speed surge from Sand Walk and a long ult charge. Flicker after landing the ult is how you reposition for the cleanup: the ult's destination is exactly where the enemy wants to kite you from, and a Flicker onto the stunned target closes the last stretch before their team arrives.
+
+## Skills
+
+### Sand Walk (Passive)
+
+Khaleed accumulates Desert Power while moving. After Desert Power is fully charged, he will glide on sand, increasing Movement Speed by 35%, making his next Basic Attack deal 50 (+140% Total Physical Attack) Physical Damage to the target (cannot Crit), and reducing the target's Movement Speed by 40% for 1.5s.
+
+### Desert Tornado (Skill 1)
+
+Khaleed whirls his scimitar, dealing 175 (+130% Total Physical Attack) Physical Damage to enemies in the area and pulling them toward him. This skill can be used up to 3 time(s) in a row. This skill deals 60% damage to Minions and Creeps.
+
+### Quicksand Guard (Skill 2)
+
+Khaleed protects himself with quicksand, restoring HP equal to 60 + 5% of his lost HP and 10 Desert Power every 0.5s. He also gains 25% Damage Reduction for up to 4s. While channeling, quicksand appears beneath him, slowing the enemy by 60%. This is a Focused Cast. Other control effects will interrupt this skill.
+
+### Raging Sandstorm (Ultimate)
+
+Khaleed rides the sandstorm and charges toward a designated location, dealing 100 (+50% Total Physical Attack) Physical Damage to enemies along the way and knocking them toward his destination. Khaleed is immune to control effects during this process. Upon reaching the destination, Khaleed will smash the ground, dealing 450 (+160% Total Physical Attack) Physical Damage to enemies in the area and stunning them for 1s, and fully charge his Desert Power.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- LANING COMBOS (laning): In the laning phase, move around to fill up Khaleed's Desert Power first, then hit the opponent with the enhanced Basic Attack to slow them and follow up with 3 hits from his 1st Skill. This should fill up his Desert Power again, allowing for another enhanced Basic Attack.
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Khaleed's Ultimate to initiate, then hit a target with his enhanced Basic Attack and continue the attack with his 1st Skill. Once Desert Power is full again, use another Basic Attack. Then use Khaleed's 2nd Skill to recover HP and reduce incoming damage.
+
+## Counters to Khaleed (pick these against Khaleed)
+
+- Fredrinn (Fighter/Tank): +2.9 pp edge. Fredrinn's durability and kit give them a strong matchup advantage against Khaleed throughout the game.
+- Phoveus (Fighter): +2.8 pp edge. Phoveus's durability and kit give them a strong matchup advantage against Khaleed throughout the game.
+- Joy (Assassin): +2.7 pp edge. Joy has a statistical edge over Khaleed based on ranked matchup data. Pick Joy to gain an advantage in draft.
+- Alice (Tank/Mage): +2.3 pp edge. Alice's durability and kit give them a strong matchup advantage against Khaleed throughout the game.
+- Lesley (Marksman/Assassin): +2.3 pp edge. Lesley has a statistical edge over Khaleed based on ranked matchup data. Pick Lesley to gain an advantage in draft.
+
+## Heroes Khaleed beats
+
+- Helcurt (Assassin): +2.6 pp edge for Khaleed.
+- Diggie (Support): +2.6 pp edge for Khaleed.
+- Yin (Fighter/Assassin): +2.5 pp edge for Khaleed.
+- Hanabi (Marksman): +2.3 pp edge for Khaleed.
+- Johnson (Tank/Support): +1.9 pp edge for Khaleed.
+- Gusion (Assassin): +1.8 pp edge for Khaleed.
+- Novaria (Mage): +1.7 pp edge for Khaleed.
+- Miya (Marksman): +1.6 pp edge for Khaleed.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/khaleed.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Thunder Control (Roam)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Oracle, Antique Cuirass, Immortality
+- Core: Thunder Belt, Dominance Ice, Oracle
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Radiant Armor over Antique Cuirass when Use against repeated magic poke, burn, or DPS that keeps hitting Khaleed while Quicksand Guard is channeling.; Athena's Shield over Antique Cuirass when Use when one burst mage decides the fight before Khaleed can spend the S2 heal.; Rapid Boots over Tough Boots when Use when the enemy has low crowd control and Khaleed's main job is crossing river first for vision and Thunder Belt stacks.
+- Total cost: 10680 gold
+
+Default roam setup that turns Sand Walk into a Thunder Belt engage tool while keeping enough defense to survive after the first ult angle.
+
+### Roam Rapid Vision (Roam)
+
+- Items: Rapid Boots, Thunder Belt, Dominance Ice, Oracle, Radiant Armor, Immortality
+- Core: Thunder Belt, Dominance Ice, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Tough Boots over Rapid Boots when Use when chain crowd control makes Rapid Boots rotations less valuable than Fortitude's shorter lockout windows.; Antique Cuirass over Radiant Armor when Use against physical skill chains from fighters or assassins that can cancel Quicksand Guard before it restores enough HP.; Athena's Shield over Radiant Armor when Use against one-shot magic burst rather than repeated magic chip.
+- Total cost: 10440 gold
+
+Fast-map roam setup for games where Khaleed wins by arriving first, marking targets with Focusing Mark, and feeding allied damage through Encourage.
+
+### EXP Sustain Bruiser (EXP)
+
+- Items: Warrior Boots, War Axe, Thunder Belt, Oracle, Queen's Wings, Immortality
+- Core: War Axe, Thunder Belt, Oracle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Tough Boots over Warrior Boots when Use against heavy magic crowd control where one failed channel removes Khaleed's sustain window.; Dominance Ice over Queen's Wings when Use when the enemy EXP or gold laner relies on healing, shields, or attack speed more than burst damage.; Antique Cuirass over Queen's Wings when Use when physical skill burst forces Khaleed to spend Quicksand Guard defensively every fight.; Malefic Roar over Immortality when Use only when ahead into armor-stacking frontliners and the team already has a safer primary engage.
+- Total cost: 10870 gold
+
+EXP lane setup for extended melee games where Khaleed needs War Axe pressure, Thunder Belt scaling, and enough sustain to hold side-lane tempo.
+
+All builds for this hero: https://mlbbhub.com/builds/khaleed.
+
+## Synergies
+
+- Roger: Because Khaleed can deal a lot of AOE damage, he works well with heroes like Roger and Karina who excel at finishing off multiple low HP targets.
+- Karina: Because Khaleed can deal a lot of AOE damage, he works well with heroes like Roger and Karina who excel at finishing off multiple low HP targets.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,201 @@
+# Belerick, Guard of Nature
+
+> Belerick is a punishment tank, not a universal frontliner. Pick him when the enemy damage plan must hit your body many times before it reaches your carries. If the lobby is built around long-range poke, true damage, or instant backline dives, he becomes a slow tree walking into the wrong storm.
+
+## Snapshot
+
+- Role: Tank
+- Lane: Roam
+- Also played (MLBBHub editorial, not Moonton's listed lane): EXP
+- Specialty: Crowd Control, Regen
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 52.13%
+- Pick rate: 1.75%
+- Ban rate: 55.76%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/belerick
+
+## Guide
+
+### Draft Belerick when the enemy has to keep hitting
+
+Belerick is correct when the enemy draft has at least two heroes who need repeated basic attacks or short-range commit patterns to win fights. Claude, Moskov, Miya, Layla, Ixia, Wanwan, and Melissa all hate being forced to hit a tank who returns damage and drags them into taunts. He is also useful when your team already has follow-up damage waiting behind him, because his crowd control buys windows rather than solo kills.
+
+The trap is picking him as a generic "we need a tank" answer. He does not start fights from fog as cleanly as Atlas, Tigreal, Franco, or Khufra. Ancient Seed has a delay, Wrath of Dryad is centered on his own body, and Nature's Strike is a chase tool rather than a real blink. If your team has no first-contact button, Belerick often arrives half a second late.
+
+He is disqualified by three draft signs. First, Karrie or Dyrroth can punish his high-HP identity instead of feeding it. Second, Valir, Pharsa, Xavier, and Yve can hit from ranges where Deadly Thorns does not decide the trade. Third, Purify-heavy backlines can erase the taunt window that your team needs to convert. In those lobbies, choose a frontliner with displacement, suppression, or faster peel.
+
+When he is right, lock him late. Let the enemy marksman and fighter show their damage pattern first, then turn their confidence into a liability.
+
+### His kit is a damage receipt
+
+Belerick works because every enemy attack against him creates a second problem for the attacker. Deadly Thorns turns incoming damage into return fire, and his passive makes HP from equipment and emblems more valuable than it looks on the item card. He wants enemies to choose between ignoring him while he blocks space or hitting him and paying for the privilege.
+
+That identity explains the rest of the kit. Ancient Seed is not a sniper skill. It is a delayed line of denial that punishes the path an enemy wants to take. Nature's Strike is the glue: it speeds Belerick up, gives him a slowed enhanced hit, heals him, and comes back faster when thorns keep triggering. Wrath of Dryad is the punishment button once multiple enemies have already stepped inside his body range.
+
+The mistake is treating Belerick like a hard engage hero. He is stronger as a contact tax. Walk into the route the enemy carry needs, force them to spend attacks into you, then use the taunt after their dash, battle spell, or cleanse has already been pressured.
+
+### Laning: the first eight minutes
+
+1. **Guard the first jungle entrance, not a side lane.** Take Ancient Seed first and stand where your jungler can punish anyone who walks into the river or buff choke. Plant the seed on the exit path, because the taunt matters only if the enemy is forced to keep moving through it.
+2. **Unlock Nature's Strike before forcing a real fight.** Belerick needs the speed-up and enhanced slow before his delayed taunt becomes reliable. At level 2, play around river vision and crab contests rather than standing in lane soaking minions your core should collect.
+3. **Spend spell tempo only when it creates a kill or objective.** Vengeance is for the moment the enemy carry has committed to attacking you. Flicker is for crossing the last gap before S1 or ultimate. Revitalize is for a Turtle or tower fight where your team will stay inside the healing field.
+
+Your first eight minutes should create information. Check bushes with your body only when your damage dealer can hit the revealed target. Rotate before the Turtle timer, sit between your jungler and the enemy mid, and do not chase a marksman across lane if it leaves your own jungle entrance uncovered.
+
+### The spike is when burn and anti-sustain overlap
+
+Belerick farms toward a two-item defensive identity, not a burst combo. Cursed Helmet plus Dominance Ice around the 9 to 12 minute window changes him from a bodyguard into a walking fight tax. Cursed Helmet gives him HP, nearby burn, and extra wave pressure. Dominance Ice taxes whoever stays close enough to fight you: nearby enemies' healing and shields weaken to 60% of normal while Fortress Shield stacks Hybrid Defense on you, which lines up exactly with a taunt.
+
+Once both pieces are online, his job changes. Before the spike, you are buying space and avoiding pointless solo deaths. After the spike, you can stand at the mouth of Lord pit, under a contested outer turret, or in front of a siege wave and ask the enemy marksman to make the first mistake. If they hit you, they lose tempo to thorns, burn, Lifebane pressure, and your returning Nature's Strike.
+
+Do not confuse the spike with permission to 1v5. Belerick still needs allies close enough to convert the taunt. The item pair buys time and punishes sustained damage, but it does not replace burst follow-up from your mage, jungler, or gold laner.
+
+### Teamfight positioning and target priority
+
+The common wrong reflex is turning around to chase every assassin who appears behind you. Belerick's peel is delayed, and delayed peel loses to fast burst. Your better answer is to control the lane the enemy carry or fighter must use before the dive starts.
+
+1. **Stand one body length in front of your damage line.** If you stand too far ahead, the enemy kites you. If you stand behind your marksman, you are asking Ancient Seed to solve a problem after the damage has already landed.
+2. **Hold S1 until the movement decision is forced.** Cast it on the retreat line after Nature's Strike slows, after a wall or jungle choke limits the path, or after your teammate has already started a CC chain. Raw S1 into open ground is a warning, not a catch.
+3. **Use ultimate for clusters, not ego duels.** Wrath of Dryad wins when two or more enemies are grouped around Lord, Turtle, a turret dive, or a choke entrance. Spending it on one mobile assassin usually trades your best fight button for a target your team still cannot reach.
+
+There is one support-dependent edge case. With Estes, Rafaela, or Angela behind him, Belerick can take the first contact earlier because extra healing extends the thorns window. Without that support layer, he must be stricter: show first, absorb the first rotation, then re-engage only when his damage dealers are in range.
+
+### Itemization: locked jobs and real flex slots
+
+Belerick's item logic starts with jobs, not a fixed six-item chant. Roam boots are mandatory when he is the roamer. Tough Boots are the default because crowd control duration matters more than a small armor bump, while the blessing depends on the fight plan. Encourage is the default when your damage line wants attack speed and extra damage. Conceal is the engage version when your team lacks a clean fog entry. Favor is weaker on him because his self-only healing does not trigger the blessing for allies.
+
+Cursed Helmet is the usual HP and burn piece when the enemy has to fight near you. Dominance Ice is the anti-sustain answer when the enemy carry, fighter, or healer relies on healing or shields. Those two items are the core conversation in most ranked Belerick games.
+
+The flex slots decide whether you survive the damage type that actually matters. Antique Cuirass is for repeated physical skill damage from fighters and assassins. Blade Armor is for crit or basic-attack marksmen who cannot stop hitting you during taunt. Athena's Shield answers single magic burst, while Radiant Armor answers repeated magic ticks and poke. Oracle is the sustain amplifier when your team has healing or when you need more Nature's Strike value. Guardian Helmet is the reset item for long sieges where you must check bushes, leave combat, heal, and return before the next wave.
+
+The greedy trap is buying every HP item just because the passive likes HP. Belerick still dies if the chosen resistance does not match the enemy's real damage. Against Karrie, Dyrroth, or penetration-heavy drafts, raw HP can become the enemy's damage source.
+
+### Mistakes that lose Belerick games
+
+**Opening S1 into mobile heroes.** Ancient Seed has to wait before the taunt lands. Lancelot, Ling, Fanny, and Harith can leave before it matters. Force the dash or slow first with Nature's Strike, then place S1 on the path they must take next.
+
+**Standing alone because you feel unkillable.** Belerick's damage is punishing, not explosive. If you face-check without your mage or jungler close enough to follow, the enemy can kite, wait out Vengeance, then finish you after your team has gained nothing.
+
+**Building Dominance Ice blindly as the first expensive item.** It is correct when recovery or shield value is already the problem. If the first threat is magic poke or physical skill burst, Athena's Shield, Radiant Armor, or Antique Cuirass may keep you alive long enough for Dominance Ice to matter later.
+
+**Trying to counter Karrie by buying more HP.** Karrie is one of the cleanest answers to Belerick because she turns tank health into her own win condition and has enough mobility to avoid sloppy S1 casts. In that matchup, play for crowd-control chains with teammates instead of pretending item bulk solves it.
+
+**Burning ultimate on the first target in range.** A single taunted fighter is rarely worth your main teamfight button. Hold it for the choke, the Lord turn, or the moment the enemy marksman follows their frontline too closely.
+
+### Key tips
+
+> [!TIP]
+> Belerick's best engage often starts with walking, not casting. If the enemy carry has to move through you to hit your backline, you have already created the condition your kit wants.
+
+> [!NOTE]
+> Vengeance is strongest after the enemy commits to hitting you. Pressing it before the marksman or fighter is locked into their damage pattern wastes the reflection window.
+
+> [!TIP]
+> Against Purify users, do not spend ultimate first. Force Purify with S1 or a teammate's control, then use Wrath of Dryad when their cleanse is gone.
+
+> [!NOTE]
+> If your team has no follow-up damage near Lord, do not start the fight just because you found a three-man taunt angle. Belerick creates the receipt, but someone else has to collect it.
+
+## Skills
+
+### Deadly Thorns (Passive)
+
+Whenever Belerick takes 50 or more damage, he has a 25% chance to shoot the nearest enemy unit, dealing 55 (+5*Hero Level) (+ 1.8% of his Max HP) Magic Damage (scales with level). This attack can be triggered once every 0.4s. His HP obtained from equipment and emblems is increased by 30%.
+
+### Ancient Seed (Skill 1)
+
+Belerick releases vines in a designated direction, dealing 200 (+50% Total Magic Power) Magic Damage to enemies along the path and slowing them by 25%. Ancient Seeds left by the vines will erupt into thorns after 0.8s, dealing 200 (+50% Total Magic Power) Magic Damage to enemies on the path and taunting them for 1.2s. Deals 80% extra damage against Minions.
+
+### Nature's Strike (Skill 2)
+
+Belerick gains 80% Movement Speed (decays over 2s) and enhances his next Basic Attack. The enhanced Basic Attack deals 300 (+60% Total Magic Power) Magic Damage and slows the target by 60% for 1.4s. Belerick also recovers HP equal to 240 + 10% of his lost HP. Each time Deadly Thorns is triggered, this skill's cooldown is reduced by 1s.
+
+### Wrath of Dryad (Ultimate)
+
+Belerick conjures spreading vines around him, dealing 100 (+30% Total Magic Power) Magic Damage to enemies in the area 4 times, taunting and slowing them for 1.5s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- LANING COMBOS (laning): In the laning phase, use Belerick's 2nd Skill to close the distance with the opponent and slow them with his enhanced Basic Attack, then follow up with his 1st Skill to CC them.
+- TEAMFIGHT COMBOS (teamfight): In teamfights, charge into the enemy formation with Belerick's 2nd Skill and taunt as many targets as possible with his Ultimate, then follow up with his 1st Skill to keep them taunted.
+
+## Counters to Belerick (pick these against Belerick)
+
+- Beatrix (Marksman): +3.2 pp edge. Beatrix has a statistical edge over Belerick based on ranked matchup data. Pick Beatrix to gain an advantage in draft.
+- Brody (Marksman): +3.2 pp edge. Brody has a statistical edge over Belerick based on ranked matchup data. Pick Brody to gain an advantage in draft.
+- Marcel (Support): +3.0 pp edge. Marcel has a statistical edge over Belerick based on ranked matchup data. Pick Marcel to gain an advantage in draft.
+- Lesley (Marksman/Assassin): +3.0 pp edge. Lesley has a statistical edge over Belerick based on ranked matchup data. Pick Lesley to gain an advantage in draft.
+- Cici (Fighter): +2.8 pp edge. Cici's durability and kit give them a strong matchup advantage against Belerick throughout the game.
+- Leomord (Fighter): +2.6 pp edge. Leomord's durability and kit give them a strong matchup advantage against Belerick throughout the game.
+- Xavier (Mage): +2.5 pp edge. Belerick is countered by heroes with long-range attacks like Valir and Xavier.
+- Clint (Marksman): +2.2 pp edge. Clint has a statistical edge over Belerick based on ranked matchup data. Pick Clint to gain an advantage in draft.
+
+## Heroes Belerick beats
+
+- Miya (Marksman): +3.4 pp edge for Belerick.
+- Silvanna (Fighter): +3.0 pp edge for Belerick.
+- Zilong (Fighter/Assassin): +2.8 pp edge for Belerick.
+- Zhask (Mage): +2.8 pp edge for Belerick.
+- Saber (Assassin): +2.7 pp edge for Belerick.
+- Melissa (Marksman): +2.4 pp edge for Belerick.
+- Minsitthar (Fighter): +2.0 pp edge for Belerick.
+- Aurora (Mage): +1.6 pp edge for Belerick.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/belerick.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-07. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Punishment (Roam)
+
+- Items: Tough Boots, Cursed Helmet, Dominance Ice, Oracle, Immortality, Guardian Helmet
+- Core: Cursed Helmet, Dominance Ice, Oracle
+- Emblem: Tank Emblem with Vitality, Tenacity, Brave Smite
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Athena's Shield over Oracle when Use when the first threat is single-rotation magic burst before your sustain loop starts.; Radiant Armor over Oracle when Use into repeated magic ticks or poke that keeps tagging you before the engage.
+- Total cost: 11100 gold
+
+Default roam setup for punishing attack-speed carries that keep hitting your frontline.
+
+### Fog Engage (Roam)
+
+- Items: Tough Boots, Cursed Helmet, Dominance Ice, Antique Cuirass, Immortality, Guardian Helmet
+- Core: Cursed Helmet, Dominance Ice, Antique Cuirass
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Oracle over Guardian Helmet when Use when your team has Estes, Rafaela, Angela, or another sustain source extending front-to-back fights.; Blade Armor over Antique Cuirass when Use when the main physical threat is repeated basic attacks instead of skill burst.
+- Total cost: 11410 gold
+
+Engage variant for teams that need Belerick to create the first body-range taunt from fog.
+
+### Anti-Basic Wall (Roam)
+
+- Items: Tough Boots, Dominance Ice, Blade Armor, Cursed Helmet, Immortality, Guardian Helmet
+- Core: Dominance Ice, Blade Armor, Cursed Helmet
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Antique Cuirass over Blade Armor when Use if the physical carry threat comes from skills or assassins rather than basic attacks.; Athena's Shield over Guardian Helmet when Use when a burst mage is deleting you before the marksman can be punished.
+- Total cost: 11150 gold
+
+Physical-heavy anti-marksman wall for Claude, Moskov, Miya, Layla, or similar repeated-hit drafts.
+
+All builds for this hero: https://mlbbhub.com/builds/belerick.
+
+## Synergies
+
+- Natan: Belerick works well with heroes who can dish out a lot of damage against enemies CC'd by his taunt, such as Miya and Natan.
+- Miya: Belerick works well with heroes who can dish out a lot of damage against enemies CC'd by his taunt, such as Miya and Natan.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T10:05:35.871Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

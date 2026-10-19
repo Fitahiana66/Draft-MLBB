@@ -1,0 +1,210 @@
+# Tigreal, Warrior of Dawn
+
+> Tigreal is not a tank you blind-pick because you want a front line. He is a bush-controlled initiation test: if the enemy draft cannot reliably cancel or cleanse his engage, one clean combo decides the fight. If they can, he turns into a predictable wall with a long cooldown problem.
+
+## Snapshot
+
+- Role: Tank
+- Lane: Roam
+- Specialty: Crowd Control
+- Difficulty: Easy
+- Tier this patch: D
+- Win rate: 44.86%
+- Pick rate: 2.02%
+- Ban rate: 6.27%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/tigreal
+
+## Guide
+
+### The lobbies where Tigreal is actually correct
+
+Tigreal is strongest in drafts that still respect tight terrain and grouped backlines. If the enemy mid and marksman both need to stand still to deal damage, if their jungle pathing runs through predictable choke points, and if their team lacks a clean answer to AoE engage, Tigreal is still one of the simplest ways to force a winning 5v5.
+
+That is the real pick condition. You are not drafting him because he is generically tanky. You are drafting him because the enemy team has to walk through river mouths, turtle ramps, or jungle entrances where Sacred Hammer plus Implosion can catch two priority targets at once. A Tigreal that only ever reaches the enemy tank has missed the point of the hero.
+
+The trap drafts are obvious once you stop looking at his highlight clips. Diggie invalidates the first engage unless his ultimate is already gone. Kaja and Chou can counter-initiate and remove Tigreal before the combo finishes. Hilda makes the early map miserable because she rotates faster, hits harder at level 1, and punishes passive brush control. When two of those answers show up together, Tigreal stops being a playmaker and starts being a cooldown check the enemy is happy to pass.
+
+He is best when your own damage profile is immediate. Aurora, Vale, Xavier, Odette, and any jungler that can burst a clumped backline make his engage worth the risk. He is much worse when your team needs six seconds of free hitting to cash the combo in. Tigreal buys a window, not a whole fight. Patch 2.1.88 ([patch notes](/patch-notes)) leaned into exactly this by trading some of his late-game bulk for early durability, so that window is now widest through the first two thirds of the game and narrowest once the enemy carries are fully itemized.
+
+If you cannot answer one question before locking him, do not pick him: when Implosion lands, which two enemy heroes are supposed to die first?
+
+### His whole kit is a delivery system for one pull
+
+Tigreal is not a "combo tank" in the generic sense. He is a delivery system for one reliable pull, and the rest of the kit only exists to make that pull matter.
+
+Attack Wave is not a poke button. It is the spell that slows the exit route after you have already claimed space. Sacred Hammer is not mobility for its own sake. It is the tool that changes enemy positioning before your team commits damage. Even his passive matters because it blocks one incoming basic attack after enough stacks, which means he gets a small but real buffer when walking into marksman fire, turret shots, or jungle skirmishes.
+
+Once you understand that, Tigreal becomes much easier to pilot correctly. You stop obsessing over landing a five-man montage set and start playing for one controlled displacement. Sometimes that means Sacred Hammering a jungler away from Retribution range. Sometimes it means pulling only the enemy mage and marksman while leaving the tank outside the fight. The hero works when you treat crowd control as geometry, not spectacle.
+
+His biggest weakness is also why he stays relevant. Everybody knows what he wants to do, but not every draft can physically stop it. If the enemy must hold a cancel, a Purify, or a Diggie ultimate every time you disappear into fog, you are already controlling the pace even before the engage happens.
+
+### Roaming the first 6 minutes
+
+1. **Take Sacred Hammer first and play the lane edge, not the buff center.** Level 1 Tigreal matters because his push changes where the first skirmish happens. Stand on the side of the wave or jungle entrance that lets you shove a target toward your team, not away from them. If you walk straight into the enemy buff camp with no lane priority, you are donating HP for nothing.
+2. **Touch the mid wave, then leave immediately.** Your first clear is about mid priority, not about staying for experience. Show for one wave, help your mage secure space with Attack Wave once you have it, then move to the nearest brush that threatens the enemy jungler's second camp or the gold lane river entrance. Tigreal wins early minutes by making carries nervous, not by sitting in lane.
+3. **Save Flicker unless the first cast wins a crab, a buff reset, or first blood.** Flicker is the spell that turns his engage from obvious to unavoidable. Spending it for a low-value poke play before the first turtle hands the enemy a long window of freedom. Spend it only when the result changes the map immediately. If not, keep the threat alive and let the enemy waste positioning around a cooldown you still own.
+
+### The spike you are farming toward
+
+Tigreal's real two-item spike is **Tough Boots with Conceal unlocked plus Dominance Ice**, usually in the 7 to 9 minute window if your roam gold is flowing correctly.
+
+Before that threshold, he is honest. Everybody sees the angle, everybody sees the walk-up, and even if you find the flank you are still fragile enough to get punished on the exit. After that threshold, two things change at once. Conceal gives you the invisible entry angle and movement burst that lets you start fights from outside normal reaction distance. Dominance Ice makes the first response from the enemy backline weaker: its Fortress Shield and Lifebane passives work as a short-range aura, cutting the shield and HP regen of every enemy who stays close to you, so the trade after the set leans your way.
+
+That combination is what turns Tigreal from a visible frontliner into a real fight starter. You stop asking whether you can reach the enemy carry and start asking whether the enemy carry has already stepped too far forward to escape. The mechanical change is simple: you can now enter through fog, absorb the first counter hit, and still have enough durability left to finish the sequence.
+
+If your composition does not need stealth angles and mostly fights front to back, Encourage can replace Conceal later. But the first true ranked spike is still the same idea: completed roam boots plus Dominance Ice. That is the moment you should stop drifting through the map and start forcing your presence into every objective setup.
+
+### Teamfight positioning and target priority
+
+The wrong reflex on Tigreal is to hold everything for the dream five-man ultimate. That reflex throws games because the enemy backline only needs one answer to ruin a greedy engage.
+
+The right reflex is to catch the fight where it is weakest. If the enemy mage and marksman are stacked on one side of the choke, take those two. If their assassin is diving your carry, peel first and turn the fight after. Tigreal wins more games from a clean two-man catch on the correct heroes than from a desperate swing at all five.
+
+1. **Flank from a side brush, not from the center line.** Walking straight through the tank line tells the enemy exactly what is coming. Coming from a side angle forces their backline to choose between burning movement early or holding position and risking the pull.
+2. **Start closer to the carries than to the tank.** If your first contact is the enemy EXP or roamer, you are already late. Your body should be positioned where Sacred Hammer threatens the damage dealers. Tigreal is not there to win a frontliner duel.
+3. **After Implosion, push toward your team, not deeper into theirs.** The second cast of Sacred Hammer is where good Tigreal players cash the engage in. If you knock targets away from your own damage, the setup was wasted. Finish the combo by collapsing the fight toward your side of the map.
+
+The edge case is double-support style drafts. If your team has Angela attached to a carry comp, you can spend Flicker more aggressively because Heartguard covers the first punish window after you commit. If your sustain angle is Estes instead, you need to re-center faster after the set so the fight stays inside his healing field. Same hero, different follow-through.
+
+### Itemization: locked slots and real conversations
+
+Tigreal does not need a "build order" as much as he needs two locked slots and several honest conversations.
+
+The locked slots are your roam boots and Dominance Ice. Boots decide how you start fights. Dominance Ice is the default first major armor buy because its aura matters in every real engagement. Tough Boots is the normal choice into heavy control because the reduced CC and slow duration helps you finish your sequence. Warrior Boots is the better lane-to-lane start into basic-attack-heavy physical comps that chip you on entry. Rapid Boots is for snowballing maps where movement speed matters more than combat stats and you are playing vision games rather than face-tanking.
+
+After that, the build should answer who actually kills you:
+
+- **Antique Cuirass** into physical skill damage and fighter-heavy drafts. If Paquito, Yu Zhong, or Hayabusa are the heroes softening you before the set, Deter is the most relevant passive you can buy.
+- **Athena's Shield** into burst magic that tries to erase you on first contact. Aurora, Eudora, or Kagura drafts want one clean spell cycle. Athena's buys the breathing room to survive it.
+- **Radiant Armor** into repeated magic hits instead of burst. Valir, Chang'e, Yve, or any sustained magic zone comp stacks value for Radiant much faster than for Athena's.
+- **Blade Armor** when the enemy carry wins fights through repeated basics. Karrie, Claude, Moskov, and Miya all hate hitting a Tigreal that reflects damage and slows them back.
+- **Oracle** when your own team actually sustains you. If Estes, Rafaela, Floryn, or Angela are covering your re-entry, Oracle turns that support into a real second life and gives useful cooldown reduction on top.
+- **Immortality** when one fight will decide the game. Not earlier than it needs to be. Buy it when the next Lord or base defense matters more than raw first-life efficiency.
+
+Thunder Belt is the greedy option, not the default. It works when you are already ahead, walking into repeated basic attack windows, and know you will proc the true-damage hit often enough to matter. If you are behind, buy real defense instead of pretending the extra stickiness will save a lost map.
+
+### Mistakes that lose Tigreal games
+
+**Starting fights from visible ground.** Tigreal without fog is a warning sign, not a threat. If the enemy saw you three seconds before the engage, the combo already got weaker. Use side brushes, lane bends, and objective walls. Make them guess first.
+
+**Burning Flicker before the enemy commits to a lane or choke.** Flicker is not a decoration for your combo. It is the reason your combo sometimes becomes unavoidable. Spending it to force a random mid skirmish at minute 2 means the first turtle fight happens on the enemy's terms instead of yours.
+
+**Charging the tank because he is the nearest target.** This is the classic autopilot error. Sacred Hammering the frontline feels active, but it usually pushes the least important hero into the least useful position. Unless you are peeling a diver off your carry, your engage should be aimed at damage dealers.
+
+**Picking Tigreal into Diggie and pretending mechanics will solve it.** That is a matchup mistake, not a confidence problem. If Diggie's ultimate is available, your first full commit is on borrowed time. You either bait it first, catch Diggie himself, or pick another tank in draft. No montage changes the interaction.
+
+**Overstaying after a good set.** Tigreal players often land the combo, see enemies chunked, and keep walking deeper because the engage looked clean. Your job after the pull is to reposition the fight toward your team, body-block the first retaliation, and reset cooldowns. The extra two steps forward are where many winning engages become trade deaths.
+
+### Small edges that separate good Tigreal players
+
+> [!TIP]
+> Fearless blocks the next incoming basic attack after enough stacks, and that includes turret shots. If you know a dive is coming, stack the passive first on enemy basics or by casting through the wave so your first tower step is safer.
+
+> [!NOTE]
+> Conceal should usually be the last thing the enemy learns about your engage, not the first. If you pop Conceal and immediately throw Attack Wave from max range, you spent the camouflage to announce yourself. Break it with contact, not with warning.
+
+> [!TIP]
+> When you peel with Sacred Hammer, aim the push slightly diagonally instead of straight backward. The diagonal line often sends assassins away from your carry while still keeping them inside your mage's damage cone.
+
+> [!NOTE]
+> Diggie is not the only anti-Tigreal answer. Kaja, Chou, and any draft with layered disengage mean you should treat your first engage as a bait tool if the cancel has not been spent yet. Sometimes the best Tigreal combo is the one that forces the counter and starts the real fight ten seconds later.
+
+## Skills
+
+### Fearless (Passive)
+
+Tigreal gains 1 stack of Fearless each time he is hit by a Basic Attack. At 4 stacks, he consumes them to block the next incoming Basic Attack (including attacks from Turrets). He also gains 1 stack of Fearless each time he casts a skill. Damage from minions does not add or consume Fearless stacks.
+
+### Attack Wave (Skill 1)
+
+Tigreal smashes the ground with his hammer, sending a shockwave that erupts 3 times in a fan-shaped area. Each eruption deals 270 (+70% Total Physical Attack) Physical Damage to enemies hit and slows them by 20% / 40% / 60% for 1.5s.
+
+### Sacred Hammer (Skill 2)
+
+Tigreal charges in the target direction, dealing (+100% Total Physical Attack) Physical Damage to enemies along the way and pushing them to the end of the charge. Use Again: Tigreal can use this skill again within 4s, dealing 280 (+60% Total Physical Attack) Physical Damage to enemies in front of him and knocking them airborne for 0.6s.
+
+### Implosion (Ultimate)
+
+Tigreal unleashes the power of his hammer, pulling nearby enemies to him, dealing 600 (+130% Total Physical Attack) Physical Damage and stunning them for 1.8s. The first half of the channeling can be interrupted by control effects, while the second half can only be interrupted by Suppression.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Tigreal should cast his 2nd Skill to charge in and then pull the enemy team towards him with his Ultimate. At the end of his CC, cast his 2nd Skill again to extend it, then use his 1st Skill to deal damage.
+- LANING COMBOS (laning): In the laning phase, Tigreal can use his 2nd Skill to charge the enemy target and knock them airborne by casting it again. He then finishes with his 1st Skill to deal damage.
+
+## Counters to Tigreal (pick these against Tigreal)
+
+- Alice (Tank/Mage): +4.0 pp edge. Alice's durability and kit give them a strong matchup advantage against Tigreal throughout the game.
+- X.Borg (Fighter): +3.1 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Tigreal throughout the game.
+- Diggie (Support): +2.9 pp edge. Diggie has a statistical edge over Tigreal based on ranked matchup data. Pick Diggie to gain an advantage in draft.
+- Zetian (Mage): +2.8 pp edge. Zetian has a statistical edge over Tigreal based on ranked matchup data. Pick Zetian to gain an advantage in draft.
+- Valir (Mage): +2.7 pp edge. Valir has a statistical edge over Tigreal based on ranked matchup data. Pick Valir to gain an advantage in draft.
+- Aulus (Fighter): +2.0 pp edge. Aulus's durability and kit give them a strong matchup advantage against Tigreal throughout the game.
+
+## Heroes Tigreal beats
+
+- Zilong (Fighter/Assassin): +3.4 pp edge for Tigreal.
+- Estes (Support): +2.5 pp edge for Tigreal.
+- Franco (Tank): +2.3 pp edge for Tigreal.
+- Dyrroth (Fighter): +2.1 pp edge for Tigreal.
+- Silvanna (Fighter): +1.9 pp edge for Tigreal.
+- Kalea (Support/Fighter): +1.9 pp edge for Tigreal.
+- Julian (Assassin/Fighter): +1.7 pp edge for Tigreal.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/tigreal.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Conceal Flicker Pickoff (Roam)
+
+- Items: Rapid Boots, Dominance Ice, Fleeting Time, Athena's Shield, Antique Cuirass, Immortality
+- Core: Dominance Ice, Fleeting Time, Athena's Shield
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Tough Boots over Rapid Boots when Use when layered crowd control can stop Tigreal before Sacred Hammer or Implosion completes.; Radiant Armor over Athena's Shield when Use against repeated magic poke or burn damage rather than one committed mage burst.; Guardian Helmet over Fleeting Time when Use when your team wins vision but Tigreal enters each Lord setup too low to threaten Flicker Implosion.
+- Total cost: 11250 gold
+
+Default ranked setup for hiding Tigreal's entry angle, chaining Conceal with Flicker, and resetting faster when a pick turns into an assist.
+
+### Roam Frontline Encourage (Roam)
+
+- Items: Tough Boots, Dominance Ice, Antique Cuirass, Radiant Armor, Guardian Helmet, Immortality
+- Core: Dominance Ice, Antique Cuirass, Guardian Helmet
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Rapid Boots over Tough Boots when Use when crowd control is light and Tigreal needs faster river-to-side-lane rotations.; Athena's Shield over Radiant Armor when Use against one-rotation magic burst that can punish Tigreal during the first half of Implosion.; Fleeting Time over Guardian Helmet when Use when your team reliably converts every Flicker engage into kills or assists.
+- Total cost: 11380 gold
+
+Grouped-fight setup for games where Tigreal must stand in front, absorb the first response, and give his carries Encourage value.
+
+### Roam Anti-Physical Peel (Roam)
+
+- Items: Warrior Boots, Dominance Ice, Blade Armor, Antique Cuirass, Athena's Shield, Immortality
+- Core: Dominance Ice, Blade Armor, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Tough Boots over Warrior Boots when Use when the physical carries are protected by enough control that CC duration matters more than extra armor.; Radiant Armor over Athena's Shield when Use against sustained magic damage that follows Tigreal after he commits to peeling.; Oracle over Athena's Shield when Use when allied shields or healing keep Tigreal alive through repeated second-contact fights.
+- Total cost: 11080 gold
+
+Anti-physical variant for marksman or fighter-heavy drafts where Tigreal protects his carry first and only Flicker-starts when the back line is exposed.
+
+All builds for this hero: https://mlbbhub.com/builds/tigreal.
+
+## Synergies
+
+- Vexana: Tigreal works well with heroes with strong initiation skills, that gives him a better chance to hit the enemies with his CC skills, such as Vexana and Odette.
+- Odette: Tigreal works well with heroes with strong initiation skills, that gives him a better chance to hit the enemies with his CC skills, such as Vexana and Odette.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,216 @@
+# Dyrroth, Prince of the Abyss
+
+> Dyrroth is not a brawler. He is a tempo fighter who lives or dies on the short Abyss Enhanced window that opens when his Rage hits 50%, and since his 2.1.67 rework ([patch notes](/patch-notes)) that Rage regenerates passively every second. The draft question is no longer "can he trade into Rage" but "can the enemy team deny his new S1-priority lane before he snowballs."
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP, Jungle
+- Specialty: Charge, Burst
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 48.72%
+- Pick rate: 1.77%
+- Ban rate: 1.51%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/dyrroth
+
+## Guide
+
+### The draft math on Dyrroth after 2.1.67
+
+Dyrroth is a draft-conditional pick, not a safe lock, even after his buff. The team comp question to ask before confirming him is whether the enemy has a way to deny his Spectre Step re-cast or his Rage window. If the answer is yes, he still plays down a kit.
+
+Lock him when the enemy EXP laner is a squishy, low-mobility physical (Kagura, Granger, Yu Zhong in the early game). Lock him when your own lineup has one reliable frontline like Tigreal or Khufra who gives Dyrroth a single isolated target to activate Master Assassin's bonus damage. Lock him when the enemy has committed to a dive comp built around a tanky initiator whose armor he can shred.
+
+Avoid him when the enemy has already picked Esmeralda in EXP, Phoveus anywhere on the map, or Minsitthar. Avoid him in disengage-heavy compositions built around Estes and Diggie, because Dyrroth's damage is still front-loaded into a single Enhanced window and a second round of kiting wastes him entirely. Avoid him against layered crowd control (Chou, Khufra, Atlas stacked together). He has zero control immunity in his base kit; the moment you commit Spectre Step you are locked into melee range with no escape skill and no CC break.
+
+The disqualifying test: if you cannot name which of those conditions your current draft is in, Dyrroth is the wrong pick.
+
+### The one thing that makes Dyrroth work
+
+Dyrroth is not a melee fighter. He is a Rage meter with a sword attached, and the meter now fills on its own.
+
+That is the entire thesis of the 2.1.67 rework. The old Dyrroth had to manufacture trades to bank Rage, which made him feast-or-famine: a missed lane phase meant a missing first window, which meant a flat mid-game. The new Dyrroth ticks Rage upward every second he is alive, scaling faster as he levels up. His laning no longer revolves around charging the meter; it revolves around timing when the passive regen brings him up to the 50% threshold and making sure he is in range of a hero when it does.
+
+The rest of the kit still feeds the same loop. Circle Strike still triggers after every two basic attacks, still heals him back, and still cuts a second off Burst Strike and Spectre Step cooldowns every time it hits a hero. But Moonton's patch note is explicit: S1 is now his main skill. S1's base damage got a flat buff and its cooldown now scales down with level, while S2's cooldown was unified to a flat duration that is worse at max rank than it used to be. You lean into Burst Strike first and treat Spectre Step as the lock-on that delivers the armor shred, not as the headline.
+
+Every trade decision should be answered with "does this action line up S1 with Abyss Enhanced, or does it waste a charge on an un-enhanced cast." Players still treating Spectre Step as the centerpiece in 2.1.67 are playing last patch's hero.
+
+### Laning: the first eight minutes
+
+Dyrroth's early lane is about banking hero hits with S1 while the passive drip does your Rage-building for you.
+
+1. **Level 1: take Burst Strike first.** It now hits harder per rank than before the patch and clears the caster minions in one cast, leaving you free to basic-attack the melee line for Circle Strike procs. S1 is also your only way to contest a level-1 invade without burning Spectre Step for an escape.
+2. **Level 2: take Spectre Step, do not use it.** Its new flat cooldown is worse at max rank than it used to be, so the habit you want to build in lane is "S2 is the lock-on, not the opener." Use it to trade, then immediately regret using it when the enemy jungler shows at 2:00. At level 2 Spectre Step is a panic button, not an engage tool, until Flicker is up.
+3. **Level 4: max Burst Strike first.** Max S1 all the way, S2 second for the Fatal Strike damage and armor shred, ultimate at 4, 8, 12. The buff pushed S1's damage curve steep enough that maxing it out-trades every physical EXP laner except Esmeralda.
+
+Against melee matchups (Yu Zhong, Paquito, Benedetta pre-6), trade aggressively from the second wave. Basic attack into S1 into basic attack plus the passive regen window puts you into Abyss Enhanced around the third or fourth wave instead of the fifth, which is the practical upside of the buff. Against ranged physical matchups (Esmeralda, Gloo), concede the wave: take last-hits with S1 from max range, let the passive regen bring you up to the threshold without fighting, and save Spectre Step exclusively until Flicker is ready.
+
+The first dangerous window is still 4:00 to 6:00 when the enemy jungler rotates. Dyrroth has no vision tool, no invisibility, and no CC break. If your support is not providing river vision, ward the bush at 3:30 and accept that your recall timings are dictated by the jungler's first clear, not your HP bar.
+
+### The power spike you are farming toward
+
+Dyrroth flips from farming to fighting at Blade of the Heptaseas plus Sky Piercer, typically around the 8-to-11 minute mark depending on lane pressure. The two-item window is unchanged from last patch; the 2.1.67 buffs just make you more likely to arrive at it with a kill lead.
+
+Heptaseas is not built for the stats; it is built for the Ambush passive. After five seconds of no combat, your next basic attack deals 160 plus 40% of your Physical Attack as extra damage and slows for 40% over 1.5 seconds. This item rewards approaching from fog of war, not standing in lane. The minute Heptaseas completes, your macro shifts from EXP farm to rotating through unwarded brush to arm the passive before every skirmish. An armed basic attack into a buffed S1 opener with Abyss Enhanced active lands 300 to 400 bonus damage before the target's second ability comes off cooldown.
+
+Sky Piercer adds 60 Adaptive Attack and 15 Movement Speed, but the real purchase is the Lethality passive. After dealing damage to an enemy hero, Sky Piercer executes them if their HP is below 4%, and every kill stacks Lifebane (10 per kill) to raise that threshold by 0.1% per stack, capped at 12% at 80 stacks. A fed Dyrroth at 5 kills executes at roughly 4.5% HP. A snowballing Dyrroth at 30 stacks executes at 7%. At that threshold, any ability that chips a low-HP hero becomes a kill confirmation, not a hope for a follow-up auto.
+
+Before this two-item window, Dyrroth is a mid-tier brawler who happens to have a smoother Rage curve. After it, he is a mid-game snowball carry with a built-in reset on every kill. Miss the window by more than 2 minutes and the game shifts to late-game teamfights, where Dyrroth is a secondary threat behind any marksman with a two-item lead.
+
+### Teamfight positioning and target priority
+
+The reflex when you see Dyrroth is to dive the enemy backline. That reflex gets you killed.
+
+Dyrroth has no control immunity. His ultimate has a short cast delay that only Suppression can cancel; regular stuns and knock-ups do not interrupt Abysm Strike, but they do stop Spectre Step mid-dash and strand you inside five enemies. Before committing you need to know where the enemy's chain CC is and whether it is on cooldown.
+
+1. **Engage second, not first.** Let your frontline eat the first round of abilities. Your value is the Physical Defense shred on Fatal Strike, which is wasted if you apply it to a tank before your damage dealers are in range. Hold Spectre Step until your carry has committed positioning.
+2. **Target the isolated squishy, not the pickoff.** Master Assassin (Assassin Emblem Standard Talent) adds 7% damage only when there is a single enemy nearby. Flanking around a fight to catch a mage or marksman separated from their frontline doubles the value of your combo compared to diving into the scrum.
+3. **Apply Spectre Step's Fatal Strike before Abysm Strike.** The ult scales with Extra Physical Attack and a chunk of the target's lost HP, so the defense reduction applied first increases every number that follows. Reversing the order strips physical defense from a corpse.
+
+If your support is Mathilda you get to flank further because her ult redeploys you to safety on a miss. If your support is Franco you do not flank at all; you stand on his hook and clean up the displaced target. Dyrroth's positioning brackets shift with the support more than with any other factor.
+
+### Itemization: two locked slots, four real conversations
+
+The core is Heptaseas and Sky Piercer. Everything else is a matchup decision.
+
+The flex conversation is Sea Halberd versus Malefic Roar for the third or fourth slot. Against Esmeralda, Yu Zhong, Uranus, or any lineup with multiple shield and regen sources, Sea Halberd's Lifebane passive cuts the target's healing and shield effectiveness to 60% for 3 seconds, and its Punish passive adds 8% damage against enemies with higher extra HP. A 2.1.67 Dyrroth fighting a sustain-heavy frontline procs both passives on every trade. Against a conventional tank frontline (Tigreal, Khufra, Franco without a sustain core), Malefic Roar's 30% cap of bonus Physical Penetration scaling off the target's own Physical Defense does more real damage as the tank finishes Immortality or Athena's Shield. Picking the wrong one loses you 30 to 40% of your effective damage against that specific target.
+
+Dominance Ice is the defensive anti-heal pick when the enemy has two or more physical auto-attackers. It trades Sea Halberd's offense for Physical and Magic Defense, and its Lifebane works in reverse: instead of hitting the target you damage, it is a proximity aura that cuts the Shield and HP Regen of every enemy within 5 units of you to 60% of normal. That is the buy when you are the secondary initiator who needs to survive the first rotation. Lifebane does not stack with Sea Halberd's, so pick one anti-heal source, not both.
+
+Hunter Strike in the mid-game is not built for the 80 Physical Attack or the 10% Cooldown Reduction. It is built for the Retribution passive: five instances of damage grants 50% Movement Speed for 3 seconds. Dyrroth's Circle Strike procs this naturally during any extended fight, which turns Spectre Step from a flat-cooldown gap-closer into a movement-speed burst chase tool. Skipping Hunter Strike for a third offensive item is the most common midgame build mistake on Dyrroth.
+
+Boots: Warrior Boots when the enemy has two or more physical threats (typical). Tough Boots when the enemy has three magic dealers, which is rare in 2.1.67. Magic Boots is a bait on Dyrroth because his S1 already has a level-scaling cooldown and Circle Strike shaves another second per hero hit, so blanket CDR is a wasted boot slot.
+
+Blade of Despair is the late-game fallback, not the go-to. Despair's 25% Attack bonus against enemies below 50% HP is strong on paper, but by the time it comes online the game is usually decided and Immortality is the better survivability investment. Rose Gold Meteor is an alternative when magic burst is the specific threat: its Lifeline shield triggers at 30% HP, but Lifeline shares its 60-second trigger with Magic Blade, which builds into Rose Gold Meteor, so never hold both. Build Blade of Despair when you are winning and closing, not when you are scaling.
+
+Jungle Dyrroth can swap the Sky Piercer slot for a crit path when the enemy is squishy-heavy: Haas's Claws into Berserker's Fury stacks crit chance and attack speed, and the crit burst replaces the execute you gave up. This is a greed path for when you are ahead and closing, not a standard build.
+
+### Mistakes that lose Dyrroth games
+
+**Spamming Spectre Step like it is still 2.1.66.** Last patch's Spectre Step scaled from an 8-second to a 4-second cooldown as you leveled S2. The 2.1.67 rework flattened it to a single value that is worse at max rank than it used to be. Players still treating S2 as a spam button run dry at the exact moments they used to have it up. The fix is to treat S2 as the Fatal Strike delivery skill, not as a rotation tool. Dash in, lock on, re-cast for the shred, and let S1 carry the between-window damage.
+
+**Ulting before you apply Fatal Strike.** Abysm Strike scales off Extra Physical Attack and a slice of lost HP, and Spectre Step's enhanced re-cast reduces the target's Physical Defense for the length of the Rage window. Firing the ult before applying the reduction strips roughly a third of your burst. The clean sequence is: dash in with Spectre Step (first cast), land Burst Strike while the target is knocked back, re-cast Spectre Step for Fatal Strike and the armor shred, then fire Abysm Strike into the shredded target. Skipping the re-cast is the single most common combo error.
+
+**Dashing Spectre Step into Phoveus.** Phoveus's passive reduces the cooldown of his charged Demonic Force every time an enemy within his zone blinks, dashes, or is displaced. Spectre Step is a targeted dash, so every time you commit it inside his range you hand him a free ability to punish you with. Against Phoveus you play lane with Burst Strike only and save Spectre Step exclusively as an escape after Flicker is burned.
+
+**Engaging into Minsitthar's King's Calling field.** Inside the field, enemies cannot use movement skills. For Dyrroth this means Spectre Step's re-cast is locked out entirely, stripping both his main damage source and his defense shred. If Minsitthar casts his ultimate near you, step out of the perimeter before committing anything. Ult from outside if he is low; never dash in.
+
+**Burning Flicker as pure escape.** Flicker on Dyrroth is dual-purpose. Used during Abysm Strike's cast animation, Flicker repositions the origin point, which changes the direction the strike travels. On a fleeing target who is about to sidestep the ult, Flicker closes the last few units of range and forces the hit. Saving Flicker exclusively for retreats means you miss 80% of its offensive value in the two-item window where your ultimate is the execute tool.
+
+### Key tips
+
+> [!TIP]
+> Heptaseas Ambush arms after five seconds of no combat. Rotate through the enemy jungle brush before every skirmish to arrive with the passive active. An armed basic attack into a post-buff S1 opener lands 300 to 400 bonus damage before your ability connects.
+
+> [!NOTE]
+> Post-2.1.67 Rage regen is 2% per second at level 1 and scales up to 5% per second at max level. A clean Dyrroth player tracks the passive meter the same way a League of Legends mid tracks mana: never engage with Rage under 50% unless the fight will still be live when the regen tops you off inside the enhanced window.
+
+> [!TIP]
+> Assassin Emblem is the standard tree: Rupture (first slot) for Adaptive Penetration, Master Assassin (second slot) for the 7% isolated-target damage, and either Killing Spree or Lethal Ignition in the core slot. Lethal Ignition is a Mage Emblem core talent that equips cross-emblem and adds a scorch proc off three ability hits in five seconds, which Dyrroth triggers naturally through Burst Strike plus Spectre Step. Killing Spree is the safer pick for chaining pickoffs in the Heptaseas window; Lethal Ignition is the burstier pick when the enemy has no tank.
+
+> [!NOTE]
+> Sky Piercer's execute threshold climbs 0.1% per stack of Lifebane, up to 12% at 80 stacks. A fed Dyrroth with 30+ stacks executes enemies at roughly 7% HP from any ability hit. In a cleanup situation, a stray Burst Strike clips the target and closes the kill without needing a basic attack to confirm.
+
+> [!TIP]
+> Sea Halberd's Punish passive adds 8% damage against enemies with higher extra HP than you. Against tanky sustain lanes like Uranus or Esmeralda, Sea Halberd is not just an anti-heal item: it is a double-dipping damage amplifier that stacks with your armor shred for kills before the regen can kick in. Dominance Ice is the defensive swap when physical auto-attackers are the threat: its Lifebane is a proximity aura that cuts the Shield and HP Regen of every enemy within 5 units to 60% of normal, while Fortress Shield stacks Hybrid Defense on top.
+
+> [!NOTE]
+> Petrify is an underused lane spell on Dyrroth. The 0.8-second petrification stops dash channels mid-commit, pinning Benedetta or Lancelot inside your Burst Strike animation. At 75 seconds it cycles faster than Flicker's 120, so you can burn it on an interrupt without stranding your escape tool. Bring it when the enemy EXP laner has a channeled mobility skill you need to interrupt.
+
+## Skills
+
+### Wrath of the Abyss (Passive)
+
+When Dyrroth's Rage reaches 50%, he enhances Burst Strike and Spectre Step. After every 2 Basic Attacks, Dyrroth releases a Circle Strike, dealing (+150% Total Physical Attack)- (+180% Total Physical Attack) (scales with level) Physical Damage to enemies in the circle (enhanced damage does not apply to turrets), and recovering 7%-10% Max HP (scales with level, halved against minions or turrets). This strike does not trigger Attack Effect. Each time he damages an enemy, the cooldown of Burst Strike and Spectre Step is reduced by 1s. Dyrroth recovers 2% - 5% Rage per second (scales with level).
+
+### Burst Strike (Skill 1)
+
+Dyrroth releases a burst strike in a designated direction. Each burst deals 240 (+60% Total Physical Attack) Physical Damage to enemies and slows them by 25% for 1.5s. (The damage decays against the same target and decreases to only 75% on minions.) Abyss Enhanced: Burst Strike has a longer range, deals 140% of the original damage, and its Slowing Effect is doubled.
+
+### Spectre Step (Skill 2)
+
+Dyrroth dashes in the target direction. He stops upon reaching the max distance or hitting an enemy hero or creep, dealing 230 (+60% Extra Physical Attack) Physical Damage and slightly knocking them back. Use Again: Dyrroth locks onto a target and unleashes a Fatal Strike, dealing 345 (+120% Extra Physical Attack) Physical Damage and reducing their Physical Defense by 40% for 4s. Abyss Enhanced: Fatal Strike reaches further and deals 150% of the original damage, slows the target by an extra 90%, and reduces their Physical Defense by 60% for 4s.
+
+### Abysm Strike (Ultimate)
+
+After a short delay, Dyrroth launches a destructive strike in the target direction, dealing 650 (+250% Extra Physical Attack) (+ 25% of the target's lost HP) as Physical Damage to enemies in its path, and slowing them by 55% for 0.8s. This skill can only be interrupted by Suppression. Damage dealt to non-hero enemies is capped at 1500.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Dyrroth should use his 2nd Skill to close the gap with the enemy, then use his Basic Attacks and 1st Skill to deal damage, and finish off the low HP heroes with his Ultimate.
+- LANING COMBOS (laning): In the laning phase, Dyrroth can use his 2nd Skill to close in on the enemy and cast it again to lower their Physical Defense. He can then follow up with his Basic Attacks and 1st Skill to poke them.
+
+## Counters to Dyrroth (pick these against Dyrroth)
+
+- Tigreal (Tank): +2.1 pp edge. Across Dyrroth's measured matchups, Dyrroth is weakest in the early game. Apply pressure with Tigreal before Dyrroth can scale.
+- Johnson (Tank/Support): +2.0 pp edge. Across Dyrroth's measured matchups, Dyrroth is weakest in the early game. Apply pressure with Johnson before Dyrroth can scale.
+- Sun (Fighter): +1.8 pp edge. Sun's durability and kit give them a strong matchup advantage against Dyrroth throughout the game.
+- Benedetta (Assassin/Fighter): +1.8 pp edge. Across Dyrroth's measured matchups, Dyrroth is weakest in the early game. Apply pressure with Benedetta before Dyrroth can scale.
+- Minsitthar (Fighter): +1.8 pp edge. Across Dyrroth's measured matchups, Dyrroth is weakest in the early game. Apply pressure with Minsitthar before Dyrroth can scale.
+- Nana (Mage): +1.6 pp edge. Across Dyrroth's measured matchups, Dyrroth is weakest in the early game. Apply pressure with Nana before Dyrroth can scale.
+
+## Heroes Dyrroth beats
+
+- Esmeralda (Tank/Mage): +3.1 pp edge for Dyrroth.
+- Alice (Tank/Mage): +2.7 pp edge for Dyrroth.
+- Uranus (Tank): +2.6 pp edge for Dyrroth.
+- Zhuxin (Mage): +2.5 pp edge for Dyrroth.
+- Valentina (Mage): +2.3 pp edge for Dyrroth.
+- Moskov (Marksman): +1.7 pp edge for Dyrroth.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/dyrroth.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Pickoff Default (EXP)
+
+- Items: Tough Boots, Blade of the Heptaseas, Hunter Strike, Sky Piercer, Sea Halberd, Immortality
+- Core: Blade of the Heptaseas, Hunter Strike, Sky Piercer
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when crowd control is light and the first two waves are decided by armor trades.; Malefic Roar over Sea Halberd when Use when the priority target is stacking Physical Defense instead of relying on shield, HP regen, or high extra HP.; Blade of Despair over Immortality when Use only when ahead and closing, before late Lord fights make one death more expensive than extra damage.; Rose Gold Meteor over Immortality when Use against magic burst when the Lifeline shield saves the first entry better than a delayed revive.
+- Total cost: 10330 gold
+
+Default EXP setup for Dyrroth games where he plays fog-of-war pickoffs, arms Heptaseas, and converts one isolated target into Sky Piercer stacks.
+
+### EXP Sustain Bruiser (EXP)
+
+- Items: Warrior Boots, War Axe, Hunter Strike, Queen's Wings, Brute Force Breastplate, Immortality
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Petrify
+- Flex: Tough Boots over Warrior Boots when Use when control duration or magic poke is the first thing stopping Spectre Step's re-cast.; Dominance Ice over Brute Force Breastplate when Use when the enemy marksman, sustain fighter, or shield core must damage you before your team can finish them.; Antique Cuirass over Brute Force Breastplate when Use against repeated physical skill damage from fighters or assassins that reaches you before Queen's Wings triggers.; Athena's Shield over Immortality when Use when front-loaded magic burst removes you before Petrify and Brave Smite can buy a second skill cycle.
+- Total cost: 11070 gold
+
+Durable EXP setup for melee lanes where Dyrroth needs War Axe, Queen's Wings, and Petrify to stay attached through a longer duel.
+
+### Jungle Execute Tempo (Jungle)
+
+- Items: Tough Boots, Blade of the Heptaseas, Hunter Strike, Sky Piercer, Malefic Roar, Immortality
+- Core: Blade of the Heptaseas, Hunter Strike, Sky Piercer
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Sea Halberd over Malefic Roar when Use when objective fights are decided by Esmeralda, Uranus, Yu Zhong, or shield-heavy supports instead of raw armor.; Queen's Wings over Malefic Roar when Use when your team already has enough damage and Dyrroth must survive the second contact after Ice Retribution.; Blade of Despair over Immortality when Use when the first two Turtles created a gold lead and the next Lord fight is about ending before enemy defensive items finish.; Rose Gold Meteor over Immortality when Use when a burst mage is the main threat during jungle entries and the Lifeline shield matters more than resurrection timing.
+- Total cost: 10340 gold
+
+Jungle setup for snowball drafts where Dyrroth uses Ice Retribution, Heptaseas, and Sky Piercer to turn early picks into objective tempo.
+
+All builds for this hero: https://mlbbhub.com/builds/dyrroth.
+
+## Synergies
+
+- Franco: Dyrroth's high melee burst damage works best with heroes with single-target CC, such as Franco and Kaja.
+- Kaja: Dyrroth's high melee burst damage works best with heroes with single-target CC, such as Franco and Kaja.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,219 @@
+# Popol and Kupa, Icefield Companions
+
+> Popol and Kupa is a marksman for players who want to decide where the fight can happen before it starts. He wins by shrinking the map with traps, tagging the first target that steps wrong, and cashing that mistake into tower pressure. Pick him when your draft wants controlled corridors, not when you need a free-scaling backline gunner.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Jungle, Gold
+- Specialty: Push, Burst
+- Difficulty: Medium
+- Tier this patch: S
+- Win rate: 54.66%
+- Pick rate: 0.42%
+- Ban rate: 0.30%
+- Released: 2020
+- Page: https://mlbbhub.com/heroes/popol-and-kupa
+
+## Guide
+
+### Draft Him For The Doorway Fight
+
+Popol and Kupa is still a niche flex, and that is the correct way to read the hero. This repo's current hero data keeps him in the gold lane and jungle conversation, but not in the blind-pick conversation. He is good when the enemy has to walk through fixed entrances, fight over early objectives on your terms, or send a short-range lane opponent into a brush you already taxed. He is bad when the map stays wide and the enemy can dive Popol directly without caring where Kupa is standing.
+
+The clean games have two traits. First, your own draft gives him a real first layer. That can be a roamer who buys time, an EXP laner who occupies the first choke, or a jungle route that reaches Turtle before the enemy does. Second, the enemy comp has to contest space honestly. If they need to walk into river mouths, jungle hinges, or turret approaches where traps can already be waiting, Popol turns every rotation into a question with a bad answer.
+
+The bad games look different. Multiple divers, long-range poke that does not care about Kupa's body, or fast skirmish comps that can enter from two angles at once all break the hero's best habit. Popol wants to make one route unsafe. He does not want to answer three routes at the same time. If you cannot point to the exact corridor your traps are meant to own, the draft is already asking too much from him.
+
+Gold lane and jungle both work, but they ask for different wins. Gold lane Popol is about local suffocation: hold one brush, plant one river trap, and make every farm step costly. Jungle Popol is about first move: arrive to Turtle, buff entrances, or invaded camps with information already planted. If your team does not plan to use either pattern, pick a different marksman.
+
+### The Whole Hero Is A Forced-Path Argument
+
+Popol and Kupa only makes sense once you stop reading the kit as "marksman plus pet" and start reading it as a forced-path argument. He does not win because his autos are prettier than everyone else's. He wins because he makes one enemy solve the fight in the wrong order.
+
+`Bite 'em, Kupa!` decides who the game is about. Once the tag lands, Kupa locks on and the trade stops being clean. The target now has to answer Kupa, Popol's empowered next basic, and whatever trap line was already planted behind the exchange. During ultimate, that same catch becomes a real stun and the window gets short fast. This is why Popol feels oppressive when ahead and fake when behind: if the tag matters, the whole kit matters. If it does not, you are just a short-range marksman babysitting a dog.
+
+`Kupa, Help!` is the spell that keeps the hero playable into melee pressure. It is your peel, your shield, your way to drag Kupa back through a diver, and in Alpha Wolf form it briefly breaks the enemy's rhythm with an airborne. Most weak Popol games come from spending this skill for decorative damage before the real engage starts. Once it is gone, every assassin on the map knows exactly how honest your body is.
+
+`Popol's Surprise` is the real draft reason to pick him. The trap is not there to pad damage. It tells both teams where the fight is allowed to happen. A trap on the river mouth changes the lane. A trap on the jungle hinge changes the invade. A trap behind your own lane changes the dive angle. If you place traps after contact, you are already late.
+
+The ultimate is not a button you press because it is glowing. It fully restores Kupa, upgrades both command skills, and gives Popol the movement speed to keep the exchange connected. Use it when Kupa has already taken contact and the target cannot simply walk away. The reset is free value only if the fight is already real.
+
+### Laning: the first four minutes
+
+1. **Take `Bite 'em, Kupa!` first and claim one brush.** Tag the enemy gold laner once, let Kupa walk them backward, and then return the wave to a spot where your brush still matters. The point is not a level 1 all-in. The point is teaching the opponent that last-hitting on your side of the lane costs health.
+2. **Freeze toward your trap, not toward your tower.** Popol's strongest early lane is the one where the enemy has to choose between stepping into a river trap or giving up space. Hard shoving every wave wastes the hero's best tool and invites the exact gank path your trap should have denied.
+3. **Save battle-spell tempo for the first real collapse.** Flicker is not an opening flourish. Hold it for the 2:00 to 3:00 window when the jungler can actually convert on you, or for the first level-4 punish where a trapped target has already spent movement. If you are jungling, the same rule applies to Retribution tempo around first objective setups.
+
+The lane plan is simple on paper and demanding in practice. Keep Kupa healthy enough to threaten, keep one trap covering the path that matters most, and trade only when the enemy has to walk through your prep to reach Popol. If you start taking open-field trades because you feel ahead, the lane stops belonging to you.
+
+### The Two-Item Window That Turns Picks Into Towers
+
+The two-item spike that matters most is `Blade of Despair` plus `Demon Hunter Sword`, usually around the 7 to 9 minute mark in an even game.
+
+`Blade of Despair` gives Popol the raw threat his catches need. Once a target is already chunked or trapped, the extra physical attack against enemies below half HP turns a clean catch into a real kill window. `Demon Hunter Sword` solves the second half of the problem by adding current-HP damage on basic attacks and on-hit sustain, which means Popol can keep firing while Kupa keeps the target busy. One item makes the punish scary. The other makes the punish survive contact.
+
+This is the timing where your catches should start producing structures, not just health bars. Before these two items, a trapped target often means space and lane control. After these two items, the same catch should become a tower plate, Turtle entry, jungle camp, or outer turret. If you are still spending the whole mid game farming side waves after this spike, you are late to the hero's best phase.
+
+Mechanically, nothing magical changed except the cost of stepping wrong. Popol already had vision and target lock. Now the target actually dies for disrespecting either one. That is why this spike is strongest in tight spaces. Jungle entrances, Turtle corridors, and tower approaches magnify both items. Long open chases do not.
+
+### Teamfight Positioning Means Playing Behind The Dog
+
+The common bad reflex is to let Kupa hit the nearest tank and call that target priority. That is lazy Popol play. Your first target is the hero whose movement you can actually deny right now. Sometimes that is the frontliner. Often it is the diver who already spent a dash, the mage who entered your trap line, or the marksman who arrived late through a narrow angle.
+
+1. **Stand one layer behind your first engager, not beside Kupa.** Kupa is the front edge of the exchange. Popol should be one step behind the hero buying space, close enough to keep the tag connected and far enough that `Kupa, Help!` still peels through the first diver.
+2. **Trap exits before the engage, not under the brawl.** A trap on the retreat path keeps the catch going. A trap dropped directly under five bodies usually lands too late to matter. Pre-plant the way out, then make the enemy choose it.
+3. **Ultimate after contact, not on sight.** `We Are Angry!` is strongest once Kupa has already taken some damage and the target has committed. You get the full reset, the upgraded stun, and the movement speed window at the exact moment the enemy thought the trade was stabilizing.
+
+The support-dependent edge case is straightforward. If your roam or pocket support can safely extend your chase, you can step farther after the first trap triggers and trust the follow-up. If your backline help is slower or purely reactive, keep the fight local and cash the catch quickly. Popol looks brave only while Kupa and peel are both available.
+
+### Itemization: Build A Spine, Then Solve The Threat
+
+Think of Popol's build as a spine plus answers.
+
+Start with `Swift Boots` in gold lane unless the matchup forces defensive boots immediately. The attack speed matters because Popol needs his empowered basic attacks to arrive on time once Kupa has claimed the target. In jungle, the boot conversation becomes your Retribution upgrade, but the rest of the logic stays similar.
+
+The core spine is `Blade of Despair` into `Demon Hunter Sword`. That pair gives Popol his real mid-game identity and should be the default unless the game is already collapsing before you can finish them.
+
+After that, buy for the problem in front of you:
+
+- **`Great Dragon Spear`** when your biggest problem is staying attached during ultimate. The movement speed after casting ultimate is what keeps Popol and Kupa on the same victim instead of watching them slip away.
+- **`Berserker's Fury`** when the enemy cannot reach you cleanly and the game is about converting every trap or stun into burst. This is the greedier damage buy, so skip it if you are the one being hunted.
+- **`Wind of Nature`** when physical dive is the reason you cannot stand your ground. Saber, Ling, Hayabusa, or an opposing marksman that reaches you first all force this conversation.
+- **`Rose Gold Meteor`** when the real threat is magic burst or mixed poke that keeps dropping you below commit range. The `Lifeline` shield and movement burst are the reason to buy it here.
+- **`Sea Halberd`** when the enemy survives your first catch through shields or heavy sustain. Its anti-heal effect cuts those targets back to a normal problem.
+- **`Malefic Roar`** when the frontline is stacking enough defense to walk through the first half of your damage and still reach Popol alive.
+
+The mistake is building him like a generic attack-speed marksman by habit. Popol is not trying to free-hit for twenty seconds. He is trying to make one trapped target lose the fight, then survive the answer.
+
+### Mistakes That Make The Hero Look Fake
+
+**Placing traps after the wave already crossed river.** A reactive trap is usually just a small complaint. Popol wins when the enemy walks into work you finished five seconds earlier, not when you panic-cast zoning under your own feet.
+
+**Spending `Kupa, Help!` for chip damage.** This skill is your answer to real contact. If you use it only to squeeze a little extra poke into lane, you have told every diver on the map that the next engage is unguarded.
+
+**Praying for Kupa while still in vision.** The resummon locks Popol in place and announces exactly what he cannot do for the next few seconds. If the enemy still has angle on you, leave first. Missing one wave is cheaper than dying for the dog.
+
+**Taking every lane matchup like it is a pure stat check.** Popol punishes enemies who must fight through Kupa and traps. He suffers against lanes that can ignore the pet, reach Popol directly, or trade from ranges where the trap line never becomes relevant. If the opponent can hit you without respecting the dog, stop forcing straight-up duels and play for jungle entrances instead.
+
+**Staying in the side lane after the two-item spike.** Once `Blade of Despair` and `Demon Hunter Sword` are online, your value lives at Turtle, Lord, buffs, and tower approaches. Farming one more side wave feels safe, but it usually means the real fight happened where your traps were not.
+
+### Key tips
+
+> [!TIP]
+> Keep one trap behind your own outer gold turret until that turret falls. It catches the most common dive route and tells you whether the enemy is actually committing or only posturing.
+
+> [!TIP]
+> When an objective is spawning, spend trap charges on the entrances first and the pit second. Vision on the route wins more fights than one extra trap inside a space the enemy has not reached yet.
+
+> [!NOTE]
+> Pop ultimate after Kupa has already taken some damage. The full restore is free value, and the upgraded control matters most once real contact has already started.
+
+> [!TIP]
+> If Kupa dies during a side-lane trade, walk out of vision before you think about praying. Surviving with no dog is still recoverable. Dying during the resummon is how a won lane flips.
+
+> [!NOTE]
+> Flicker forward only when the target is already tagged or trapped. Flicker first and the enemy still has the cleanest answer in the exchange: step away from Kupa and kill Popol.
+
+## Skills
+
+### We Are Friends (Passive)
+
+Kupa recovers 10% Max HP per second after not taking damage for 5s. When Kupa is killed, Popol can Pray for 3s to bring Kupa back to the battlefield. Cooldown: 30s. Every 3 consecutive attacks from Kupa will enhance Popol's next Basic Attack to deal (+220% Total Physical Attack) Physical Damage. Kupa has 2500 (+1200% Total Physical Attack) Max HP and inherits 100% of Popol's other attributes and passive equipment effects (excluding Jungling and Roaming equipment effects). Kupa deals an additional 120% damage against creeps.
+
+### Bite 'em, Kupa! (Skill 1)
+
+Popol throws a spear at the target enemy, dealing 80 (+100% Total Physical Attack) Physical Damage while simultaneously commanding Kupa to lunge at the target, dealing an additional 70 (+75% Total Physical Attack) Physical Damage. Kupa will continue to attack the target for 3s. Alpha Wolf Form: Kupa stuns the enemy for 1s and bites them 3 times in quick succession.
+
+### Kupa, Help! (Skill 2)
+
+Popol summons Kupa back to his side, gaining a 240 (+200% Extra Physical Attack) shield while dealing 240 (+50% Total Physical Attack) Physical Damage to nearby enemies and slowing them by 35% for 0.5s. Kupa will then assist Popol to attack nearby enemies for 3s. Alpha Wolf Form: Kupa darts back to Popol, knocking nearby enemies airborne for 0.2s. The shield and damage are increased to 125%.
+
+### Popol's Surprise (Skill 3)
+
+Popol sets a trap at the target location that will detonate after a short delay once triggered, dealing 70 (+20% Total Magic Power) Magic Damage to the enemy that steps on it, immobilizing them for 1s, and creating a frost zone for 4s. Enemies in the frost zone will have their Movement Speed reduced by 20%. Popol gains a trap charge every 22s (up to 3). Up to 3 traps can exist at the same time on the battlefield, each lasting up to 60s.
+
+### We Are Angry! (Ultimate)
+
+Popol and Kupa enter the Enraged state for 12s, gaining 15% extra Movement Speed and increasing their Attack Speed to 1.3 times. Kupa turns into Alpha Wolf Form, gaining 1500 Max HP, fully recovering its HP, while enhancing its other skills.
+
+Skill upgrade priority: 4-1-2-3.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, boost Attack Speed with their Ultimate and control enemies with the enhanced 1st Skill for heavy damage. When enemies are close, use the enhanced 2nd Skill for protection.
+- LANING COMBOS (laning): In the laning phase, poke enemies with the 1st Skill and get more Attack Speed with their Ultimate when enemies are low on HP. Then control and kill the enemies with the enhanced 1st Skill.
+
+## Counters to Popol and Kupa (pick these against Popol and Kupa)
+
+- Atlas (Tank): +4.1 pp edge. Atlas's durability and kit give them a strong matchup advantage against Popol and Kupa throughout the game.
+- Carmilla (Support/Tank): +3.6 pp edge. Carmilla's durability and kit give them a strong matchup advantage against Popol and Kupa throughout the game.
+- Alice (Tank/Mage): +3.1 pp edge. Alice's durability and kit give them a strong matchup advantage against Popol and Kupa throughout the game.
+- Hanabi (Marksman): +3.1 pp edge. Hanabi has a statistical edge over Popol and Kupa based on ranked matchup data. Pick Hanabi to gain an advantage in draft.
+- Sun (Fighter): +2.9 pp edge. Sun's durability and kit give them a strong matchup advantage against Popol and Kupa throughout the game.
+- Ixia (Marksman): +2.6 pp edge. Ixia has a statistical edge over Popol and Kupa based on ranked matchup data. Pick Ixia to gain an advantage in draft.
+- Luo Yi (Mage): +2.6 pp edge. Luo Yi has a statistical edge over Popol and Kupa based on ranked matchup data. Pick Luo Yi to gain an advantage in draft.
+- Leomord (Fighter): +2.4 pp edge. Leomord's burst damage can eliminate Popol and Kupa before they can deal sustained damage in team fights.
+
+## Heroes Popol and Kupa beats
+
+- Mathilda (Support/Assassin): +2.7 pp edge for Popol and Kupa.
+- Harley (Assassin/Mage): +2.7 pp edge for Popol and Kupa.
+- Jawhead (Fighter): +2.5 pp edge for Popol and Kupa.
+- Zilong (Fighter/Assassin): +2.3 pp edge for Popol and Kupa.
+- Selena (Assassin/Mage): +2.3 pp edge for Popol and Kupa.
+- Lesley (Marksman/Assassin): +2.1 pp edge for Popol and Kupa.
+- Hayabusa (Assassin): +1.7 pp edge for Popol and Kupa.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/popol-and-kupa.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Pickoff (Gold)
+
+- Items: Swift Boots, Blade of Despair, Demon Hunter Sword, Great Dragon Spear, Malefic Gun, Wind of Nature
+- Core: Blade of Despair, Demon Hunter Sword, Great Dragon Spear
+- Emblem: Marksman Emblem with Swift, Weapon Master, Quantum Charge
+- Battle spell: Flicker
+- Flex: Rose Gold Meteor over Wind of Nature when Use against magic or mixed burst when physical immunity will not stop the first dive.; Sea Halberd over Malefic Gun when Use when healing, shields, or high-extra-HP front liners keep the first trapped target alive.; Immortality over Wind of Nature when Use when the game has reached one-death objective fights and the enemy cannot be answered by a single active immunity.
+- Total cost: 12070 gold
+
+Default gold lane setup that turns Popol's trap catch into a fast pick, then uses range or physical immunity to survive the answer.
+
+### Front-to-Back Anti-Tank (Gold)
+
+- Items: Swift Boots, Demon Hunter Sword, Corrosion Scythe, Golden Staff, Sea Halberd, Malefic Roar
+- Core: Demon Hunter Sword, Corrosion Scythe, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, War Cry
+- Battle spell: Flicker
+- Flex: Wind of Nature over Malefic Roar when Use when a physical diver can cross the front line before Popol finishes the first durable target.; Malefic Gun over Malefic Roar when Use when safer basic-attack range matters more than scaling through stacked Physical Defense.; Rose Gold Meteor over Sea Halberd when Use against magic burst when the enemy front line is durable but not sustained by heavy healing or shields.
+- Total cost: 11050 gold
+
+Tank-breaking setup for games where Popol is allowed to hit through a controlled choke while Kupa keeps applying attack effects.
+
+### Jungle Tempo Pickoff (Jungle)
+
+- Items: Swift Boots, Blade of the Heptaseas, Hunter Strike, Blade of Despair, Demon Hunter Sword, Immortality
+- Core: Blade of the Heptaseas, Hunter Strike, Blade of Despair
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Malefic Roar over Immortality when Use when the enemy stacks armor and Popol can still enter objective fights from prepared trap angles.; Wind of Nature over Immortality when Use when physical burst reaches Popol before Kupa's peel and traps can reset the fight.; Sea Halberd over Demon Hunter Sword when Use when anti-heal is mandatory before the enemy sustain core can take over Turtle or Lord fights.
+- Total cost: 11980 gold
+
+Jungle variant for snowball drafts that want Kupa's creep control, early pickoff damage, and Ice Retribution chase around objectives.
+
+All builds for this hero: https://mlbbhub.com/builds/popol-and-kupa.
+
+## Synergies
+
+- Alpha: Popol and Kupa are best with Fighters that can charge into enemies' midst and ensure the survival of Popol and Kupa after controlling and killing enemies. For example, Alpha and Khaleed.
+- Khaleed: Popol and Kupa are best with Fighters that can charge into enemies' midst and ensure the survival of Popol and Kupa after controlling and killing enemies. For example, Alpha and Khaleed.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

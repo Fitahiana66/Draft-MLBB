@@ -1,0 +1,209 @@
+# Leomord, Sworn Sword
+
+> Leomord is a jungle fighter built around one temporary unfair state: mounted form with room to keep moving. He is not a blind bruiser and not a reliable first engager. Pick him when your draft can crack the fight open for him, then let the horse finish what your frontline started.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: Jungle
+- Specialty: Chase, Burst
+- Difficulty: Easy
+- Tier this patch: B
+- Win rate: 50.67%
+- Pick rate: 0.30%
+- Ban rate: 0.52%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/leomord
+
+## Guide
+
+### Pick Leomord when the enemy backline has nowhere good to stand
+
+Leomord looks flexible on the draft screen because he has burst, chase, and enough durability to survive first contact. That reading is too generous, and patch 2.1.88 ([patch notes](/patch-notes)) made it more so by trimming the defense his ultimate grants, so the horse soaks less than it used to. He is a tempo jungler whose best games are the ones where the enemy backline cannot kite backward in peace.
+
+Pick him when the enemy mid and gold lane are low-mobility damage dealers like Odette, Pharsa, Yve, Cecilion, Layla, or any marksman that wants to hold one line and fire. Pick him when your own draft already has first touch from Tigreal, Khufra, Atlas, Kalea, or a mid laner that forces bodies to stand still. Pick him when your roamer or mid can start the fight half a second before you do, because Leomord's best entry is the second hit, not the first.
+
+Leave him alone when the enemy has layered displacement and point-and-click control. Franco, Akai, Nana, Kaja, and Minsitthar all turn his mounted window into a very expensive jog if you ride in before they show. Leave him alone when the enemy draft has two frontliners and three escape buttons behind them, because that game asks for sustained objective damage, not cavalry cleanup. Leave him alone when your own team has no ranged follow-up. If nobody chips targets into finishing range, Leomord spends too much time looking scary and not enough time killing.
+
+The cleanest way to think about him is simple: Leomord is good when the fight will break formation. He is bad when the fight stays orderly.
+
+### The one thing that makes Leomord work
+
+The horse is not the hero. The timing is.
+
+Most bad Leomord games come from treating Phantom Steed like a green light to dive. It is not. The ultimate matters because it gives him a short window where he can basic attack while moving, swing in an area, and keep pressure on targets who are already retreating. That means the mounted form is wasted if you spend it on the first full-HP body you see.
+
+Everything else in the kit exists to make that mounted window connect. Momentum softens the approach and buys space. Decimation Assault is not your first damage button, it is your angle fixer. Barbiel's path is not only movement, it is a line that knocks enemies off the lane they wanted to take. Even his passive points to the same idea: Leomord finishes fights better than he starts them.
+
+That is why strong Leomord players look patient before they look flashy. They let the tank eat the first cooldowns, let the enemy marksman drift one step too far backward, then they send Barbiel through the exit route and turn the fight into a chase instead of a brawl. If you play him like a frontliner, he feels fake. If you play him like a mounted closer, the kit suddenly makes sense.
+
+### Jungle routing: the first five minutes
+
+1. **Start Skill 1 and clear toward the side you actually want to contest.** Momentum keeps his first clear respectable, but patch 2.1.88 cut his jungle damage again on top of the earlier creep nerf, so the era of an uncontested speed-clear is over. Open with S1, not the dash. Save Decimation Assault for camp repositioning, wall-crossing, or the invade you did not choose.
+2. **Do not spend Retribution just because you can clear fast.** Leomord's first clear is good enough that he does not need flashy spell usage on every camp. Hold Retribution for the buff that can get stolen, the river objective that will be contested, or the first Turtle setup if your lanes have priority. If you burn it for tempo and arrive at the real fight empty, you gave up the only battle spell that matters.
+3. **Your first gank is only real if the target already spent a dash.** Level 4 Leomord can punish, but he is still easier to read than assassins with instant burst. If the enemy gold laner still has escape, keep farming and show late. If the dash is gone, send Barbiel across the retreat line, mount on contact, and force the lane into a long chase instead of a short trade.
+
+The first five minutes should feel disciplined, not bloodthirsty. You are farming for one clean mounted fight, not trying to prove Leomord can out-skirmish the entire map before his first item.
+
+### The power spike you are farming toward
+
+Leomord's real two-item spike is **War Axe plus Hunter Strike**, usually somewhere in the 7 to 9 minute window if your first rotation was clean.
+
+War Axe is the item that turns his mounted form from annoying into lethal. Mounted basics and follow-up skill hits stack Fighting Spirit quickly, and full stacks matter because the item stops being a stat stick and starts adding true-damage pressure. Hunter Strike is what makes the whole loop hold together. Once you deal five hits in sequence, the movement-speed burst lets Leomord keep pace with the panic path most carries take after first contact.
+
+That changes his mechanics in a very specific way. Before the spike, Leomord needs allied CC and a mistake from the enemy carry to finish a chase. After the spike, one good slow is often enough. You mount, land the first sweep, proc Hunter Strike, and now the target has to choose between turning to fight a bruiser in motion or burning Flicker just to create breathing room.
+
+This is the part many players misread. Leomord does not become stronger because he suddenly one-shots people. He becomes stronger because he stops dropping contact. That is a much more dangerous breakpoint in solo queue, where one carry walking half a screen too far is often the whole fight.
+
+### Teamfight positioning and target priority
+
+The wrong reflex is to ult first, ride through the tank line, and trust the horse to sort everything out. The correct play is to make Barbiel cut off the retreat after someone else starts the conversation.
+
+Three rules matter more than combo speed:
+
+1. **Enter from the side of the fight, not through its center.** If you ride straight at the frontliner, the enemy backline gets a clean backward lane and your mounted window is spent hitting the least important target on the screen.
+2. **Send Barbiel where the carry wants to run, not where the carry is standing.** The knockback path is stronger as a map tool than as raw damage. If the enemy marksman backs toward a wall or jungle mouth, draw the horse through that space and mount into the panic.
+3. **Keep attacking while moving once you are mounted.** Leomord loses value the moment he plants his feet for too long. Circle the target, force skillshots to miss, and keep the area basic attacks clipping whoever steps in to peel.
+
+Target priority is simple once the fight is open: hit the squishy body that has already lost its exit, then only swap to a frontliner if that frontliner is the one physically blocking your next swing. Leomord is not a tank shredder by default. He is a formation punisher.
+
+Support changes how greedy you can be. If you have Angela or Mathilda attached to the play, you can ride deeper and trust the rescue. If your composition is built around one hard-engage tank and no backline support, stay on cleanup duty and let the first engage happen without you.
+
+### Itemization: defaults vs flex slots
+
+Think of Leomord's build as two locked damage slots, one almost-locked survival slot, then a real conversation.
+
+**War Axe and Hunter Strike are the default core.** They give him the attack, cooldown reduction, chase speed, and extended pressure his mounted form actually converts into kills. The third slot that most often becomes standard is **Immortality**, not because it wins damage races, but because Leomord spends so much of his value entering after first contact. The revive turns one bad timing mistake into a second chance around Lord or inhibitor fights.
+
+**Boots are matchup-dependent, not aesthetic.** Take **Tough Boots** when the enemy draft has layered magic damage, stuns, or slows that stop your mounted path before it starts. Take **Warrior Boots** when the problem is physical chip and repeated marksman damage, not hard CC. If you cannot identify the real threat, default to Tough Boots. Control usually kills Leomord faster than raw numbers do.
+
+After that, buy for the question the lobby is asking:
+
+- **Queen's Wings** when the enemy can burst you on entry. Its low-HP damage reduction and cooldown cut are the best answer to the first failed dive that would otherwise end your game.
+- **Brute Force Breastplate** when fights are messy and long. The movement speed, adaptive attack, and control-duration reduction all line up with mounted skirmishes where Leomord keeps tagging targets every second.
+- **Malefic Roar** when the enemy frontline already stacked armor and your team still needs you to threaten whoever stands in front. If their tank can ignore your second swing, buy penetration and stop pretending the base damage is enough.
+- **Sea Halberd** into Estes, Rafaela, Floryn, sustain EXP lanes, or shield-heavy fronts. Anti-heal is not optional when the target you just caught is about to walk back to full.
+
+What you should not do is chase crit bait or build him like a stationary side-lane duelist. The current Leomord wins through repeated contact, short cooldowns, and just enough durability to survive the ride.
+
+### Mistakes that lose Leomord games
+
+**Ulting before the enemy control shows.** This is the classic Leomord throw. If Franco hook, Akai ultimate, Nana morph, or Kaja pull is still available, mounted form is not pressure, it is a donation. Wait one beat longer, then ride after the answer is visible.
+
+**Using Decimation Assault to start every fight.** The dash feels like permission. Usually it is a trap. When you spend S2 just to touch the target, you lose your best angle-adjustment tool before Barbiel even arrives. Use it to fix spacing, not to announce yourself.
+
+**Taking objective fights with no ultimate and pretending your kit is complete.** Leomord without Phantom Steed can still poke, but he does not control a real jungle fight. If Turtle or Lord spawns while your ultimate is down, trade vision, trade camps, or trade the map. Do not take the coin flip and call it bad luck afterward.
+
+**Turning the mounted window into a tank duel.** Hitting the nearest body is fine for one swing. Staying there is how Leomord becomes background noise. The job is to bend the fight toward the carry line, not to spend ten seconds proving you can bruise a frontliner.
+
+**Locking him into anti-dive drafts and calling it mechanics.** Some games are not Leomord games. If the enemy has layered peel, multiple displacements, and a backline that can kite through choke points, the right play was the draft itself. Trying to brute-force that lobby usually ends with good damage numbers and a lost crystal.
+
+### Key tips
+
+> [!TIP]
+> Cast Phantom Steed through the path the enemy carry wants to escape through, not directly at their current model. Barbiel is strongest when it cuts the map in half.
+
+> [!TIP]
+> Mounted basic attacks can keep pressure on two targets at once if you circle the first target instead of tunneling in a straight line. The area swing is part of your damage, not a cosmetic bonus.
+
+> [!NOTE]
+> If the first Turtle spawns while your ultimate is down, treat that objective as a trade unless your lanes already won the area. Leomord without horse form is a poor neutral-fight liar.
+
+> [!TIP]
+> Sea Halberd is a real mid-game purchase on Leomord, not a late luxury. If Estes or Rafaela is undoing your first catch, buy anti-heal before you buy ego.
+
+## Skills
+
+### The Oath Keeper (Passive)
+
+Leomord's Basic Attacks and skills grant him 25 Oath Keeper energy each time they deal damage to targets. When the energy reaches 100, his next Basic Attack deals 200% Crit Damage and restores 100 (+10*Hero Level) (+12% Extra Max HP) HP. Leomord's Basic Attacks cannot normally Crit, and every 1% Crit Chance is converted into 1% Crit Damage. Mounted State: Each Oath Keeper energy gain is increased by 200%.
+
+### Momentum (Skill 1)
+
+Leomord begins channeling, slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to 500 (+180% Total Physical Attack) Physical Damage to enemies hit (scales with channeling time; increased to 140% against creeps except the Turtle and Lord) and slowing them by 40% for 1s. Use Again: Cast the skill again to cancel the channeling and immediately perform the thrust.
+
+### Decimation Assault (Skill 2)
+
+Leomord charges in a designated direction, dealing 300 (+50% Total Physical Attack) Physical Damage to enemies along the way and slowing them by 30% for 1s.
+
+### Phantom Steed (Ultimate)
+
+Leomord summons Barbiel to rush to him, knocking back and dealing 100 (+40% Total Physical Attack) Physical Damage to all enemies in its path. If Barbiel comes in contact with Leomord, they will enter the Mounted State, gaining 50% Movement Speed that decays over 2s. Mounted State: Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area to deal AOE damage. Leomord also gains 70 Movement Speed and 30 Hybrid Defense. This lasts 10s.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Leomord can cast his Ultimate, then his 1st and 2nd Skills while Barbiel is moving towards him. After mounting, Leomord can use his mounted 1st Skill, 2nd Skill, and Basic Attacks to continue dishing out damage.
+- LANING COMBOS (laning): Poke and zone out enemies with his 1st Skill while clearing minions. When the enemy's HP is close to his Passive's threshold, charge in with his 2nd Skill and finish them off with Basic Attacks.
+
+## Counters to Leomord (pick these against Leomord)
+
+- Valir (Mage): +3.3 pp edge. Valir has a statistical edge over Leomord based on ranked matchup data. Pick Valir to gain an advantage in draft.
+- Karrie (Marksman): +2.7 pp edge. Across Leomord's measured matchups, Leomord is weakest once matches pass 16 minutes. Take the game long with Karrie.
+- Zhuxin (Mage): +2.6 pp edge. Zhuxin's CC abilities disrupt Leomord's aggressive playstyle, preventing clean dives and resets.
+- Yve (Mage): +2.4 pp edge. Yve has a statistical edge over Leomord based on ranked matchup data. Pick Yve to gain an advantage in draft.
+- Melissa (Marksman): +2.4 pp edge. Across Leomord's measured matchups, Leomord is weakest once matches pass 16 minutes. Take the game long with Melissa.
+
+## Heroes Leomord beats
+
+- Lolita (Support/Tank): +3.8 pp edge for Leomord.
+- Saber (Assassin): +3.3 pp edge for Leomord.
+- Belerick (Tank): +2.6 pp edge for Leomord.
+- Popol and Kupa (Marksman): +2.4 pp edge for Leomord.
+- Roger (Fighter/Marksman): +2.2 pp edge for Leomord.
+- Eudora (Mage): +2.0 pp edge for Leomord.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/leomord.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Tempo Core (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Brute Force Breastplate, Malefic Roar, Immortality
+- Core: War Axe, Hunter Strike, Brute Force Breastplate
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Warrior Boots over Tough Boots when Use when physical chip is the main threat and the enemy draft has limited hard crowd control.; Sea Halberd over Malefic Roar when Use against Estes, Rafaela, Floryn, Esmeralda, or heavy lifesteal cores when Lifebane is more urgent than armor penetration.; Blade of Despair over Brute Force Breastplate when Use when you are ahead and your team already has enough front-line control to let Leomord enter second.; Queen's Wings over Immortality when Use before the final revive-swap stage when burst damage is forcing you off the horse before the chase finishes.
+- Total cost: 10860 gold
+
+Default jungle setup for ranked games where Leomord needs War Axe plus Hunter Strike chase tempo, then Brute Force Breastplate to stay mobile through mounted skirmishes.
+
+### Jungle Anti-Sustain Bruiser (Jungle)
+
+- Items: Warrior Boots, War Axe, Sea Halberd, Endless Battle, Queen's Wings, Immortality
+- Core: War Axe, Sea Halberd, Endless Battle
+- Emblem: Fighter Emblem with Firmness, Seasoned Hunter, Brave Smite
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Warrior Boots when Use when stuns, slows, or magic poke are the first things stopping the mounted path.; Malefic Roar over Endless Battle when Use when the enemy front line is stacking armor and your team still needs Leomord to damage the first body in the way.; Blade of Despair over Queen's Wings when Use when the enemy sustain is controlled and you need a stronger execute window on low-health carries.; Oracle over Immortality when Use with allied healing or shielding when repeated objective fights matter more than one late-game revive.
+- Total cost: 11570 gold
+
+Bruiser jungle setup for healing and shield drafts. Sea Halberd comes early so mounted area hits apply Lifebane before sustain supports can reset the fight.
+
+### EXP Sprint Flex (EXP)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Endless Battle, Blade of Despair, Immortality
+- Core: War Axe, Hunter Strike, Endless Battle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Sprint
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when control is light and early lane damage is the real problem.; Brute Force Breastplate over Blade of Despair when Use when you must survive longer side-lane and river fights instead of playing for pure cleanup damage.; Sea Halberd over Endless Battle when Use against sustain EXP laners or healer drafts when anti-regen is needed before your damage spike is complete.; Malefic Roar over Blade of Despair when Use when armor stacking is preventing the mounted chase from forcing low-health executes.
+- Total cost: 12270 gold
+
+EXP flex setup for games where another jungler owns Retribution. Sprint preserves chase tempo outside the jungle while Fighter Emblem gives enough sustain to trade before mounting.
+
+All builds for this hero: https://mlbbhub.com/builds/leomord.
+
+## Synergies
+
+- Pharsa: Heroes with AOE or CC like Pharsa and Vexana that can follow up after Leomord breaks the enemy formation.
+- Vexana: Heroes with AOE or CC like Pharsa and Vexana that can follow up after Leomord breaks the enemy formation.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T10:05:35.871Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,201 @@
+# Grock, Fortress Titan
+
+> Grock after the revamp is a different hero. The old version leaned on walls for defense and control immunity; the new one brings the wall with him and splits his damage into Physical Attack burst and defense-scaled percent-Max-HP hits. That changes how you draft him, how you initiate, and where on the map you are allowed to die.
+
+## Snapshot
+
+- Role: Tank, Fighter
+- Lane: Roam
+- Specialty: Crowd Control, Initiator
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 47.06%
+- Pick rate: 0.36%
+- Ban rate: 0.72%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/grock
+
+## Guide
+
+### When the draft actually wants Grock
+
+Grock is a specific answer to a specific draft question: does the enemy have a backline that stays still? His entire toolkit revolves around pinning enemies against terrain he creates. If the enemy has channeled mages (Pharsa, Yve, Odette), immobile marksmen (Layla, Bruno), or a healer the enemy has to protect (Estes, Rafaela, Floryn), Grock's Earthen Rampart plus Tectonic Charge chain ends teamfights before they develop.
+
+He falls apart against true damage and percentage-HP threats. Karrie's Lightwheel Mark shreds through his defense because true damage ignores his scaling stat. Dyrroth's ultimate executes him from low HP with a percentage of his missing health, so a wounded Grock dies to it. X.Borg and Alpha push true damage through his shield. When any two of these are on the same team, do not pick him.
+
+He is also the wrong pick when your team needs a peel roamer rather than an initiator. Khufra locks mobile carries. Mathilda extracts her ADC from bad positions. Grock does neither. His ult is a one-way commitment: once you charge, you are on the far side of the fight and your own backline is alone.
+
+The disqualifying test: if your team has no ranged damage carry who benefits from a stone wall between them and the enemy, Grock is the wrong pick. He is a facilitator, not a finisher. Pick him for Wanwan, Melissa, Karrie, or any immobile mage mid. Do not pick him into an assassin carry who wants to flank anyway.
+
+### The one thing that makes Grock work
+
+Grock's damage splits in a way no other tank's does, and that split is the whole build story. His base burst, the flat numbers on Mighty Swing, Earthen Rampart, and the Tectonic Charge explosion, still scales off Physical Attack, so attack items are never dead on him. But the percent-Max-HP damage, the empowered basic from Bastion of Stone and the obstacle bonus on Mighty Swing, scales off Total Physical Defense. So defense items are doubly efficient: they keep him alive and make the percent-HP part sting. Dominance Ice does not just make him tankier, it makes the empowered basic hit harder. Antique Cuirass converts into offense the same way; Radiant Armor and Guardian Helmet only buy survival, not damage.
+
+The Bastion of Stone passive is the other half of the identity. It gives him a Max HP shield on a short cooldown and empowers his next basic attack to deal bonus Physical Damage based on the target's Max HP. The shield refreshes faster near terrain, which keeps the old wall-hugger flavor without forcing him to hide next to one. While the shield is up he also gains extra Physical Defense, which feeds the empowered basic a second time. And his skill casts cannot be interrupted at all, shield or not, so Flameshot, Kagura's umbrella open, or Saber's flash ult will not cancel his Mighty Swing the way they would cancel Atlas or Johnson mid-cast.
+
+The combo that ties the kit together is his own terrain. Earthen Rampart drops a wall and pulls enemies toward him. That pull positions them to eat either a Mighty Swing knockup (which only launches enemies when they collide with terrain) or a Tectonic Charge explosion (which only triggers the airborne stun on terrain collision). The wall is the enabler. A Grock with no wall nearby has no hard CC, only chip damage and a refund.
+
+### The first three minutes as Grock roam
+
+Your first three minutes decide whether you actually roam or just babysit. Follow this order.
+
+1. **Enter the jungle, not the lane.** Walk the river bush toward the enemy jungler's starting camp side. Grock at level 1 has no way to duel, but he is a body and a wall. A level-1 invade to steal a single buff changes the early timing for both junglers. If your jungler wants the steal, commit. If they wave off, fall back and guard your own blue.
+2. **Level 2 take Mighty Swing and watch for the first rotation.** S1 is your level-2 spike: it clears the minions you pass through and the knockback disrupts any enemy stacking on a crab. You are not farming this lane. You are roaming.
+3. **Between 2:00 and 3:30, decide between turtle and gold buff.** If your jungler is red-side and your mid is a wave-clear pusher (Valentina, Luo Yi), contest turtle with S2 ready. Earthen Rampart into the turtle pit pulls enemies out of position and blocks the retreat corridor. If your jungler is blue-side, rotate to gold buff and wall off the enemy jungler's exit.
+
+Flicker is the default battle spell. Take it. Sprint is only correct on Grock if you are running a very specific ambush-roam comp built around engage chains, and even then you give up the wall-jump utility Flicker provides for getting S2 onto a weird angle.
+
+### The two-item spike that changes what Grock is doing
+
+Grock's two-item spike is Tough Boots plus Dominance Ice. The exact minute window is usually 6:00 to 8:00 depending on how cleanly you traded camps and whether your jungler fed you an assist gold cluster. Before this spike, Grock is a zoning body: his wall disrupts, his ult catches out loners, but he does not kill anyone on his own. Patch 2.1.88 ([patch notes](/patch-notes)) trimmed his early base HP and raised his late-game defense growth, so the pre-spike window is more fragile than it used to be while the post-spike payoff is bigger. Do not trade in the first six minutes as if you are already a wall.
+
+After the spike, three things change at once. First, his passive's empowered basic attack starts dealing real percent-HP damage because the defense it scales off has jumped. Second, Dominance Ice makes everyone near him recover less: Lifebane cuts the Shield and HP Regen of nearby enemies to 60% of normal, while Fortress Shield stacks Hybrid Defense for each of them, so grouped fights make Grock tougher and the enemy's sustain weaker at the same time. Third, the Conceal blessing from Tough Boots gives him a flank that a tank of his size does not usually get.
+
+That spike is also when his ult starts reliably killing people. Before it, Tectonic Charge lands, the knockup fires if you hit terrain, and the target walks away at a third HP. After it, the same chain finishes the kill because the empowered basic attack that follows the charge takes a real chunk off their Max HP.
+
+If you reach 8:00 without Tough Boots plus Dominance Ice, something has gone wrong with your rotations. Either you farmed instead of roamed, or your team stopped coordinating turtle takes. Recognize the signal, adjust your map routing, and prioritize assist gold over jungle clears.
+
+### Teamfight positioning and where the wall goes
+
+The reflex on a frontline tank is to stand between your carry and the enemy. That reflex is usually wrong on revamped Grock. He is not a peeler. His wall is not defensive. Positioning him in front of your marksman to body-block is a waste of the hero.
+
+1. **Stand slightly behind the point of engage, not at it.** You want Tectonic Charge to cover ground onto the enemy backline. If you are already in their face, the charge has nowhere to go and the terrain collision angle is wrong.
+2. **Earthen Rampart goes behind the target you want killed, not in front of you.** The wall pulls enemies toward Grock, so placing it behind the enemy pulls them away from their own team and into your carries. Dropping it in front of Grock pushes the enemy back into their team, which is the opposite of what you want.
+3. **Save your ult for the second commitment, not the first.** If the enemy tank engages first, do not meet them head-on. Let your marksman and mage poke, drop the wall behind the overextended enemy, and ult through to catch them out of position. Leading an organized fight with your ult gives the enemy a free stun target.
+
+If your ranged carry is Wanwan or Beatrix, you can push further forward on the initial engage because they have their own backline reset. If your carry is Layla or Miya, hold the wall until they have clean line of sight. They need the knockup, not the displacement.
+
+### Itemization: defense is the efficient stat, burst is the flex
+
+The revamp inverted Grock's build priority. Pre-revamp Grock leaned on Blade of Despair and Hunter Strike for offensive Physical Attack. Post-revamp, the efficient stat is defense, because a single defensive item does two jobs at once: it keeps him alive and it feeds the percent-HP damage that his burst now carries. So the default 3 locked slots are all defensive: Tough Boots with Conceal blessing, Dominance Ice, and one flex resistance piece. That leaves 3 real conversations.
+
+**Second defense slot.** Against a physical-heavy enemy team (double marksman, physical jungler, physical EXP laner), Antique Cuirass is the default: Deter stacks reduce the incoming burst from their combo windows. Against a mixed or magic-heavy team, Radiant Armor scales magic defense off stacking every time you take magic damage, which matters because Grock's only inherent magic defense is his base stat.
+
+**Third defensive slot.** This is where the fight is. Athena's Shield if the enemy has one big burst mage (Eudora, Aurora, Valentina). Oracle if your team runs Estes, Rafaela, or Angela and you want to amplify their heals and shields on you by 25%. Guardian Helmet only if you are behind and need out-of-combat sustain to keep showing up between fights.
+
+**Sixth slot.** Fleeting Time on any game where you are collecting ult kills or assists, because Grock's ult cooldown at level 1 is unforgivably long and the 30% refund on takedowns compounds across objectives. Immortality is the fallback when you are dying first in every fight and your team needs a second engage attempt per siege.
+
+The item people assume is dead on Grock is Blade of Despair. It is not a trap, it is a flex: the Tectonic Charge explosion scales off Total Physical Attack, and Mighty Swing off Extra Physical Attack, so 160 Physical Attack makes the wall chain hit meaningfully harder on an EXP-lane Grock who wants to burst. The rule of thumb: defense-first for the roam build, and Physical Attack burst items only when you are the secondary frontline with a main tank behind the wall. Do not build Blade of Despair in the roam slot; do not call it worthless on the hero either.
+
+### Mistakes that lose Grock games
+
+**Ulting without terrain in your charge path.** Tectonic Charge only knocks up on terrain collision. Charging through an open lane at a backline gives them a free window to Flicker, Sprint, or Purify your commitment while you slide past harmlessly. Before you press ult, check that the end of your charge path collides with a wall, a turret, a jungle edge, or an Earthen Rampart you placed a second earlier. No terrain, no knockup, no kill.
+
+**Dropping Earthen Rampart in front of your own team.** The wall pulls enemies toward Grock. If you drop it between the enemy and you while you are standing in front of your carries, the wall yanks the enemy into your backline. This is especially bad when the enemy has Lancelot, Fanny, or Yin: they will happily take the free displacement into your Wanwan. Place the wall behind the enemy, not between you.
+
+**Fighting true damage threats near your own turret.** The old Grock had a turret-proximity bonus that turned towers into fortresses. The new passive refreshes faster near terrain, but this does not make the turret a safety zone against Karrie or Dyrroth. Karrie's Lightwheel Mark and X.Borg's fire ignore your defense entirely, and Dyrroth's execute converts your missing HP into damage, so the Physical Defense you built for the empowered basic does nothing to save you here. Under your turret, in the jungle, in lane: the math does not change. Play for disengage and let your team handle the follow-up.
+
+**Trying to 1v1 assassins in the jungle.** Grock has no execute, no sustained DPS, and no lockdown outside his ult cooldown. A Ling, Lancelot, or Hayabusa who catches you without ult up will kite you to death and laugh. Do not contest the enemy jungle without your team on the minimap.
+
+**Opening fights against comps with multiple cleanses.** Khufra's bomb through your ult, Wanwan's weakness-purified ult, Diggie's cleanse, Purify battle spell: any of these invalidates your knockup. If the enemy has two of these tools, you are the third engage, not the first. Let Tigreal or Atlas burn those tools, then follow up.
+
+### Key tips
+
+> [!TIP]
+> Earthen Rampart interrupts channeled ultimates. Pharsa's Feather Dance, Yve's Real World Manipulation, and Odette's Swan Song all get displaced by the wall's pull effect. If the enemy has a channeler, your S2 cooldown is their fight timer.
+
+> [!NOTE]
+> Tectonic Charge refunds part of its cooldown when you fail to hit terrain. This is the revamp's forgiveness mechanic. A missed ult that slides into open lane returns for a second attempt much faster than a landed one, which means you can afford to experiment with aggressive opening charges when you would otherwise play safe.
+
+> [!TIP]
+> Your empowered basic attack refreshes faster near terrain. After every skill cast, drop a basic attack on the highest-HP target in range. Against tanks and fighters, the bonus damage scales off their Max HP, which makes Grock surprisingly good at winning tank-vs-tank trades during objective fights.
+
+> [!WARNING]
+> The December 2025 patch moved Grock's control immunity from his passive to his ult. Tectonic Charge now charges through stuns and hooks, but your Mighty Swing and Earthen Rampart casts no longer grant CC immunity: the skill still completes if you get stunned, but you eat the CC afterward. Against stacked CC teams (Khufra plus Franco, Tigreal plus Atlas), open with ult and drop the wall after, not before.
+
+## Skills
+
+### Bastion of Stone (Passive)
+
+Grock gains a shield equal to 14% Max HP and empowers the next Basic Attack to deal 4 (+2% Total Physical Defense)% target's Max HP Physical Damage (capped at 300 (+20*Hero Level) against non-hero units). Cooldown: 18s - 12s (decreases with level). This cooldown is reduced by 200% when near terrain. Grock's skills cannot be interrupted, and he gains 30 (+6*Hero Level)% extra Physical Defense while the shield is active.
+
+### Mighty Swing (Skill 1)
+
+Grock strikes forward with massive force, dealing 240 (+100% Extra Physical Attack) Physical Damage. Enemies with obstacles behind them are knocked back into the obstacle, knocked airborne, and take 4 (+2% Total Physical Defense)% Max HP extra Physical Damage (capped at 300 (+20*Hero Level) against non-hero units). If there are no obstacles behind, enemies are only knocked back slightly.
+
+### Earthen Rampart (Skill 2)
+
+After a brief delay, Grock summons a stone wall in the target area, dealing 100 (+60% Extra Physical Attack) Physical Damage and knocking enemies towards him. Use Again: Cancel the wall early.
+
+### Tectonic Charge (Ultimate)
+
+Grock charges forward and gains Control Immunity, dealing 100 (+50% Total Physical Attack) Physical Damage to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1s and deals 650 (+300% Total Physical Attack) Physical Damage. If this skill doesn't hit terrain, 50% of its cooldown is refunded.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights,initiate with Grock's 2nd Skill to trap the enemies,then charge into the wall with his Ultimate.While the enemies are airborne, find a good angle to slam them into the wall with his 1st Skill and send them airborne again,then finish up with Basic Attacks.
+- LANING COMBOS (laning): In small skirmishes,use Grock's 2nd Skill to knock the enemy toward him,then use his 1st Skill to slam them into the wall.Use his Ultimate to charge into the wall and knock them airborne again,and finish the job with Basic Attacks.
+
+## Counters to Grock (pick these against Grock)
+
+- Alice (Tank/Mage): +3.5 pp edge. Alice's durability and kit give them a strong matchup advantage against Grock throughout the game.
+- Esmeralda (Tank/Mage): +2.7 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Grock throughout the game.
+- Marcel (Support): +2.7 pp edge. Marcel has a statistical edge over Grock based on ranked matchup data. Pick Marcel to gain an advantage in draft.
+- Chip (Support/Tank): +2.6 pp edge. Chip's durability and kit give them a strong matchup advantage against Grock throughout the game.
+- Angela (Support): +2.3 pp edge. Angela has a statistical edge over Grock based on ranked matchup data. Pick Angela to gain an advantage in draft.
+- Kaja (Support): +2.3 pp edge. Kaja has a statistical edge over Grock based on ranked matchup data. Pick Kaja to gain an advantage in draft.
+- Cecilion (Mage): +1.8 pp edge. Cecilion has a statistical edge over Grock based on ranked matchup data. Pick Cecilion to gain an advantage in draft.
+
+## Heroes Grock beats
+
+- Diggie (Support): +2.5 pp edge for Grock.
+- Lolita (Support/Tank): +2.0 pp edge for Grock.
+- Yin (Fighter/Assassin): +2.0 pp edge for Grock.
+- Layla (Marksman): +1.9 pp edge for Grock.
+- Odette (Mage): +1.9 pp edge for Grock.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/grock.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Conceal Wall Engage (Roam)
+
+- Items: Tough Boots, Dominance Ice, Antique Cuirass, Athena's Shield, Blade Armor, Immortality
+- Core: Dominance Ice, Antique Cuirass, Athena's Shield
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Rapid Boots over Tough Boots when Use when the enemy has low control and Grock needs faster flank angles before Turtle fights.; Radiant Armor over Athena's Shield when Use against repeated magic ticks, burn damage, or poke patterns that outlast Athena's single burst window.; Guardian Helmet over Blade Armor when Use when Grock is winning vision but reaching every objective fight too low to start.
+- Total cost: 11060 gold
+
+Default ranked roam setup that gives Grock Conceal angles, Flicker correction, and enough mixed defense to force wall collisions without dying first.
+
+### Dire Hit Tempo Tank (Roam)
+
+- Items: Warrior Boots, Thunder Belt, Dominance Ice, Radiant Armor, Guardian Helmet, Immortality
+- Core: Thunder Belt, Dominance Ice, Radiant Armor
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Execute
+- Blessing: Dire Hit
+- Flex: Tough Boots over Warrior Boots when Use when stuns and slows are stopping Grock before he can place Earthen Rampart.; Athena's Shield over Radiant Armor when Use when a single burst mage decides fights before Radiant Armor can stack value.; Blade Armor over Guardian Helmet when Use against basic-attack marksmen who must hit Grock while he zones the wall corridor.
+- Total cost: 11050 gold
+
+Snowball roam variant for games where Grock crosses the map often enough to arrive with Force capped. Bastion of Stone, Thunder Belt, and the Dire Hit dump can all ride the same Basic Attack, and Execute finishes what that leaves.
+
+### EXP Burst Wall Pick (EXP)
+
+- Items: Rapid Boots, Sky Piercer, Blade of the Heptaseas, Blade of Despair, Rose Gold Meteor, Malefic Roar
+- Core: Sky Piercer, Blade of the Heptaseas, Blade of Despair
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Execute
+- Flex: Warrior Boots over Rapid Boots when Use into physical EXP lanes where trading durability matters more than map speed.; Brute Force Breastplate over Rose Gold Meteor when Use when Grock needs control duration reduction and a safer second entry instead of a Lifeline shield.; Antique Cuirass over Malefic Roar when Use when Grock is no longer deleting carries and must become the secondary frontline.
+- Total cost: 11090 gold
+
+Side-lane burst setup for drafts with another main tank, built to punish immobile mages or marksmen after Earthen Rampart creates the wall angle.
+
+All builds for this hero: https://mlbbhub.com/builds/grock.
+
+## Synergies
+
+- Odette: Grock's Ultimate is a powerful CC that covers a wide area,so he pairs well with Mages like Odette and Pharsa to maximize their AOE damage.
+- Pharsa: Grock's Ultimate is a powerful CC that covers a wide area,so he pairs well with Mages like Odette and Pharsa to maximize their AOE damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

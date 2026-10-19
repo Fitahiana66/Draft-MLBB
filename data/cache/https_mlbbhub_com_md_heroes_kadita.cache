@@ -1,0 +1,193 @@
+# Kadita, Ocean Goddess
+
+> Kadita is a burst assassin hiding inside a mage's role slot. Her entire kit exists to land one scripted combo on one squishy target, and her draft value collapses the moment the enemy team has a reliable answer. This guide covers when she is the right lock, how to execute the combo, and why most Kadita losses come from playing her like a normal mid laner.
+
+## Snapshot
+
+- Role: Mage, Assassin
+- Lane: Mid
+- Specialty: Burst, Charge
+- Difficulty: Medium
+- Tier this patch: A
+- Win rate: 51.40%
+- Pick rate: 0.79%
+- Ban rate: 3.47%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/kadita
+
+## Guide
+
+### The drafts that want Kadita
+
+Kadita is a pick-comp mage. She wants a draft that opens fights from the side or from a bush, with a stun or slow from another hero to guarantee the Breath of the Ocean eruption lands. Franco, Atlas, Khufra, Tigreal, Jawhead, or Chou as the tank-roamer all work because their first engage gives Kadita a free knock-up on multiple heroes. Add a Selena, Minsitthar, or Kaja on the enemy side and the pick falls apart. She also wants a team that actually needs her: the draft already has a scaling marksman and a wave-clear fighter, and the missing piece is a one-shot threat on the enemy carry.
+
+She is the wrong pick when the enemy has two mobile backline answers (think Natalia plus Helcurt, or Lancelot plus Gusion) because she cannot kite them once her ult is down. She is also the wrong pick when your own roam is a pure healer like Estes or Rafaela and cannot force the engage for you. Kadita does not open fights alone; she capitalizes on an engage someone else creates. If your draft needs the mid laner to be the first one in, lock Valentina or Novaria instead. If you cannot name which teammate is going to knock up or stun the enemy carry before your ult, Kadita is the wrong pick.
+
+### Kadita is a combo, not a hero
+
+Kadita is the only mid laner whose entire power budget lives in the overlap of two skills. Everything about her kit, the CC immunity on Ocean Ode, the reduced eruption delay when Breath of the Ocean is cast from inside the wave, the untargetable frames on Rough Waves, exists to protect one specific combo: dive on top of a squishy, erupt under them for the knock-up, ult for the burst. If you are pressing her skills in any other order, you are misplaying her.
+
+This is why she is classified Burst/Charge and not a standard mage. She does not want to sit at 8 meters and throw skillshots through a minion wave. She wants to appear on top of the enemy carry with CC immunity, lock them in the air, and delete them before they hit the ground. The passive healing is there to buy you one mistake per fight, not to let you facetank a two-item marksman. The ultimate is there as a finisher and an escape, not as a fight-opener: opening with the ultimate telegraphs the play before your S1 can land the eruption.
+
+The strategic consequence is that Kadita is a single-target hero on a five-hero team. Pick her into drafts where there is exactly one enemy hero who matters (the hyper-carry marksman, the fed mage, the enemy mid laner), and pass on her when the enemy wins through evenly distributed pressure.
+
+### Laning: the first 4 minutes
+
+You are a mid laner with zero magic power at level 1 and a skill-point investment that does not pay off until level 4. Plan the lane around that.
+
+1. **Take Ocean Ode first and bully through the wave with the dash, not with skill damage.** At level 1 your S1 is a tool of movement, not a kill button: its job is the dash for a level-2 all-in if the enemy mid overextends, and the control immunity and damage reduction you get while riding the wave let you absorb one skill trade. Use the dash to collect exp from both caster minions on the first wave and rotate back to tempo.
+2. **Save your battle spell for your first ganking rotation, not for an early kill attempt.** The single most common Kadita mistake is burning Flicker (or Petrify) at 1:30 to try to all-in a Pharsa who is already full mana and halfway back to tower. You have no burst until your first item, and your ult is not even up until level 4. Walk, wait, let the enemy jungler push their side, then rotate with the spell available for the bush approach. Patch 2.2.16 ([patch notes](/patch-notes)) traded some base movement speed for a bonus while she is in the river: the dry route through your own jungle is slower than before, and the river route is faster. Pick the path before you leave mid.
+3. **Hit level 4 and punish the first overextended wave.** Once Rough Waves comes online, you have a real kill window. Walk up with minion wave cover, dash in with S1 toward the enemy mid, immediately press S2 to spawn the eruption under you (the reduced delay is the whole point of casting inside the wave), and ult as they come down from the knock-up. If the enemy escapes with one skill, your passive heal covers the return trip to lane. If you escape without kills but with more HP than them, the lane is still winning.
+
+### The power spike you are farming toward
+
+The combination that flips Kadita from a utility CC mage into a one-shot assassin is Clock of Destiny plus Lightning Truncheon, typically online between the 9 and 11 minute mark. Clock of Destiny gives her the base magic power and mana sustain to stop scrimping on skill rotations, and its low-HP recovery passive lets her commit to dives that used to kill her. Lightning Truncheon is the actual damage spike: its Resonate passive adds 120% of her total magic power as extra damage to the next skill cast after a 6-second cooldown, and it also grants a 30% movement speed burst for two seconds, which is exactly the window she needs to reposition after Rough Waves drops her on top of the enemy team.
+
+Before this two-item spike, Kadita is a below-average mid laner who sacrifices wave-clear for a combo she cannot reliably kill with. After the spike, she one-shots any marksman or mage who is not already sitting on Athena's Shield, and the movement speed procs turn her into a rotation threat across the map. Push for side objectives between 9 and 12 minutes only if you have both items, and avoid committing to teamfights before you do.
+
+### Positioning: fight from the side, never from the front
+
+The reflex for a mid-lane mage is to stand behind the tank and throw skills. That reflex is wrong for Kadita. Her range is her dash distance, not her cast range, which means the longer she stands behind the tank, the less value her existence on the map is providing. Teamfights end before she can walk into combo range from the backline.
+
+1. **Start the fight from a flank, not from your own minion wave.** You want to dive the enemy carry from a side bush while your own tank is engaging from the opposite direction. This splits the enemy team's CC: they cannot peel both threats at once, and whoever they turn to face gives the other a clean kill.
+2. **Press Rough Waves when you are already in melee range of the target, not when you are 8 meters out.** The untargetable frames are worth more as an anti-CC tool after you commit than as an approach tool. Popping the ult mid-approach wastes the speed buff on unused ground and telegraphs the entire play.
+3. **Never re-dash with Ocean Ode toward the same target.** The combo is one-way. If the eruption does not kill them, the ult finishes them. If the ult does not finish them, you leave. Dashing back in for cleanup is how Kadita dies to a Khufra, a Chou, or any assassin who was waiting on your ult cooldown.
+
+Support-conditional rule: if your roamer is Franco, you can open the fight yourself and trust him to follow the hook onto whoever survives. If your roamer is Diggie or Rafaela, you have no follow-up CC and must wait for someone else to engage first.
+
+### Itemization: two locked buys, then real conversations
+
+The locked core is Clock of Destiny into Lightning Truncheon, in that order. Clock of Destiny covers the two things that kill early Kadita games: mana that runs out mid-rotation, and an HP pool too thin to survive the dive. Lightning Truncheon is the actual damage anchor; its Resonate proc turns the next skill after a short window into the burst your draft was picked for. Enchanted Talisman does not build into Clock of Destiny, so do not hold it as a bridge item. It is a separate mana item, and buying it first is spending gold to stall instead of moving toward the spike. Demon Boots refund mana on minion kills and are the default boot; swap to Arcane Boots when you trust your mana discipline and want magic penetration, or Magic Boots when you want the cooldown reduction to rotate the combo sooner.
+
+The flex slots are where the game is decided, and each one has a real trigger:
+
+- **Genius Wand** when the enemy backline has not built magic defense yet. Its flat magic-defense reduction stacks on every hit of your combo, which is the exact stat that turns a burst into a delete, and most current Kadita builds reach for it early.
+- **Holy Crystal** when the enemy team still has no magic defense. Its extra magic power scales with level and turns the two-item spike into a three-item delete.
+- **Divine Glaive** when the enemy has built Athena's Shield or Oracle on more than one hero. Its penetration scales with the enemy's magic defense, so it punishes exactly the comp that built to survive you.
+- **Fleeting Time** when you are ahead and farming kills. The 30% ultimate refund on kills and assists turns Rough Waves from a once-a-fight skill into something you can threaten twice.
+- **Blood Wings** when fights run long enough that you need the shield to survive the return trip. The shield plus its movement speed lets you dive, delete, and walk back out.
+
+Ice Queen Wand is a trap on Kadita despite what external guides sometimes recommend. The 10% slow per skill proc looks good on paper, but her combo is a knock-up, not a skillshot chase. The slot is better spent on raw magic power.
+
+Emblem is standard Mage (Inspire + Bargain Hunter + Lethal Ignition). Lethal Ignition pairs cleanly with a combo that lands three separate damage instances (S1, S2, and the ultimate), because the scorch procs on multi-hits. Assassin Emblem is tempting on a burst hero, and it is the right call in the snowball window, but the Mage tree's cooldown reduction keeps the combo coming back sooner across a normal 20-plus-minute game, which out-weights the assassin adaptive penetration on a hero who lives and dies by spell uptime.
+
+Battle spell is Petrify or Flicker, and the pick says how you plan to kill. Petrify is the ranked default: the freeze covers the delay on Breath of the Ocean, which is the difference between a clean one-shot and a target walking out. Flicker is the higher-skill version: cast Breath of the Ocean first and flicker onto the target mid-delay so the eruption spawns under their feet instead of yours. That catches enemies who positioned around your dash range, and the blink doubles as your escape after Rough Waves. Do not pick Purify to answer Kaja or Franco: Purify does not cleanse suppression, and a draft that stacks those two is a draft you should not lock Kadita into anyway.
+
+### Mistakes that lose Kadita games
+
+**Opening Rough Waves as an engage tool.** The untargetable frames feel like a free approach, but the ultimate on cooldown means your combo has no finisher. Lead with Ocean Ode to close, Breath of the Ocean for the knock-up, and save the ult for the kill. Open with the ult only when you are baiting a Chou or a Lancelot into burning their dash before your real combo lands.
+
+**Casting Breath of the Ocean from outside Ocean Ode.** Breath of the Ocean has a noticeable delay at its normal cast, which gives any competent enemy a full second to walk out of the eruption circle. The point of casting it from inside the wave is the reduced delay: the eruption happens almost on top of you before the enemy can react. If you are not inside the wave when you press S2, you are throwing the combo away.
+
+**Using Ocean Ode for the return trip.** Ocean Ode is a two-way dash by default: the wave carries you forward and then back to the starting point. Using the tap-again option to leave the wave early is usually correct when you are diving to kill, because the return would pull you back into enemy CC range after your combo ends. Players who forget this eat a second wave of crowd control on the return trip and die in the middle of the enemy team.
+
+**Fighting before the two-item spike.** At one item Kadita is a mediocre mid laner with a flashy combo. At two items she deletes people. The gap between one item and two is the single most important window in her game, and pushing fights before Lightning Truncheon finishes is how Kadita players waste their team's tempo. If the enemy group collapses at 8 minutes, rotate to vision and let your jungler contest solo.
+
+**Picking her into a drafted counter.** The counter list is short and specific: Minsitthar's ultimate grounds her dash, Kaja's suppression cancels her mid-combo, Franco's hook catches her during the S2 cast animation, and Selena's traps reveal her bush positioning. If two of those heroes are on the enemy team, you do not lane harass your way out of it. You asked for a hero that lives on one scripted combo, and they picked three heroes that break the combo.
+
+### Key tips
+
+> [!TIP]
+> The Breath of the Ocean plus Flicker combo is better than the Ocean Ode approach against squishy mages with escape tools like Kagura or Lylia. Cast S2 first, then Flicker on top of the target during the cast delay: the eruption spawns at your new position, catching heroes who positioned assuming your dash range.
+
+> [!NOTE]
+> Kadita's Thalassophobia passive heals back most of the damage she takes, but only while Blessing of the Ocean is active, and the blessing is on a long internal cooldown. Time your aggressive trades to the blessing indicator: dive without it and every point of HP lost is permanent until base.
+
+> [!TIP]
+> Rough Waves hits harder when the enemy team is clustered because each wave deals independent damage on the outgoing sweep. Target a grouped enemy formation (a tank standing next to a marksman on an objective) rather than a spread-out lane. Two overlapping waves on the carry is more damage than six waves on five different targets.
+
+> [!WARNING]
+> The untargetable frames on Rough Waves do not cleanse crowd control already on you, and suppression still interrupts the dive outright. Do not treat the ultimate as your CC answer: positioning and your battle spell are the tools that keep the combo from being cancelled, especially into a Kaja or Aurora draft.
+
+## Skills
+
+### Thalassophobia (Passive)
+
+Kadita gains the Blessing of the Ocean every 30s. Taking damage from an enemy hero activates the Blessing for 4s. When the Blessing ends, she recovers 65% of the HP lost during this period (damage from minions and creeps does not activate this effect). While in the River, Kadita gains 10% extra Movement Speed.
+
+### Ocean Ode (Skill 1)
+
+Kadita summons an ocean wave to carry herself in the target direction and back, dealing 250 (+90% Total Magic Power) Magic Damage to enemies hit and slowing them by 30%. While inside the wave, she gains Control Immunity and 50% Damage Reduction. This skill can pass through obstacles and terrain. Use Again: Kadita exits the wave without interrupting the wave's movement.
+
+### Breath of the Ocean (Skill 2)
+
+After a short delay, Kadita summons an ocean wave to erupt at the target location, dealing 350 (+140% Total Magic Power) Magic Damage to enemies hit and knocking them airborne for 1s. Kadita can cast this skill during Ocean Ode to summon an ocean wave beneath her with a shorter eruption delay.
+
+### Rough Waves (Ultimate)
+
+Kadita dives into the ground and sends ocean waves in all directions, each dealing 270 (+60% Total Magic Power) Magic Damage to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a delay, the waves return to Kadita, each dealing 180 (+40% Total Magic Power) Magic Damage to enemies hit. While underground, Kadita becomes untargetable and gains 60% Movement Speed. This skill can only be interrupted by Suppression.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, target the enemy's backline with Kadita's 1st Skill, and use her 2nd Skill when passing through enemies to knock them airborne. Follow up with her Ultimate for massive damage and avoid all incoming damage while being untargetable.
+- LANING COMBOS (laning): In the laning phase, use Kadita's 1st Skill to constantly harass enemies, and look for opportunities to use her 2nd Skill.
+
+## Counters to Kadita (pick these against Kadita)
+
+- Marcel (Support): +2.5 pp edge. Marcel has a statistical edge over Kadita based on ranked matchup data. Pick Marcel to gain an advantage in draft.
+- Alice (Tank/Mage): +1.8 pp edge. Alice's durability and kit give them a strong matchup advantage against Kadita throughout the game.
+- Balmond (Fighter): +1.6 pp edge. Balmond's sustain and durability allow them to outlast Kadita's burst combos and win extended trades.
+- Wanwan (Marksman): +1.5 pp edge. Wanwan has a statistical edge over Kadita based on ranked matchup data. Pick Wanwan to gain an advantage in draft.
+- Miya (Marksman): +1.4 pp edge. Miya has a statistical edge over Kadita based on ranked matchup data. Pick Miya to gain an advantage in draft.
+
+## Heroes Kadita beats
+
+- Lolita (Support/Tank): +5.4 pp edge for Kadita.
+- Ixia (Marksman): +2.8 pp edge for Kadita.
+- Johnson (Tank/Support): +2.3 pp edge for Kadita.
+- Atlas (Tank): +1.8 pp edge for Kadita.
+- Brody (Marksman): +1.7 pp edge for Kadita.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/kadita.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Pickoff Default (Mid)
+
+- Items: Arcane Boots, Lightning Truncheon, Genius Wand, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Lightning Truncheon, Genius Wand, Holy Crystal
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Lethal Ignition
+- Battle spell: Petrify
+- Flex: Winter Crown over Blood Wings when Use when the enemy can punish Kadita after Rough Waves returns her to the fight.; Glowing Wand over Genius Wand when Use against healer, shield, or sustain drafts where Lifebane matters more than flat Magic Defense reduction.; Tough Boots over Arcane Boots when Use against chain control or early magic poke that can stop Kadita from reaching the flank.
+- Total cost: 12010 gold
+
+Default mid build for standard ranked games where Kadita needs reliable one-combo damage on the enemy backline.
+
+### Snowball Execute (Mid)
+
+- Items: Arcane Boots, Sky Piercer, Genius Wand, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Sky Piercer, Genius Wand, Holy Crystal
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Lethal Ignition
+- Battle spell: Petrify
+- Flex: Lightning Truncheon over Blood Wings when Use if Sky Piercer stacks are unstable and Kadita needs guaranteed burst plus cooldown reduction.; Winter Crown over Blood Wings when Use when the enemy has enough return damage to kill Kadita after the first execute attempt.; Wishing Lantern over Blood Wings when Use when the backline is protected by high-HP fighters and Kadita must add damage before the final dive.
+- Total cost: 11260 gold
+
+High-risk snowball setup for games where Kadita can repeatedly punish isolated targets and protect Sky Piercer stacks.
+
+### Safe Flicker Engage (Mid)
+
+- Items: Magic Boots, Lightning Truncheon, Genius Wand, Holy Crystal, Winter Crown, Divine Glaive
+- Core: Lightning Truncheon, Genius Wand, Winter Crown
+- Emblem: Mage Emblem with Inspire, Pull Yourself Together, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Blood Wings over Winter Crown when Use when the enemy lacks instant punish and Kadita can convert the defensive slot into shielded burst.; Immortality over Winter Crown when Use in late Lord fights where a revive is more valuable than freezing in place after the combo.; Glowing Wand over Divine Glaive when Use against sustain lineups before they stack enough Magic Defense to require Divine Glaive.
+- Total cost: 11840 gold
+
+Safer engage build for CC-heavy games where Flicker angles and a single defensive active decide whether Kadita can start fights.
+
+All builds for this hero: https://mlbbhub.com/builds/kadita.
+
+## Synergies
+
+- Atlas: Kadita works well with heroes who possess strong CC abilities, such as Atlas and Tigreal, as their CC will make it easier for Kadita to hit more enemies with her Ultimate.
+- Tigreal: Kadita works well with heroes who possess strong CC abilities, such as Atlas and Tigreal, as their CC will make it easier for Kadita to hit more enemies with her Ultimate.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T10:05:35.871Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

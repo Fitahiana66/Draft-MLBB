@@ -1,0 +1,221 @@
+# Fredrinn, Rogue Appraiser
+
+> Fredrinn reads as a tank with damage scaling, but that framing hides the real mechanic. He is a delayed-reaction bruiser whose entire sustain engine runs on what the enemy team throws at him. If they refuse to commit damage, his Crystal Energy never stacks and the kit collapses into a mediocre taunt bot.
+
+## Snapshot
+
+- Role: Fighter, Tank
+- Lane: Jungle
+- Specialty: Damage, Chase
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 51.19%
+- Pick rate: 0.43%
+- Ban rate: 1.52%
+- Released: 2022
+- Page: https://mlbbhub.com/heroes/fredrinn
+
+## Guide
+
+### The draft shape that unlocks Fredrinn
+
+Fredrinn is not a generalist jungler. He is a draft-conditional pick whose win rate swings 8 percent or more based on what the enemy team is made of, and most players lock him into drafts where the math never works.
+
+**Lock Fredrinn when:**
+1. The enemy has at least two melee damage commits: Alucard, Ling, Joy, Argus, Paquito, or Yu Zhong. Crystal Energy needs them to actually touch you. Our matchup data shows +2.4 to +4.1 percent deltas into Gloo, Joy, Alucard, and Argus precisely because those heroes walk into the taunt radius.
+2. Your team is short on frontline that can also fight. A peel-only tank (Tigreal, Estes-heavy roam) plus a squishy carry leaves a hole between engage and damage; Fredrinn fills both slots.
+3. You need a jungler who can taunt-setup for a late-game scaling carry. S3 into Appraiser's Wrath is one of the longest hard-CC chains in the jungle pool at roughly 1.5 seconds of guaranteed lockdown.
+
+**Avoid Fredrinn when:**
+1. The enemy draft runs three or more ranged poke heroes that will chip from 6-plus meters. Valir, Gord, Hanzo, and Marcel are his four worst matchups on live data (all at -2.3 percent delta or worse) and they share a pattern: they deal damage without committing bodies. Your Crystal Energy decays at 10 percent Max HP per second after the 5-second window, so poke drains it faster than it stores.
+2. The enemy has reliable Purify access. Your S3 taunt is your only hard lockdown. One Purify burns the taunt and resets the trade in the enemy's favor.
+3. Your own team has no backup damage. Fredrinn's ultimate adds 21 percent of his Crystal Energy to a 600 physical base, but a lone ult without an ally follow-up still leaves carries at 20 percent HP, not dead.
+
+If you cannot name at least one melee commit on the enemy team before you lock Fredrinn, you are picking him into his fall-off curve. Suyou, Julian, or Harley is the safer jungle call.
+
+### The one thing that makes Fredrinn work
+
+Fredrinn is a delayed-reaction bruiser. Every line of his kit is tuned around the same loop: eat damage, store it as Crystal Energy, spend it in a rotation that converts energy back into HP at a scaling ratio. The passive line that matters is not "100 percent damage stored", it is **"20 percent of your damage dealt converts energy to HP, doubled on hero damage from the ultimate."**
+
+That doubled ratio is the whole hero.
+
+Energy Eruption (S3) taunts for 1 second and cuts Piercing Strike and Brave Assault cooldowns by 75 percent on any hero hit, which means your 7.5-second combat skills are back in roughly 1.9 seconds. Appraiser's Wrath bakes 21 percent of your stored Crystal Energy into its damage and hits 175 percent in the center cone. So the fight loop is: take a commit, build 3 Combo Points, spend the ult point-blank in the center, then replay S3 / S1 / S2 while the enemy is still in your cone because your cooldowns just reset.
+
+Read the kit backwards and the "tanky jungler" label is wrong. Fredrinn is a combo machine with a survival buffer. The combo is what carries games. The armor only exists so the combo can finish.
+
+### Laning: the first four minutes
+
+Fredrinn is a jungler, but the first four minutes decide whether you farm uncontested or show up to the level-6 turtle with half a kit.
+
+1. **Take Brave Assault (S2) first and full-clear the blue-buff side.** S2 has 80 percent extra physical attack scaling, no Combo Point cost, and one-shots the first medium camp with Retribution timing. Opening with Piercing Strike feels stronger because of the 170 percent creep damage line, but S1's 7.5-second cooldown is the skill you need available for the first skirmish at level 4.
+2. **Gank on 1 Combo Point, not 0.** S3 does not generate Combo Points against minions. Walking into a lane with an empty passive means your taunt hits, then nothing follows because you cannot S3-reset S1 and S2 without a skill hit banked first. Tag the enemy jungler or a lane hero with S1 or S2 once in the river, then rotate with a banked point.
+3. **First turtle at 2:00 is a hard yes against most junglers.** Your S1 does 170 percent damage to the turtle, you have Retribution, and S3 refreshes S1 off a single hero hit during the contest. The only junglers who out-cleave you here are Suyou and Fanny; against everyone else you win the 2:00 trade because your cooldowns do not stay down.
+
+If you farm past the four-minute mark without a single gank attempt, you are playing Fredrinn as a scaling hero, which he is not.
+
+### The power spike you are farming toward
+
+Fredrinn's real spike is **War Axe plus advanced boots** at roughly the 7-to-9 minute mark, not a late-game tank stack.
+
+War Axe is doing three jobs at once:
+
+- 35 Physical Attack and 10 percent Cooldown Reduction feed the 120 percent extra physical attack scaling on Piercing Strike, so his first-skill damage roughly doubles off one item.
+- Fighting Spirit stacks into 10 percent true damage at max stacks, which is the only way a bruiser Fredrinn threatens a 3000-HP squishy outside of his ultimate cone.
+- The 8 percent Spell Vamp stacks additively with his Crystal Energy conversion. Every hero hit now heals twice: once from the passive ratio on damage dealt, once from Spell Vamp on the skill damage itself.
+
+After this item, a full S2-into-enhanced-auto-into-S1-into-enhanced-auto combo forces a rotation from a 60 percent HP squishy. That is the real breakpoint. Before War Axe, your damage is a threat. After War Axe, your damage is a kill timer. This is also when S3 becomes a guaranteed three-man taunt engage because you can actually follow the CC up with output instead of holding the lockdown and hoping a teammate arrives.
+
+Do not skip War Axe even in pure tank drafts. Without it, Crystalline Armor barely heals you because the conversion ratio is multiplicative with your outgoing damage. A tank-only Fredrinn is a fake tank whose passive never triggers at a rate fast enough to matter.
+
+### Teamfight positioning and target priority
+
+The reflex when you see your team engage is to S2-dash into the enemy carry and taunt their whole backline. That reflex burns your combo in the wrong order and usually gets you killed.
+
+1. **Engage with S2 on the frontline, not the backline.** You need 3 Combo Points before your ultimate pays off. If you dash past the enemy tank to the carry, the tank gets between you and your team, and you end up S3-taunting one hero instead of three. Cross the frontline only after 2 Combo Points are banked and the enemy tank has burned at least one cooldown.
+2. **Save S3 for after the enemy commits their second escape.** Energy Eruption taunts for 1 second but stacks the cooldown reset on top. The peak-value window is when the enemy just burned Flicker or an ult-escape and has nothing left to interrupt your follow-up. Taunting on the first engage wastes the reset because they still have their second wave of skills to stall you out.
+3. **Center your Appraiser's Wrath cone, do not sweep it.** The center of the fan deals 175 percent damage; the edges deal 100 percent. A 600 base plus Crystal Energy ult is a delete button on a 3500 HP marksman only if they are in the center band. Most Fredrinns aim the ult at the general direction of the fight and catch two enemies at edge damage instead of one enemy at center damage. Center-one is almost always better than edge-three.
+
+If your frontline is Atlas or Khufra, you flank and punish after their engage; your job is cleanup. If your frontline is a peel-only Estes or Rafaela, the rules invert: you are the primary engage, you eat the first rotation, and you spend the ultimate to convert back to full HP.
+
+### Itemization: three locked slots and three real conversations
+
+Locked slots on every Fredrinn build: **War Axe**, boots, and **Immortality** in the sixth slot. Everything else is a decision.
+
+**The second damage vs second defense slot.** After War Axe, you choose between [Blade of Despair](/items/blade-of-despair) (if the enemy has only one real frontline and your carry needs you to kill) and [Queen's Wings](/items/queens-wings) (if the enemy has burst that threatens you below 40 percent HP). Queen's Wings is correct roughly 60 percent of the time because the 30 percent damage reduction passive and the 2-second skill cooldown refund stack with his kit identity; the low-HP window is where Fredrinn is strongest, and the item makes that window survivable. Blade of Despair is the call only in squishier drafts where you are a second damage carry, not a bruiser.
+
+**The anti-heal slot.** [Dominance Ice](/items/dominance-ice) goes in against Gloo, Uranus, Esmeralda, Yu Zhong, or any lifesteal-stacking marksman because Lifebane cuts the HP regen and shield effectiveness of every enemy within 5 units to 60 percent of normal. Against zero-sustain comps, [Antique Cuirass](/items/antique-cuirass) (stacking Deter for up to 18 percent physical damage reduction on skill hits) is the better defensive slot. Pick one or the other; stacking both wastes a slot because Fredrinn's conversion passive already scales his effective HP.
+
+**The magic resist slot is negotiable.** [Radiant Armor](/items/radiant-armor) is the default against two mages because Holy Blessing stacks up to 6 times at one stack per 0.6 seconds, which matches sustained magic DPS well. Against Valir and Pharsa specifically, one Radiant Armor is not enough; you want a second magic defense source like Athena's Shield or a situational [Oracle](/items/oracle). One magic resist item into a double-mage draft is almost always wrong.
+
+**Boots choice:** Warrior Boots against three or more physical threats, Tough Boots against three or more CC or magic threats. Tough's 30 percent CC reduction is secretly the best boot on Fredrinn because his worst matchups (Valir, Gord, Marcel) all layer CC onto their poke, and the tenure to close the distance is what unlocks the combo.
+
+**Emblem and spell:** Fighter Emblem with Festival of Blood plus Brave Smite is the standard. Brave Smite's 5 percent Max HP heal on skill damage adds a third sustain source on top of conversion and Spell Vamp. Retribution for jungle, Flicker as the backup on EXP-lane flex drafts.
+
+### Mistakes that lose Fredrinn games
+
+**Dropping Appraiser's Wrath with fewer than 3 Combo Points stored.** The ultimate costs 3 Combo Points and scales off stored Crystal Energy. Ulting with 1 point and 2000 energy stored deals roughly 1020 physical damage total, which is a reset cooldown on a skill that should be deleting a carry. Wait for the third Combo Point proc even if it means eating an extra second of damage; that extra second is what fills your Crystal Energy anyway.
+
+**Opening S3 into a comp that still has Purify or Wanwan's cleanse up.** Your S3 taunt is your only hard lockdown, and the Mage Emblem user, Wanwan's ultimate, and any Purify spell all erase it. If the enemy has a cleanse available, hold S3 and engage with S2 instead; bait the cleanse out with a false commit, then return 3 seconds later with the taunt.
+
+**Force-initiating against kite drafts.** Fredrinn dies when the enemy disengages. If a Brody poke lands once and his support pulls back, your Crystal Energy decays at 10 percent Max HP per second, and you get nothing for the commit. Against a disengage shell (Brody, Wanwan, Valir, Claude) you wait for the objective contest where they have to commit; if they never commit, you reset and scale. Never walk in first against four ranged heroes.
+
+**Using Brave Assault as a gap-closer onto the tank.** The knock-airborne on S2's enhanced basic attack is a 0.3-second window. On a tank, 0.3 seconds does nothing meaningful; on a carry, it's an entire teammate skill rotation of follow-up. Save S2 for the carry, not for breaking the tank line. Walk through the tank, eat the auto-attack, save the knockup for the squishy.
+
+**Building Antique Cuirass before War Axe because the enemy has Paquito and Lancelot.** The logic feels correct and is wrong. Fredrinn's passive conversion requires damage dealt to heal. Without War Axe's scaling and Spell Vamp, your HP bar drops faster than it refills and the extra armor from Cuirass does not cover a one-shot anyway. War Axe first even in tank-first drafts; Antique Cuirass at slot 3 or 4.
+
+### Key tips
+
+> [!TIP]
+> Crystal Energy decays at 10 percent of your Max HP per second after the 5-second timer runs out. At 10000 HP that is 1000 energy bleeding per second. If you engage and the enemy disengages, back off immediately. Energy stored without spending is not energy you keep.
+
+> [!NOTE]
+> The Appraiser's Wrath cone is a 175 percent damage zone in the center and 100 percent at the edges. A centered ult on one squishy deletes them. A sweeping ult on three catches all of them at 100 percent and kills none. Point the cone, do not wave it.
+
+> [!TIP]
+> The canonical rotation is S2 dash, auto (knockup), S1 pierce (slow + enhanced auto), S3 taunt, S2 again on the reset, S1 again on the reset, ultimate. Total combat-skill uptime in a 6-second fight is nearly 100 percent once War Axe is online.
+
+> [!WARNING]
+> Karrie is the single worst late-game matchup for Fredrinn. Her passive deals true damage that ignores your defenses and scales harder the more HP you stack, and her Phantom Step dodges your S3 from outside taunt range. Ban her in draft or have your team camp the gold lane before she hits her two-item spike.
+
+## Skills
+
+### Crystalline Armor (Passive)
+
+Fredrinn gains 1 Combo Point that lasts 5s each time his skill hits a non-minion enemy, up to 4 Combo Points. His Ultimates cost different numbers of Combo Points. Fredrinn stores 100% of the damage he receives as Crystal Energy, which decays after 5s at a rate of 10% Max HP per second. Fredrinn can convert the stored Crystal Energy into HP by 20% of his damage dealt (10% for damage dealt to minions). Gaining a Combo Point resets the decaying timer.
+
+### Piercing Strike (Skill 1)
+
+Fredrinn thrusts his sword in the target direction, dealing 125 (+7% Max HP) (+120% Extra Physical Attack) Physical Damage to enemies hit and slowing them by 30% for 2s. His next Basic Attack gains extra attack range and deals 85 (+100% Total Physical Attack) Physical Damage. This skill deals 170% damage to non-hero enemies.
+
+### Brave Assault (Skill 2)
+
+Fredrinn dashes in the target direction, dealing 140 (+80% Extra Physical Attack) Physical Damage to the first non-minion enemy hit. His next Basic Attack knocks the target airborne for 0.3s.
+
+### Energy Eruption (Skill 3)
+
+Fredrinn deals 210 (+100% Extra Physical Attack) Physical Damage to nearby enemies and taunts them for 1s. Hitting a non-minion enemy grants Fredrinn 25 Hybrid Defense for 3s and reduces the cooldowns of Piercing Strike and Brave Assault by 75%. This skill costs 1 Combo Point.
+
+### Appraiser's Wrath (Ultimate)
+
+Fredrinn slams his sword in the target direction (this skill can only be interrupted by Suppression), dealing 600 plus 21% of his Crystal Energy as Physical Damage to enemies in a fan-shaped area after a short delay. Enemies in the center of the area take 175% damage. This skill doubles the conversion ratio based on damage dealt to enemy heroes from stored Crystal Energy to HP. This skill costs 3 Combo Points.
+
+Skill upgrade priority: 4-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Fredrinn should use his 2nd Skill to close in on the enemy hero and knock them airborne, then use his 1st Skill and 1st Ultimate for CC and cooldown reset. Use his enhanced Basic Attacks, 1st and 2nd skills sequentially to deal heavy damage, and finish with his 2nd Ultimate after knocking the enemy airborne for the kill.
+- LANING COMBOS (laning): In the laning phase, Fredrinn can dash to the enemy hero with his 2nd Skill, and knock that hero airborne with the enhanced Basic Attack. Then follow up with his 1st Skill to deal damage.
+
+## Counters to Fredrinn (pick these against Fredrinn)
+
+- Valir (Mage): +4.1 pp edge. Valir has a statistical edge over Fredrinn based on ranked matchup data. Pick Valir to gain an advantage in draft.
+- Karrie (Marksman): +2.7 pp edge. Fredrinn is countered by Marksman heroes who can deal True Damage, as they can take him down very easily. Heroes like Kerrie and Lesley are good examples here.
+- Gord (Mage): +2.6 pp edge. Gord has a statistical edge over Fredrinn based on ranked matchup data. Pick Gord to gain an advantage in draft.
+- X.Borg (Fighter): +2.5 pp edge. X.Borg's durability and kit give them a strong matchup advantage against Fredrinn throughout the game.
+- Alpha (Fighter): +2.2 pp edge. Alpha's durability and kit give them a strong matchup advantage against Fredrinn throughout the game.
+- Aurora (Mage): +1.6 pp edge. Aurora's CC abilities disrupt Fredrinn's aggressive playstyle, preventing clean dives and resets.
+
+## Heroes Fredrinn beats
+
+- Gloo (Tank): +3.6 pp edge for Fredrinn.
+- Alucard (Fighter/Assassin): +3.2 pp edge for Fredrinn.
+- Khaleed (Fighter): +2.9 pp edge for Fredrinn.
+- Esmeralda (Tank/Mage): +2.6 pp edge for Fredrinn.
+- Lunox (Mage): +2.6 pp edge for Fredrinn.
+- Joy (Assassin): +2.5 pp edge for Fredrinn.
+- Argus (Fighter): +2.5 pp edge for Fredrinn.
+- Hayabusa (Assassin): +2.3 pp edge for Fredrinn.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/fredrinn.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Objective Tank (Jungle)
+
+- Items: Tough Boots, Cursed Helmet, Thunder Belt, Guardian Helmet, Oracle, Immortality
+- Core: Cursed Helmet, Thunder Belt, Guardian Helmet
+- Emblem: Tank Emblem with Vitality, Seasoned Hunter, Concussive Blast
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Warrior Boots over Tough Boots when Use when the enemy draft is mostly physical and control duration is not stopping Fredrinn from landing S2 into S3.; Dominance Ice over Oracle when Use against attack-speed carries, healer drafts, or shield-heavy front lines that must hit Fredrinn during objective fights.; Athena's Shield over Oracle when Use when one burst mage can front-load enough magic damage to remove Fredrinn before Crystal Energy converts back.; Radiant Armor over Oracle when Use against repeated magic ticks that stack through Lord and Turtle dances instead of one burst combo.
+- Total cost: 10910 gold
+
+Default jungle setup for first-contact objective fights where Cursed Helmet speeds clear, Thunder Belt locks targets, and Guardian Helmet keeps Fredrinn healthy between contests.
+
+### Jungle Bruiser Sustain (Jungle)
+
+- Items: Tough Boots, War Axe, Thunder Belt, Queen's Wings, Brute Force Breastplate, Immortality
+- Core: War Axe, Thunder Belt, Queen's Wings
+- Emblem: Fighter Emblem with Firmness, Seasoned Hunter, Brave Smite
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Cursed Helmet over Brute Force Breastplate when Use when your first clear is being punished and the team needs faster camp tempo before the second Turtle.; Dominance Ice over Brute Force Breastplate when Use when sustain fighters or attack-speed marksmen are forced to keep hitting Fredrinn in extended fights.; Oracle over Brute Force Breastplate when Use when fights last long enough for Crystal Energy conversion, Brave Smite, and Queen's Wings sustain to decide the second rotation.; Athena's Shield over Immortality when Use against front-loaded magic burst when surviving the first spell chain matters more than a late revive.
+- Total cost: 10860 gold
+
+Bruiser jungle setup for games where Fredrinn can trade damage back instead of only soaking, with War Axe and Queen's Wings feeding longer brawls.
+
+### EXP Vengeance Frontline (EXP)
+
+- Items: Warrior Boots, War Axe, Thunder Belt, Dominance Ice, Oracle, Immortality
+- Core: War Axe, Thunder Belt, Dominance Ice
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Tough Boots over Warrior Boots when Use when magic poke, slows, or chain control are the reason Fredrinn cannot spend Combo Points cleanly.; Antique Cuirass over Oracle when Use against physical skill fighters or assassins who repeatedly hit Fredrinn before his taunt refresh begins.; Radiant Armor over Oracle when Use against repeated magic damage that chips Fredrinn before Vengeance and Appraiser's Wrath can swing the fight.; Guardian Helmet over Immortality when Use when side-lane resets and repeated siege defenses matter more than a single resurrection timer.
+- Total cost: 10630 gold
+
+EXP lane variant for drafts that already have a jungler and need Fredrinn to absorb the first spell cycle with Vengeance before turning the fight.
+
+All builds for this hero: https://mlbbhub.com/builds/fredrinn.
+
+## Synergies
+
+- Angela: Fredrinn works best with support heroes, who can further improve his survivability, like Angela and Floryn.
+- Floryn: Fredrinn works best with support heroes, who can further improve his survivability, like Angela and Floryn.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

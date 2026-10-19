@@ -1,0 +1,201 @@
+# Granger, Death Chanter
+
+> Granger is the only marksman whose cooldown reduction is also his damage stat. Every 1% of CDR he buys converts into 2 flat Physical Attack through Capriccio, which means his itemization looks nothing like Miya's or Claude's. Lock him when the draft wants a burst ADC, not a crit-scaling one.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Burst, Finisher
+- Difficulty: Easy
+- Tier this patch: D
+- Win rate: 42.97%
+- Pick rate: 1.39%
+- Ban rate: 1.63%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/granger
+
+## Guide
+
+### Locking Granger, and the drafts that punish you for it
+
+Granger is a burst marksman with a deterministic damage profile. He is not an attack-speed carry and he is not a scaling sustained-DPS like Wanwan or Claude. He works in drafts that meet three conditions: your team has a CC setup that forces the enemy into a chokepoint, the enemy has no Lolita, and the enemy has no multi-dash escape hero who will eat your ultimate for free.
+
+When those conditions are all true you have a teamfight win condition that wins from range. When any one of them fails, you have a D-tier marksman who will be blamed for a loss that started in the draft screen.
+
+Green-light comps: Tigreal + any support, Khufra + Estes, Atlas + Diggie, Johnson + Mathilda. Any initiator who traps 3+ targets in a circle is the ideal frontline for a Rhapsody + Death Sonata combo, because both skills reward stationary targets.
+
+Trap drafts: enemy Ling, enemy Fanny, enemy Wanwan, enemy Lolita, enemy Saber locked into your backline, enemy Minsitthar planting a King's Calling. Ling and Fanny dodge Death Sonata's slow projectile with their mobility skills. Lolita's Guardian's Bulwark absorbs the entire 6-shot Rhapsody volley and the 420 energy you spent to cast it. Saber cancels your rotation mid-animation. Minsitthar's ultimate stops Rondo dead, which removes your only repositioning tool.
+
+Disqualifying test: if the enemy has Lolita or Ling and your team has no way to force them off the backline or out of position, pick a different marksman. Granger is not flexible enough to work around those two.
+
+### Capriccio turns CDR into Physical Attack
+
+Granger is a burst damage chassis whose damage scales with cooldown reduction by mechanic, not by accident. Capriccio's 1% CDR to 2 Physical Attack conversion is the entire reason he exists as a hero. It is why every standard marksman item (Corrosion Scythe, Berserker's Fury, Windtalker) is worse for him than the CDR-heavy alternatives, and it is why his power curve is step-shaped rather than smooth.
+
+Rhapsody is not sustained auto-attack DPS disguised as a skill. It is a 6-shot burst volley with the last bullet guaranteed to crit, which means crit chance from items is wasted on the shot that actually needs to crit. Your sixth bullet will always crit without you buying a single piece of crit. Everything a normal marksman pays for in attack speed and crit chance, Granger gets for free, and in exchange he pays for his damage in energy and cooldowns.
+
+Rondo is the energy loop. The dash restores 15% to 25% of gun energy and its own cooldown drops by 0.5 seconds when Rhapsody lands. Used correctly, Rondo lets you re-enter Rhapsody before most heroes have finished peeling off the last volley. Death Sonata is the finisher, gated by cannon energy and tuned to delete squishies at range. None of this interacts with auto-attack DPS. All of it interacts with cooldowns.
+
+That is why his build is built around Endless Battle, Hunter Strike, and eventually War Axe or Queen's Wings for the fourth CDR stack: each 10% CDR adds 20 Physical Attack on top of the stats on the item. Stack four CDR items and you have an invisible Blade of Despair from Capriccio alone.
+
+### Laning: the first 8 minutes
+
+1. **Basic attacks clear waves, not Rhapsody.** The 2.1.40 nerf removed Rhapsody's bonus damage to minions and creeps, so the skill is no longer a wave-clearing tool. Clear with basics, save Rhapsody for the enemy gold laner or for a creep you need to push your gun energy cap higher. Dumping S1 into a minion wave leaves your gun empty for the next 12 seconds and you lose the trade window if their support rotates.
+2. **Cast Rondo mid-Rhapsody, not before or after.** If you trigger Rondo during the 6-shot volley, the dash lands while bullets are still firing on the target. The cooldown drops by 0.5s, you refund 15% gun energy, and you exit the rotation with more resources than you entered it with. Rondos cast into empty space as an escape move waste the entire point of the skill.
+3. **Your first real all-in window opens at level 4.** Before level 4 your Rhapsody is at base rank with a low damage ceiling, and the 2.1.40 early nerf makes pre-4 trades bad for you. At level 4 with S1 rank 2, Rhapsody plus a Flicker gap-closer plus Death Sonata deletes any squishy support or enemy ADC sitting under 60% HP. Call your jungler, burn Flicker to commit, and take the tower off the kill. Trade-poking before level 4 is a losing pattern.
+
+### The Endless Battle + Hunter Strike power spike
+
+The window is 9 to 11 minutes with a clean lane, or 11 to 13 with a contested one. The two items cost 2330 + 2010 = 4340 gold, which is the standard second-item completion timing for a gold laner with Retribution jungling boots and average farm.
+
+What changes at this spike is not subtle. Endless Battle contributes 60 Physical Attack, 10% CDR, and the Divine Justice passive: 60% Physical Attack as bonus true damage on your next basic attack within 3 seconds of casting a skill. Every Rhapsody counts as a skill cast, so every basic attack between Rhapsody volleys procs Divine Justice. Hunter Strike contributes another 80 Physical Attack and another 10% CDR. The 20% combined CDR converts through Capriccio into 40 extra Physical Attack on top of the raw stats.
+
+Total effective Physical Attack from two items: 60 + 80 + 40 = 180. That is more than a fully built Blade of Despair contributes to a normal marksman, and you bought it as your first two core items. Rhapsody's total physical attack ratio means that 180 extra Physical Attack translates into roughly 540 extra damage across the 6-shot volley, plus whatever Divine Justice procs stack on the basic attacks between rotations.
+
+Before this spike, Granger is a farming marksman who can trade but not kill. After this spike, Granger one-rotation-deletes any squishy caught out of position. The difference between 9 minutes and 11 minutes is the difference between getting invaded and getting picks.
+
+### Teamfight positioning and target priority
+
+The reflex when you hear "marksman" is to sit at maximum range and chip the tank while your team peels. That reflex loses Granger games. Rhapsody is 6 fixed shots that do not chase, and if you are sitting 2 screens back, the enemy walks out of the volley during bullet 3 and you have burned the rotation on air.
+
+1. **Stand one screen forward of a normal marksman's position.** You are not a Moskov who wants maximum auto-attack range. You want to be close enough that Rhapsody's 6 shots land on a target that cannot simply stroll out of line-of-sight. Sit just behind your tank, not behind your support.
+2. **Hold Death Sonata for chokepoints, not for openers.** Death Sonata has a long cooldown, a 250 energy cost, and a slow + reveal effect that is decisive on a retreating enemy and wasted on a full-HP target in open ground. Save it for enemies crossing a chokepoint, exiting a bush, or trying to escape with low HP. A Death Sonata that finishes a kill is worth three Death Sonatas cast as openers.
+3. **Let your tank's CC set your angle.** If your Tigreal ults a group, you walk in from the flank, not from directly behind, so Rhapsody shoots through multiple targets in a line. If your Khufra double-bumps, you pre-aim Death Sonata at the second bump spot. Your positioning is determined by where the CC will land, not where enemies currently stand.
+
+If your support is Estes, you can push slightly further up because Moonlight Immersion out-heals poke. If your support is Diggie, stand inside the Time Journey circle and out-attack everything that walks into it. If your support is Mathilda, stay close so she can dash you out when the assassin collapses.
+
+### Itemization: three locked, three real conversations
+
+Locked slots: Endless Battle, Hunter Strike, and one pair of boots (Swift Boots for lane stability, or Retribution-upgraded jungling boots if your team takes Gold Lane farm priority). These three come first in every game and the order is not flexible. EB + HS stacks CDR for Capriccio conversion, Divine Justice chains with every Rhapsody cast, and Hunter Strike's Retribution movement speed lets you reposition between rotations.
+
+**Item 4 depends on the enemy frontline.** Against a heavy tank lineup (Esmeralda, Edith, Hylos) buy Malefic Roar: the Armor Buster passive gives up to 30% Physical Penetration against targets with stacked physdef, and your S1 suddenly stops bouncing off tanks. Against a squishy lineup with no real frontline, buy Blade of Despair: the 160 Physical Attack pushes your burst past the threshold where Mages and Supports die in one Rhapsody rotation, and the Despair passive adds 25% Physical Attack on targets below 50% HP (which is exactly the Death Sonata finisher window).
+
+**Item 5 depends on who is jumping you.** If the enemy has Saber, Helcurt, or Ling actively threatening dives, build Queen's Wings: Demonize gives 30% damage reduction below 40% HP, the 2-second cooldown reduction on that trigger refunds Rondo when you need it most, and the adaptive attack stat converts through Capriccio. If the enemy has Estes, Angela, Rafaela, or any heal comp, build Sea Halberd for the anti-heal and attack speed. If you are ahead and the game is stable, Immortality is the safe default: the 800 HP and revive shield covers positioning mistakes.
+
+**Item 6 is whatever you skipped.** If you went BoD at item 4, buy Malefic Roar now. If you went Malefic Roar, buy Blade of Despair now. If you built pure defense through items 4 and 5, buy whichever offensive item your opponents made you miss.
+
+Skip War Axe on Granger. Its Fighting Spirit passive explicitly gives marksmen only 50% of the stacked effect, which means Granger is paying fighter-item gold for half-effect damage. Hunter Strike does the same job better on his kit.
+
+### Mistakes that lose Granger games
+
+**Building Corrosion Scythe or Berserker's Fury before Hunter Strike.** Attack speed and crit chance do not scale Granger's S1 or ult ratios, and his sixth-bullet crit is already guaranteed by Capriccio. Every gold spent on attack speed is gold that should have gone to CDR for the passive conversion. Hunter Strike always comes before attack-speed items on Granger.
+
+**Rhapsody-ing into Lolita's shield.** Rhapsody is 6 shots, every one of which gets eaten by Guardian's Bulwark, and you consume 420 gun energy in the process. Worse, the shield is also a damage source against you. If Lolita shields, cancel Rhapsody (recast S1 to stop firing) and reposition. Three seconds of patience beats 6 bullets shot into a wall.
+
+**Opening with Death Sonata.** The cannon costs 250 energy per shot, which is a quarter of your cannon pool. Open with Rhapsody first, let it drop the target below 50% HP so Blade of Despair's Despair passive kicks in, then finish with Death Sonata. Opening with ult on a full-HP target wastes the burst.
+
+**Chasing Ling, Fanny, or Wanwan with Death Sonata.** Multi-dash heroes will cancel your cannon projectile by the time it resolves. Save the ult for heroes you can actually hit: mages, other marksmen, frontliners whose dash is on cooldown. A missed Death Sonata is 10+ seconds of lost burst.
+
+**Forcing fights before the two-item spike.** At 10% CDR (Endless Battle only), Capriccio converts only 20 extra Physical Attack, which is not enough to finish rotations before the enemy tank walks up. Fight reactively, not proactively, until Hunter Strike is online. Granger's mid-game is a cliff, not a ramp.
+
+### Key tips
+
+> [!TIP]
+> Cast Rondo mid-Rhapsody, not before or after. The dash triggers during the 6-shot volley, the Rhapsody cooldown drops by 0.5 seconds when bullets land, and you exit the rotation with 15% more gun energy than you started with.
+
+> [!NOTE]
+> Capriccio converts 1% CDR to 2 Physical Attack. At 40% CDR (Endless Battle + Hunter Strike + War Axe or Queen's Wings), you get +80 Physical Attack from passive conversion alone, before any stat totals on the items themselves.
+
+> [!TIP]
+> Hold Death Sonata for cleanup, not for initiation. A Death Sonata that finishes a kill at 30% HP is worth three Death Sonatas cast as openers on full-HP targets. The slow + reveal are wasted on enemies who are not trying to escape.
+
+> [!NOTE]
+> Blade of Despair's Despair passive (+25% Physical Attack versus targets below 50% HP) activates on the exact threshold Death Sonata is designed to finish. The two items were not designed together, but they combo as if they were.
+
+> [!TIP]
+> Against Lolita, ignore her and delete her allies first. Rhapsody into Guardian's Bulwark wastes 6 bullets and 420 energy for zero damage. Target her marksman or mage from an angle that the shield does not cover, and come back for Lolita once her backline is dead.
+
+## Skills
+
+### Capriccio (Passive)
+
+Granger's unique Demon Hunting Gun and Cannon are powered by Demonic Energy. Both his weapons start with 800 max Energy. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Killing a Minion / Creep permanently increases their max Energy by 6 / 6, and instantly restores their Energy by 5% / 5%, respectively. Each kill or assist on an enemy hero permanently increases both weapons' max Energy by 12 and instantly restores 10% Energy. Every 1% Cooldown Reduction converts to 2 Physical Attack. Demonic Energy costs are not affected by Energy Cost Reduction.
+
+### Rhapsody (Skill 1)
+
+Granger rapidly fires 6 shot(s) with his Gun, with each shot dealing 60 (+45% Total Physical Attack) Physical Damage and consuming 70 Gun Energy. The last shot is guaranteed to Crit. While firing, Granger's Movement Speed is increased by 10%. Granger stops firing when he runs out of Energy, or when the skill is cast again. Rhapsody has no cooldown and can be cast once his Gun Energy is over 420.
+
+### Rondo (Skill 2)
+
+Granger uses his Demon Hunter agility to dash in the target direction, instantly restoring 15% Energy for his Gun. Rondo can be cast while channeling Rhapsody. Each time Rhapsody hits an enemy, Rondo's Cooldown is reduced by 0.5s.
+
+### Death Sonata (Ultimate)
+
+Granger fires his Cannon in the target direction, dealing 150 (+110% Total Physical Attack) Physical Damage to the first enemy hero hit and other targets in the blast radius. Targets hit will be briefly slowed. Granger can roll in the Joystick's direction after each shot. Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldown and consumes 250 of Granger's Cannon Energy per shot.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- LANING COMBOS (laning): In the laning phase, use Granger's 1st Skill to poke the enemy. When his energy gets low, use his 2nd Skill to replenish it and continue to poke with his 1st Skill.
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Granger's Ultimate to poke from a safe distance and continue the attack with his 1st Skill. When the 1st Skill ends, use his Ultimate again for more damage and to reposition. If enemies get close, use his 2nd Skill to create distance and continue dealing damage with his 1st Skill.
+
+## Counters to Granger (pick these against Granger)
+
+- Fanny (Assassin): +3.5 pp edge. Across Granger's measured matchups, Granger is weakest once matches pass 16 minutes. Take the game long with Fanny.
+- Hilda (Fighter/Tank): +2.9 pp edge. Hilda's sustain and durability allow them to outlast Granger's burst combos and win extended trades.
+- Uranus (Tank): +2.2 pp edge. Uranus's durability and kit give them a strong matchup advantage against Granger throughout the game.
+- Esmeralda (Tank/Mage): +2.1 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Granger throughout the game.
+- Akai (Tank): +1.8 pp edge. Akai's durability and kit give them a strong matchup advantage against Granger throughout the game.
+
+## Heroes Granger beats
+
+- Karina (Assassin): +4.8 pp edge for Granger.
+- Beatrix (Marksman): +2.4 pp edge for Granger.
+- Ixia (Marksman): +2.2 pp edge for Granger.
+- Natan (Marksman): +2.1 pp edge for Granger.
+- Baxia (Tank): +1.9 pp edge for Granger.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/granger.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Burst (Gold)
+
+- Items: Tough Boots, Hunter Strike, Endless Battle, Blade of Despair, Malefic Roar, Rose Gold Meteor
+- Core: Hunter Strike, Endless Battle, Blade of Despair
+- Emblem: Marksman Emblem with Rupture, Weapon Master, Quantum Charge
+- Battle spell: Flicker
+- Flex: Magic Boots over Tough Boots when Use when the enemy draft has low crowd control and you want the fastest cooldown-to-attack conversion.; Queen's Wings over Rose Gold Meteor when Use when physical or mixed dive reaches you before the shield from Rose Gold Meteor can decide the fight.; Immortality over Rose Gold Meteor when Use for repeated Lord fights where one revive is worth more than another damage passive.
+- Total cost: 11930 gold
+
+Default gold lane setup that stacks cooldown reduction, raw Physical Attack, and late penetration for Granger's Rhapsody into Death Sonata burst cycle.
+
+### Anti-Frontline Gold (Gold)
+
+- Items: Tough Boots, Hunter Strike, Endless Battle, Malefic Roar, Sea Halberd, Immortality
+- Core: Hunter Strike, Endless Battle, Malefic Roar
+- Emblem: Marksman Emblem with Rupture, Weapon Master, Quantum Charge
+- Battle spell: Purify
+- Flex: Blade of Despair over Sea Halberd when Use when the enemy front line is durable but not built around healing, shielding, or high extra HP.; Rose Gold Meteor over Immortality when Use against magic burst when surviving the first combo matters more than a delayed revive.; Queen's Wings over Immortality when Use when you need cooldown reduction and damage reduction against divers who force extended skirmishes.
+- Total cost: 11270 gold
+
+Anti-frontline setup for tank, shield, or sustain drafts where Granger must damage the nearest durable target without dying to the first lockout.
+
+### Jungle Tempo (Jungle)
+
+- Items: Magic Boots, Hunter Strike, Endless Battle, Blade of Despair, Malefic Roar, Brute Force Breastplate
+- Core: Hunter Strike, Endless Battle, Blade of Despair
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Magic Boots when Use when early crowd control threatens your first Turtle path more than the extra cooldown reduction helps your damage.; Queen's Wings over Brute Force Breastplate when Use when you need the emergency damage reduction and cooldown refund more than stacked movement.; Sky Piercer over Brute Force Breastplate when Use only when you are snowballing and your team can protect your reset angles after the first pick.
+- Total cost: 11990 gold
+
+Jungle setup that prioritizes fast cooldown conversion, pick pressure, and Ice Retribution control so Granger can force mid-game fights around Turtle and Lord entrances.
+
+All builds for this hero: https://mlbbhub.com/builds/granger.
+
+## Synergies
+
+- Franco: Granger pairs well with heroes that have strong CC abilities, such as Franco and Kaja, who can hold enemies in place for Granger's entire 1st Skill.
+- Kaja: Granger pairs well with heroes that have strong CC abilities, such as Franco and Kaja, who can hold enemies in place for Granger's entire 1st Skill.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

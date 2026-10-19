@@ -1,0 +1,206 @@
+# Cyclops, Starsoul Magician
+
+> Cyclops is a mid laner whose damage ceiling is not a stat but a cooldown equation. Every skill hit shortens every other cooldown, so a Cyclops who lands everything casts twice as often as one who whiffs. Played to that loop he is a relentless poke engine; without it he is a short-range immobile mage with only Flicker to escape.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Also played (MLBBHub editorial, not Moonton's listed lane): Jungle
+- Specialty: Damage, Control
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 51.50%
+- Pick rate: 0.65%
+- Ban rate: 0.28%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/cyclops
+
+## Guide
+
+### When the Starsoul Magician makes sense
+
+Cyclops is a counter-draft pick masquerading as a generalist. Lock him when the enemy mid is also immobile and the sidelanes are not stacked with blink escapes. Odette, Aurora, Eudora, Vexana, Novaria, and Xavier all lack dashes and spend their damage windows on standing channels or slow cast animations. Each of those is a target Cyclops can lock with Star Power Lockdown from maximum range and follow with a full S1 plus S2 rotation before the immobilize window closes.
+
+Avoid him when the enemy draft has two or more dash or blink heroes across mid and jungle: Lancelot, Ling, Fanny, Natalia, Harley, Yin. Harley is a hard counter because Space Escape triggers through immobilize: your ultimate lands, he teleports to his hat regardless, and your strongest button bought zero value. Ling on a wall during Tempest of Blades phases through the sphere. Lancelot during Thorned Rose is untargetable. Each of those interactions turns Cyclops's strongest button into a dead skill.
+
+The disqualifying test is straightforward. Look at the enemy jungle and mid picks together. Name the hero who kills you when your ultimate is still on cooldown. If the list is longer than one name, this is not a Cyclops game.
+
+### The cooldown loop is the whole hero
+
+Cyclops is not a burst mage who dumps a rotation and waits. He is a cooldown engine whose damage is distributed across a higher volume of casts than any other mage in the game. Starlit Hourglass shortens every skill cooldown every time any skill connects. Stardust Shock fires two disks, so a clean two-disk hit on a hero pulls every cooldown down twice as fast. Planets Attack spawns homing spheres, and each sphere that lands drags the loop down further. A full cast rotation that lands both disks and multiple spheres can bring the ultimate back in a fraction of the time the tooltip promises.
+
+The practical outcome is that Cyclops's tooltip cooldowns tell half the story. Stardust Shock runs far shorter in active combat when skills are landing, and Star Power Lockdown regularly recharges well ahead of its listed cooldown if the passive is fed between casts. That tempo difference is what separates him from the burst mages who dump a rotation and wait: nobody else in the mid roster poke-rotates at this frequency.
+
+The catch is that the loop is all-or-nothing. Every whiffed S1 disk, every S2 sphere that chases a minion instead of a hero, every ult that gets dashed out of is a cooldown tax on everything else. Cyclops pays his damage budget one skill hit at a time, and missed hits are lost income.
+
+### Laning: the first 5 minutes
+
+1. **Take Stardust Shock at level 1 and land both disks on the wave plus the enemy mid.** Each disk that clips the caster minion pack is a passive trigger, so a clean two-disk line through the wave and into the enemy hero feeds the loop several times on the first cast, and your next S1 is nearly ready before the wave finishes walking. Put level 2 into Planets Attack and spend level 3 on a second point in S1 for base damage scaling.
+
+2. **Hoarding mana is hoarding damage.** Cyclops's skills are not cheap and his base mana regen cannot sustain casting on cooldown before Enchanted Talisman. Until that item completes around the 5-6 minute mark, restrict S1 casts to trades where both disks hit a hero, not the wave. Let minions push naturally and last-hit with basics. If you burn S1 on three consecutive waves, you enter minute four with an empty mana bar and zero lane presence.
+
+3. **Do not cast Planets Attack defensively.** The decaying movement speed looks like an escape tool. It is not. The spheres auto-home onto the nearest enemy hero, which means running S2 through a jungle gank redirects your damage back toward the ganker and leaves you barely faster and pointed at the wrong target. If the enemy jungler is on your screen, Flicker is the only button that saves you. S2 is for trades and kills, never for escapes.
+
+### The Enchanted Talisman inflection point
+
+Cyclops does not have a traditional level power spike. He has an item spike, and it lands the moment Enchanted Talisman completes at roughly the 5-6 minute mark. This single item does three things at once that flip him from a passive farmer into a fight threat. It provides 20% CDR (30% with Magic Boots), which slashes his rotation time nearly in half. It adds the Magic Mastery passive that raises the CDR cap by 5%, letting him exceed the normal 40% ceiling. And Mana Spring regenerates 15% of max mana every 10 seconds, permanently removing the mana constraint that forced conservative play in the first five minutes.
+
+The minute Enchanted Talisman hits your inventory, the playstyle changes. Before, you conserved S1 for hero trades only. After, you throw it on cooldown into every wave and every enemy in range. Before, you avoided committing Planets Attack unless a kill was certain. After, you lead every trade with S2 into S1 because the spheres trigger 2-3 passive procs before Stardust Shock even lands, shortening everything mid-cast. The Talisman transforms a poke mage into a rotation-committed damage dealer who stays topped up on mana through an entire teamfight.
+
+The second item is where the build branches. Genius Wand is the default continuation: it adds 75 Magic Power, 5% movement speed, and a stacking magic defense reduction passive that Cyclops triggers faster than any other mage because his passive feeds multiple Magic stacks per rotation. Against an enemy who has already built Athena's Shield by minute 8, skip Genius Wand and go straight to Divine Glaive for percent-based penetration.
+
+### Teamfight geometry: range is damage
+
+The reflex when a teamfight opens is to cast Star Power Lockdown on the first enemy in sight. That reflex is a wasted ultimate.
+
+1. **Ult from maximum range or do not ult at all.** Star Power Lockdown's immobilize scales with travel distance: a close-range cast locks for barely a moment, a full-travel cast locks long enough for a full S2 plus S1 follow-up. A short lock is not enough time before most heroes walk away or their team peels. Step back before you cast. Losing one step of positioning to earn a longer lock is always the right trade.
+
+2. **Hold ult until after the enemy dash is committed.** Cyclops's ultimate is a targeted projectile, not an instant CC. Against Lancelot, Fanny, Ling, and Benedetta, casting before their mobility skill is spent guarantees the sphere either phases through an invincibility window or lands on a target who dashes to safety the moment immobilize ends. Wait for the cable snap, the dash end-point, or the Thorned Rose finish, then cast.
+
+3. **Spread S2 spheres, do not funnel them into one hero.** Enemies hit by multiple Planets Attack spheres take reduced damage on every sphere after the first. Stacking all spheres onto a single tank wastes the damage on the second and third hit. Angle S2 so the spheres scatter across at least two targets: you deal more total damage and you trigger the passive cooldown reduction on every sphere that connects to a different enemy, compounding the loop across the whole fight.
+
+If your support is Franco or Khufra, the ult timing calculus flips. Khufra's Bouncing Ball blocks dash escapes, which means the enemy cannot blink out of the lock. Franco's Iron Hook pulls a target into your maximum-range cast sweet spot. In either draft, you ult the carry the moment the support lands their CC, and you do not wait for a dash you know they cannot press.
+
+### Itemization: two locked slots, four real conversations
+
+Two items are not up for debate on Cyclops. Magic Boots provides 10% CDR that feeds the passive loop from minute one. Enchanted Talisman provides the mana engine and an additional 20% CDR plus the 5% cap extension from Magic Mastery. Together they push Cyclops to 30% CDR baseline before emblem bonuses, which is the threshold where his rotation cadence shifts from "occasional poke" to "constant pressure." If you change either of those first two purchases, you are playing a different hero.
+
+Everything else is a conversation with the enemy draft. Here are the four slots ranked by how often you should be thinking about them.
+
+**The penetration slot.** Genius Wand is the default. Its Magic passive shreds 3 (+0.3 per hero level) magic defense per hit, stacks up to 3 times, and Cyclops's multi-hit passive stacks it faster than any other mage. A S1 plus S2 rotation lands enough hits to cap the debuff before the first sphere even finishes its homing path. Divine Glaive is the pivot when an enemy tank or bruiser has already completed Athena's Shield or Radiant Armor. Its Spellbreaker passive converts each point of enemy magic defense into 0.1% extra penetration, capping at 20%. Rule of thumb: Genius Wand if you can kill them before they finish a magic defense item, Divine Glaive if they already have it.
+
+**The damage slot.** Holy Crystal is the highest raw Magic Power purchase in the slot at 165 Magic Power plus the Mystery passive that multiplies total Magic Power by 21-35% based on level. It is correct when the enemy backline is squishy and you can afford to build a pure burst item without sacrificing defense. Concentrated Energy is the alternative: 400 HP, 70 Magic Power, and the Recharge passive that stacks up to 30 extra Magic Power across 6 hits, converting into a 12% Magic Damage amp at full stacks for 3 seconds. Concentrated Energy is better in extended fights where you are rotating multiple cast cycles and trading with a bruiser, not one-rotation a squishy.
+
+**The utility slot.** Glowing Wand adds 400 HP and two passives that solve specific problems. Scorch burns 1.5% of the target's max HP per second for 3 seconds on skill hit, which is the correct answer against HP-stacking tanks where flat Magic Power loses efficiency. Lifebane reduces shield and HP regen by 50% for 3 seconds, which shuts down Estes, Rafaela, and Mathilda comps. Lightning Truncheon is the wave-clear alternative: its Resonate passive fires a 120% Magic Power bounce to up to 3 enemies every 6 seconds, which turns Cyclops into a map-clear engine in siege situations.
+
+**The defensive slot.** Blood Wings provides 90 Magic Power and the Guard passive that generates an 800 (+100% TMP) shield that regenerates 20 seconds after breaking. It is the best single insurance policy against dive comps with two assassins when Flicker alone is not enough. Clock of Destiny is the slower alternative: 400 HP, 400 Mana, 10% CDR, and the stacking Destiny passive that grants hybrid defense on damage dealt. It trades burst for staying power and stacks well with the passive loop because every cast triggers another Destiny stack.
+
+Arcane Boots is a side-grade worth mentioning only because the Magic Penetration it provides is flat, and flat pen is strongest against targets with zero magic defense items. If the enemy draft is five squishies and nobody builds a single cloak, Arcane Boots plus Genius Wand deletes magic defense from the equation entirely. In every other scenario, Magic Boots wins because 10% CDR on Cyclops is worth more than 10 flat pen: his damage comes from casting more, not harder.
+
+**Emblem.** Mage Emblem with Inspire in the standard slot and Bargain Hunter in the secondary: cheaper Talisman pulls the inflection point forward. Lethal Ignition as the core talent triggers on 3 hits dealing more than 7% of the target's max HP within 5 seconds, which Cyclops's S1 double-disk plus S2 multi-sphere rotation procs naturally. Common Emblem with Impure Rage is a defensible alternative for mana-starved lanes where you expect the jungler to deny blue buff, because Impure Rage restores 2% max mana on skill hit with a 5-second cooldown, and the passive loop keeps it proccing constantly. The tradeoff is losing 5% CDR, 8 Magic Penetration, and 30 Magic Power from the Mage Emblem attributes. Only make this switch if you are certain blue buff is off the table.
+
+**Battle spell.** Flicker. Cyclops has zero dashes, zero blinks, zero cleanses in his kit, and Flicker is the only button that changes any of that. Its long cooldown means every misuse is punished. Sprint is a trap: the movement speed does not cross walls and does not save you from a Ling dive. Purify is situationally correct against a Silvanna or Kaja lock-down draft, but in that situation you should not have picked Cyclops in the first place.
+
+### Mistakes that lose Cyclops games
+
+**Casting Star Power Lockdown at melee range.** A close-range lock ends before your S2 spheres finish their first homing arc, so the target walks away while your follow-up is still in the air. Against any hero with tenacity or a teammate with a cleanse, you just spent the kit's strongest button on nothing. Always step back to max range before pressing ult, even if it costs a step away from the fight.
+
+**Using Planets Attack to escape a gank.** The spheres home onto enemy heroes, not away from them. Casting S2 and running backward redirects the spheres toward the jungler chasing you, dealing negligible damage and leaving you with your main damage cooldown spent and roughly the same distance from the threat. If the jungler is on your screen, the only button that matters is Flicker. S2 is for trades and kills.
+
+**Burning Stardust Shock on wave clear before Enchanted Talisman.** S1 is expensive, and Cyclops's pool with base regen runs dry by the fourth wave if you cast it on every minion pack. Running out of mana means you cannot contest the mid river objective, cannot follow your jungler, and cannot threaten the enemy mid with poke. Conserve S1 for trades until Enchanted Talisman lands around minute 5-6.
+
+**Ulting into a known invincibility or untargetable window.** Chou during Wind Blade, Lancelot during Thorned Rose, Ling on a wall during Tempest of Blades, Harley immediately after placing his hat. Each of these is the kit's strongest button fed into a hero who did not need the lockdown. The correct ult target is a hero mid-basic-attack, mid-channel, or mid-cooldown with no counter button available. Identifying the window after the enemy spends their defensive cooldown is the single most important mechanical skill on this hero.
+
+**Forcing a fight before Enchanted Talisman is online.** Pre-Talisman Cyclops is a mana-gated poke mage with no sustain and no escape. Picking a level-4 river fight against a full-mana enemy mid and a full-HP jungler is a double death. Cyclops's first teamfight contribution window opens at roughly minute 6, not level 4.
+
+### Key tips
+
+> [!TIP]
+> The passive loop compounds with blue buff in a way no other mid mage matches. Every CDR source stacks: boots, Talisman, emblem, and the buff, and Magic Mastery lets him push past the normal cap. If your jungler will not share blue, find a new jungler. This hero is built around it.
+
+> [!NOTE]
+> Star Power Lockdown has a brief cast animation before the sphere launches. Against a blink hero, you are predicting the dash, not reacting to it. Watch for the animation tell: Lancelot sheathes his sword before Thorned Rose, Fanny's cable snaps audibly, Harley's hat has a throw arc. Cast the ult half a second ahead of where they will be at the end of that animation, not where they are now.
+
+> [!TIP]
+> Enchanted Talisman's Mana Spring regenerates 15% of max mana every 10 seconds, which is the difference between poking all game and running dry at the first siege. If you are poking in lane and the mana bar dips below half, step behind your tower for a single wave. The regen plus base recovery tops you off faster than a recall, and you keep the experience from the next wave crash.
+
+> [!NOTE]
+> Concentrated Energy's Recharge passive rewards extended trades, not one-rotation burst. You need 6 hits (max one stack per 0.4 seconds) to cap the stacking Magic Power bonus and trigger the 12% Magic Damage amp. On Cyclops, S1 double-disk plus S2 spheres can hit that cap during a single rotation if you land everything. But if you lead with ult first, the immobilize window is the perfect pocket to build Recharge stacks while the target stands still.
+
+## Skills
+
+### Starlit Hourglass (Passive)
+
+Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5s.
+
+### Stardust Shock (Skill 1)
+
+Cyclops casts two Stardust Disks in the target direction, each dealing 240 (+60% Total Magic Power) Magic Damage to enemies in its path.
+
+### Planets Attack (Skill 2)
+
+Cyclops conjures Starlit Spheres around himself, gaining 50% Movement Speed that decays over 2s. The Starlit Spheres automatically seek and attack nearby enemies (prioritizing enemy heroes), and explode on contact to deal 200 (+65% Total Magic Power) Magic Damage. Subsequent hits on the same target deal reduced damage.
+
+### Star Power Lockdown (Ultimate)
+
+Cyclops creates a Planetary Sphere that tracks the target enemy hero or creep, dealing 500 (+120% Total Magic Power) Magic Damage and immobilizing them for 0.75-1.5s (scales with Planetary Sphere's travel distance).
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Cyclops should control the target enemy with his Ultimate, close in with his 2nd Skill, then finish off the target with his 1st Skill.
+- LANING COMBOS (laning): Cyclops can use his 2nd Skill to close in on enemy heroes then hit them with both his 1st Skill and the spheres summoned by his 2nd Skill. This combo is very effective against enemy heroes.
+
+## Counters to Cyclops (pick these against Cyclops)
+
+- Lolita (Support/Tank): +9.7 pp edge. Across Cyclops's measured matchups, Cyclops is weakest in the early game. Apply pressure with Lolita before Cyclops can scale.
+- Estes (Support): +4.2 pp edge. Across Cyclops's measured matchups, Cyclops is weakest in the early game. Apply pressure with Estes before Cyclops can scale.
+- Minotaur (Tank/Support): +2.7 pp edge. Across Cyclops's measured matchups, Cyclops is weakest in the early game. Apply pressure with Minotaur before Cyclops can scale.
+- Ixia (Marksman): +2.6 pp edge. Across Cyclops's measured matchups, Cyclops is weakest in the early game. Apply pressure with Ixia before Cyclops can scale.
+- Atlas (Tank): +2.5 pp edge. Across Cyclops's measured matchups, Cyclops is weakest in the early game. Apply pressure with Atlas before Cyclops can scale.
+
+## Heroes Cyclops beats
+
+- Natalia (Assassin): +5.4 pp edge for Cyclops.
+- Wanwan (Marksman): +3.3 pp edge for Cyclops.
+- Joy (Assassin): +3.0 pp edge for Cyclops.
+- Marcel (Support): +3.0 pp edge for Cyclops.
+- Ling (Assassin): +2.9 pp edge for Cyclops.
+- Chou (Fighter): +2.3 pp edge for Cyclops.
+- Aldous (Fighter): +2.3 pp edge for Cyclops.
+- Moskov (Marksman): +2.0 pp edge for Cyclops.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/cyclops.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Cooldown Default (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Concentrated Energy, Genius Wand, Divine Glaive, Glowing Wand
+- Core: Enchanted Talisman, Concentrated Energy, Genius Wand
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Wishing Lantern over Glowing Wand when Use when the enemy front line has high HP but little healing or shielding to punish.; Blood Wings over Glowing Wand when Use when you are ahead and need the shield plus movement speed to keep cycling spells safely.; Winter Crown over Glowing Wand when Use when one assassin or hard-engage combo can reach you before Flicker creates enough space.; Arcane Boots over Magic Boots when Use only against low-Magic-Defense drafts where early flat penetration matters more than cooldown tempo.
+- Total cost: 10820 gold
+
+Default mid setup that turns Cyclops into a cooldown loop after Enchanted Talisman, then adds sustain and penetration for repeated skirmishes.
+
+### Jungle Tempo (Jungle)
+
+- Items: Magic Boots, Enchanted Talisman, Concentrated Energy, Wishing Lantern, Divine Glaive, Blood Wings
+- Core: Enchanted Talisman, Concentrated Energy, Wishing Lantern
+- Emblem: Mage Emblem with Thrill, Seasoned Hunter, Impure Rage
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Genius Wand over Wishing Lantern when Use when your lanes are winning early and repeated flat Magic Defense shred will decide the first two objectives.; Glowing Wand over Blood Wings when Use when enemy healing, shielding, or HP-stacking frontliners are surviving through your second rotation.; Winter Crown over Blood Wings when Use when the enemy can invade and burst you before Ice Retribution or Planets Attack creates distance.; Arcane Boots over Magic Boots when Use when your jungle path is protected and early kill pressure matters more than maximum cooldown cycling.
+- Total cost: 11120 gold
+
+Jungle setup for games where Cyclops is allowed to farm quickly, contest objectives with Retribution, and chase with Ice Retribution plus S2 speed.
+
+### Anti-Dive Control (Mid)
+
+- Items: Tough Boots, Enchanted Talisman, Concentrated Energy, Glowing Wand, Divine Glaive, Winter Crown
+- Core: Enchanted Talisman, Concentrated Energy, Glowing Wand
+- Emblem: Mage Emblem with Inspire, Wilderness Blessing, Impure Rage
+- Battle spell: Purify
+- Flex: Magic Boots over Tough Boots when Use when the enemy dive is damage-heavy but does not have enough crowd control to justify Fortitude.; Genius Wand over Winter Crown when Use when your front line is protecting you and the fight needs faster Magic Defense shred instead of a stasis active.; Blood Wings over Winter Crown when Use when poke and chase damage threaten you more than a single all-in engage.; Wishing Lantern over Winter Crown when Use when HP-stacking targets are the main problem and your positioning is safe enough to skip stasis.
+- Total cost: 10720 gold
+
+Defensive mid setup for CC-heavy or dive-heavy drafts where Cyclops must survive the first lockout before his cooldown loop can take over.
+
+All builds for this hero: https://mlbbhub.com/builds/cyclops.
+
+## Synergies
+
+- Belerick: Cyclops is best with tanky heroes with strong CC skills, like Belerick and Minsitthar.
+- Minsitthar: Cyclops is best with tanky heroes with strong CC skills, like Belerick and Minsitthar.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

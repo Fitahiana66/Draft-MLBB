@@ -1,0 +1,196 @@
+# Julian, Scarlet Raven
+
+> Julian is the hero you pick when your draft already has the crowd control and you want a jungler who turns a two-second window into three dead enemies. He is not a normal assassin. He is a combo-order puzzle wearing the jungle role tag, and he punishes every team that does not know which skill he still has ready.
+
+## Snapshot
+
+- Role: Assassin, Fighter
+- Lane: Jungle
+- Specialty: Chase, Magic Damage
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 50.11%
+- Pick rate: 0.66%
+- Ban rate: 0.80%
+- Released: 2022
+- Page: https://mlbbhub.com/heroes/julian
+
+## Guide
+
+### When Julian wins drafts, and when he ruins them
+
+Julian is the right jungle pick when your team has at least one hard engage tank (Tigreal, Atlas, Khufra, Grock) and your mid lane is a poke or control mage (Valentina, Yve, Pharsa). He exists to convert Chain's immobilize into a burst window, and that window only opens after someone else commits a displacement first. On a draft that already forces enemies to stand still, Julian deletes the backline twice per fight. On a draft that does not, he fishes all game for a pick that never lands.
+
+He is wrong in every draft that has two or more of the following: a global dive comp (Jawhead, Yi Sun-shin, Khufra combo) that invades him before level 4, a mid laner without wave clear so the enemy jungler gets uncontested river control, or a team comp missing a real frontline so Julian has to engage himself. Lock him into drafts with Franco, Lolita, or Belerick on the enemy side only if you are prepared to play around the post-combo cooldown windows for 20 minutes, because every Chain they eat is a Chain you are not throwing.
+
+The disqualifying test is simpler than it looks: if you cannot point at a teammate and say "that hero lands CC before I press Chain", Julian is the wrong pick. Drop him for a self-starting jungler (Fredrinn, Baxia, Barats) and move on.
+
+### Sequence before skills
+
+Julian does not have three skills. He has three setup buttons and three payoff buttons, and the enhancement always sits on whichever one he presses last.
+
+That is the whole hero. Every fight decision reduces to choosing which payoff you want: an AOE zone that lingers (Enhanced Scythe after Sword plus Chain), an untargetable invisible dash (Enhanced Sword after Scythe plus Chain), or a delayed knock-airborne with a slow field (Enhanced Chain after Scythe plus Sword). Smith's Legacy then dumps every skill onto its reset cooldown and turns his next basic attacks into pulls. The pull is the detail most Julian players never notice. It stacks on multiple targets in range, which is why a post-combo auto into a grouped-up backline yanks two or three heroes into your tank's follow-up.
+
+He is classified as an Assassin but every skill scales on Total Magic Power. This is the single most misread thing about the hero: Rupture on Assassin Emblem resolves as magic penetration on him because his magic scaling overtakes his physical attack by level four. Read him as a burst mage with a jungle role tag, not a hybrid.
+
+The payoff you pick before a fight is never the same as the payoff you pick inside one. Outside fights, Enhanced Scythe is the correct default because it gives you a ranged zone that also scales the value of the post-combo reset. Inside fights, the correct enhancement is whichever one the enemy team cannot respect, and that changes depending on who committed first.
+
+### Jungle route and the first four minutes
+
+1. **Red buff start, retribute on the second camp, rotate to blue by 1:30.** Julian's clear is not fast, it is adequate. Full-clearing your side before 2:00 gets you level 4 and a fresh Retribution at the exact moment the solo lane tank is shoving his first wave. Do not contest enemy jungle before level 4, your mana pool will not support a skirmish.
+2. **First gank window is level 4, not level 6.** Julian has no ultimate. His burst is live from level 1. The reason you wait until level 4 is that the extra rank on Chain is what turns the first gank from a near-miss into a kill; the immobilize window is fixed at every rank, the damage is what grows. Gank mid first, not the sidelane, because the sidelane dive over the first tower costs more than the reward for this hero.
+3. **Only take Crab if you have a second hero at the pit.** Julian's early damage on objectives is fine with Retribution up, but he has no self-peel without his enhanced cast, and the enemy jungler is happy to invade a solo Julian doing Turtle. Wait for your mid or roam, then commit.
+
+Mana is the hidden bottleneck for the first ten minutes. Enchanted Talisman as your first-completed item (before boots-upgrade, before Clock of Destiny) solves the problem and is worth more than the raw power spike of rushing Genius Wand. Skip it only if you are already ahead and the enemy team is visibly collapsing.
+
+### The spike: Genius Wand plus Clock of Destiny
+
+The fight turns at minute 9 to 11, after Arcane Boots, Genius Wand, and Clock of Destiny are all completed and Enchanted Talisman's CDR stat is already online. Before this point Julian is a skirmisher who kills when the enemy overextends; after it, he is a pick threat who can force the overextension himself.
+
+Genius Wand is the load-bearing item and nobody building Julian for the first time respects it enough. Its passive stacks a magic defense reduction debuff every time any of Julian's damage lands, and every tick of Enhanced Scythe or Enhanced Chain counts as a hit. By the third tick the target has 9 plus 0.9 times hero level magic defense removed before your basic attack pull even lands. That is why Genius Wand builds before Holy Crystal on this hero: raw magic power adds a fixed number, penetration compounds against what remains.
+
+Clock of Destiny's role here is the one that guides do not explain: it gives you the mana pool to actually chain two enhanced casts back to back. Julian's passive puts every skill on the reset cooldown, which means if your mana does not cover two full six-skill rotations you are mana-capped before the enemy is defense-capped. The hybrid defense stacking on Destiny's passive also buys you the extra uptime in the basic attack pull window that gets you out alive if the rotation goes wrong.
+
+At this spike, a full rotation (three setup skills, one enhanced payoff, the pull-backed basic window, then a second three-skill cycle once the reset cooldowns come back) deletes any squishy who does not have a dash or an active cleanse ready. Before this spike, the same rotation only gets one target at a time.
+
+### Teamfight positioning: which enhancement you save
+
+The reflex when you see five enemies grouped is to Enhanced Sword into the middle because it is invisible and untargetable. That reflex is wrong on Julian.
+
+Enhanced Sword is your escape tool, not your engage. It is invisible for the duration and drops you at the far end of the dash. The hero that engages with his invisibility dash has nothing left when the fight turns. Enhanced Chain or Enhanced Scythe opens the fight; Enhanced Sword leaves it.
+
+1. **Decide the enhancement based on who committed first, not what you warmed up in lane.** If your tank has not pulled the enemy team together, you do not press Enhanced Chain yet. Hold the rotation, reposition, and re-setup.
+2. **Enhanced Scythe is the correct opener against spread-out enemy comps; Enhanced Chain is correct after a tank engage.** Reversing these produces the two worst Julian fight patterns: Chain into a dodge hero (Benedetta, Fanny) with no setup, and Scythe into a stacked enemy frontline where the lingering zone hits nothing of value.
+3. **Enhanced Sword is also your exit, and the dash is untargetable and invisible for its whole length.** The design intent is that you auto-pull once, then escape on Sword. If you hold Sword for later, the reset cooldowns come up before you use the exit and you die with it still available.
+
+If your support is Tigreal, Atlas, or Khufra, you get to commit Chain earlier because they stack the enemy team for you. If your support is Estes, Rafaela, or Angela, open with Enhanced Scythe and let the zone do the shaping. Diggie and Mathilda land in the middle: commit Chain only after their initial kit has peeled off of a squishy, otherwise the immobilize is wasted on a dodge target.
+
+### Itemization: three locked slots and two real conversations
+
+Arcane Boots, Enchanted Talisman, and Genius Wand are locked. Clock of Destiny is the near-fourth lock on any game that reaches minute 10 with you alive. The two real conversations are the fifth and sixth slots.
+
+Fifth-slot flex is Divine Glaive or Holy Crystal. Divine Glaive wins when the enemy has two or more magic-defense items already built (Athena's Shield, Radiant Armor) because its passive scales with the resistance it shreds. Holy Crystal wins when the enemy team is all squishy, because the 21% to 35% magic power boost compounds with Genius Wand's existing penetration. If you cannot tell which condition applies by minute 18, the answer is Divine Glaive; pen scales better into the late game once enemy supports pick up Athena's Shield.
+
+Sixth-slot flex is Ice Queen Wand or Starlium Scythe. Ice Queen Wand is the pick when the enemy comp has more than one disengage tool (Guinevere flick, Ruby pull, Chou spin): the 10% slow per skill hit stacks to 3 times and locks down runners. Starlium Scythe is correct against backlines that stack magic defense, because the true-damage proc on your pull basic after an enhanced cast ignores whatever defense they built. Do not build both; the item slots are better spent on Holy Crystal plus a defensive.
+
+The weakest default you see in pub builds is Blood Wings. It looks fine on paper because it is 90 flat magic power plus a shield, but Julian's survival comes from resetting his skills, not from a shield that only regrows on a slow timer. Every game Julian builds Blood Wings instead of Ice Queen Wand or Starlium Scythe is a game where his sixth slot does not convert the spike into kills.
+
+### Mistakes that lose Julian games
+
+**Pressing Enhanced Sword to engage when the right opener was Enhanced Chain.** Sword is invisible and untargetable, which means the enemy team gets a full setup window while you fly through them. By the time you land at the far end, they are grouped up and your follow-up Chain is a delayed immobilize on a teammate of theirs who is already peeled off. Open with Chain after a tank engage, open with Scythe if there is no tank engage, and reserve Sword for leaving.
+
+**Not tracking your enhancement order before the fight starts.** The enhanced skill is whichever one you pressed last, and it is different depending on your jungle rotation. If you cleared the last camp with Sword plus Scythe, your Chain is enhanced and you have one opener. If you cleared with Sword plus Chain, your Scythe is enhanced and you have a completely different opener. Look at the glowing slot before you commit, not after.
+
+**Fighting without setup after an enhanced cast.** The passive puts every skill on the reset cooldown after the enhanced cast lands. That downtime is survivable only if you spent the pull-basic window doing damage and repositioning. Walking forward into a second target with nothing up is how Julian dies standing still.
+
+**Invading the enemy jungler at level 2.** Julian's early damage looks scary because his skill scaling numbers are high, but his mana pool at level 2 cannot back a second full rotation if the first one does not end the fight. If the invade does not end the fight, he loses the second engagement. Power-farm to level 4 and gank instead.
+
+**Building Holy Crystal before Genius Wand.** Raw magic power is a fixed number added to your damage. Magic defense reduction stacks multiplicatively with everything else in your kit, which is why Genius Wand on a hero whose enhanced casts land as a stream of hits does more than a flat power stat. Penetration first, power second.
+
+### Key tips
+
+> [!TIP]
+> Enhanced Chain's knock-airborne only triggers on enemies still inside the area when the skill ends. Land it on a dash hero and the second half is a worse Scythe. Chain-to-zone-them-in first when you can, not chain-to-finish-them-off.
+
+> [!NOTE]
+> The basic attack pull after an enhanced cast stacks on multiple targets in range. If you hit three grouped enemies, all three get dragged toward you. This is a drake-pit wall and tight-jungle setup tool that most players only use on one target at a time.
+
+> [!TIP]
+> Rupture on Assassin Emblem reads as adaptive penetration but resolves as magic penetration on Julian because his Total Magic Power scaling overtakes his Total Physical Attack by level four. Do not substitute Mage Emblem; Assassin Emblem's Master Assassin plus Killing Spree out-values Mage's Inspire plus Bargain Hunter for jungle Julian.
+
+> [!WARNING]
+> Franco, Khufra, and Lolita are not "counter picks" for Julian, they are draft-level deletions. A suction, cocoon, or shield lockout during the post-enhanced cooldown window means you die without agency. If two of these are on the enemy side, bench Julian and pick a jungler who can fight while CC'd.
+
+## Skills
+
+### Smith's Legacy (Passive)
+
+After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9-6s Cooldown (decreases with his level). After casting any skill, his Basic Attacks for the next 2s will deal 100 (+100% Total Physical Attack) (+100% Total Magic Power) Magic Damage and pull the target toward him (deals 85% damage to Creeps). Casting another skill extends the duration. Julian gains 15% extra Hybrid Lifesteal for 5s each time he hits an enemy hero with his skills (up to 3 stacks).
+
+### Scythe (Skill 1)
+
+Julian hurls a flying scythe in the target direction, dealing 420 (+140% Total Magic Power) Magic Damage to enemies along the way and slowing them by 30% for 1s. The scythe disappears upon hitting a non-minion enemy.
+
+### Sword (Skill 2)
+
+Julian summons a flying sword and dashes in the target direction, dealing 400 (+80% Total Magic Power) Magic Damage to enemies along the way.
+
+### Chain (Ultimate)
+
+Julian casts chains at the target location, dealing 300 (+100% Total Magic Power) Magic Damage to enemies hit after a short delay and immobilizing them for 1.2s.
+
+Skill upgrade priority: 1-3-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Julian can slow the enemy with his 1st Skill before dashing into the enemy battle formation with his 2nd Skill. Then use his enhanced 3rd Skill for area CC.
+- LANING COMBOS (laning): In the laning phase, Julian can use his 2nd Skill to close in on the enemy, and his 3rd Skill to immobilize them. Then he can use his enhanced 1st Skill to deal damage. Follow up with his enhanced Basic Attacks to prevent the enemy from escaping.
+
+## Counters to Julian (pick these against Julian)
+
+- Guinevere (Fighter): +2.0 pp edge. Guinevere's durability and kit give them a strong matchup advantage against Julian throughout the game.
+- Minsitthar (Fighter): +1.8 pp edge. Minsitthar's CC abilities disrupt Julian's aggressive playstyle, preventing clean dives and resets.
+- Tigreal (Tank): +1.7 pp edge. Tigreal's crowd control can lock down Julian's mobility, shutting down engages before they start.
+- Hylos (Tank): +1.5 pp edge. Hylos's durability and kit give them a strong matchup advantage against Julian throughout the game.
+- Beatrix (Marksman): +1.5 pp edge. Beatrix has a statistical edge over Julian based on ranked matchup data. Pick Beatrix to gain an advantage in draft.
+
+## Heroes Julian beats
+
+- Faramis (Support/Mage): +3.5 pp edge for Julian.
+- Esmeralda (Tank/Mage): +2.6 pp edge for Julian.
+- Alice (Tank/Mage): +2.1 pp edge for Julian.
+- Aulus (Fighter): +1.8 pp edge for Julian.
+- Diggie (Support): +1.8 pp edge for Julian.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/julian.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-06. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Tempo (Jungle)
+
+- Items: Arcane Boots, Genius Wand, Feather of Heaven, Divine Glaive, Holy Crystal, Winter Crown
+- Core: Genius Wand, Feather of Heaven, Divine Glaive
+- Emblem: Mage Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Blood Wings over Winter Crown when Use when your team has reliable setup and you can spend the final slot on shielded chase instead of stasis.; Glowing Wand over Holy Crystal when Use when enemy sustain or shield supports are keeping the first target alive through your enhanced combo.; Concentrated Energy over Holy Crystal when Use when fights are extended and you need repeated magic-damage trades instead of one heavier burst window.; Tough Boots over Arcane Boots when Use against drafts where early crowd control decides whether you can finish the enhanced skill cycle.
+- Total cost: 11600 gold
+
+Default jungle setup built for fast magic-penetration pressure, enhanced-skill burst, and safer objective fights after the first three items.
+
+### EXP Burst Skirmisher (EXP)
+
+- Items: Tough Boots, Genius Wand, Feather of Heaven, Starlium Scythe, Holy Crystal, Winter Crown
+- Core: Genius Wand, Feather of Heaven, Starlium Scythe
+- Emblem: Mage Emblem with Rupture, Bargain Hunter, Lethal Ignition
+- Battle spell: Execute
+- Flex: Arcane Boots over Tough Boots when Use when the lane matchup lacks hard crowd control and early penetration lets you threaten level-three all-ins.; Divine Glaive over Holy Crystal when Use when enemy EXP, roam, or jungle front liners buy Magic Defense before your fourth item.; Oracle over Winter Crown when Use when you are front-lining longer skirmishes and Julian's lifesteal stacks matter more than a stasis reset.; Immortality over Winter Crown when Use in late objective fights where a revive gives more value than surviving one focused burst window.
+- Total cost: 11860 gold
+
+EXP setup for short side-lane trades where Julian needs enough toughness to start fights and enough burst to punish low-health exits.
+
+### Mid Pickoff (Mid)
+
+- Items: Arcane Boots, Genius Wand, Lightning Truncheon, Feather of Heaven, Divine Glaive, Blood Wings
+- Core: Genius Wand, Lightning Truncheon, Feather of Heaven
+- Emblem: Mage Emblem with Rupture, Bargain Hunter, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Winter Crown over Blood Wings when Use against assassins or dive fighters who can force Julian to spend Enhanced Sword defensively.; Holy Crystal over Blood Wings when Use when your roam provides reliable lockdown and you can commit to maximum pickoff damage.; Glowing Wand over Lightning Truncheon when Use when anti-heal is mandatory and your team already has enough poke before Turtle or Lord setups.; Concentrated Energy over Blood Wings when Use when mid fights turn into repeated river skirmishes instead of one clean engage.
+- Total cost: 11040 gold
+
+Mid-lane setup for pickoff drafts that want Julian rotating with waveclear, poke pressure, and Flicker reach before objectives.
+
+All builds for this hero: https://mlbbhub.com/builds/julian.
+
+## Synergies
+
+- Angela: Julian works best with powerful support heroes who can buff him, like Angela and Diggie.
+- Diggie: Julian works best with powerful support heroes who can buff him, like Angela and Diggie.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

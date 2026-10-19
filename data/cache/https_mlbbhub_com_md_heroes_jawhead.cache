@@ -1,0 +1,201 @@
+# Jawhead, Steel Sweetheart
+
+> Jawhead is not a fighter in the usual sense. He is a delivery service. His entire kit exists to pick one enemy out of a formation and hand them to his team with a bow on top, and every decision you make on him should answer the question "who am I about to deliver, and to whom."
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP, Roam
+- Specialty: Charge, Burst
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 47.90%
+- Pick rate: 0.33%
+- Ban rate: 0.29%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/jawhead
+
+## Guide
+
+### The drafts that actually want a Jawhead
+
+Jawhead works when your team has at least two heroes who want a target delivered to their face. Paquito waiting in a side bush. A Pharsa ult ready to fall on a target that cannot move. An Aulus with sustain and basic-attack lockdown. The Ejector fling is only worth the roam slot when somebody behind you can finish what the fling starts.
+
+He is the wrong pick when your team is three ranged pokers and nobody who wants to be in melee range. Flinging a Khufra toward your Eudora does not kill Khufra, it kills your Eudora. Flinging him away from your team wastes the stun window entirely because nobody is there to follow up. Jawhead also struggles in any draft where the enemy runs two or more hard-mobility picks. Fanny, Benedetta, Ling, Lancelot, Hayabusa: all four of these step sideways when you ult and your ultimate cooldown becomes a free minute of scaling time for them.
+
+Specifically look at the enemy draft before locking him. If you see Diggie, reconsider. His ultimate grants full crowd-control immunity to his entire team and your whole identity is crowd control, so a decent Diggie negates both your Ejector stun and your Unstoppable Force on demand. If you cannot name which of these conditions your current team composition is in, Jawhead is the wrong pick.
+
+### The one thing that makes Jawhead work
+
+Everything Jawhead does is a setup for the Ejector fling. The passive exists to make the fling target die faster. The ultimate exists to either reach the fling target or chain off the fling stun. The missiles are filler damage during the stun window. Treat him like anything else and you are playing a worse Paquito with a stun.
+
+The non-obvious detail is that Ejector prioritizes heroes and will include allied heroes in the target pool. That sounds like a drawback. It is actually the hero's second kit. Flinging a flanking marksman back to your core is the panic button that wins fights you had already lost. Flinging a low-HP assassin out of a teamfight rescues him from the execute. An Ejector pointed the wrong way is an extraction tool, not a mistake, and the best Jawheads alternate between picking enemies and retrieving allies in the same minute.
+
+Unstoppable Force is crowd-control immune during the charge. Every time you read an engage as "they are about to lock me down before I reach the carry," the ultimate goes first and the fling goes second. Against a Khufra or Atlas, never fling into range and hope. Charge through them with the ultimate, land on the carry, then Ejector them toward the rest of your team.
+
+### The first ten minutes of roaming
+
+You are not in lane. You rotate.
+
+1. **Levels 1 to 2 belong to your gold laner.** Walk to bot, auto-attack the minion wave once with your gold laner to give them the lane XP boost, then immediately leave. Do not hang around for the first clear. You are looking for a missing middle laner, a cracked bush opportunity, or an early turtle setup. Jawhead's passive is pointless before you have stack-building teammates.
+2. **Your first real gank is mid around 1:30 to 2:00.** Walk around from your jungle side into the mid bush on the enemy half. Wait until the enemy mid laner steps past the second minion wave. Charge ult into them from the bush (the ult ignores their escape reflex because it is CC-immune during the charge), Ejector them back toward your tower, Smart Missiles while they are stunned. If your mid laner has any decent lockdown of their own, that kill lands before their jungler can rotate.
+3. **Keep Flicker for Ejector extensions, not escapes.** Flicker plus Ejector is the highest-range fling in the game and it is what lets you pull an enemy out of position from a bush they thought was safe. Burning Flicker to escape a gank means the next two minutes of map pressure die with it. If you need to escape, use Ejector's shield mode for the movement-speed buff instead, not Flicker.
+
+### The power spike you are farming toward
+
+Jawhead has two real power spikes and they point at different game plans.
+
+The roam spike lands at [Warrior Boots](/items/warrior-boots) plus [Oracle](/items/oracle) around the seven-minute mark. Oracle amplifies every received shield and heal, which means your Ejector shield now keeps you alive through the follow-up damage after a fling lands. Before this spike you fling, stun, die, and your team trades four-for-five. After it you fling, stun, tank the return poke, live, and rotate again in under fifteen seconds.
+
+The damage spike lands at [Blade of the Heptaseas](/items/blade-of-the-heptaseas) plus [Hunter Strike](/items/hunter-strike) around the nine-minute mark if you are running him as a jungle flex. Heptaseas' Ambush passive triggers on the first basic attack after a five-second idle window, which means every bush engage delivers a front-loaded burst. Hunter Strike's passive gives you the speed to close after the fling, which is the window most jungle Jawheads throw away by flinging and then walking forward into return damage. Together these two items convert Jawhead from "stuns the carry" to "one-shots a squishy core from full HP after the Ejector lands."
+
+Both spikes are real. Pick one at draft time and commit. The mistake is building the hybrid roam-damage compromise where neither spike functions and you farm to 12 minutes with nothing to show for it.
+
+### Teamfight positioning and target priority
+
+The reflex when you see an enemy Khufra engage is to fling Khufra. That reflex is wrong. Khufra is tanky, his team is expecting him to go in, and flinging him solves nothing. You want the second-line hero who thought the fight was happening too far away to threaten them.
+
+Three positioning rules:
+
+1. **Stand slightly behind your gold laner, not next to your tank.** Your Ejector range from that position reaches the enemy backline, which is where the fling targets live. Stacking on your tank puts you one dash away from their kill window but zero flings away from theirs.
+2. **Pre-cast Ejector shield before the fight starts.** The shield and movement-speed buff run long enough to cross a bush line before the throw window closes. If you see the engage coming, press Ejector as you walk up. You arrive at the fight with a shield already running and the throw still available on your next tap.
+3. **The ultimate is not your engage, it is your cleanup.** Save Unstoppable Force for the moment after your first fling. Ejector an enemy carry back to your team, your team locks them, then ult the next-biggest threat out of the fight while your team is still converting. Opening with the ultimate leaves you with a fling and a missile when the teamfight matters, and a dead cooldown when the second wave arrives.
+
+If your support is Estes or Rafaela, you get to play further up because your shield stacks with their heal. If your support is Diggie or Minsitthar, you get to play wider because their zoning opens fling angles on immobile mids. If you have no support, you are the support, and the fling is the only reason the carry lives.
+
+### Itemization: two real conversations
+
+Two locked slots, three flex slots, one boot conversation. The locked slots on roam Jawhead are always [Antique Cuirass](/items/antique-cuirass) and [Immortality](/items/immortality). Cuirass' Deter passive shaves up to 18% off incoming physical damage at full stacks, which is the largest survivability line an item buys. Immortality doubles your fling timings per fight because you revive mid-skirmish and hit Ejector again before your team loses the trade.
+
+The boot conversation is between Magic Boots and Warrior Boots. Magic Boots is correct when you need the cooldown reduction to chain Ejector twice in a fight (most drafts, most games). Warrior Boots is correct when the enemy has two physical burst heroes who all-in on you first (a Yi Sun-shin plus Lancelot draft, for example). [Tough Boots](/items/tough-boots) only goes on if you are against three crowd-control-heavy mages and you need the CC reduction to finish a fling at all.
+
+The three flex slots are the real decisions:
+
+- **Against a magic-heavy team** (two or more mages), [Athena's Shield](/items/athenas-shield) before Oracle. Its 25% magic damage reduction window keeps you alive through the return burst.
+- **Against sustained physical damage** (two marksmen, or a late-game Roger), [Dominance Ice](/items/dominance-ice) slots in. Its passives are a short-range aura: Fortress Shield stacks Hybrid Defense for every enemy hero near you, and Lifebane cuts their HP Regen and shields to 60% of normal, so a sustain-heavy backline bleeds momentum every time it stays in the fight with you.
+- **Against a mobility team** that keeps running from your stuns, [Queen's Wings](/items/queens-wings). Its Demonize passive triggers when you drop below 40% HP and gives you a damage-reduction window that lets you chase past their escape tools.
+- **Against a poke comp** you cannot reach, Oracle earlier than the spike timing. You are eating chip damage between fights and Oracle's shield amplification turns every Ejector cast into a mini-heal.
+- **For a damage build** in jungle, the flex slots are [Malefic Roar](/items/malefic-roar) third if the enemy stacks armor, [Blade of Despair](/items/blade-of-despair) fourth for the execute-range burst, Immortality fifth for the safety net.
+
+Blade of Despair is the fallback everybody builds reflexively. It only belongs on the damage-build Jawhead, and even there it is the fourth item at earliest. On roam Jawhead it is a trap: a full 3010 gold of flat physical attack on a hero whose missiles and fling both scale off a modest attack ratio. The damage gain does not justify the slot.
+
+### Mistakes that lose Jawhead games
+
+**Flinging the carry toward their team instead of yours.** This is the single most common Jawhead error. Ejector flings the target toward the cursor position, not away from it. If your cursor is on their side of the screen, you just handed them a free escape. Always click the fling toward your team's side of the fight. If you are unsure, click directly on your own gold laner's champion: worst case you deliver the target to the person most likely to secure the kill.
+
+**Ulting the tank.** Khufra, Atlas, Tigreal, Minsitthar. Ulting any of these heroes burns your longest cooldown on a target that cannot be killed. The ultimate's damage is fine, but Jawhead does not duel a tank to death. Save it for the carry. If the tank is between you and the carry, Ejector the tank out of the way and ult past them.
+
+**Opening with S1 into a Helcurt ult.** Smart Missiles scatter over several seconds, which means most of them fire while Helcurt's silence is active. You lose the fling, the ult, and the missiles in the same fight. When the lights go out, shield mode Ejector away, wait out the silence, then go in.
+
+**Flinging an ally when you meant to hit a carry.** Ejector prioritizes heroes, including allies. If your gold laner is standing between you and the fling target, the throw will pick them up instead. Before you cast, glance at the hero positions in the tap radius. If an ally is closer than the carry, walk forward two steps so the target switches before you tap.
+
+**Building a hybrid roam-damage compromise.** Magic Boots plus Blade of the Heptaseas plus Antique Cuirass is not a balanced build, it is three items doing nothing together. Pick the roam spike or pick the damage spike at the start of the game and commit.
+
+### Key tips
+
+> [!TIP]
+> Ejector shield mode is a free button on every rotation. Walk up to a contested bush with the shield active and you scout safely because the return damage from a counter-gank costs nothing as long as the shield is up.
+
+> [!NOTE]
+> Unstoppable Force ignores crowd control during the charge only, not after it lands. Once you hit the target you are a normal hero who just stunned someone. Do not assume the ult makes you untouchable during the follow-up.
+
+> [!TIP]
+> Focusing Mark (Support Emblem core) amplifies your team's damage on any enemy you basic-attack. Jawhead's passive Mecha Suppression does the same thing through stacks. Stacking both means your missiles during a fling tick at a meaningful amplification across the board, which is why he kills squishies cleanly even with a roam build.
+
+> [!WARNING]
+> Against Diggie, never commit the ultimate first. His Time Journey grants CC immunity to his whole team on demand, and a decent Diggie who sees your charge animation pops it before your stun lands. Force him to ult on someone else, then go in.
+
+## Skills
+
+### Mecha Suppression (Passive)
+
+Each time Jawhead deals damage to an enemy hero or a Creep, he inflicts a stack of Mecha Suppression on them for 3s (up to 6 stacks). Each stack of Mecha Suppression increases all damage dealt to the target by 2% (limited to 50% for Creeps).
+
+### Smart Missiles (Skill 1)
+
+Jawhead launches up to 12 missiles at random nearby enemies over 5s, each missile dealing 135 (+30% Total Physical Attack) Physical Damage to the enemy hit.
+
+### Ejector (Skill 2)
+
+Jawhead gains 30% Movement Speed and a 500 (+100% Total Physical Attack) shield for 5s. Use Again: Jawhead flings the nearest unit (prioritizes heroes) to the target location, dealing 300 (+80% Total Physical Attack) Physical Damage to enemies in the area and stunning them for 0.5s. Can be used on allied heroes and they will not take damage.
+
+### Unstoppable Force (Ultimate)
+
+Jawhead charges into the target enemy hero, dealing 350 (+150% Total Physical Attack) Physical Damage and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Jawhead's 2nd Skill for the Movement Speed and start up his 1st Skill then immediately charge into a target using his Ultimate. Finally, use his 2nd Skill to toss the enemy back.
+- LANING COMBOS (laning): In the laning phase, use Jawhead's 2nd Skill to get close to the enemy, then follow up with his 1st Skill and Basic Attacks to deal continuous damage. When the enemy tries to run, use his 2nd Skill again to toss them back.
+
+## Counters to Jawhead (pick these against Jawhead)
+
+- Sun (Fighter): +4.2 pp edge. Sun's durability and kit give them a strong matchup advantage against Jawhead throughout the game.
+- Gloo (Tank): +3.7 pp edge. Gloo's durability and kit give them a strong matchup advantage against Jawhead throughout the game.
+- Esmeralda (Tank/Mage): +2.9 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Jawhead throughout the game.
+- Lolita (Support/Tank): +2.6 pp edge. Lolita's durability and kit give them a strong matchup advantage against Jawhead throughout the game.
+- Popol and Kupa (Marksman): +2.5 pp edge. Popol and Kupa has a statistical edge over Jawhead based on ranked matchup data. Pick Popol and Kupa to gain an advantage in draft.
+
+## Heroes Jawhead beats
+
+- Arlott (Fighter/Assassin): +2.2 pp edge for Jawhead.
+- Natalia (Assassin): +1.7 pp edge for Jawhead.
+- Helcurt (Assassin): +1.6 pp edge for Jawhead.
+- Zilong (Fighter/Assassin): +1.6 pp edge for Jawhead.
+- Nolan (Assassin): +1.5 pp edge for Jawhead.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/jawhead.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Conceal Pickoff (Roam)
+
+- Items: Rapid Boots, Dominance Ice, Oracle, Antique Cuirass, Athena's Shield, Immortality
+- Core: Rapid Boots, Dominance Ice, Oracle
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Tough Boots over Rapid Boots when Use when chain control or slows stop Jawhead from finishing the Ejector throw after entering vision.; Radiant Armor over Athena's Shield when Use against repeated magic poke or burn damage where stacked Magic Defense outvalues one burst shield window.; Guardian Helmet over Oracle when Use when Jawhead keeps surviving first contact but has to reset HP before the next bush rotation.; Blade Armor over Antique Cuirass when Use when the enemy marksman is the main follow-up threat and must hit Jawhead after the fling lands.
+- Total cost: 11060 gold
+
+Default roam setup for hidden Ejector angles, faster Flicker cycles, and enough shield value to live after delivering the target.
+
+### EXP Burst Bruiser (EXP)
+
+- Items: Tough Boots, Blade of the Heptaseas, Hunter Strike, War Axe, Malefic Roar, Immortality
+- Core: Blade of the Heptaseas, Hunter Strike, War Axe
+- Emblem: Assassin Emblem with Rupture, Master Assassin, Killing Spree
+- Battle spell: Flicker
+- Flex: Warrior Boots over Tough Boots when Use against physical EXP and jungle pressure when crowd-control reduction is not deciding the all-in.; Sea Halberd over Malefic Roar when Use before armor stacking when a healer, shield support, or high-HP fighter keeps surviving the burst window.; Queen's Wings over Immortality when Use when fights are extended and the low-HP damage reduction plus cooldown refund keeps Ejector online.; Blade of Despair over Immortality when Use only when ahead and your team already has enough front line to let Jawhead commit as a finisher.
+- Total cost: 10940 gold
+
+Side-lane burst setup for punishing isolated carries after Ejector, while War Axe and Hunter Strike keep Jawhead moving through skirmishes.
+
+### Jungle Tempo Pickoff (Jungle)
+
+- Items: Tough Boots, Hunter Strike, Blade of the Heptaseas, War Axe, Blade of Despair, Immortality
+- Core: Hunter Strike, Blade of the Heptaseas, War Axe
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Malefic Roar over Blade of Despair when Use once enemy frontliners stack armor and Jawhead has to finish targets through physical defense instead of raw attack.; Sky Piercer over War Axe when Use only in snowball games where early kills are realistic and death risk is low enough to protect stacks.; Sea Halberd over Blade of Despair when Use when sustain or shields are the reason Ejector targets survive after the first missile cycle.; Rose Gold Meteor over Immortality when Use against magic burst when the Lifeline shield lets Jawhead survive entry without waiting for a revive.
+- Total cost: 11890 gold
+
+Jungle variant for early invades and single-target picks, using Ice Retribution and Hunter Strike speed to stay glued to the thrown target.
+
+All builds for this hero: https://mlbbhub.com/builds/jawhead.
+
+## Synergies
+
+- Odette: Jawhead works best with heroes that benefit from a quick engage like Odette and Belerick because he can throw them into the enemy for a surprise attack.
+- Belerick: Jawhead works best with heroes that benefit from a quick engage like Odette and Belerick because he can throw them into the enemy for a surprise attack.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

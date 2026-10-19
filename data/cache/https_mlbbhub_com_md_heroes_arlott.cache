@@ -1,0 +1,192 @@
+# Arlott, Lone Lancer
+
+> Arlott is a fighter whose value lives inside one condition: someone near him must be marked before he commits. He can look unfair when a CC-heavy team feeds him Vengeance resets, but he becomes ordinary when the draft gives him no setup, no clumped targets, and no time to farm Thunder Belt.
+
+## Snapshot
+
+- Role: Fighter, Assassin
+- Lane: EXP
+- Specialty: Charge, Burst
+- Difficulty: Hard
+- Tier this patch: C
+- Win rate: 47.93%
+- Pick rate: 0.44%
+- Ban rate: 0.34%
+- Released: 2023
+- Page: https://mlbbhub.com/heroes/arlott
+
+## Guide
+
+### Lock Arlott only when the fight will stand still
+
+Arlott is correct when your team can start fights before he shows himself. Tigreal, Atlas, Khufra, Akai, Minotaur, Franco, and Ruby all make him better because their crowd control creates Demon Gaze marks for him. In those drafts, Arlott does not need to invent the first catch. He waits for the first lockout, enters on marked targets, and turns one engage into several Vengeance casts.
+
+The trap is picking him as a blind comfort EXP laner. He is weaker when your roam is a healer with little hard CC, when your mid lane cannot hold people in place, or when the enemy side can leave his passive radius before the mark matters. Mobile assassins, anti-dash heroes, and suppression tools all punish the same flaw: Arlott must dash into contact to cash out the mark.
+
+Draft him into teams that group around objectives, protect slow backliners, or walk forward with short-range fighters. Avoid him when Phoveus, Minsitthar, Kaja, or heavy poke is already visible. If your team cannot name the first CC spell that starts Arlott's chain, the pick is built on hope.
+
+### Demon Gaze is the whole hero
+
+Arlott is not a standard bruiser. He is a reset engine attached to a melee body.
+
+Demon Gaze marks enemies near him when they are controlled. His own Dauntless Strike can do it, Final Slash can do it, Petrify can do it, and allied CC can do it. Once the target is marked, Vengeance changes from a single dash into the spell that makes Arlott playable: it hits harder, restores health, and refreshes so he can move to the next marked enemy.
+
+That is why his build leans defensive even when he wants kills. He does not need six damage items to threaten a carry. He needs to survive the first return burst, basic attack after Vengeance for Thunder Belt, and still have enough health to dash again. The mistake is judging Arlott by the first button press. The hero is paid off by the third one.
+
+### Laning: the first five minutes
+
+Before the first item, Arlott's job is to keep the lane playable. He has poke, a mark trigger, and one strong short trade, but he does not have a reliable escape once the wave is past river.
+
+1. **Clip the wave with Dauntless Strike.** Stand far enough back that the lance tip threatens the enemy laner while still touching the minions. You want a mark and a safe Vengeance follow-up, not a melee brawl where the opponent trades back for free.
+2. **Treat Petrify as kill pressure, not lane poke.** Petrify is your emergency mark button. Save it for allied ganks, Turtle-side skirmishes, or a target that has already spent mobility. Burning it for chip damage removes the one tool that lets you start a chain without help.
+3. **Hold the wave when the jungler disappears.** Vengeance needs a target, so it cannot dash Arlott out of a bad lane state. If the enemy mid and jungler are missing, let the wave come to you and farm the first item instead of donating tempo before Turtle.
+
+Arlott can contest early river fights if your roam arrives first. He should not start them alone. Enter after the first stun or knockup lands, then use the mark to make Vengeance a real spell.
+
+### Thunder Belt changes every trade
+
+The spike you are farming toward is **Thunder Belt plus Hunter Strike**, usually around the second Turtle window if lane has stayed even. Thunder Belt gives the Vengeance-into-basic sequence a true-damage hit and a heavy slow, while Hunter Strike adds the attack, cooldown, and movement burst that keep the chain from falling apart.
+
+Before Thunder Belt, a marked Vengeance is mostly a trade tool. After Thunder Belt, every successful mark threatens a dash, a basic attack, a slow, and another dash if the next target is marked. That is the moment Arlott can stop only answering fights and start shaping them.
+
+War Axe is the more aggressive alternative when your team already owns the early map and you expect extended skirmishes. It is not a replacement for discipline. If you rush damage while behind, Arlott reaches the fight faster and dies faster. The default ranked plan is still boots, Thunder Belt, then Hunter Strike or a defensive bridge depending on who is killing you.
+
+### Do not be the first body in
+
+The common wrong reflex is to see a fight start and Vengeance into the nearest hero. That wastes Arlott's condition. If the target is not marked, he spends his mobility, gets no reset, and arrives in the middle of the enemy team with no second move.
+
+1. **Enter after the first control spell.** Let the tank, roam, or mid laner create the first mark. Arlott's strongest fights start half a second late, when enemies have already grouped and used their first answer.
+2. **Use Final Slash to compress space.** The ultimate is not just damage. It pushes targets into a line, reveals them briefly, and gives your team a clearer direction to collapse. Use it to shove divers off your marksman, pull backliners toward a wall, or punish a grouped objective entrance.
+3. **Dash through marked targets, not into ego duels.** One reset on the tank is rarely the whole fight. Look for the next marked mage, marksman, or low-health fighter and keep moving. Arlott is much harder to punish when every Vengeance changes his position.
+
+The support-dependent edge case is the no-CC draft. If your roam is Estes, Floryn, or another sustain support, Arlott must create more of his own marks with Dauntless Strike, Final Slash, and Petrify. The chain is shorter, so you play for one clean pick instead of a five-man cleanup.
+
+### Itemization is defense with one damage bridge
+
+The ranked default starts with Tough Boots, Thunder Belt, Hunter Strike, Dominance Ice, Oracle, and Queen's Wings. Tough Boots keeps him functional into control chains. Thunder Belt is the contact payoff. Hunter Strike is the damage bridge. Dominance Ice is the sustain answer: enemies who stay close to Arlott lose shield and HP regen effectiveness while Fortress Shield stacks Hybrid Defense on him, which punishes the enemy for grouping around him mid-chain. Its 40 Physical Defense, 40 Magic Defense, and the two auras earn the slot. Oracle amplifies the health restoration he already gets from successful Vengeance chains. Queen's Wings buys the low-health window where one more reset flips the fight.
+
+Flex the boots first. Tough Boots is correct into magic damage and CC. Warrior Boots is playable into physical lane pressure when the enemy control is light, but do not greed it into chain stuns.
+
+Flex the fourth and fifth slots around the actual threat. Athena's Shield is the burst-mage answer. Radiant Armor is for repeated magic hits. Antique Cuirass is for physical skill damage from fighters and assassins. Blade Armor is only for basic-attack carries who must hit you. Immortality belongs in late games where one death decides Lord or base.
+
+Sea Halberd is the damage-side flex when the enemy has heavy healing or shield value and your team lacks anti-heal uptime. Do not pair it casually with Dominance Ice just to say you have more anti-heal. Their Lifebane passives do not stack, so buy Sea Halberd only when Arlott must personally apply the healing cut from damage and the team already has Dominance Ice on another body.
+
+### Mistakes that lose Arlott games
+
+**Opening Vengeance without a mark.** This is the fastest way to make Arlott useless. Check the target state first. If the mark is missing, create it with Dauntless Strike, Petrify, Final Slash, or allied CC before spending the dash.
+
+**Picking him with no setup.** Arlott can create marks himself, but the best version of the hero is built on layered control. If your draft has no reliable engage and no follow-up stun, every fight asks him to do too many jobs at once.
+
+**Fighting Phoveus or Minsitthar on their terms.** Phoveus punishes repeated dashes, while Minsitthar punishes the zone Arlott needs to enter. Into those picks, hold Vengeance until their key answer is used or choose another EXP laner in draft.
+
+**Rushing damage after losing lane.** Hunter Strike and War Axe feel good when Arlott is ahead. When he is behind, the extra damage rarely matters because he cannot stay alive long enough to reset. Stabilize with defense, then use ally CC to re-enter the game.
+
+**Using Petrify for impatience.** Petrify is a fight starter, interrupt, and multi-mark tool. If you spend it for a small lane trade, the enemy jungler gets the next minute of map movement without respecting your all-in.
+
+### Key tips
+
+> [!TIP]
+> Petrify is strongest after the enemy has already committed a dash or blink. Marking a target that still has its escape often gives you one Vengeance. Marking a target after the escape is gone gives you the whole chain.
+
+> [!NOTE]
+> Arlott does not need to hit the same target until it dies. If two enemies are marked, use Vengeance to change angles, proc Thunder Belt, and force the backline to turn before they can focus you down.
+
+> [!TIP]
+> Final Slash is a peel tool as much as an engage tool. When an assassin dives your marksman, push the diver away first, then use the mark to chase only if your carry is no longer under threat.
+
+> [!NOTE]
+> The 2.1.30 Arlott nerf targeted defense-build damage, which confirms the intended tension: he still wants defensive stats, but he has to earn damage through repeated marked contacts rather than one overloaded Vengeance.
+
+## Skills
+
+### Demon Gaze (Passive)
+
+Arlott possesses a demonic eye that will Mark enemy units near Arlott that become affected by control effects for 7s. The eye will also automatically Mark a nearby enemy hero in vision every 7s.
+
+### Dauntless Strike (Skill 1)
+
+Arlott swings his lance forward, dealing 200 (+60% Total Physical Attack) Physical Damage and briefly stunning targets in an area. Targets hit by the farther part of the AOE will be stunned for 1s instead.
+
+### Vengeance (Skill 2)
+
+Arlott charges at an enemy, dealing 135 (+60% Total Physical Attack) Physical Damage (this skill cannot be interrupted during movement). If Arlott's target is Marked, he gains a brief burst of Movement Speed, and this skill will deal double damage, immediately refresh its cooldown, and recover 70 (+60% Total Physical Attack) HP to Arlott (only restores 50% of that amount when used on a non-hero unit).
+
+### Final Slash (Ultimate)
+
+Passive: Each level-up reduces Demon Gaze's interval by 1s. Active: Arlott cleaves forward, dealing 400 (+80% Total Physical Attack) Physical Damage to enemies in the area, knocking them back to the edge of the swing, and briefly revealing their location (can only be interrupted by Suppression).
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, start by hitting a marked enemy hero with Arlott's 2nd Skill, then get into position to unleash his Ultimate on the enemy team to CC and mark them. Use Arlott's 2nd Skill to cut through the enemy from target to target. When all marks have been used up, use his 1st Skill to CC and mark enemies again, and continue to chain his 2nd Skill.
+- LANING COMBOS (laning): In the laning phase, after Arlott's Passive marks an enemy hero, use his 2nd Skill to dash through them and get a cooldown reset. Follow up with his 1st Skill to CC the enemy and mark them again, then hit them with his 2nd Skill while resetting its cooldown.
+
+## Counters to Arlott (pick these against Arlott)
+
+- Argus (Fighter): +2.3 pp edge. Argus's durability and kit give them a strong matchup advantage against Arlott throughout the game.
+- Jawhead (Fighter): +2.2 pp edge. Jawhead's durability and kit give them a strong matchup advantage against Arlott throughout the game.
+- Phoveus (Fighter): +2.2 pp edge. Phoveus's sustain and durability allow them to outlast Arlott's burst combos and win extended trades.
+- Zhask (Mage): +2.0 pp edge. Zhask has a statistical edge over Arlott based on ranked matchup data. Pick Zhask to gain an advantage in draft.
+- Lukas (Fighter): +1.8 pp edge. Lukas's sustain and durability allow them to outlast Arlott's burst combos and win extended trades.
+
+## Heroes Arlott beats
+
+- X.Borg (Fighter): +3.0 pp edge for Arlott.
+- Cici (Fighter): +2.5 pp edge for Arlott.
+- Zhuxin (Mage): +2.4 pp edge for Arlott.
+- Natan (Marksman): +2.2 pp edge for Arlott.
+- Khufra (Tank): +2.0 pp edge for Arlott.
+- Nolan (Assassin): +1.7 pp edge for Arlott.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/arlott.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-07. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Lane Default (EXP)
+
+- Items: Tough Boots, Thunder Belt, Hunter Strike, Dominance Ice, Oracle, Queen's Wings
+- Core: Thunder Belt, Hunter Strike, Dominance Ice
+- Emblem: Fighter Emblem with Rupture, Festival of Blood, Brave Smite
+- Battle spell: Petrify
+- Flex: Athena's Shield over Oracle when Use against burst mages that decide the fight with the first combo.; Radiant Armor over Oracle when Use against repeated magic damage that keeps ticking through extended Vengeance chains.; Immortality over Queen's Wings when Use after the next death would decide Lord, base, or a full late-game wipe.
+- Total cost: 10650 gold
+
+Default EXP setup for ranked games where Arlott needs Thunder Belt contact damage, Hunter Strike tempo, and enough sustain to chain marked targets.
+
+### Pickoff Damage Bridge (EXP)
+
+- Items: Tough Boots, Thunder Belt, War Axe, Hunter Strike, Oracle, Queen's Wings
+- Core: Thunder Belt, War Axe, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Festival of Blood, Brave Smite
+- Battle spell: Petrify
+- Flex: Dominance Ice over War Axe when Use when enemy sustain, shields, or attack-speed carries matter more than extra damage.; Malefic Roar over Oracle when Use only when your team is ahead and the enemy front line is stacking Physical Defense.; Athena's Shield over Oracle when Use when magic burst is the only thing stopping your second Vengeance.
+- Total cost: 10740 gold
+
+Snowball setup for games where allied CC gives Arlott reliable first contact and the team needs him to threaten backline kills earlier.
+
+### Defensive Frontline (EXP)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Antique Cuirass, Oracle, Immortality
+- Core: Thunder Belt, Dominance Ice, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Brave Smite
+- Battle spell: Petrify
+- Flex: Radiant Armor over Antique Cuirass when Use against repeated magic damage when physical skill burst is not the main threat.; Blade Armor over Antique Cuirass when Use against basic-attack carries that must hit Arlott during front-to-back fights.; Queen's Wings over Immortality when Use before true late game when one more low-HP reset is more valuable than a revive.
+- Total cost: 10680 gold
+
+Low-economy frontline setup for hard physical lanes or drafts where Arlott must absorb the first counter-engage before chasing resets.
+
+All builds for this hero: https://mlbbhub.com/builds/arlott.
+
+## Synergies
+
+- Gatotkaca: Arlott works well with Tanks who can initiate with CC, such as Gatotkaca and Atlas. Their CC will also mark enemies for Arlott, allowing him to use his 2nd Skill even more for tons of damage.
+- Atlas: Arlott works well with Tanks who can initiate with CC, such as Gatotkaca and Atlas. Their CC will also mark enemies for Arlott, allowing him to use his 2nd Skill even more for tons of damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

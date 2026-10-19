@@ -1,0 +1,203 @@
+# Ixia, Arclight Outlaw
+
+> Ixia is not a gold laner you blind for comfort. She is a front-to-back draft check that punishes teams who stand in one lane, walk into chokes, or leave their backline exposed to a long cone of damage. Pick her when your team can hold space in front of her, and leave her alone when the game will be decided by dive pressure and forced repositioning.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Finisher, Damage
+- Difficulty: Easy
+- Tier this patch: B
+- Win rate: 49.99%
+- Pick rate: 0.72%
+- Ban rate: 0.72%
+- Released: 2023
+- Page: https://mlbbhub.com/heroes/ixia
+
+## Guide
+
+### Drafts where the outlaw is actually legal
+
+The easiest way to misplay Ixia is to ask whether she is strong in lane. That is the wrong question. The real question is whether the lobby gives her a clean place to stand for one ultimate cycle.
+
+She is best when your team already shows peel, layered setup, or both. A tank line that starts first and keeps bodies in front of her turns Full Barrage from zoning into a fight-ending cooldown. Community draft discussion around high-rank five-man play keeps landing on the same point: Ixia without a real frontline becomes a non-synergistic draft because nobody protects her once she commits. That matches how recent counter guides frame the matchup too. The heroes that punish her most cleanly are the ones that either break her firing angle or walk behind it.
+
+That is why Tigreal, Lolita, and Claude matter so much in the draft conversation. Tigreal can shove her off the line she wants. Lolita can block the projectile-heavy damage window that makes Ixia scary. Claude changes the angle of the fight entirely, slips behind the cone, and forces Ixia to cancel or die. Mobile junglers and assassins create the same problem for the same reason. If the enemy comp is built to flank, backstep, or force your Flicker early, this is not a free Ixia game no matter how easy the lane matchup looks.
+
+The pick is correct when your side can start fights first and the enemy side wants to move through your cone instead of around it.
+
+### The one idea that makes the hero function
+
+Ixia is a turret that farms.
+
+Her passive and skills stack charges, then cash them out through Siphon Starlium, which hits in front of her and pays her back with sustain. Dual Beam gives her the one thing she lacks naturally, a brief burst of repositioning speed after it tags a hero. Star Helix knocks back nearby targets, then drags enemies back toward its center line. Full Barrage finishes the equation by turning her attack pattern into a wide fan that prioritizes heroes while she stands still.
+
+That means you should stop reading her like a normal marksman with a late-fight steroid. She does not kite like Claude, reset like Wanwan, or bail herself out with a dash. She walks into a prepared spot, forces a firing lane, and dares the enemy to cross it. If you understand that one sentence, the rest of the hero becomes simple: every early trade is about earning space, every item is about making the cone harder to leave, and every bad death starts with using ultimate before the battlefield is already stable.
+
+### Laning: the first four minutes
+
+Ixia's early lane is about controlled trades, not ego duels. You are trying to hit the first item timing with enough HP and plate gold that your next recall actually changes the lane.
+
+1. **Take Dual Beam first and trade around the movement burst.** Hit the enemy hero with both beams when they step up for a ranged minion, then use the speed boost to either back out or step into one more empowered auto. If you miss the hero, drop the trade. The speed is the whole reason the pattern is safe.
+2. **Use Star Helix as a line-fixer, not as random poke.** The spell is strongest when the enemy has already committed to a last-hit angle or when your roamer is entering lane. Throwing it into open space for chip damage only pushes the wave rhythm into chaos and leaves you exposed on the next contest.
+3. **Spend battle-spell tempo only to preserve lane control.** Flicker is your default because it lets you survive the ultimate channel later, so treat it like insurance. If you burn it for a flashy plate dive before minute four, you are telling the enemy jungler exactly when your next wave is punishable.
+
+The first minutes should feel patient. If the lane is quiet, that favors Ixia more than people admit because her first real spike is item-based, not kill-based.
+
+### The two-item timer you are farming toward
+
+Corrosion Scythe plus Demon Hunter Sword is the first version of Ixia that actually scares a coordinated team. Corrosion Scythe gives her attack speed, repeated slows on basic attacks, and an attack-speed ramp that helps her lock targets inside the cone. Demon Hunter Sword adds percent-HP attack effect damage and on-hit sustain. Together they turn Full Barrage from "stand back for a moment" into "walk through this and lose the fight."
+
+The target window is roughly minutes 9 to 11 with boots already finished. If you reach that mark on schedule, grouped frontlines stop feeling safe. Tanks cannot simply stand in front and absorb space forever, and squishier heroes behind them start taking damage they did not think was theirs. That is also the point where Weakness Finder from the Marksman emblem starts feeling oppressive rather than decorative, because the extra slow and attack-speed cut punish anyone who tries to drift out of the cone instead of leaving it early.
+
+Do not rush the second item by forcing low-percentage skirmishes before it lands. Ixia is one of those heroes where being thirty seconds late to a fight is often better than being two hundred gold short of the spike when it starts.
+
+### Where to stand and who to hit
+
+The common wrong reflex is to walk forward until Full Barrage covers the whole screen. That is how Ixia players donate shutdowns. The goal is not maximum cone size. The goal is a cone the enemy cannot comfortably cross.
+
+1. **Anchor behind the first layer of peel, not beside it.** If you stand shoulder to shoulder with your tank, any engage tool aimed at them also reaches you. Hold the extra step back and let your frontline be the first thing the enemy sees.
+2. **Press ultimate after the fight is pointed in one direction.** Wait until your team has already forced movement, burned dashes, or landed the first crowd control. If you channel while the enemy still has every exit available, they simply leave the cone and your biggest cooldown becomes a warning sign.
+3. **Shoot the target that keeps the line intact.** Sometimes that is the frontliner blocking your team. Sometimes it is the squishy who stepped too far into the cone and cannot leave because Corrosion or Weakness Finder already clipped them. Do not autopilot onto the nearest tank if a cleaner kill is holding the whole formation together.
+
+Support pairing changes how greedy you can be. With sustained healing and peel behind you, you can step half a screen further up and trust the channel more. With setup supports or pick comps, keep the safer angle and let them force the enemy into your range instead.
+
+### Itemization: locked slots and real conversations
+
+The default core is simple: Swift Boots, Corrosion Scythe, and Demon Hunter Sword. Swift Boots gets her online faster. Corrosion Scythe is the stickiness item that makes leaving the cone harder. Demon Hunter Sword is what stops frontliners from treating your damage like background noise.
+
+After that, build for the lobby instead of for habit.
+
+- **Wind of Nature** is the first flex buy when the game is about physical divers, mirror marksman fights, or assassins that only need one clean jump. Its active buys the exact kind of survival window Ixia usually lacks once she commits.
+- **Sea Halberd** is the answer to healing and shield-heavy fronts. If the enemy draft wins by sustaining through your first Barrage, this item keeps the first channel meaningful.
+- **Malefic Roar** belongs in the build the moment two armor stackers are making your cone feel cosmetic. Ixia still deals physical damage, and armor-heavy lobbies eventually demand respect.
+- **Rose Gold Meteor** is the defensive damage slot for burst mage pressure. If the problem is getting clipped before you even start your ultimate, the shield matters more than greedier damage.
+- **Blade of Despair** is the win-more damage choice when your team already controls vision and the enemy has no reliable route to your backline. It is strong, but it is not the default answer to every game.
+
+Boots are the only place where you should resist creativity. Swift Boots is the baseline. Tough Boots is a niche concession to heavy non-suppression control. If you are swapping off Swift Boots every other game, the issue is probably positioning, not footwear.
+
+### Mistakes that lose games you were supposed to carry
+
+**Using Full Barrage to start a fight instead of to finish its setup.** Ixia looks like an initiator because the cone is huge, but the hero is much better as the second wave of pressure. Start too early and everyone with mobility simply exits the danger zone.
+
+**Playing her in no-frontline drafts and hoping mechanics cover it.** Recent community draft discussion is blunt on this point for a reason: assassin jungle, assassin roam, and a side lane that cannot peel leave Ixia stranded. If nobody can hold the first layer, your ultimate becomes self-rooted bait.
+
+**Treating Lolita, Tigreal, and angle breakers like normal tanks.** These are not "hit whoever is in front" matchups. Lolita can erase the projectile window you were counting on. Tigreal can push you off the spot you spent ten seconds claiming. Claude and other flankers punish any Barrage angle that is too obvious. You have to wait for their tools or reposition the channel entirely.
+
+**Burning Flicker for offense in the lane phase.** Flicker is not a damage spell on this hero. It is the emergency exit for the one moment in every fight where you are least able to move. If it is down, the enemy team knows exactly when to force.
+
+**Building her like a crit marksman because the shop looks familiar.** Siphon Starlium cannot critically strike. If you spend early gold chasing generic marksman comfort instead of attack-speed pressure, stickiness, and situational defense, the hero stops doing the one thing she was picked to do.
+
+### The small edges that make the pick feel unfair
+
+> [!TIP]
+> Fire Dual Beam at the enemy marksman during their last-hit animation, not while they are drifting in lane. The return trade is slower there, which gives you the movement burst without paying the full answer back.
+
+> [!NOTE]
+> Purify is a real niche spell into layered control, but it does not solve suppression. If the enemy draft's clean answer to you is a suppression catch, the fix is draft discipline and positioning, not a battle-spell shortcut.
+
+> [!TIP]
+> When your team holds a choke, stand so the cone cuts the escape route instead of the entrance. Enemies panic less when they can still walk in. They panic when the exit disappears.
+
+> [!NOTE]
+> Against Claude or any flanker with a backstep route, save Star Helix for the moment they commit behind you. Using it early for front damage removes the one tool that can straighten the angle again.
+
+## Skills
+
+### Siphon Starlium (Passive)
+
+Ixia's Basic Attacks and skills apply a stack of Starlium Charge to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of Starlium Charge, the attack consumes the stacks and is replaced by Siphon Starlium, dealing (+150% Total Physical Attack) (+200*Lifesteal) +(+10*Hero Level) Physical Damage to the target. Ixia recovers HP equal to the damage dealt (only 10 (+150*Lifesteal)% against non-hero units) and slows the target by 25% for 1s. Siphon Starlium can hit all enemies in front of Ixia within her Basic Attack range, but it cannot Crit. Ixia's Basic Attacks cannot trigger Lifesteal.
+
+### Dual Beam (Skill 1)
+
+Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing 100 (+70% Total Physical Attack) Physical Damage to enemies in a rectangular area. When hitting enemy heroes, Ixia gains 50% Movement Speed for 2s. Enemies hit by both beams will take double damage.
+
+### Star Helix (Skill 2)
+
+Ixia unleashes a canister of Starlium energy in the target direction, knocking back nearby enemies. After a short delay, it pulls enemies in range to the center line and deals 200 (+60% Total Physical Attack) Physical Damage.
+
+### Full Barrage (Ultimate)
+
+Ixia reassembles her weapon into 6 smaller weapons and enters the Full Barrage state for 4s. In this state, Ixia's Basic Attacks and skills can hit enemies in the large fan-shaped area in front of her, but not outside it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and Siphon Starlium will fire simultaneously with her normal Basic Attacks.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Choose the perfect location that can secure herself and cast the Ultimate to rain down her attacks on as many enemies as possible. Keep tapping Basic Attack while using her 2nd Skill and 1st Skill to control enemies and deal extra damage.
+- LANING COMBOS (laning): Ixia can pull enemies to the center line with her 2nd Skill and follow up with her 1st Skill to deal damage. Use the Movement Speed boost provided by her 1st Skill to chase down enemies.
+
+## Counters to Ixia (pick these against Ixia)
+
+- Wanwan (Marksman): +3.9 pp edge. Wanwan's burst damage can eliminate Ixia before they can deal sustained damage in team fights.
+- Natalia (Assassin): +3.2 pp edge. Across Ixia's measured matchups, Ixia is weakest once matches pass 16 minutes. Take the game long with Natalia.
+- Hanzo (Assassin): +2.9 pp edge. Hanzo's burst damage can eliminate Ixia before they can deal sustained damage in team fights.
+- Kadita (Mage/Assassin): +2.8 pp edge. Kadita's burst damage can eliminate Ixia before they can deal sustained damage in team fights.
+- Benedetta (Assassin/Fighter): +2.8 pp edge. Benedetta's burst damage can eliminate Ixia before they can deal sustained damage in team fights.
+- Claude (Marksman): +2.7 pp edge. Claude's burst damage can eliminate Ixia before they can deal sustained damage in team fights.
+- Yin (Fighter/Assassin): +2.6 pp edge. Yin's burst damage can eliminate Ixia before they can deal sustained damage in team fights.
+- Granger (Marksman): +2.2 pp edge. Granger's burst damage can eliminate Ixia before they can deal sustained damage in team fights.
+
+## Heroes Ixia beats
+
+- Estes (Support): +5.5 pp edge for Ixia.
+- Rafaela (Support): +2.9 pp edge for Ixia.
+- Lolita (Support/Tank): +2.6 pp edge for Ixia.
+- Popol and Kupa (Marksman): +2.6 pp edge for Ixia.
+- Cyclops (Mage): +2.6 pp edge for Ixia.
+- Floryn (Support): +2.5 pp edge for Ixia.
+- Cecilion (Mage): +2.1 pp edge for Ixia.
+- Bruno (Marksman): +1.8 pp edge for Ixia.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/ixia.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-15. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Default (Gold)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Blade of Despair, Malefic Roar, Wind of Nature
+- Core: Corrosion Scythe, Demon Hunter Sword, Blade of Despair
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Flicker
+- Flex: Golden Staff over Blade of Despair when Use when you need faster passive procs and the enemy team is not especially tanky.; Rose Gold Meteor over Wind of Nature when Use against magic burst or mixed dive where physical immunity will not stop the first engage.; Sea Halberd over Malefic Roar when Use when a healer, shield support, or high-extra-HP fighter is keeping the front line alive.
+- Total cost: 11920 gold
+
+Standard gold lane build that maximizes Siphon Starlium damage through raw physical attack while keeping enough attack speed to proc the passive consistently.
+
+### Front-to-Back Anti-Tank (Gold)
+
+- Items: Swift Boots, Demon Hunter Sword, Corrosion Scythe, Sea Halberd, Malefic Roar, Wind of Nature
+- Core: Demon Hunter Sword, Corrosion Scythe, Sea Halberd
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Flicker
+- Flex: Blade of Despair over Sea Halberd when Use when the enemy has armor but not enough healing or shield value to justify anti-heal.; Rose Gold Meteor over Wind of Nature when Use against magic burst if the main threat is a mage assassin or magic damage jungler.; Immortality over Malefic Roar when Use if a physical assassin can bypass your tank and one-shot you before the front line collapses.
+- Total cost: 10960 gold
+
+Prioritizes percent-based damage and anti-heal for tank-heavy drafts where you need to chew through high-HP frontlines.
+
+### Safe Late Game (Gold)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Wind of Nature, Blade of Despair, Immortality
+- Core: Corrosion Scythe, Demon Hunter Sword, Wind of Nature
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Purify
+- Flex: Malefic Roar over Immortality when Use when the team can reliably peel and you need penetration to close out the game.; Rose Gold Meteor over Blade of Despair when Use against heavy magic burst where you need both the shield and hybrid defense.; Golden Staff over Blade of Despair when Use when you need faster passive procs and the enemy team is not especially tanky.
+- Total cost: 11980 gold
+
+Defensive setup for games with heavy dive or lockdown where surviving the first engage matters more than maximizing the final damage slot.
+
+All builds for this hero: https://mlbbhub.com/builds/ixia.
+
+## Synergies
+
+- Fredrinn: With her Ultimate, Ixia is capable of dealing impressive sustained damage. So she works best with heroes with area CC abilities, like Atlas and Vexana.
+- Bane: With her Ultimate, Ixia is capable of dealing impressive sustained damage. So she works best with heroes with area CC abilities, like Atlas and Vexana.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,213 @@
+# Melissa, Cursed Needle
+
+> Melissa after patch 2.2.16 ([patch notes](/patch-notes)) is a trimmer version of the 2.1.67 rework. The blink-into-Muddles combo and the Go Away shield still define her, but her attack speed window is shorter and Muddles carries less of each auto. She remains a zone-tether DPS, only now the zone rewards earlier setup and cleaner spacing.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Finisher, Damage
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 48.52%
+- Pick rate: 0.35%
+- Ban rate: 1.08%
+- Released: 2022
+- Page: https://mlbbhub.com/heroes/melissa
+
+## Guide
+
+### The draft reads that make Melissa worth it
+
+Melissa belongs in two specific draft states after the rework. The first is when your team has lockdown engage: a Tigreal, Khufra, or Atlas who can stack enemies inside Muddles' link range and keep them there. The tether only earns its damage transfer when enemies cannot walk out of it, and the slow decays fast enough that a grouped enemy team without hard CC on them will break the link on their own. The second is when the enemy composition leans on melee dive. Go Away's continuous knockback interrupts movement skills on every attempt to re-enter the field, which makes Lancelot, Fanny, and Hayabusa burn their primary engage tools against a perimeter instead of against her HP bar.
+
+She is the wrong pick when your team has no front line to hold enemies in place, or when the enemy draft contains long-range poke that does not need to close to deal damage. Xavier, Lesley, Pharsa, and Granger all operate at ranges that make the Go Away field irrelevant: they damage her from outside the perimeter and the field does nothing to the projectiles.
+
+The specific heroes that remove her from the equation: Franco is the clearest disqualifier. His hook passes through the Go Away barrier without interruption, the field collapses on contact, and she arrives at melee with no peel left. Joy and Chou bring the same category of problem from a different angle: both have enough mobility to enter the field, absorb the initial knockback, and stay inside the perimeter where the continuous knockback cannot expel them. Lolita blocks the S2 Muddles projectile outright with her shield, which removes Melissa's only link-setup tool before the fight starts.
+
+If you cannot point at two specific enemy heroes who will be held inside Muddles' range rather than walking out of it, reconsider the lock-in.
+
+### Muddles is still the whole kit
+
+Every other marksman damages enemies directly. Melissa damages enemies through an intermediary, and the 2.1.67 rework tightened that dependency rather than loosening it. Muddles is not a debuff with a cooldown. It is the mechanism by which all of her offense functions: the initial impact on cast, the link that spreads her basic attacks across everyone tethered, and the slow that keeps the tether alive long enough for her to fire into it. Without Muddles on the ground, she is a short-range marksman with a forward-only blink and a shield ult. With Muddles active and a group linked, she is dealing attack damage to three targets at once through a single auto. Patch 2.2.16 cut the share of her basic-attack damage Muddles transfers, and the share of attack effects it inherits, so the linked hit lands softer than it did. The dependency is unchanged, which makes every throw that lands on nothing more expensive.
+
+The rework added one critical change to how this plays: S2 can now be cast during S1. The blink and the Muddles throw are no longer sequential inputs, they are a combo. You blink to optimal range and place Muddles on the same button press rhythm, which closes the gap between engage and zone setup that used to leave her vulnerable mid-chain.
+
+Go Away belongs to the same logic, with a new layer. The perimeter still enforces distance on enemies who try to close, but the ult now grants a shield on cast that scales with her Extra Physical Attack. This turns the ultimate from a purely defensive perimeter tool into an engage-or-disengage shield that covers the window while the field is active. Used correctly, the shield eats the first burst while the field keeps attackers off her. Used as a panic button after hard CC already lands, the shield is too small to matter against two stacked assassin combos.
+
+The passive, Doll Buster, extends this into a specific counter role. Summoned units take increased damage from her basic attacks. Against Zhask, Popol and Kupa, and Nana's Molina, she is not just filling the gold lane. She dismantles the core mechanic of those heroes faster than any other marksman on the roster.
+
+### Laning: the first seven minutes
+
+1. **Take S2 at level 1 and throw Muddles at the enemy laner during the first wave.** The tether lands on first contact and applies a strong slow that decays over a short window. You do not need to engage manually. Walk toward them while they are slowed, fire a few auto-attacks into the link, and back off before the tether expires. This is free damage and early zone pressure without committing to a real trade.
+2. **Take S1 at level 2, but use it only to maintain optimal auto-attack range, not to engage.** The blink is short and forward-only. Using it to stay within range while backing off is correct. Using it to jump onto a full-HP enemy with no Muddles deployed is the pattern that gets Melissa killed in the first three minutes of the game, and the rework did not change that.
+3. **At level 4, commit to the new combo rhythm.** The real power spike for her laning pattern is when Muddles hits rank 2 or higher, and spending the level 3 skill point on S2 gets you there at level 4. The pattern becomes: blink to optimal range with S1, drop Muddles mid-blink with S2, auto-attack through the link while enemies are slowed, then reposition out. Pre-rework this was two distinct button presses. Now it lands as a single motion, and that window of connected attack time is where her lane damage comes from.
+
+Before level 4, she harasses and controls space. After level 4, she can commit to short trades if the enemy has burned their escape skill. She still does not have the burst to close out a kill from full HP without help from a jungle rotation.
+
+### Golden Staff and Corrosion Scythe unlock the fortress
+
+The two-item spike that changes Melissa's math is Golden Staff into Corrosion Scythe, typically completed around the 10-to-12 minute mark. Before this, she is a poke laner. After it, she is a zone-control DPS who wins extended fights on her own terms.
+
+Golden Staff's Endless Strike passive converts every third basic attack into a multi-trigger swing that fires attack effects multiple times. Corrosion Scythe's Corrosion passive adds extra physical damage per basic attack plus a slow that stacks up to five times. On the Endless Strike swing, Corrosion fires multiple times over: several damage applications and several slow stacks in a single auto. Patch 2.2.16 cut how much of those attack effects Muddles inherits, so the burst that reaches linked enemies is smaller than it was. The stacking rate is still the reason this pairing leads the on-hit path at two items.
+
+The secondary effect: Corrosion's Impulse passive builds attack speed per basic attack, capped at five stacks. S1's attack speed buff and Swift Boots still carry her attack speed early, but 2.2.16 cut both the size and the length of that buff, so time your committed trades inside the window instead of assuming the speed holds. The system is still self-reinforcing: she hits faster, which stacks slow faster, which holds enemies inside Muddles' link longer, which means she hits more.
+
+Do not rush Demon Hunter Sword before Corrosion Scythe unless the enemy team is running four tanks and you are already ahead. The slow-stacking from Corrosion is what holds enemies inside Muddles' tether range. Without it, a mobile enemy takes one tethered hit and walks out.
+
+### Teamfight positioning: the ult is a shield and a barrier
+
+The reflex when an assassin dives you is to press Go Away the moment they land. That reflex is wrong after the rework, for a new reason.
+
+The field activates with an initial knockback on cast, but if the assassin is already at melee range when you activate it, they absorb the initial knock at point-blank and stay close enough to continue the combo. The ult's real power is the combination of its continuous perimeter effect and the shield it grants on cast. The shield is sized to eat the first burst, not the full combo, and the continuous knockback only expels enemies who try to enter the perimeter, not enemies who are already inside it.
+
+Three positioning rules for team fights:
+
+1. **Activate Go Away just before the dive, not during it.** Use the field preemptively when you see a Lancelot or Fanny about to engage, not after they have already hit their first skill. The shield component is at full value at the moment of cast, so casting early stacks the shield onto your HP bar before the burst lands. Reacting late spends the ult with no shield benefit and a field that does not eject the hero already on top of you.
+2. **Stay one step behind your tank.** The ideal Melissa position is just behind whoever the enemy is targeting. If Muddles can reach the grouped enemies from there, you are in range. If you have backed to maximum auto-attack distance to play safe, you have taken yourself out of Muddles' effective tether zone entirely.
+3. **Save Wind of Nature for the second dive, not the first.** Your ult plus its shield handles the first attempt. Franco hooks through the field regardless. Hayabusa moves through the barrier with his shadow skill. Wind of Nature is for the moment Go Away expires and the second threat arrives.
+
+If your support is Angela, the ult field plus her attachment shield overlaps into a sustained protection window that almost no assassin can burn through cleanly. If your support is Estes, you can position slightly more aggressively because early poke damage undoes itself through healing. If you have no frontline at all, Wind of Nature becomes your primary survival tool, and timing it correctly is more important than any positioning decision you make.
+
+### Itemization: three locked, four real conversations
+
+Three slots are not real choices: Swift Boots for attack speed scaling, Golden Staff, and Corrosion Scythe. Those three go in every game.
+
+The other four are actual decisions:
+
+**Wind of Nature** is the default fourth slot against physical burst compositions: Lancelot, Fanny, Saber, Karina, any combination of two melee assassins. The full physical immunity window at marksman duration is the closest thing to a second life she has when Go Away is down.
+
+**Sea Halberd** replaces Wind of Nature against healing-heavy or shielding compositions: Estes, Esmeralda, Yu Zhong, Uranus. The Lifebane passive cuts shield and regen effects on damaged targets. When a tethered group is taking link damage, Lifebane spreads across every linked hero who absorbs the transfer, which shuts down the enemy healing loop across the entire fight at once.
+
+**Demon Hunter Sword** against a lineup running four or five tanks. The Devour passive deals a percentage of the target's current HP per basic attack, which is exactly the damage profile that punishes stacked HP. Against tethered tanks, every Endless Strike swing fires Devour multiple times into each linked enemy.
+
+**Blade of Despair** is the fallback closer, not the go-to. Its Despair passive only activates against targets below half HP, and Melissa's attack pattern is consistent sustained DPS, not burst. Pick it when you are ahead and can guarantee enemies will already be weakened before your Muddles lands. Building it as a third item assumes a snowball advantage that most games do not guarantee.
+
+**Emblem and spell**: Marksman Emblem with Weakness Finder as the Core talent. Weakness Finder adds an auto-attack slow that stacks on top of Corrosion, which extends the window where enemies cannot escape Muddles' link range. Flicker over Inspire by default. Her S1 is a blink but it is too short and forward-only to reposition out of real danger, and Flicker is the tool that dodges a Franco hook on sight.
+
+### Mistakes that end Melissa games early
+
+**Playing the old pre-rework S1 cooldown loop.** Before 2.1.67, attacking Muddles reduced S1's cooldown on every hit. That mechanic is gone. If you are still building your teamfight pattern around spamming Muddles autos to reset the blink, you are losing damage to every other marksman in the game. The new pattern is blink-into-Muddles on the natural S1 cooldown and attack the linked enemies to spread damage across the group, not farm cooldown off your own doll.
+
+**Pressing Go Away after hard CC already connects.** The ult does not cancel crowd control. If Franco's hook lands or Martis chains before the field is active, pressing Go Away accomplishes nothing. The field appears around a hero who is already stunned or airborne, the shield is wasted on a health bar that is already being deleted, and the cooldown is gone. The field must be active before the hard CC arrives.
+
+**Throwing Muddles at maximum range into an unslowed, mobile enemy.** If Muddles lands next to a hero with a dash or sprint, they walk out of the tether before you can fire a single auto-attack into it. The link only holds when enemies are either already slowed, grouped by your frontline, or inside a choke point. A Muddles throw into an open area with no setup is a long cooldown wasted for no damage.
+
+**Using S1 to jump forward into a grouped enemy team.** The blink is short, forward-only, and carries no invulnerability. With the new S2-during-S1 cast, it is tempting to treat the combo as an engage tool. It is not. Blink during retreat to maintain auto range, not during push to close distance. Using S1 to dive into an enemy team that has not yet spent their CC is how Melissa gets chain-CCed before she places a single Muddles.
+
+**Locking in Melissa with Franco in the enemy draft and no plan.** His hook travels through the Go Away field regardless of the shield. Once it connects, the ult ends early and she is pulled to melee with no peel remaining. If Franco is confirmed in the enemy lineup, hold Flicker specifically to dodge the hook cast. If Flicker is already down when he engages, the field will not save her: she needs a teammate to interrupt the hook, because there is no self-peel left in her kit at that point.
+
+### Key tips
+
+> [!TIP]
+> Cast S2 during S1. The new interaction from patch 2.1.67 lets you throw Muddles mid-blink, which means the combo now lands as one motion instead of two. This closes the gap that used to exist between entering optimal range and placing the tether, and it is the single most impactful habit to build after the rework.
+
+> [!NOTE]
+> Melissa's Doll Buster passive applies to summoned units. Against Zhask, basic attacks shred the Nightmaric Spawn faster than any other marksman. Against Popol and Kupa, prioritizing Kupa's HP removes him from the fight before the passive triggers a reset.
+
+> [!TIP]
+> The Go Away field moves with Melissa one time, when she reaches the boundary. Use this deliberately: if enemies are stacking pressure on one side of the perimeter, walk to the opposite boundary to trigger the field re-center, which knocks back anyone crowding the far edge. This extends the effective ult window and repositions the threat zone.
+
+> [!NOTE]
+> The ult shield scales with Extra Physical Attack, not base attack. This means the shield value climbs every time you complete a major damage item. An ult cast at Golden Staff plus Corrosion Scythe already carries a meaningful shield, and by the time Blade of Despair or Demon Hunter Sword is online, the shield alone can absorb the opening burst of most assassin combos.
+
+> [!TIP]
+> Against Franco, bait the hook before casting Go Away. His hook passes through the field, so casting the ult first only burns the cooldown. Walk into his vision with Flicker ready, react to the hook animation with Flicker, then use Go Away on the follow-up dive from his teammates. The sequence inverts his usual advantage against marksmen.
+
+## Skills
+
+### Doll Buster (Passive)
+
+"My tailor shop excels at fixing and 'fixing' dolls. Am I right, Muddles?" (Melissa deals 125% damage to Minions, Creeps, and Summoned Units.)
+
+### Falling! (Skill 1)
+
+"Watch me slide forward and boost Attack Speed for 2.5 seconds— Ah, that was just boring…" "Muddles, go that way!" "Cuddles, come here!"
+
+### Eyes on You! (Skill 2)
+
+The plan's like this: Throw Muddles out to hold down the bad guys, and then… I come on stage! "I puncture the bad guys, while Giggles hit Muddles to punish them as well! Hee, fantastic!" (Muddles deals 175 (+50% Total Physical Attack) Physical Damage on the first hit and links nearby enemies for up to 6s. Linked enemies are slowed by 60% that decays over 1.5s and can break the link by moving out of the range. Muddles will return to Melissa early when there are no enemies around and immediately if she's too far away. When Muddles is present, you can tap the Attack Minion button to directly attack Muddles, though it cannot trigger the multi-hit damage. Giggles only hits Muddles when Melissa has a target for her Basic Attack.)
+
+### Go Away! (Ultimate)
+
+"Cuddles, protect me! For 4 seconds, let no bad guys come close. Unless I say otherwise!" (Upon activation, Melissa gains a 300 (+200% Extra Physical Attack) shield and knocks back enemies in the area, dealing 500 (+100% Total Magic Power) Magic Damage. Enemies attempting to enter the field are knocked back, taking 50 (+10% Total Magic Power) Magic Damage and slowed briefly. Movement skills are interrupted unless the target has Control Immunity. The field will move with Melissa once, when she's about to move out of the boundary.)
+
+Skill upgrade priority: 3-1-2-0-1/2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Link enemies with her 2nd Skill for increased damage. Use 1st Skill to keep them linked and her Ultimate to stop enemies from getting close.
+- LANING COMBOS (laning): Link the enemy with her 2nd Skill and use Basic Attacks to deal extra damage. Chase enemies trying to flee with her 1st Skill.
+
+## Counters to Melissa (pick these against Melissa)
+
+- Belerick (Tank): +2.4 pp edge. Belerick's durability and kit give them a strong matchup advantage against Melissa throughout the game.
+- Harley (Assassin/Mage): +1.9 pp edge. Harley's burst damage can eliminate Melissa before they can deal sustained damage in team fights.
+- X.Borg (Fighter): +1.7 pp edge. X.Borg's burst damage can eliminate Melissa before they can deal sustained damage in team fights.
+- Vale (Mage): +1.6 pp edge. Vale's burst damage can eliminate Melissa before they can deal sustained damage in team fights.
+- Yin (Fighter/Assassin): +1.5 pp edge. Yin's burst damage can eliminate Melissa before they can deal sustained damage in team fights.
+- Pharsa (Mage): +1.1 pp edge. Pharsa's burst damage can eliminate Melissa before they can deal sustained damage in team fights.
+
+## Heroes Melissa beats
+
+- Lolita (Support/Tank): +3.1 pp edge for Melissa.
+- Joy (Assassin): +3.0 pp edge for Melissa.
+- Leomord (Fighter): +2.4 pp edge for Melissa.
+- Lesley (Marksman/Assassin): +2.2 pp edge for Melissa.
+- Faramis (Support/Mage): +2.1 pp edge for Melissa.
+- Sora (Fighter/Assassin): +2.0 pp edge for Melissa.
+- Paquito (Fighter/Assassin): +1.7 pp edge for Melissa.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/melissa.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Crit Range (Gold)
+
+- Items: Swift Boots, Haas's Claws, Berserker's Fury, Demon Hunter Sword, Malefic Gun, Windtalker
+- Core: Haas's Claws, Berserker's Fury, Malefic Gun
+- Emblem: Marksman Emblem with Fatal, Weapon Master, Weakness Finder
+- Battle spell: Inspire
+- Flex: Wind of Nature over Windtalker when Use against physical assassins or marksmen who can force you before Cuddles creates space.; Rose Gold Meteor over Windtalker when Use against magic burst or mixed dive when Wind Chant will not block the first lethal damage.; Sea Halberd over Windtalker when Use when healing, shields, or high-extra-HP fighters matter more than crit and attack speed.
+- Total cost: 11300 gold
+
+Default gold lane setup that leans into Melissa's post-2.1.67 crit scaling, safer range, and Inspire punish windows.
+
+### Link DPS On-Hit (Gold)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Wind of Nature, Malefic Roar
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, Quantum Charge
+- Battle spell: Flicker
+- Flex: Sea Halberd over Wind of Nature when Use when a healer, shield support, or high-extra-HP front liner is keeping the linked target alive.; Rose Gold Meteor over Wind of Nature when Use against mixed or magic dive where Wind Chant is not the defensive answer.
+- Total cost: 10910 gold
+
+Front-to-back on-hit setup for games where Melissa can keep Muddles linked and repeatedly trigger attack effects from behind peel.
+
+### Anti-Dive Survival (Gold)
+
+- Items: Tough Boots, Haas's Claws, Berserker's Fury, Malefic Gun, Rose Gold Meteor, Immortality
+- Core: Haas's Claws, Berserker's Fury, Malefic Gun
+- Emblem: Marksman Emblem with Fatal, Weapon Master, Quantum Charge
+- Battle spell: Purify
+- Flex: Wind of Nature over Immortality when Use when the main threat is physical burst and you can press Wind Chant before the damage lands.; Athena's Shield over Immortality when Use against one-shot magic engage that kills you before revive value matters.; Radiant Armor over Immortality when Use against repeated magic damage that chips through every Lord setup and extended fight.
+- Total cost: 11170 gold
+
+Defensive ranked setup for CC-heavy or dive-heavy games where Melissa must survive the first lockout before dealing damage.
+
+All builds for this hero: https://mlbbhub.com/builds/melissa.
+
+## Synergies
+
+- Tigreal: Tanks that can chain CC such as Tigreal and Minotaur,
+allowing her to keep enemies linked.
+- Minotaur: Tanks that can chain CC such as Tigreal and Minotaur,
+allowing her to keep enemies linked.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

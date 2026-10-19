@@ -1,0 +1,203 @@
+# Chang'e, Moon Palace Immortal
+
+> Chang'e is a siege mage who converts mana into map pressure. Her rabbit companion grants a permanent shield, enhanced basics that chew through towers, and a Meteor Shower ultimate that turns jungle corridors into no-go zones. She is not a burst mage: she is sustained-fire artillery that forces the enemy to choose between defending a split push and contesting an objective.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Poke, Burst
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 47.93%
+- Pick rate: 0.71%
+- Ban rate: 0.35%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/change
+
+## Guide
+
+### When Chang'e is the right mid, and when she is a draft trap
+
+Chang'e gets locked as a "safe mid" because she clears waves from range and pressures towers without committing. That framing is correct but incomplete. She is a safe mid who trades burst threat for sustained siege, which means your draft needs to fill the gaps she creates.
+
+Pick Chang'e when the enemy mid laner cannot gap-close reliably. She lives against immobile mids like Yve, Pharsa, Odette, and Gord because Starmoon Shockwave's stacked slow makes them wade through syrup while eating meteors. Pick her when your jungler already brings burst kill threat (Ling, Lancelot, Fanny, Hayabusa) and the team does not need the mid laner to be the primary assassin. Pick her when Lolita is not on the enemy side, period. Guardian's Reflection absorbs every single projectile Chang'e fires and converts it into counterblast damage on your team.
+
+Avoid Chang'e when the enemy has two or more assassins with blink-and-burst patterns. Saber ult, Hayabusa shadow dives, and Helcurt silence all kill her through Crescent Moon's shield before she can finish a Meteor Shower channel. Avoid her when Belerick is drafted: his taunt forces her to either cancel her own ultimate or feed damage return. Avoid her when your own frontline lacks crowd control. Chang'e cannot peel for herself and needs someone else to zone divers while she channels.
+
+If your team already has a second poke mage (Yve, Pharsa) and zero hard engage, adding Chang'e gives you two heroes who want to stand at range and nobody who can start a fight. That draft loses to any team running Khufra or Atlas.
+
+If you cannot name which enemy hero you plan to siege out of relevance, Chang'e is the wrong pick.
+
+### The one thing that makes Chang'e work
+
+Chang'e is not a combo mage. She does not have a rotation that deletes someone in half a second the way Eudora or Aurora do. She is a damage hose: activate Crescent Moon, point Meteor Shower at a lane or a teamfight, and let the sustained stream do the rest.
+
+Trouble Maker is the quiet engine underneath the kit. Every time Chang'e deals damage to a target, she stacks a mark that cuts the target's movement speed, up to a deep slow. That sounds mild until you remember Meteor Shower fires dozens of projectiles per channel, and Crescent Moon adds a second stream alongside. By the second wave of meteors the slow is at its floor, and anyone still standing in the lane is wading while the rest of the channel lands. The ultimate does not front-load its damage. It pins you in place: the slow keeps stacking, Genius Wand's shred keeps softening the armor, and the longer the target stays, the worse the math. Enemies who step out at half duration survive with a scratch. Enemies who stay for the full channel die.
+
+Crescent Moon (S2) ties everything together. Activating it grants a permanent shield that scales with Total Magic Power, a flat movement speed bonus that persists until the shield breaks, and a temporary movement speed burst every time Chang'e casts any skill. It also transforms Starmoon Shockwave from a single projectile into five, and adds a second meteor stream to Meteor Shower. The shield is the whole trick: it is what lets her stand in range while the slow does its work. You recast Crescent Moon when the shield pops, not on cooldown. Resetting it early replaces a shield that is still intact, and that is the waste.
+
+Once that framework clicks, Chang'e stops looking like a mage rotation and starts looking like siege warfare. Activate Crescent Moon, push the wave with enhanced basics, poke with empowered S1, and when a fight erupts or an objective spawns, channel Meteor Shower down the corridor and let the slow hold them in place.
+
+### Laning: the first five minutes
+
+Chang'e's lane phase is a mana-discipline exercise. She has the tools to push from level 1, but using them carelessly drains her pool before the first objective fight.
+
+1. **Level 1: take S2 first and clear with enhanced basics.** Crescent Moon transforms your basic attacks into enhanced projectiles that deal bonus magic damage. That is enough to win the first wave trade against most mids without spending mana on S1. The shield absorbs their return poke. Walk up, auto the wave a few times, walk back behind your ranged minions.
+2. **Level 2: take S1 and begin poking through the wave.** With Crescent Moon active, Starmoon Shockwave fires five spheres. Aim it so the outer spheres clip the enemy mid behind the creep wave. The center sphere clears range minions while the side spheres stack Trouble Maker on the enemy. Two S1 pokes leave the enemy walking through syrup, which makes the empowered S1 you land at level 3 far more likely to land all five spheres.
+3. **Do not burn ult before the first Turtle fight unless a gank is happening.** Meteor Shower still costs real mana at level 4, and the cooldown is long enough that using it to clear one wave means you arrive at the Turtle contest with nothing. Save it for objective fights or confirmed kills where your jungler is already committed.
+
+If the enemy jungler ganks before minute 3, your escape is Crescent Moon's movement speed burst on any skill cast plus Flicker. Press S1 in the direction you are running, take the speed burst, Flicker if they follow. Do not stand and ult into a 2v1. The channel locks you in place and the damage needs a few seconds to build, so you die before the stream threatens anyone and waste the cooldown.
+
+### The power spike you are farming toward
+
+Chang'e's first completed item is Genius Wand, never Clock of Destiny. Clock gives HP and mana sustain, but Chang'e's problem is not sustain. Her problem is that her damage is multiplicative and every point of magic defense on the target reduces it before the multipliers kick in.
+
+Genius Wand's Magic passive reduces the target's magic defense by a stacking amount per hit, up to three stacks. Chang'e stacks it instantly. With Crescent Moon active, Starmoon Shockwave hits five times and Meteor Shower hits dozens. By the third meteor, all three stacks of magic defense reduction are live, and every subsequent hit punches through softened defenses. That reduction is the compounding factor: the same slow stacks that pin a target in the channel are also stacking up the shred, so anyone who stays in the stream gets both slower and softer to the point where the math turns ugly fast.
+
+The spike you are farming toward is **Genius Wand plus Holy Crystal**, usually around the 8-to-10 minute window depending on farm and kill participation. Holy Crystal contributes a massive lump of raw Magic Power plus its Mystery passive, which grants a percentage bonus to total Magic Power that scales with level. That multiplier is what flips Chang'e from "annoying poke" to "an ult that kills a squishy who stands in it for two seconds."
+
+Before Holy Crystal, Meteor Shower chips. After it, the channel removes anyone who does not respect the danger zone. This is the window where you stop farming mid and start looking for fights at Turtle or in the enemy jungle. Your empowered S1 punishes most gold laners who walk into its path, and your ult, aimed down a jungle corridor, forces enemies to either walk through it or surrender the objective.
+
+### Teamfight positioning and target priority
+
+The reflex most Chang'e players follow is standing close to the fight and channeling Meteor Shower into the thick of it. That reflex loses games. Meteor Shower fires in a line. If you stand inside the teamfight, the meteors strike the nearest target and stop, which means dumping a full channel into a tank wearing Radiant Armor. Stand at the back edge of the fight and aim the ult through the path the enemy backline is standing in, not at the tank in front of you.
+
+1. **Channel from behind your own frontline, aimed at their carries.** Meteors pass through allies, so use your tank as a wall. If their tank is between you and their damage dealers, shift your angle until the meteor line clips the carry. Diagonal angles through the side of the fight are almost always better than head-on channels.
+2. **Do not walk forward during Meteor Shower.** Crescent Moon grants movement speed during the ultimate, which feels like permission to chase. It is a trap. Walking forward moves your meteor line forward, which means the back half of your ult misses the target you started hitting. The movement speed exists for kiting backward when someone dives you, not for pursuing a fleeing target.
+3. **Hold S1 for after the ult, not before.** If you open with S1 to slow a target before ulting, you spend your only immediate CC. If the target Flickers or dashes out of the channel during those seconds, you have no slow to re-engage. Hold S1 as your follow-up to finish targets who survive the channel with low HP and try to escape.
+
+If your support is a Tigreal or Atlas who groups the enemy, aim Meteor Shower through the clump before it disperses. The first wave of meteors stacks the slow and the Genius Wand shred on everyone in the clump, and the rest of the channel lands on a group that cannot scatter. A full ult through a three-person group after Atlas ult is Chang'e's fastest teamfight win condition.
+
+If your support is Estes, you get to push the channel deeper because he can top you off through incidental damage. If your support is Diggie, you do not have that luxury and need to position more conservatively.
+
+### Itemization: three locks, two conversations
+
+**The three locked items are Genius Wand, Holy Crystal, and Divine Glaive.** Genius Wand first for the magic defense shred and early power spike. Holy Crystal second for the raw Magic Power and percentage multiplier. Divine Glaive third for its Spellbreaker passive, which grants extra magic penetration that scales with the target's magic defense. By the time you have all three, Meteor Shower punches through Athena's Shield and Radiant Armor regardless of how much magic resistance the enemy stacked.
+
+**The boot slot.** Arcane Boots is the default for the flat magic penetration, which amplifies every hit in Chang'e's multi-projectile kit. Tough Boots replaces it when the enemy has three or more crowd-control threats: a dead Chang'e deals no sustained damage, and Tough Boots' Fortitude passive reduces CC duration by a full 30 percent. Rapid Boots does not fit Chang'e because its Side Effect passive strips movement speed when she deals or takes damage, which is her entire job.
+
+**The fourth slot.** Ice Queen Wand when you need the slow to kite divers: its Ice Bound passive stacks a percentage slow per hit and layers on top of Starmoon Shockwave's built-in slow, making it almost impossible for fighters to close distance during your ultimate channel. Glowing Wand when the enemy has two or more HP-stacking frontliners: Scorch burns them for percent-max-HP damage per second and ticks alongside every meteor. Blood Wings when you are snowballing: the Guard shield stacks with Crescent Moon's shield, giving you two layers of defense before the enemy touches your health bar.
+
+**The fifth slot.** Enchanted Talisman if extended objective fights are running you dry: 20 percent CDR plus the Mana Spring passive, which regenerates a chunk of max mana over each ten-second window, means you can ult twice per Lord contest. Blood Wings if you did not buy it in the fourth slot and want the double-shield safety.
+
+**The weakest common default is Clock of Destiny.** It offers HP, mana, a modest flat amount of Magic Power, and CDR, but its passive stacks hybrid defense on damage dealt rather than adding damage or penetration. Every other item Chang'e rushes gives either immediate magic defense shred (Genius Wand), a percentage multiplier on her total damage (Holy Crystal), or percent-based penetration (Divine Glaive). Clock of Destiny delays all three of them and adds sustain that Chang'e does not need if she manages her mana.
+
+### Mistakes that lose Chang'e games
+
+**Ulting into Lolita's Guardian's Reflection.** Every meteor you fire into Lolita's shield is absorbed and charges her counterblast. She blocks the full channel, then unloads all that stored damage back at your team. If Lolita raises her shield, cancel Meteor Shower immediately by issuing a move command and wait for the shield to expire. A canceled ult on cooldown stings. Feeding her team a damage bomb from your own meteors loses the fight.
+
+**Channeling ult without Crescent Moon active.** Base Meteor Shower fires a fraction of the projectiles the empowered version does, so you lose the second meteor stream, the extra slow stacks, and half the Genius Wand shred procs that make the channel lethal. Pressing R without S2 active is literally playing half the hero. If Crescent Moon is on cooldown because the shield just broke, wait for it to come back. Never raw-ult.
+
+**Activating Crescent Moon reactively after the burst already landed.** The shield scales with Total Magic Power, not max HP. It absorbs roughly one assassin rotation's worth of damage. If you press S2 after Saber already landed his full combo, you put the shield on when you are at low HP and the next stray auto attack will pop it. Activate Crescent Moon preemptively before you see the threat. The shield is free armor. Wearing it before the punch lands is the entire point of the skill.
+
+**Forcing fights before Genius Wand is complete.** Chang'e's ult without Genius Wand does chip damage that feels satisfying but does not actually kill. The magic defense shred is what makes the channel lethal. If you pick a fight at minute 5 with only boots and components, you will channel for the full duration, deal a chunk of someone's HP, deplete your mana bar, and watch them recall and return. Farm to Genius Wand first. Then fight.
+
+**Ignoring your mana bar before committing to an ult channel.** One full rotation (S2 plus S1 plus ultimate) still eats a real slice of Chang'e's mana pool at mid-game even after the 2.1.61 cost buffs, and a channel you have to abandon because the bar hit zero is a wasted cooldown and a lost fight. Always check your mana before committing. If you are below the threshold for a full rotation, poke with S1, clear a wave, and look for the next window.
+
+### Key tips
+
+> [!TIP]
+> Cancel Meteor Shower early when no one is standing in it. The full channel locks you in place and burns mana on empty meteors. A move command ends the channel instantly. Fire enough meteors to stack Trouble Maker on the target, then finish with S1 instead of standing still for the full duration.
+
+> [!NOTE]
+> Meteor Shower deals bonus damage to minions and creeps, which means you can steal Turtle or Lord from over a wall. Aim your ult through the pit when the objective is low. The full channel with Crescent Moon's second meteor stream will out-DPS most junglers' Retribution timing if you start channeling early enough.
+
+> [!TIP]
+> Crescent Moon's movement speed burst triggers on every skill cast, not just S2. During a chase, cycle S1 on cooldown even if it misses, because each cast refreshes the decaying speed bonus. This makes Chang'e one of the fastest heroes in the game during extended sequences where she keeps casting.
+
+> [!NOTE]
+> In a side lane split-push, Crescent Moon's enhanced basics still deal bonus magic damage to towers, though the 2.1.30 patch trimmed how much. Push a lane, force a rotation, then ult toward the objective they left unguarded.
+
+## Skills
+
+### Trouble Maker (Passive)
+
+Each time Chang'e deals damage to an enemy, she leaves a mark on them that reduces their Movement Speed by 1% (up to 20%).
+
+### Starmoon Shockwave (Skill 1)
+
+Chang'e sends an energy sphere in the target direction, dealing 350 (+130% Total Magic Power) Magic Damage to enemies in its path and slowing them by 10% for 1.5s. Crescent Moon: The Crescent Moon sends 4 extra energy spheres along with Chang'e's, each dealing 20% damage and slowing enemies hit. The slow effect can stack (up to 20%).
+
+### Crescent Moon (Skill 2)
+
+Chang'e summons the Crescent Moon, gaining a permanent 300 (+150% Total Magic Power) shield and 10% Movement Speed until the shield is broken. Each time she casts a skill, she gains an extra 50% Movement Speed that decays over 2.5s. Crescent Moon: Enhances her Basic Attacks to deal 20 (+35% Total Magic Power) extra Magic Damage 2 times. Each time Chang'e deals Magic Damage with her Basic Attacks or skills, this skill's cooldown is reduced by 0.2s.
+
+### Meteor Shower (Ultimate)
+
+Chang'e gains 10% Movement Speed for 4s. During this time, she fires 30 meteors in the target direction, each dealing 60 (+21% Total Magic Power) Magic Damage to the first enemy hit. This skill deals 100% extra damage to minions and creeps. Crescent Moon: Fires meteors alongside Chang'e, each dealing 33% damage.
+
+Skill upgrade priority: 3-1-2-0-1/2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, get the shield from Chang'e's 2nd Skill, then use her 1st Skill to poke enemies, and follow up with her Ultimate if the 1st Skill was on target. Chang'e needs to move around during her Ultimate to keep herself safe and make sure the meteors can hit the target.
+- LANING COMBOS (laning): In the laning phase, get the buff from Chang'e's 2nd Skill first, then mark the enemy with her Basic Attacks. Cast her 1st Skill to slow down low HP enemy, and finish them off with her Ultimate.
+
+## Counters to Chang'e (pick these against Chang'e)
+
+- Lolita (Support/Tank): +5.3 pp edge. Lolita's durability and kit give them a strong matchup advantage against Chang'e throughout the game.
+- Claude (Marksman): +2.6 pp edge. Claude has a statistical edge over Chang'e based on ranked matchup data. Pick Claude to gain an advantage in draft.
+- Gloo (Tank): +2.6 pp edge. Gloo's durability and kit give them a strong matchup advantage against Chang'e throughout the game.
+- Esmeralda (Tank/Mage): +2.4 pp edge. Esmeralda's durability and kit give them a strong matchup advantage against Chang'e throughout the game.
+- Minotaur (Tank/Support): +2.4 pp edge. Minotaur's durability and kit give them a strong matchup advantage against Chang'e throughout the game.
+
+## Heroes Chang'e beats
+
+- Diggie (Support): +2.7 pp edge for Chang'e.
+- Balmond (Fighter): +1.7 pp edge for Chang'e.
+- Martis (Fighter): +1.5 pp edge for Chang'e.
+- Valir (Mage): +1.4 pp edge for Chang'e.
+- Gatotkaca (Tank/Fighter): +1.4 pp edge for Chang'e.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/change.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-12. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Siege Default (Mid)
+
+- Items: Magic Boots, Genius Wand, Holy Crystal, Blood Wings, Divine Glaive, Enchanted Talisman
+- Core: Genius Wand, Holy Crystal, Divine Glaive
+- Emblem: Mage Emblem with Swift, Wilderness Blessing, Impure Rage
+- Battle spell: Flicker
+- Flex: Arcane Boots over Magic Boots when Use when the enemy mid and roamer cannot punish you early and flat Magic Penetration matters more than cooldown tempo.; Glowing Wand over Enchanted Talisman when Use when the enemy relies on healing, shields, or HP-stacking frontliners and your mana discipline is stable.; Winter Crown over Enchanted Talisman when Use when one dive combo can break Crescent Moon and kill you before Meteor Shower finishes.; Ice Queen Wand over Blood Wings when Use when your team needs repeated slows to keep fighters inside Meteor Shower rather than extra shield value.
+- Total cost: 11850 gold
+
+Default mid build for ranked games where Chang'e wants early Genius Wand shred, Holy Crystal damage, and enough late mana to keep sieging.
+
+### Split-Push Attack Speed (Mid)
+
+- Items: Swift Boots, Feather of Heaven, Golden Staff, Holy Crystal, Blood Wings, Divine Glaive
+- Core: Feather of Heaven, Golden Staff, Holy Crystal
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Sprint
+- Flex: Genius Wand over Golden Staff when Use when you still need teamfight Meteor Shower damage and cannot afford to commit fully to turret racing.; Winter Crown over Blood Wings when Use when assassins are reaching you before Sprint creates enough space.; Immortality over Blood Wings when Use in late Lord trades where one failed side-lane escape would end the game.; Glowing Wand over Divine Glaive when Use when the enemy has low Magic Defense but strong healing or shielding that your team has not answered.
+- Total cost: 11810 gold
+
+Side-pressure setup that turns Crescent Moon's enhanced basic attacks into turret damage while keeping enough Magic Power for objective cleanup.
+
+### Anti-Dive Control (Mid)
+
+- Items: Tough Boots, Genius Wand, Ice Queen Wand, Winter Crown, Divine Glaive, Blood Wings
+- Core: Genius Wand, Ice Queen Wand, Winter Crown
+- Emblem: Mage Emblem with Rupture, Wilderness Blessing, Impure Rage
+- Battle spell: Purify
+- Flex: Holy Crystal over Winter Crown when Use when your front line is protecting you and damage, not survival, is the reason fights are stalling.; Magic Boots over Tough Boots when Use when the enemy dive is damage-heavy but not control-heavy enough to justify Fortitude.; Glowing Wand over Blood Wings when Use when sustain heroes are walking through your slows and the team lacks anti-heal.; Immortality over Blood Wings when Use in late base defense when surviving one pick attempt matters more than extra Magic Power.
+- Total cost: 10720 gold
+
+Defensive mid setup for hard-engage drafts where Chang'e must keep Crescent Moon active, slow divers, and survive the first lockout.
+
+All builds for this hero: https://mlbbhub.com/builds/change.
+
+## Synergies
+
+- Gatotkaca: Chang'e works well with Tanks who can pull enemies together, like Gatotkaca and Tigreal, because Chang'e can follow them into teamfights to deal massive damage.
+- Tigreal: Chang'e works well with Tanks who can pull enemies together, like Gatotkaca and Tigreal, because Chang'e can follow them into teamfights to deal massive damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

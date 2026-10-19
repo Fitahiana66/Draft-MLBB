@@ -1,0 +1,205 @@
+# Edith, Ancient Guard
+
+> Edith is not a tank. She is a two-stage fighter who charges in mech form and discharges in marksman form, and every point of extra defense she stacks becomes magic power the second she ejects. Pick her when your draft has one reliable physical carry, a second initiator to split aggro, and the patience to wait for a lengthy ultimate to come back online.
+
+## Snapshot
+
+- Role: Tank, Marksman
+- Lane: EXP, Roam
+- Specialty: Control, Burst
+- Difficulty: Medium
+- Tier this patch: A
+- Win rate: 52.56%
+- Pick rate: 0.31%
+- Ban rate: 0.18%
+- Released: 2022
+- Page: https://mlbbhub.com/heroes/edith
+
+## Guide
+
+### Locking Edith without regretting it
+
+Edith works in two very specific draft states, and forcing her anywhere else turns a flex pick into a coin flip.
+
+The first is a physical-heavy lineup that wants a magic damage threat without giving up a frontliner. Marksman, assassin, and fighter teams get shut down by a single Athena's Shield stack on the enemy tank. Edith solves that by hiding magic scaling inside the defense stats she was already building. The second is a double-initiator comp where she plays second engage behind an Atlas, Tigreal, or Khufra. Her Onward throw is more reliable than a flank engage, but it is slower than a Flicker-Arrival engage, so she wants someone else opening the fight while she walks in from the front.
+
+She is the wrong pick when the enemy has Karrie or Wanwan locked in the gold lane, because both of them gut her conversion mechanic before it comes online. She is also the wrong pick into poke-siege comps with Xavier, Valentina, or Pharsa, because they chip Phylax from a range she cannot answer and force her to either eject with a thin shield or sit grounded eating damage. If your team already has an Atlas or a Tigreal and no secondary physical damage, Edith becomes a third tank whose marksman form is dealing magic damage against a team that has already itemized into Athena's.
+
+Apply this test before locking her in: name the carry whose damage the enemy is going to build defense against, and name the teammate who is opening the fight instead of Edith. If either answer is "nobody," pick a cleaner frontliner.
+
+Patch 2.2.16 ([patch notes](/patch-notes)) widened the margin inside those conditions: Wrath now also builds from skill damage Edith deals while inside Phylax, the eject crosses terrain, and flight form carries extra movement speed. The test above still decides the pick, but a lane that goes sideways costs her less than it used to.
+
+### Edith's kit is a battery, not a tank stat sheet
+
+Every ability Edith has serves one mechanic, and the mechanic is stat conversion. While she is inside Phylax, every point of Extra Physical Defense and Extra Magic Defense converts directly into Magic Power during Primal Wrath. There is no trade-off between her durability and her damage output. The Radiant Armor you built to survive the enemy mage, the Athena's Shield stacked against their burst: all of it becomes magic power the moment you eject. Marksmen do not get to double-dip like this.
+
+The Wrath meter is the other half of the battery. Passively, Phylax stores Wrath from damage received (calculated before defense reduction, so tanking skillshots is efficient). Since 2.2.16 it also stores Wrath from the skill damage Edith deals while she is still in Phylax, so the bar no longer needs the enemy's cooperation. Open a fight with Earth Shatter and Onward on targets and the ejection gets stronger for the damage you dealt, not only the damage you ate. A maxed Wrath ejection gives a massive shield, near-doubled attack speed, and substantial Hybrid Lifesteal. An unpressured ejection gives a fraction of each. The gap is not a minor stat bump: a fully charged flight form carries roughly triple the shield and triple the sustain of an empty one, and every second of flight decides the fight.
+
+Overload, the passive nobody reads, is the reason Edith clears waves and pokes during downtime. Every skill cast arms her next basics with chain lightning that jumps between nearby enemies, and the chain hits minion waves harder than it hits heroes. This passive is also why standing on top of a 1-HP wave with Onward available is a wave-clear trade, not a wasted skill.
+
+### Laning: the first four minutes
+
+EXP lane priority is levels and Wrath, not kills. You need level 4 and a filled Wrath bar by the first turtle, and you do not need to be ahead in CS to get there.
+
+1. **Level 1, take Earth Shatter first.** The cast delay does not matter for wave clear because minions do not sidestep. One cast plus an auto chain from Overload clears the melee minions outright, and the knockup is available for the enemy jungler's level-2 invade.
+2. **Level 2, point Onward, and use it to soak a skill.** If the enemy EXP laner tries to trade, Onward the charge through them and eat their return skill on the way back. You are generating Wrath from their damage while your HP pool is deep enough to not care.
+3. **Before minute 3, do not commit Earth Shatter into an empty cast.** S1 is your only lockdown, it recharges slowly, and the enemy Jungler's counter-gank path runs through you. If you Flicker behind them first and then Earth Shatter the ground they are running to, the stun lands on a target who cannot sidestep. Raw Earth Shatter without setup gets walked through by any dash hero in the game.
+
+The Wrath bar should be roughly half full by level 4. Since 2.2.16 you do not have to take hits to fill it: skill damage landed on the enemy laner charges it too, so trading Earth Shatter and Onward adds to the bar. If it is still empty at level 4, you have been sitting too far back, and the Primal Wrath window when it comes online will be a wet firecracker. Take a hit when the trade is free. Your health pool is deep enough to absorb it, and you convert the damage into magic power anyway.
+
+### The power spike you are farming toward
+
+The fight-flipping item is Thunder Belt, not Primal Wrath level 1. Thunder Belt's True Damage proc scales directly off your Physical and Magic Defense, and you are the hero with the highest defense-to-gold ratio in the entire game. After Tough Boots and Thunder Belt (roughly 2520 gold, available around the 7-to-8 minute mark), every Earth Shatter into a target is followed by an Overload basic that triggers a Thunderbolt proc carrying true damage scaled off both defense stats, with a near-total slow attached.
+
+That is the window where Edith stops being a body and starts being a one-shot threat on squishy targets. Earth Shatter hits, basic attack triggers Thunderbolt, chain lightning from Overload spreads through the enemy team, and you have not even ejected. Primal Wrath on top of that is the finisher, not the opener.
+
+Oracle is the default next buy, with Brute Force Breastplate as the flex when the enemy draft wins through chained crowd control instead of burst. Six stacks of Brute Force give Control Duration Reduction on top of adaptive attack and movement speed that stack fast because you cast Earth Shatter and Onward constantly. The 2.1.88 patch reduced Onward's cooldown at max rank, which means Brute Force stacks faster in sustained engagements and the CC reduction kicks in more reliably when it matters. The CC reduction matters more than the damage: the counterplay against Edith is to CC-chain her while her flight form is active, and Brute Force eats roughly a sixth of every stun aimed at you.
+
+### Teamfight positioning and target priority
+
+The reflex when you press R on Edith is to eject the moment a teammate is in trouble. That reflex is usually wrong. A low-Wrath Primal Wrath wastes the entire flight window on a form that does not have the attack speed to kill anyone and does not have the shield to survive the enemy's follow-up. Ejecting when your Wrath bar is under half is often worse than walking away in Phylax.
+
+1. **Phylax form front-to-back, not flank-in.** Walk in first, Onward the frontliner to reposition them off your carry, then Earth Shatter the ground where the enemy backline is standing, not where they were a second ago. You are the damage sponge while your carry repositions behind you. The one exemption is terrain: the eject crosses walls now, so when the fight is already running and their backline is hiding on the far side of a wall, you can finish through it instead of walking around.
+2. **In marksman form, attack whichever squishy is closest, not whichever is biggest.** The flight-form basic is single-target DPS, and your chain lightning hits every nearby enemy for free. A mage who turns to fight you is already losing the trade because your defense converts to magic power while his burst is capped by whatever he built.
+3. **Disengage while you still have flight time remaining, not at the last moment.** The form ends abruptly and you drop back into Phylax with zero Wrath and a long cooldown before the next ejection. Good enemies track that timer. If you are deep in the enemy backline when the form expires, you are dead before you can press Earth Shatter. The extra flight speed from 2.2.16 buys margin here: start walking out earlier and you can still keep firing while you go.
+
+If your support is Estes you get to push the flight form further up and risk staying longer, because his ultimate restores the shield the same way it restores HP. If your support is Angela or Diggie, you do not get that luxury.
+
+### Itemization: defaults vs flex slots
+
+Two locked core slots and one locked Oracle. The rest is a real conversation.
+
+Locked: **Tough Boots**, **Thunder Belt**, **Oracle**. Oracle's 25% received-shield amplification is the single highest-value item in Edith's build because Primal Wrath's flight shield scales with it, not just health regen. Warrior Boots over Tough is only correct when the enemy has no stuns and all physical damage, which is almost never.
+
+Flex slots, with the condition that triggers each:
+
+- **Brute Force Breastplate** when the enemy draft wins with chained crowd control (Khufra, Atlas, Tigreal, Chou) instead of one burst rotation. The stacking adaptive attack and movement speed fit Edith's constant skill casts, and the Control Duration Reduction at six stacks is the value.
+- **Antique Cuirass** when the enemy has three physical damage threats and you would rather blunt their damage than buy another utility passive. The 6% physical damage reduction per stack, up to 18%, is exactly what Edith needs to charge Wrath without dying.
+- **Athena's Shield** against any mage comp with a burst mage (Eudora, Kadita, Valentina, Gusion). The 25% Magic Damage Reduction on proc is the best single defensive conversion in your build for ejection shield math.
+- **Radiant Armor** against sustained magic DPS (Chang'e, Kagura, Pharsa). Stacking magic defense beats Athena's when you are taking small ticks of magic damage in every exchange rather than one large nuke.
+- **Dominance Ice** when the enemy gold lane is Karrie, Clint, or any lifesteal-dependent fighter. Its passives punish anyone who stays near you: Lifebane cuts their Shield and HP Regen to 60% of normal, and Fortress Shield stacks Hybrid Defense for each of them, both as a short-range aura. The debuffs fire as long as Karrie or a lifesteal fighter stands close to you, not just when they land a hit.
+
+**Immortality** over a sixth defensive item is the late-game default, not a flex slot. You are the hero enemies CC-chain the moment your ult ends; the revive gives you a second Primal Wrath window in the same fight.
+
+### Mistakes that lose Edith games
+
+**Ejecting with an empty Wrath bar because your carry is dying.** A low-Wrath ejection gives a fraction of the attack speed, lifesteal, and shield you get from a full bar. It is not enough to save anyone, and after 2.2.16 the ejection itself deals no damage, so there is no burst to fall back on either. You give up the entire flight form, die at zero Wrath, and hand the enemy a free objective. If Wrath is under half, stay in Phylax and use Onward plus Earth Shatter to peel. The ult is a damage finisher, not an emergency cleanse.
+
+**Using Earth Shatter to push the wave in lane.** Its long cooldown makes it your only reliable lockdown. Wasting it on minions means you have no answer when the enemy jungler commits to a gank. Let your basic attacks plus chain lightning from Overload clear the wave after you cast Onward, not before.
+
+**Flying into Karrie's auto attack range.** Her Lightwheel Mark burns a chunk of your Max HP as True Damage on repeat, and it ignores your physical defense, your magic defense, and your Athena's proc. The shield stat on your flight form is a health pool, and true damage walks right through it. Use Onward to throw her into your team, then Earth Shatter her while she is airborne. Do not chase her in flight form.
+
+**Opening with Earth Shatter against mobile enemies.** The cast delay means any hero with a dash (Lancelot, Ling, Benedetta, Fanny) walks out of the hit before the knockup lands. Start with Onward to pin them first, then Earth Shatter on top of the body that can no longer move. Reversing the order is how you waste two skills against a mobile squishy.
+
+**Ejecting to chase a fleeing enemy near the end of the flight.** The form ends in Phylax with zero Wrath. If you are 800 units from your team when that timer hits, the enemy collapses on a tank who cannot press R again for a long cooldown. Finish the target while you still have flight time left or walk back early.
+
+### Key tips
+
+> [!TIP]
+> Your first basic attack after every skill cast is a Thunderbolt proc setup. Thunder Belt's internal cooldown, Overload's chain-lightning window, and your three skill cooldowns all line up in a rhythm. A well-executed Onward into Earth Shatter into basic attack fires the proc on a locked-down target every single time.
+
+> [!NOTE]
+> Flicker is for initiating, not escaping. Phylax form is slow, and the only way to close on a backline that has seen you coming is a Flicker behind them followed by Earth Shatter on the ground they are running toward. Saving Flicker for a retreat in flight form wastes a long cooldown on a form that already has escape utility built into ranged basics and high movement.
+
+> [!TIP]
+> Track the enemy Primal Wrath counter, yes, but track YOUR cooldown first. The cooldown window between flight forms is the game's most important clock for your team. Call it out. If your team fights at zero Wrath and no ult, you are a walking frontliner without a damage conversion, and that is a lost fight before it started.
+
+> [!WARNING]
+> Do not build Blood Wings or Holy Crystal on Edith. Flat magic power scales worse than the conversion from defense stats, and those items give up HP that you need to charge Wrath. Every gold piece spent on pure mage items is a Wrath bar you did not fill.
+
+## Skills
+
+### Overload (Passive)
+
+After each skill cast, Edith and Phylax become Overloaded for 3s, during which all Basic Attacks will trigger chain lightning, dealing (+20% Total Magic Power) (+ 3 (+0.2*Hero Level)% target's Max HP) extra Magic Damage to up to 4 enemies. Chain lightning damage against minions is increased to 150%.
+
+### Earth Shatter (Skill 1)
+
+After a 0.75s delay, Edith controls Phylax to launch an earth-shattering blow in a designated direction, dealing 225 (+10% Max HP) Physical Damage to enemies hit (deals 120% damage to minions) and knocking them airborne for 0.8s. This skill can only be interrupted by Suppression.
+
+### Onward (Skill 2)
+
+Edith controls Phylax to charge in the target direction, dealing 90 (+3% Max HP) Physical Damage to enemies along the way. If Phylax hits an enemy hero during the charge, it will stop immediately and throw them over its shoulder, dealing 108 (+5% Max HP) Physical Damage.
+
+### Primal Wrath (Ultimate)
+
+Passive: When inside Phylax, Edith accumulates Wrath by dealing skill damage to enemies and taking damage (calculated before damage reduction). Active: Edith ejects herself forward from Phylax, knocking back nearby enemies and taking flight for up to 8s (gaining 30 Movement Speed). During this time, she gains new skills and can perform ranged Basic Attacks, each dealing 35 (+75% Total Physical Attack) (+25% Total Magic Power) Magic Damage. She also gains 350 (+5% Max HP) - 350 (+20% Max HP) extra shield, 50% - 150% extra Attack Speed, and 5% - 20% Hybrid Lifesteal based on accumulated Wrath, and converts each point of Extra Physical Defense and Extra Magic Defense into 3.5 Magic Power.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Edith's 2nd Skill to toss the enemy behind her, followed by her 1st Skill to knock them airborne then immediately use her Ultimate. Now use Edith's 2nd Skill in human form to immobilize the target, followed by her 1st Skill for more damage, and secure the kill with enhanced Basic Attacks.
+- LANING COMBOS (laning): In the laning phase, use Edith's 2nd Skill to toss the enemy behind her, then use her 1st Skill to knock them airborne and finish them off with enhanced Basic Attacks from her Passive.
+
+## Counters to Edith (pick these against Edith)
+
+- Lolita (Support/Tank): +5.4 pp edge. Lolita's durability and kit give them a strong matchup advantage against Edith throughout the game.
+- Beatrix (Marksman): +2.8 pp edge. Beatrix has a statistical edge over Edith based on ranked matchup data. Pick Beatrix to gain an advantage in draft.
+- Baxia (Tank): +2.3 pp edge. Baxia's durability and kit give them a strong matchup advantage against Edith throughout the game.
+- Layla (Marksman): +2.2 pp edge. Layla has a statistical edge over Edith based on ranked matchup data. Pick Layla to gain an advantage in draft.
+- Karina (Assassin): +1.9 pp edge. Karina has a statistical edge over Edith based on ranked matchup data. Pick Karina to gain an advantage in draft.
+
+## Heroes Edith beats
+
+- Harith (Mage): +3.8 pp edge for Edith.
+- Alice (Tank/Mage): +3.6 pp edge for Edith.
+- Silvanna (Fighter): +3.0 pp edge for Edith.
+- Esmeralda (Tank/Mage): +2.9 pp edge for Edith.
+- Mathilda (Support/Assassin): +2.5 pp edge for Edith.
+- Odette (Mage): +2.4 pp edge for Edith.
+- Claude (Marksman): +2.3 pp edge for Edith.
+- Aulus (Fighter): +2.3 pp edge for Edith.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/edith.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-12. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Default Flicker (EXP)
+
+- Items: Tough Boots, Thunder Belt, Oracle, Dominance Ice, Feather of Heaven, Immortality
+- Core: Thunder Belt, Oracle, Dominance Ice
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Flex: Antique Cuirass over Feather of Heaven when Use when physical skill burst reaches Edith before she can charge Wrath and take flight.; Athena's Shield over Feather of Heaven when Use against one-rotation magic burst that can force Primal Wrath too early.; Radiant Armor over Feather of Heaven when Use against repeated magic poke, burn, or DPS that keeps hitting Edith through extended fights.
+- Total cost: 10540 gold
+
+Default EXP setup that turns Edith's defensive purchases into Primal Wrath damage while keeping one attack-speed item for flight-form finishing.
+
+### EXP Anti-Dive Vengeance (EXP)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Oracle, Antique Cuirass, Immortality
+- Core: Thunder Belt, Dominance Ice, Oracle
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Vengeance
+- Flex: Feather of Heaven over Antique Cuirass when Use when your team already has enough front line and Edith needs more flight-form DPS.; Radiant Armor over Antique Cuirass when Use against sustained magic damage rather than physical skill chains.; Athena's Shield over Antique Cuirass when Use when the enemy mage decides fights with one burst window instead of repeated chip.
+- Total cost: 10680 gold
+
+Durability-first EXP setup for dive-heavy games where Edith must absorb the first engage, charge Wrath, and answer with Vengeance.
+
+### Roam Conceal Pickoff (Roam)
+
+- Items: Tough Boots, Dominance Ice, Oracle, Antique Cuirass, Radiant Armor, Immortality
+- Core: Dominance Ice, Oracle, Immortality
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Athena's Shield over Radiant Armor when Use against burst magic engage that lands before Edith can convert the fight.; Thunder Belt over Radiant Armor when Use only when roaming from ahead and repeatedly tagging enemy heroes with safe basic attacks.; Brute Force Breastplate over Antique Cuirass when Use when movement, cooldown, and control reduction matter more than reducing physical skill burst.
+- Total cost: 10740 gold
+
+Roam setup that trades EXP lane damage scaling for Conceal, faster engage cycles, and enough defenses to start fights without dying before Primal Wrath.
+
+All builds for this hero: https://mlbbhub.com/builds/edith.
+
+## Synergies
+
+- Minotaur: Edith works best with heroes like Minotaur and Atlas that can more reliably CC a target first, allowing her to follow up with her own CC.
+- Atlas: Edith works best with heroes like Minotaur and Atlas that can more reliably CC a target first, allowing her to follow up with her own CC.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

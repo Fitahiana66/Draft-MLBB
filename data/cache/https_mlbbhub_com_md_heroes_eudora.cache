@@ -1,0 +1,193 @@
+# Eudora, Lightning Weaver
+
+> Eudora was the throwaway tutorial mage for nine years, then patch 2.1.47 quietly turned her into a burst mage with real teamfight reach. The 2.1.88 buff ([patch notes](/patch-notes)) extended Superconductor to 5 seconds, and that window now decides every fight she enters. She is no longer the joke pick, but she is also not free.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Control, Burst
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 50.87%
+- Pick rate: 1.94%
+- Ban rate: 58.19%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/eudora
+
+## Guide
+
+### When you can still draft Eudora
+
+Eudora is a conditional pick. She wants a draft where the enemy team has at least two heroes that walk in straight lines, and at most one hero who can cancel her stun (Purify, Diggie, a Wanwan with passive points up). The 2.1.47 rework gave her bouncing Ball Lightning and an area follow-up off her ultimate, so she now has teamfight relevance she never had before. But "teamfight relevance" still means standing 6 meters from a stunned target while your team peels for you, and that math falls apart fast.
+
+Lock her against immobile carries (Moskov, Clint, Layla, Miya), low-health-pool mages (Vexana, Aurora pre-spike), and slow-engage tank initiators (Tigreal, Atlas) who group enemies for her S2 bounce. Disqualify her when the enemy has Ling, Lancelot, or Helcurt without a peeler on your side. Disqualify her when two or more opponents will lock Purify (the spell trivializes her S2 stun and breaks the Superconductor window). Disqualify her when your own team has no front-line CC, because she does not create her own engage and the opening of her combo locks her in place.
+
+If you cannot answer "who on my team locks down the enemy carry first" without naming yourself, Eudora is the wrong pick.
+
+### What Superconductor actually buys you
+
+Eudora is not a "burst mage". She is one passive that doubles as her entire ceiling. Superconductor, the 5-second debuff her skills apply on hit after the 2.1.88 buff, is the only reason to lock her over Aurora, Cyclops, or Vale. Every skill in her kit deals normal damage on first contact. Every skill in her kit deals real damage when it lands on a Superconductor-marked target.
+
+That is the whole hero. The order matters because of the math. S2 (Ball Lightning) marks AND stuns at the same instant, which means the moment a target is marked they are also locked in place. Your S1 then fires into a stationary target with the bonus damage applied, and your ultimate calls down a follow-up area strike on the same spot. You lose this entire windfall if you open with S1 on an unmarked enemy. The base S1 damage hits, the Superconductor bonus does not, and your S2 stun is now landing on a target who watched the lightning come from across the lane.
+
+Every other character note about Eudora flows from this. Her flat S1 cooldown is not so you can spam wave clear. It is so the bonus is available on the next cast after S2. The 2.1.88 chain reduction changes the ceiling: when the delayed chain damage from a Superconductor-triggered S1 fires, it now cuts S1's cooldown by half the skill's cooldown rather than a flat 1.5 seconds. That makes a second S1 mark inside a single teamfight realistic rather than a theoretical luxury. Her long ultimate cooldown is acceptable because the area follow-up after a marked hit makes it a teamfight nuke, not a single-target gimmick.
+
+### Laning: the first 5 minutes
+
+1. **Take S1 first and clear the first wave from max range.** Forked Lightning is fan-shaped now. You can hit the entire melee wave and graze the ranged minions from outside the enemy mid laner's auto-attack range. Do this twice and you are level 3 with their wave still pushing toward you.
+2. **Save S2 for the first time the enemy mid laner takes a step forward.** Not for last hits, not for poke. The opponent will eventually push too far for a wave clear, and that is your kill window. Mark them with S2, animation-cancel into S1, and chain the ult. If they survive, they burned their escape, which is the same as a kill for the next stretch of the game.
+3. **Never walk into the river before level 4.** Eudora has zero mobility before Flicker is up. The enemy jungler watches mid lane for exactly this reason: a level-2 Eudora pushing for a vision ward is the easiest kill on the map. Stay behind your second tower until your ult is online or your jungler is in your river quadrant.
+
+### The power spike you are farming toward
+
+The spike is **Genius Wand into Holy Crystal**. Genius Wand drops at the 6-to-7 minute mark with average mid-lane farm and immediately gives you 75 magic power plus a stacking Magic-defense reduction: every skill hit cuts the target's Magic Defense for 2 seconds, stacking up to 3 times. Two skills on a target strip enough magic defense that your next mark starts threatening squishy lanes outright. This is the spike that lets you start hunting side lanes between waves.
+
+Holy Crystal lands around the 11-to-12 minute mark. The 21-to-35 percent extra magic power scaling on top of 165 base magic power is the single largest damage bump in Eudora's build. Before Holy Crystal, your Superconductor combo deletes ranged carries. After Holy Crystal, it deletes everyone except dedicated tanks. Plan your second rotation around the timing: when the item finishes, look for a side lane where the enemy has used their escape, and force a kill before they retreat to base.
+
+The spike is wasted if you panic-buy Winter Crown ahead of Holy Crystal because you died once. You died because you walked too far up, not because you lacked defense. Buy Holy Crystal first; Winter Crown is a third or fourth slot, never a second.
+
+### Teamfight positioning and target priority
+
+The reflex when you see the enemy form up around their tank is to stand at max range and try to land Ball Lightning on the carry from across the screen. That reflex is wrong. Ball Lightning is not a sniper rifle, it is a mid-range mark that needs to land on someone whose silhouette your team is about to focus.
+
+Three rules:
+
+1. **Stand at the back of your front line, not behind your back line.** Your S2 cast range is shorter than most marksmen's basic-attack range. If you are positioned behind your carry, the enemy assassins will reach you before your tank reaches them. Sit behind your tank's silhouette so you cast Ball Lightning the instant the tank engages, and the bounce hits whoever the enemy clusters around.
+2. **Lead with S2 onto the enemy's most central target, not their highest-priority one.** The bounce travels to nearby enemies. A Ball Lightning landed on the enemy tank in the middle of their formation bounces to two carries. The same skill landed on the back-line marksman bounces to nobody, because everyone else is too far away.
+3. **Hold ult for the second engage if the first engage is bait.** Eudora's ultimate is on too long a cooldown for an "always combo on entry" pattern. If your tank's first engage is a single-target lock that the enemy walks out of, save the ult and the area follow-up for when both teams commit.
+
+If your support is Tigreal or Atlas, you get to cast Ball Lightning the moment they ult, because the entire enemy team is grouped and stunned. If your support is Estes or Rafaela, you have to create your own opening by waiting for an enemy to overextend into your team, which means longer game timer per fight.
+
+### Itemization: 3 locked slots, 3 real conversations
+
+Locked slots: **Magic Boots**, **Genius Wand**, **Holy Crystal**. Magic Boots over Arcane Boots because the cooldown reduction matters more than 10 flat magic penetration once Genius Wand is online. Arcane Boots is fine if the enemy stacks magic defense early, but you are buying penetration twice in that case and one of those buys is a luxury.
+
+The flex slots are where games are won. Walk through each:
+
+- **vs grouped tanky comp**: rush Divine Glaive in slot 4. The Spellbreaker passive converts their magic defense into extra penetration, capped at 20 percent, which is exactly the counter to a team that has started stacking it. Buying Divine Glaive into a Khufra-Edith-Tigreal triple-front is the difference between your S1 tickling and your S1 killing.
+- **vs dive comp (Hayabusa, Helcurt, Karina, Saber)**: Winter Crown in slot 4. The 2-second untargetable active is your "I survived the assassin's full combo" button. Note that the item is **Winter Crown**, not Winter Truncheon: it was renamed in patch 1.8.92 and the description in some older guides is out of date. Press it the moment you see the assassin animation start, not when your HP bar starts dropping.
+- **vs poke comp (Pharsa, Selena, Beatrix)**: Blood Wings in slot 5 or 6. The 800-base shield (plus 100 percent of total magic power) regenerates 20 seconds after taking damage, so if you can disengage from a poke trade for 20 seconds (which is what a poke comp wants you to do anyway) the shield is up for the next fight. The 90 magic power is incidental, the shield is the buy.
+- **vs comp where games end fast**: Wishing Lantern as the finishing item. The Butterfly Goddess passive triggers every 800 magic damage dealt and removes 10 percent of a target's current HP. Eudora dishes 800 magic damage in two skills against any squishy. The execute scales with their HP, not yours, so it stays relevant even if you die before it fires.
+
+The weakest common default is **Lightning Truncheon**. It synergized with the old pre-revamp Clock of Destiny build, but post-rework Eudora's S1 already cycles fast enough that the Resonate proc (every 6 seconds) gates extra damage she would already have from the Superconductor bonus. Buy it as a sixth item only if the game is already won and you want a slightly larger nuke on a cleared wave.
+
+### Mistakes that lose Eudora games
+
+**Opening with S1 on an unmarked target.** You bait yourself into thinking the cooldown is short enough that you can fish for the mark. The mark only exists after a skill lands. S1 first means the bonus damage on the second hit is fishing for nothing, because Superconductor was never applied. S2 first means the stun lands, the mark lands, and the next two skills cash in. Always.
+
+**Walking up to range your S2 because it "looks shorter than the enemy is".** Ball Lightning has a flight time. By the time the orb crosses the gap, a Lancelot, a Hayabusa, or a Lesley with Sprint has stepped sideways. Cast it from a position where the enemy's escape gets cut off (a wall at their back, a teammate on their flank), not from your maximum range.
+
+**Treating Helcurt as a silence matchup.** He is not. Hidden Terror's Prowler-state passive **terrifies** enemies hit, which prevents skill use the same way silence does, but the trigger is different. He has to land Hidden Terror's blink hit while invisible. The play is to stay on the side of your front line he cannot path to without crossing your tank, not to "wait out the silence". His ult is the bigger threat anyway: Dark Night Falls cuts sight range for the entire enemy team, and Eudora's combo is built around seeing the target you are casting on.
+
+**Forcing your combo into Lancelot's S2 or Ultimate.** Lancelot is untargetable during Thorned Rose and invincible during Phantom Execution. Both windows last long enough to eat your Ball Lightning. If you see him use either, hold every cooldown until the animation ends. He has used his out; the next few seconds are yours.
+
+**Not respecting Baxia's passive.** Baxia Mark shaves a flat amount off every instance of damage he takes, including the ult area follow-up, and that reduction doubles while his ultimate is running. Your Superconductor combo into Baxia lands noticeably softer than it does into another tank. He is not your target. Mark him only to set up the bounce; commit your kill pressure into someone else.
+
+### Key tips
+
+> [!TIP]
+> Ball Lightning's bounce prioritizes enemy heroes over creeps. If you S2 a creep wave with two enemy laners standing near it, the orb bounces to the heroes. Use this to clear minions and apply Superconductor on enemy laners in the same cast.
+
+> [!NOTE]
+> Animation cancel: cast S2, then immediately tap S1. The S1 cast goes off mid-S2-recovery and lands inside the stun window. Players who wait for the S2 recovery to fully play out give the enemy extra time to react, which is enough for a Lancelot to dash sideways or a Fanny to cable away.
+
+> [!TIP]
+> Ult buffer: queue your ult on the target before the Ball Lightning orb lands. The ultimate auto-fires the moment the stun applies, which produces the smallest possible gap between the mark and the area follow-up.
+
+> [!NOTE]
+> Blue buff is mandatory in extended fights. The 5-second Superconductor window tempts you to drag out trades and land a second S1 mark. Your mana pool does not scale with your ambitions. Coordinate with your jungler before the second blue spawn.
+
+## Skills
+
+### Superconductor (Passive)
+
+Eudora's skills inflict Superconductor for 5s on non-minion units hit and can trigger additional effects against enemies affected by Superconductor.
+
+### Forked Lightning (Skill 1)
+
+Eudora casts Forked Lightning in a fan-shaped area, dealing 275 (+100% Total Magic Power) Magic Damage (increased to 200% against minions) to enemies within. When hitting targets affected by Superconductor, Eudora forms a lightning chain with the target, gaining 40% Movement Speed during the chain for up to 1s. The lightning chain deals 10 (+4% Total Magic Power) Magic Damage over time and an additional 275 (+100% Total Magic Power) Magic Damage when it ends. If this hit lands, it reduces this skill's cooldown by 50%.
+
+### Ball Lightning (Skill 2)
+
+Eudora hurls an orb of lightning at the target enemy, reducing their Magic Defense by 10 for 1.8s, dealing 300 (+50% Total Magic Power) Magic Damage, and stunning them for 1s. If the target is affected by Superconductor, the lightning orb reduces nearby enemies' Magic Defense, deals AOE damage centered on the target, and stuns all nearby enemies.
+
+### Thunder’s Wrath (Ultimate)
+
+Eudora calls down a blast of lightning on the target area, dealing 600 (+160% Total Magic Power) Magic Damage to targets at the center. Then it strikes targets outside the center, dealing 300 (+100% Total Magic Power) Magic Damage. Every time Thunder's Wrath hits a target affected by Superconductor, it triggers a Thunderburst centered on the Superconductor target after a short delay, dealing 330 (+110% Total Magic Power) Magic Damage.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Eudora's 1st Skill to apply Superconductor to enemy heroes, then cast 2nd Skill on the right target for an AOE stun, and follow up with her Ultimate for a massive burst to the stunned heroes. Finally, use her 1st Skill again to finish off the enemy.
+- LANING COMBOS (laning): During the laning phase, start with Eudora's 2nd Skill to stun the enemy hero and apply Superconductor, then follow with her Ultimate, and center it over the enemy for massive damage. Finish with her 1st Skill to link with the enemy and finish them off.
+
+## Counters to Eudora (pick these against Eudora)
+
+- Masha (Fighter/Tank): +2.8 pp edge. Masha's durability and kit give them a strong matchup advantage against Eudora throughout the game.
+- Atlas (Tank): +2.7 pp edge. Atlas's durability and kit give them a strong matchup advantage against Eudora throughout the game.
+- Leomord (Fighter): +2.0 pp edge. Leomord's durability and kit give them a strong matchup advantage against Eudora throughout the game.
+- Barats (Tank/Fighter): +2.0 pp edge. Barats's durability and kit give them a strong matchup advantage against Eudora throughout the game.
+- Aurora (Mage): +1.5 pp edge. Aurora has a statistical edge over Eudora based on ranked matchup data. Pick Aurora to gain an advantage in draft.
+
+## Heroes Eudora beats
+
+- Floryn (Support): +2.4 pp edge for Eudora.
+- Irithel (Marksman): +2.2 pp edge for Eudora.
+- Zilong (Fighter/Assassin): +2.1 pp edge for Eudora.
+- Rafaela (Support): +2.0 pp edge for Eudora.
+- Marcel (Support): +1.9 pp edge for Eudora.
+- Hayabusa (Assassin): +1.8 pp edge for Eudora.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/eudora.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Burst Pickoff (Mid)
+
+- Items: Arcane Boots, Genius Wand, Holy Crystal, Divine Glaive, Blood Wings, Wishing Lantern
+- Core: Genius Wand, Holy Crystal, Divine Glaive
+- Emblem: Assassin Emblem with Rupture, Weapon Master, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Magic Boots over Arcane Boots when Use when your lane is safe enough that more frequent Superconductor setups matter more than early flat Magic Penetration.; Winter Crown over Blood Wings when Use when one diver can reach you before the stun lands and you need Frozen to survive the first commit.; Glowing Wand over Wishing Lantern when Use when the enemy has healing or shield sustain that keeps targets alive after the first burst window.
+- Total cost: 12010 gold
+
+Default ranked mid build that turns Eudora's Superconductor mark into fast pickoff damage before adding late shield and HP-based finishing pressure.
+
+### Reset Teamfight Control (Mid)
+
+- Items: Magic Boots, Lightning Truncheon, Fleeting Time, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Lightning Truncheon, Fleeting Time, Holy Crystal
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Genius Wand over Fleeting Time when Use when your team is not securing assists consistently and you need guaranteed Magic Defense shred instead of ultimate reset tempo.; Arcane Boots over Magic Boots when Use when the enemy mid laner is punishable early and you can snowball before cooldown cycling matters.; Winter Crown over Blood Wings when Use when a second engage reaches you after Flicker is down and raw shield value will not save the fight.
+- Total cost: 12080 gold
+
+Assist-driven teamfight setup for games where Eudora can repeatedly trigger Thunder's Wrath around grouped objectives.
+
+### Anti-Dive Survival (Mid)
+
+- Items: Tough Boots, Genius Wand, Winter Crown, Holy Crystal, Divine Glaive, Immortality
+- Core: Genius Wand, Winter Crown, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Wilderness Blessing, Lethal Ignition
+- Battle spell: Purify
+- Flex: Blood Wings over Immortality when Use when poke is wearing you down between fights but the enemy does not have enough lockdown to force a death reset item.; Magic Boots over Tough Boots when Use when the enemy dive is damage-heavy but not control-heavy enough to justify Fortitude and Purify together.; Ice Queen Wand over Immortality when Use when your team needs extra slow control after the stun rather than another late death insurance layer.
+- Total cost: 11700 gold
+
+Defensive mid build for chain-control and dive drafts where Eudora must live through the first engage before casting her full marked combo.
+
+All builds for this hero: https://mlbbhub.com/builds/eudora.
+
+## Synergies
+
+- Diggie: Eudora's skills can deal massive AOE damage, so pairing her with heroes who can group enemies, like Diggie and Tigreal, will make it easier to maximize her damage.
+- Tigreal: Eudora's skills can deal massive AOE damage, so pairing her with heroes who can group enemies, like Diggie and Tigreal, will make it easier to maximize her damage.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

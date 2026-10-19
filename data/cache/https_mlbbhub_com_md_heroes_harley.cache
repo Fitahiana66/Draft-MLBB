@@ -1,0 +1,203 @@
+# Harley, Mage Genius
+
+> Harley was a fringe pick for years: flashy burst combo, but any competent tank could stand in front of the carry and eat Deadly Magic for them. The November 2025 patch changed the math. The ring of fire now passes through other heroes, which retires the single most-taught counterplay against him and quietly puts the Mage Genius back on the pick-off map.
+
+## Snapshot
+
+- Role: Assassin, Mage
+- Lane: Jungle, Mid
+- Specialty: Burst, Poke
+- Difficulty: Medium
+- Tier this patch: C
+- Win rate: 47.65%
+- Pick rate: 0.77%
+- Ban rate: 3.38%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/harley
+
+## Guide
+
+### When Harley is the answer
+
+Harley is a burst jungler who answers one specific draft problem: an enemy team that stacks squishy backline damage behind a single bulky frontliner. He is not a generalist jungler and he is not a carry. He is a delete button for whichever enemy hero you can reach first, and that only matters when deleting that hero wins the fight.
+
+Lock Harley when the enemy team has at least two high-impact squishies you need removed before your team engages. A gold-lane Layla plus a mid-lane Kagura is the textbook case. A Melissa gold lane plus a Valentina mid is another. His job is to erase the one your team cannot handle in a straight teamfight.
+
+Avoid Harley when the enemy draft answers every line of his combo. Helcurt silences him mid-combo. Khufra knocks him up before he can blink out. Minsitthar's ultimate denies the return dash on Space Escape. Saber and Natalia outburst him if they reach him first. Franco and Chou fish him out of his own jungle before he hits level 4. If three or more of those names are on the enemy team and your team has no initiation of its own, you are drafting a liability.
+
+The disqualifying test is short. Point at the enemy hero Harley is supposed to kill, and ask whether your team can keep him alive long enough to reach that hero a second time after his first combo ends. If the answer is no, you have drafted a one-shot that costs more than it pays, and the pick is wrong.
+
+### The one thing that makes Harley work
+
+Harley is not a mage. He is a basic-attack assassin who happens to deal magic damage, and the whole kit is built to force that contradiction. Magic Master turns every auto into a magic-damage proc that also shreds magic defense on hit, stacking as you keep landing hits. The same passive ramps Harley's attack speed, which is what lets him actually put those autos to work inside a burst window. Poker Trick is the card volley he uses to stack the passive while he advances. Space Escape is the in-and-out so he survives being in melee range. Deadly Magic is the damage-amplifier that times itself to the rest of the combo.
+
+The ring is the engine. Every point of damage Harley lands on the target while the ring is active is logged, and a hefty share of that total detonates as a second hit when the ring expires. This is why his combo is not "throw skills and leave": the longer he stays in basic-attack range while the ring counts down, the harder the explosion lands. A clean Harley combo is not four buttons. It is ult, dash in, drop S1, then hold the auto-attack button on the ringed target until the hat blinks or you die, whichever comes first.
+
+Reading him as a poke mage is the common mistake. Treating him like a lane bully who kites from fifteen meters leaves the passive stacks at zero and the ring's second hit at its floor value. The payoff is in melee. That is the uncomfortable part of the hero and also the reason he works.
+
+### Laning: the first four minutes as a jungler
+
+Harley runs a standard magic-jungle clear with one twist: his basic attacks do real damage to camps because Magic Master scales off physical attack as well, so you clear faster than most magic junglers if you actually auto between skills.
+
+1. **Full-clear Red buff first, then Blue.** Start on the buff adjacent to your gold lane, drop Poker Trick on the medium camp on the way, and take Blue second. Harley burns mana fast, and the 2.1.88 nerf made it worse: a full Space Escape cycle now costs noticeably more and sits on a longer cooldown, so Blue buff is no longer optional. Skipping it means arriving at the gold lane without enough mana for the combo plus the exit. Level 1 takes S1, level 2 takes S2, level 3 takes S1 again.
+2. **Rotate for the first Turtle at the 1:45 window, but only if your gold lane shows.** Ice Retribution lets you secure even without a tank, but Harley's body is squishy and an invade at 2:00 costs you two levels. If your gold lane is shoved in or rotating, take the Turtle alone. If the enemy jungler is unseen, back off and farm the second camp cycle. Do not solo Turtle if the enemy jungler is Baxia, Fredrinn, or Lapu-Lapu: they outstat you on the objective contest.
+3. **First kill attempt happens at level 4, not level 6.** Your Space Escape plus S1 plus three basic attacks is enough to delete a low-health gold-lane target who cannot dash. You do not need the ultimate unlocked to get your first kill. Players who wait for level 6 before rotating waste the four-minute window where the enemy gold lane has no boots and no second skill point.
+
+Running Flameshot instead of Retribution is only correct if you are playing Harley mid and farming lane, which is a worse version of the hero. Jungle is the lane.
+
+### The power spike you are farming toward
+
+The combo becomes lethal at Arcane Boots with Ice Retribution plus Genius Wand, which lands around the nine-minute mark if you did not die once. This is the two-item window you fight for, not Holy Crystal and not Starlium Scythe. Here is what changes:
+
+Arcane Boots provides ten flat magic penetration. Genius Wand stacks up to three marks of its own magic-defense reduction on top of Magic Master's shred. Together with Harley's passive at full stacks, a squishy target is fighting your damage with effectively negative magic resistance. This is the phase where his ult explosion starts one-shotting gold lanes instead of leaving them at twenty percent.
+
+Starlium Scythe is the third item, and it is the item most guides undersell. The Crisis passive adds true damage to the basic attack you hit after casting a skill, which means every time you cast S1 during the ring window, your next auto tacks on a true-damage hit that feeds the ring's damage-taken explosion formula. On Harley specifically, Crisis is not a nice-to-have, it is the item that makes his combo scale into mid-tier tanks instead of dropping off against them.
+
+The wrong spike is forcing Holy Crystal second. Holy Crystal gives raw magic power, but Harley's scaling ratios are not high enough for raw power to outpace stacked penetration. Power is the fourth item, not the third.
+
+### Teamfight positioning and target priority
+
+The reflex when you see the enemy team clump is to dash in first and look for the opening. That reflex is almost always wrong on Harley.
+
+1. **Ult from the bush, not from melee.** Deadly Magic has global-feeling range and no body-block since 2.1.30. Find the angle where the enemy carry is at the edge of their team, drop the ring from vision, and only dash in once the slow has landed and you know no one on their team reacted with a peel cooldown. Ulting from melee range burns the foreswing on top of the reaction window the enemy gets, and it is why Harleys who open with S2 die before their combo connects.
+2. **Your blink-in target is not the squishiest hero, it is the most isolated squishy.** Deleting their Pharsa at seventy percent HP matters more than chasing the Melissa at forty percent behind a Gatotkaca. Isolation decides whether you survive the return dash, not the size of the health bar.
+3. **Hold the return dash until the ring timer shows under one second.** Space Escape back after the explosion is the cleanest exit: returning keeps the movement-speed boost the dash granted (a 2.1.30 change), so you arrive with a speed edge, and with the return costing real mana since 2.1.88 you want that cost to pay off. Blinking back at two or three seconds burns the mana budget and leaves the ring's second hit at its floor value.
+
+The support edge case: if your support is Estes or Rafaela, you get to sit in auto-attack range an extra second longer and push the ring window to its maximum duration, which is when the explosion does its real damage. If your support is Franco or Tigreal, they initiate before you and you are better off holding the ultimate for the follow-up kill after their CC chain lands. Getting this wrong is the difference between Harley carrying a fight and Harley dying two seconds after the initiation.
+
+### Itemization: two locked slots and four real conversations
+
+The locked slots are Arcane Boots with Ice Retribution and Genius Wand. Everything after that is a conversation about what the enemy team forces you to build.
+
+**Slot three: Starlium Scythe by default, Lightning Truncheon if the fight pattern is single bursts.** Starlium wins out when you expect to sit on the ring for its full duration. Lightning Truncheon wins when the enemy team has enough peel that you get one skill off and leave, because Resonate turns that single skill into a bigger hit.
+
+**Slot four: Holy Crystal, Blood Wings, or Concentrated Energy.** Holy Crystal when you are snowballing and want raw power. Blood Wings when the enemy has at least two threats who can reach the backline and you need the eight-hundred shield to survive arriving in melee. Concentrated Energy when the fight pattern is long and messy, because the stacking magic power pays off across multi-fight sequences.
+
+**Slot five: Divine Glaive unless the enemy is running two low-magic-defense squishies.** Glaive scales off the enemy's magic defense, which means it does less work against squishies you already melt and more work against anyone who bought Athena's Shield or Radiant Armor. If no one on the enemy team is buying magic resist, Glowing Wand is the better pick for its Lifebane healing reduction.
+
+**Slot six: Winter Crown.** The active invulnerability window is the single best tool for surviving the follow-up CC after your combo. Swap to Immortality only if the enemy team is running zero lockdown and you expect to re-engage rather than escape. Blood Wings can slot here instead if you took Concentrated Energy at slot four.
+
+The weakest common default build from older guides is rushing Holy Crystal after boots. It feels fat and gives you a big power number, but it cuts off the penetration curve that actually makes his damage punch above the UI win-rate number. Crystal earns its slot in the late item order, not the early one.
+
+### Mistakes that lose Harley games
+
+**Opening the combo with Space Escape instead of the ultimate.** Dashing in first tips your hand, lets the enemy peel hero react, and means you blow the return dash as an escape from a fight you started on bad footing. The combo is ult from range, then dash into melee once the slow locks them in place. Reversing the order costs you the fight.
+
+**Deadly Magic passes through enemy heroes.** The ring has no body-blocking. If you are waiting for the tank to step aside before you ult, you are throwing free damage. Aim the ultimate at the carry from any angle; the line does not matter.
+
+**Ulting a tank.** Deadly Magic scales its explosion off damage taken during the window. A tank's health pool is too big for your combo to burn a meaningful share of it, and the explosion returns laughably small numbers. Save the ultimate for the target whose health bar you can actually empty inside the ring window.
+
+**Returning to the hat the moment the fight looks messy.** The return dash is a commitment device. If you blink back at one second, you exit the explosion window and leave half your damage on the table, and since the 2.1.88 patch the exit also costs real mana. Stay in auto-attack range until the ring is about to pop, then return. If you die during the ring window, your damage still counts toward the explosion; returning early costs you both the damage and the mana that dying would not have wasted.
+
+**Treating Magic Master's attack-speed ramp as optional.** The passive grants attack speed on every hit, basic or skill, and that ramp is what makes Harley's autos land fast enough to feed the ring. A Harley who throws S1 and never autos between casts is running at one or two stacks forever. The basic-attack rhythm is not filler between skills, it is the damage profile the kit is built around. Miss the autos and you are playing a worse Vale.
+
+### Key tips
+
+> [!TIP]
+> Magic Master's magic-defense shred stacks with every hit, so prime it on the enemy tank before the fight with an auto or two from a safe angle. Your carry appreciates it, and the stacks carry into your combo.
+
+> [!NOTE]
+> Space Escape leaves the hat at your starting position, and the enemy can see it. If they collapse toward it, re-casting is a teleport into their damage: check the hat zone before you return. And the return only happens when you re-cast the skill; walking onto the hat yourself does nothing.
+
+> [!TIP]
+> Open with the ring when the target is already being pressed, not as a poke on a full-health enemy. The explosion pays out on everything the target takes while the ring is up, so the damage you land inside the window is what makes it hit; a finisher after the ring pops still closes the kill.
+
+> [!WARNING]
+> Minsitthar's ultimate blocks the return dash on Space Escape, not the outbound dash. If you blink into a Minsitthar ult zone, you cannot blink back, which means you are stuck in melee range of his team with no escape. Do not dive a Minsitthar carry unless his ultimate is on cooldown.
+
+## Skills
+
+### Magic Master (Passive)
+
+Harley's mastery of magic allows his Basic Attacks and skills to reduce the enemy's Magic Defense by 2 and increase his Attack Speed by 5% - 10% (scales with hero level) for 3s on hit. This effect stacks up to 10 times. Harley's Basic Attacks deal 60 (+50% Total Physical Attack)(+60% Total Magic Power) Magic Damage.
+
+### Poker Trick (Skill 1)
+
+Harley throws 3 waves of cards, 3 cards per wave. Each card deals 120 (+25% Total Magic Power) Magic Damage to enemies. After the same target is hit 3 time(s), the damage will decay to 50% on subsequent hits.
+
+### Space Escape (Skill 2)
+
+Harley blinks in the designated direction, leaving a magic hat at his starting location. His Movement Speed increases by 60% for 2s, then rapidly decays to normal over 4s. Use Again: Return to the hat's location.
+
+### Deadly Magic (Ultimate)
+
+Harley casts a magic ring of fire at an enemy hero, dealing 200 (+60% Total Magic Power) Magic Damage and a 40% slow effect that decays to 15% after 1.5s. The ring will stay around the target, during which Harley can hit the ring to damage the target. The ring will explode after 4s, dealing Magic Damage equal to 200 (+50% Total Magic Power) plus 30% of the damage taken by the target while the ring was active.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Harley's 2nd Skill to find a good position to land his Ultimate. Then cast his Ultimate at the target, and follow up with his 1st Skill before moving back to safety with his 2nd Skill.
+- LANING COMBOS (laning): In the laning phase, first use Harley's 2nd Skill to get a good angle to cast his 1st Skill, and follow up with Basic Attacks. Then use his 2nd Skill again to get back to safety.
+
+## Counters to Harley (pick these against Harley)
+
+- Lolita (Support/Tank): +4.5 pp edge. Harley is countered by tanky heroes like Lolita and Uranus, because Harley can't deal enough meaningful damage to them and they can block and tank his Ultimate for their teammates.
+- Sun (Fighter): +3.1 pp edge. Across Harley's measured matchups, Harley is weakest in the early game. Apply pressure with Sun before Harley can scale.
+- Popol and Kupa (Marksman): +2.7 pp edge. Across Harley's measured matchups, Harley is weakest in the early game. Apply pressure with Popol and Kupa before Harley can scale.
+- Gloo (Tank): +2.6 pp edge. Across Harley's measured matchups, Harley is weakest in the early game. Apply pressure with Gloo before Harley can scale.
+- Hilda (Fighter/Tank): +2.6 pp edge. Hilda's sustain and durability allow them to outlast Harley's burst combos and win extended trades.
+- Roger (Fighter/Marksman): +1.9 pp edge. Roger's durability and kit give them a strong matchup advantage against Harley throughout the game.
+
+## Heroes Harley beats
+
+- Joy (Assassin): +2.2 pp edge for Harley.
+- Gord (Mage): +2.0 pp edge for Harley.
+- Alice (Tank/Mage): +1.9 pp edge for Harley.
+- Melissa (Marksman): +1.9 pp edge for Harley.
+- Valir (Mage): +1.9 pp edge for Harley.
+- Suyou (Assassin/Fighter): +1.5 pp edge for Harley.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/harley.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Pickoff Default (Jungle)
+
+- Items: Arcane Boots, Genius Wand, Starlium Scythe, Holy Crystal, Divine Glaive, Winter Crown
+- Core: Genius Wand, Starlium Scythe, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Arcane Boots when Use when chain crowd control is stopping Harley from returning to the hat after the ring combo.; Glowing Wand over Divine Glaive when Use when healing or shields keep the marked carry alive and the enemy has not bought heavy Magic Defense.; Blood Wings over Winter Crown when Use when your roamer can cover the exit and a shielded chase gives more value than stasis.; Immortality over Winter Crown when Use for final Lord fights where a revive is more valuable than surviving one delayed counter-burst.
+- Total cost: 11790 gold
+
+Default jungle setup for deleting isolated carries through stacked magic penetration, Starlium follow-up autos, and a safer Ice Retribution chase.
+
+### Jungle Feather Snowball (Jungle)
+
+- Items: Arcane Boots, Feather of Heaven, Genius Wand, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Feather of Heaven, Genius Wand, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Starlium Scythe over Blood Wings when Use when you can stay in basic-attack range for the full ring window and want a stronger skill-to-auto burst loop.; Winter Crown over Blood Wings when Use against assassins or suppressive engage that can punish Harley after Space Escape returns.; Glowing Wand over Divine Glaive when Use against shield or sustain lineups before they stack enough Magic Defense to force Divine Glaive.; Tough Boots over Arcane Boots when Use when the first collapse is decided by stuns and slows rather than raw damage checks.
+- Total cost: 11790 gold
+
+Snowball jungle setup that trades the earlier Starlium timing for faster basic-attack pressure when Harley is allowed to keep hitting the ringed target.
+
+### Mid Pickoff Flameshot (Mid)
+
+- Items: Arcane Boots, Genius Wand, Lightning Truncheon, Holy Crystal, Divine Glaive, Blood Wings
+- Core: Genius Wand, Lightning Truncheon, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Bargain Hunter, Lethal Ignition
+- Battle spell: Flameshot
+- Flex: Starlium Scythe over Lightning Truncheon when Use when fights give Harley enough time to weave basic attacks during Deadly Magic instead of landing one poke skill and leaving.; Winter Crown over Blood Wings when Use when enemy dive reaches mid lane before Harley can return to the hat.; Glowing Wand over Blood Wings when Use when anti-regen is mandatory and your team already has enough backline burst.; Tough Boots over Arcane Boots when Use against mid-roam pairs with enough crowd control to interrupt the first pickoff attempt.
+- Total cost: 12010 gold
+
+Lane fallback for drafts that need Harley's pickoff burst from mid, using Flameshot to finish targets when the ring leaves them barely alive.
+
+All builds for this hero: https://mlbbhub.com/builds/harley.
+
+## Synergies
+
+- Akai: Harley is best with heroes who can disrupt the enemy formation like Akai and Khufra. He can follow them into the fight and burst down the squishy targets.
+- Khufra: Harley is best with heroes who can disrupt the enemy formation like Akai and Khufra. He can follow them into the fight and burst down the squishy targets.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,219 @@
+# Aulus, Warrior of Ferocity
+
+> Aulus is a bruiser for drafts that can hold an enemy in the fight long enough for Fighting Spirit to take over. His rework turned him away from old crit patience and toward contact, control-immunity timing, and repeated area pressure. Pick him when your team can start the first crack.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: Jungle, EXP
+- Also played (MLBBHub editorial, not Moonton's listed lane): Gold
+- Specialty: Damage, Charge
+- Difficulty: Easy
+- Tier this patch: S
+- Win rate: 56.64%
+- Pick rate: 1.00%
+- Ban rate: 44.58%
+- Released: 2021
+- Page: https://mlbbhub.com/heroes/aulus
+
+## Guide
+
+### Aulus belongs in drafts that can hold the first body
+
+The old Aulus article was about patience, level scaling, and a late crit payoff. That is not the current hero. The 2.1.67 rework rebuilt him into a sustained fighter who weaves basic attacks between skills, gains a real pursuit pattern, and no longer needs the game to crawl before he matters. His enhanced hits run on flat bonus damage instead of a share of the target's max HP. Patch 2.1.90 gave those hits their slow; patch 2.2.16 ([patch notes](/patch-notes)) finished the ramp: skill damage now opens a short window of enhanced basics, each enhanced swing heals him back, and the second skill's first cast stuns instead of refunding lifesteal, with the recast dash available whether or not it connected. The trade is a longer second-skill cooldown and less attack growth, so he grinds a tank line more slowly than he punishes a low-HP target. The fight he wants is short and dense, won inside the window where his swings are upgraded rather than in a late scaling payoff.
+
+That shift changes the draft test. Pick Aulus when the enemy lineup wants to hold ground rather than vanish from it. He is good into front-to-back teams with one obvious peel layer, one obvious retreat path, and carries that still need to stand still to deal damage. He is much safer when your roam or mid can force the first cooldowns. If your team cracks the formation first, Aulus enters on a damaged map instead of a clean one.
+
+Default him to jungle when your draft needs a second fighter who can decide Turtle fights. Retribution smooths his first clear, accelerates War Axe, and gives him a way to stick to the first objective target. EXP lane is playable, but only into lanes that cannot punish the first two waves hard enough to break your map. If the enemy EXP laner wants long, honest trades, Aulus can stay in the conversation. If the lane is built around repeated displacement, burst poke, or permanent kite, take the safer jungle version or skip the pick.
+
+Avoid him into Valir, Jawhead, and Phoveus drafts unless the rest of the enemy lineup is unusually generous. Valir turns every forward step into a reset. Jawhead punishes over-commitment with a throw into bad ground. Phoveus is the cleanest answer: if your win condition depends on extra dashes, you are volunteering to fight his game. Aulus also gets worse when the enemy comp can layer two hard control windows instead of one.
+
+### The one thing that makes Aulus work
+
+Aulus is a commit check.
+
+Everything in his current kit asks the same question: can the enemy actually stop him before the upgraded swings start landing? If the answer is yes, he looks ordinary. If the answer is no, the fight flips before the back line understands why the first peel failed.
+
+The passive is the hinge. Skill damage opens a short window of enhanced basic attacks, and more skill damage extends it, so his own buttons feed the upgrade instead of a slow per-second build. In that window his reach grows, his swings come faster, the hit slows whoever it lands on, and it gives HP back. That means Aulus is not a hero who wants to poke once and walk away. He wants contact, then one more second of contact, then one more after that. The first skill hit matters because it buys the fourth swing.
+
+His first skill is not just movement. It is the promise of an all-in. You press it to clear slows, move into the fight, and force the enemy to answer the control-immunity window correctly. If they spend the wrong control or spend it late, the rest of his kit lands on a target that is already losing ground.
+
+The second skill turns approach into possession. The fan-shaped first cast now stuns whatever it catches, and the recast dash is available whether or not it connected. That is the patch in one line: Aulus no longer has to win the first exchange to take the second step. Land the fan and the stun keeps the target inside the dash; miss it and you can still close, but you arrive with no control behind you.
+
+Cleaving Axe is not an engage tool you throw from downtown because the button is glowing. It is the close-out. Once Aulus has the enhanced window, reach, and body position, the repeated swings punish anyone still trapped nearby and the final slash closes the trade before the enemy carries can re-space.
+
+That is the whole hero. Do not think "basic attack fighter." Think "fighter who turns one successful entry into an area problem the enemy has to solve immediately."
+
+### Laning: the first four minutes
+
+1. **Open S2 and treat the first cast as a control check.** In EXP, your first job is to claim the wave without donating HP for it. The fan lets you touch minions and threaten the enemy laner at the same time, and hitting the laner stuns them so the follow-up dash lands clean. Miss, and the dash is still there. The question is only whether the wave behind them punishes you for taking it.
+2. **Enter the river with the window already open.** Tag the crab or the last minion with S2 as you arrive, not from your own jungle, because the enhanced window is short and only opens on skill damage. A trade that starts from plain swings is the Aulus that loses lane. One skill landing first turns it into the version that does not.
+3. **Spend battle-spell tempo on the first real map swing.** In EXP, Flicker is for the punish after the enemy burns the stop button or for the escape after you forced too much. In jungle, Retribution is for Turtle, invade defense, or the slow that keeps a priority target inside Cleaving Axe.
+
+The first four minutes are still about discipline. The rework gave him a better way in, not permission to donate the lane for free.
+
+### The power spike you are farming toward
+
+The first real spike is **War Axe plus Brute Force Breastplate**, usually in the 7 to 9 minute window if the jungle path is clean or the EXP lane has not been forced into bad recalls.
+
+War Axe matters because Aulus is already trying to stay in contact long enough to keep swinging and keep the enhanced window open. The item rewards that exact shape of fight. Once it is fully working, the duel stops being a short trade and starts becoming a clock the enemy has to beat. Brute Force Breastplate is the partner because it fixes the second problem after damage: staying attached. The added bulk, movement, and control-duration reduction at full stacks make the first successful entry survive long enough to become the second and third hit.
+
+That two-item state changes him mechanically. Before it, every forward step still feels borrowed. You can threaten, but you are asking the enemy to make a mistake. After it, you can hold contact through the first reset and keep the fight inside your range instead of theirs. This is where a jungle Aulus should contest Turtle corridors and an EXP Aulus should stop playing only for lane parity.
+
+The next bridge item depends on the lobby. Rose Gold Meteor is the clean snowball follow-up when you need a shielded chase window and hybrid defense from Dragon Scale. Queen's Wings is the better answer when the enemy burst window is real and you expect to dip low before the fight turns. Malefic Roar is the honest purchase into armor stackers. But the first transformation starts at War Axe plus Brute Force. That is the point where Aulus stops auditioning for the fight and starts controlling it.
+
+If you reach that spike before the second Turtle, start calling for fights around corridors and choke points. Cleaving Axe gets much better when the enemy's retreat path has edges.
+
+### Teamfight positioning and target priority
+
+The common wrong reflex is to press S1 from max range and ult the first body you can touch. That is how Aulus gets peeled, kited, or thrown back into his own team before the fight begins.
+
+The correct reflex is to enter from the shoulder of the fight, not the front door.
+
+1. **Clip the edge, then choose the real target.** Use the first cast of S2 on whoever is easiest to touch, not necessarily whoever you want dead. Hitting it stuns and clears the path for the recast dash, so the real target can be the carry behind them. Missing costs you the clean entry, not the dash itself. The first hit is a key, not the entire play.
+2. **Treat S1 like a countdown, not a dash.** Once you commit the movement and control-immunity setup, read the answer immediately. If they spent hard control early and missed the stop, keep going. If they still have two clean peel tools waiting, back out and re-enter later. Bad Aulus fights are usually lost in the second after S1, not in the last second of the ult.
+3. **Use Cleaving Axe after contact is already won.** The ultimate is strongest when enemies are already forced to stand near you, path through you, or spend movement badly. If you cast it before that, you are asking them to leave. If you cast it after that, you are punishing them for having nowhere good left to go.
+
+Target priority is simple once the fight is underway: hit the highest-value hero who cannot fully reset your contact. That is often not the marksman. Sometimes it is the mid laner who stepped too close. Sometimes it is the fighter who already used the only peel tool standing between you and the back line. Aulus does not need the dream target first. He needs the reachable target that lets the rest of the fight collapse.
+
+If your support is Mathilda or Rafaela, you can start the sequence a beat earlier because the extra mobility closes the dead air between S1 and full contact. If your support is pure hard engage with no speed behind it, wait longer and enter second. Aulus is much better as the second wave than as the first face the enemy sees.
+
+### Itemization: defaults vs flex slots
+
+Frame Aulus as three locked slots and real conversations everywhere else.
+
+**The locked core is role boots, War Axe, and Brute Force Breastplate.** If you are jungling, that means Ice Retribution into the usual boot timing. If you are laning, Tough Boots is the default because the whole hero still lives or dies on whether the first control chain sticks. Warrior Boots only wins when the enemy draft is almost all physical and the control burden is light.
+
+After that, do not autopilot. Read the lobby.
+
+- **Queen's Wings** when the enemy wins by bursting you before the last two swings. The low-HP damage reduction and cooldown refund buy the kind of ugly fight Aulus likes.
+- **Rose Gold Meteor** when the enemy damage is mixed and you need one more shielded chase window after the first commit. It is a better snowball item than a desperation item.
+- **Malefic Roar** when their front line actually built armor instead of pretending to frontline with HP only. If the enemy tank and EXP laner are both stacking defense, buy this before you start complaining about damage.
+- **Thunder Belt** when fights are long, scrappy, and decided by repeated stickiness rather than one clean burst. The true-damage basic and permanent defense stacking reward the exact games where Aulus keeps walking forward.
+- **Sea Halberd** when shields, regen, or high-extra-HP bruisers keep surviving the first Cleaving Axe. This is the flex that turns sustain targets into real kill windows.
+- **Immortality** when the match is down to one Lord fight and your first death decides the game. He needs one more round.
+- **Malefic Gun** is the niche answer when the enemy is living on slivers of distance and your draft already has enough durability. Do not buy it just because the range sounds funny. Buy it when that extra reach is the difference between maintaining contact and whiffing the whole sequence.
+
+Know the item counters too. Blade Armor punishes mindless basic attacks. Dominance Ice cuts the sustain and shield value that make his mid-fight recovery feel unfair. Winter Crown, Wind of Nature, and Immortality all punish premature ultimate commits. If those items show up, hold the last commit until the active or revive is gone.
+
+### Mistakes that lose games
+
+**Pressing S1 the moment you see someone.** Aulus, Charge! is the beginning of a question, not the answer. If you throw it out from lazy range, the enemy gets time to aim the exact control that stops you. Start closer, from a side angle, or after the first peel tool is already gone.
+
+**Taking the S2 recast just because it lights up.** The second cast no longer needs the first fan to land, so the dash is always sitting there, available to be spent badly. If the first swing tags only the wrong target under their tower, into their tank line, or beside their Jawhead, the correct play is often to keep walking and hold the dash. Greedy recasts lose more Aulus fights than missed recasts.
+
+**Ulting before full contact is established.** Cleaving Axe looks like an engage because it is loud. It is not. When you cast it too early, mobile heroes leave, stasis items waste your window, and the whole fight resets around your longest commitment. Enter first. Trap second. Ult third.
+
+**Blind-picking him into Valir or Phoveus and pretending the matchup is skill-only.** Some matchups really are player gaps. These are not. Valir turns your advance into recoil. Phoveus cashes your mobility into his own. If the draft already gave them the clean answer, do not build your whole game around proving a point.
+
+**Farming the wrong side of the map when Turtle is the real clock.** Aulus scales through completed fights, not just completed camps. If your first core is almost done and the next objective decides river control, stop vacuuming side gold and get there on time. He is not the old version anymore. You are allowed to matter before the game is ancient.
+
+### Key tips
+
+> [!TIP]
+> Walk into objectives with the enhanced window already open. Hit a creep, crab, or wave with S2 on your way in so the first swing of the fight is the upgraded one. With a window this short, timing it matters more than squeezing one extra camp before Turtle.
+
+> [!NOTE]
+> If the first S2 clips only a frontliner, that is still useful. You stunned the body standing in front of their carry, and the threat of the recast still forces the back line to kite early and ruins their spacing before you commit.
+
+> [!TIP]
+> Brute Force and Thunder Belt both reward weaving a basic attack between skills. If you dump every button first and auto later, you are playing against your own build.
+
+> [!NOTE]
+> Winter Crown, Wind of Nature, and Immortality are not reasons to panic. They are reasons to delay Cleaving Axe by one breath, force the defensive button, then finish the fight on the second pass.
+
+## Skills
+
+### Fighting Spirit (Passive)
+
+Whenever Aulus deals skill damage to a unit, he gains an enhanced Basic Attack for 2s (capped at 4s). Enhanced Basic Attack: Aulus raises his axe and slams it into the ground, dealing 135 (+15*Hero Level) (+75% Total Physical Attack) Physical Damage to enemies in a line and recovering 30 (+15% Total Physical Attack) HP. Enemies hit are slowed by 10% for 1s. Aulus also gains 0.5 Attack Range and 20 (+2*Hero Level)% Attack Speed for 1s. Enhanced Basic Attack deals 270 (+30*Hero Level) (+75% Total Physical Attack) Physical Damage to creeps.
+
+### Aulus, Charge! (Skill 1)
+
+Aulus starts accumulating Fighting Spirit, removes all slow effects, and gains 30% extra Movement Speed for 5s. If Aulus does not take high-level control effects within 2s, he will enter the Enraged state and gain Control Immunity.
+
+### The Power of Axe (Skill 2)
+
+Aulus swings his axe, dealing 240 (+100% Total Physical Attack) Physical Damage to enemies in a fan-shaped area and stunning them for 0.3s. Use Again: Aulus dashes forward and smashes the ground, dealing 240 (+100% Total Physical Attack) Physical Damage to nearby enemies.
+
+### Cleaving Axe (Ultimate)
+
+Aulus repeatedly swings his axe at nearby enemies, dealing 110 (+60% Total Physical Attack) Physical Damage each time. After 4 strikes, Aulus briefly charges before unleashing a wider slash, dealing 330 (+180% Total Physical Attack) Physical Damage to enemies in a large area. During this skill, Aulus gains 20% Damage Reduction and a short burst of Movement Speed with each slash.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Aulus's 1st Skill to gain Movement Speed and Control Immunity to quickly enter the fray. Use his 2nd Skill's second cast to get onto key targets, then activate his Ultimate and stay on them for continuous damage. Finally, use his enhanced Basic Attacks to clean up the battlefield.
+- JUNGLER COMBOS (laning): When ganking in the early game, use Aulus's 1st Skill for Movement Speed and Control Immunity to quickly close in on the target. Then, use his 2nd Skill to slow them while weaving in Basic Attacks. Use his 2nd Skill again to stay on the target, and activate his Ultimate to chase while dealing damage, then finish them off with his enhanced Basic Attacks.
+
+## Counters to Aulus (pick these against Aulus)
+
+- Alice (Tank/Mage): +3.0 pp edge. Across Aulus's measured matchups, Aulus is weakest once matches pass 16 minutes. Take the game long with Alice.
+- Zhuxin (Mage): +2.3 pp edge. Zhuxin has a statistical edge over Aulus based on ranked matchup data. Pick Zhuxin to gain an advantage in draft.
+- Edith (Tank/Marksman): +2.3 pp edge. Across Aulus's measured matchups, Aulus is weakest once matches pass 16 minutes. Take the game long with Edith.
+- Yve (Mage): +2.2 pp edge. Across Aulus's measured matchups, Aulus is weakest once matches pass 16 minutes. Take the game long with Yve.
+- Balmond (Fighter): +2.0 pp edge. Across Aulus's measured matchups, Aulus is weakest once matches pass 16 minutes. Take the game long with Balmond.
+- Julian (Assassin/Fighter): +1.8 pp edge. Across Aulus's measured matchups, Aulus is weakest once matches pass 16 minutes. Take the game long with Julian.
+
+## Heroes Aulus beats
+
+- Gloo (Tank): +3.4 pp edge for Aulus.
+- Sun (Fighter): +2.4 pp edge for Aulus.
+- Minsitthar (Fighter): +2.1 pp edge for Aulus.
+- Tigreal (Tank): +2.0 pp edge for Aulus.
+- Natalia (Assassin): +1.6 pp edge for Aulus.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/aulus.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Bruiser Default (Jungle)
+
+- Items: Tough Boots, War Axe, Brute Force Breastplate, Rose Gold Meteor, Queen's Wings, Malefic Roar
+- Core: War Axe, Brute Force Breastplate, Rose Gold Meteor
+- Emblem: Fighter Emblem with Firmness, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Immortality over Malefic Roar when Use for final Lord fights when one revive is stronger than extra armor penetration.; Sea Halberd over Malefic Roar when Use when shields, regen, or high-extra-HP bruisers survive the first Cleaving Axe.; Warrior Boots over Tough Boots when Use only against mostly physical drafts with light crowd control.
+- Total cost: 10800 gold
+
+Default jungle setup for games where Aulus can farm War Axe into Brute Force and contest Turtle as a sustained second-wave fighter.
+
+### EXP Frontline Sustain (EXP)
+
+- Items: Tough Boots, War Axe, Brute Force Breastplate, Thunder Belt, Queen's Wings, Immortality
+- Core: War Axe, Brute Force Breastplate, Thunder Belt
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Rose Gold Meteor over Immortality when Use before true late game when a shielded chase window matters more than revive insurance.; Antique Cuirass over Immortality when Use against physical skill burst that can collapse Aulus before Queen's Wings turns on.; Athena's Shield over Immortality when Use when one magic burst combo removes Aulus before he can reach full Fighting Spirit.
+- Total cost: 10860 gold
+
+EXP lane setup for front-to-back fights where Aulus must survive the first control chain and keep walking through the bruiser line.
+
+### Anti-Tank Chase (Jungle)
+
+- Items: Tough Boots, War Axe, Brute Force Breastplate, Sea Halberd, Malefic Roar, Demon Hunter Sword
+- Core: War Axe, Brute Force Breastplate, Malefic Roar
+- Emblem: Fighter Emblem with Firmness, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Queen's Wings over Demon Hunter Sword when Use when durability is the reason Aulus cannot finish the second swing cycle.; Rose Gold Meteor over Demon Hunter Sword when Use against mixed damage when the shield and movement burst protect the first commit.; Immortality over Demon Hunter Sword when Use once the match is decided by one death around Lord or base defense.
+- Total cost: 10960 gold
+
+Damage-leaning jungle setup for tanky or sustain-heavy drafts where Sea Halberd and penetration matter more than extra low-HP insurance.
+
+All builds for this hero: https://mlbbhub.com/builds/aulus.
+
+## Synergies
+
+- Angela: Aulus is a dive Fighter and he thrives with reliable ranged Support, such as Angela and Floryn.
+- Floryn: Aulus is a dive Fighter and he thrives with reliable ranged Support, such as Angela and Floryn.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T10:05:35.871Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

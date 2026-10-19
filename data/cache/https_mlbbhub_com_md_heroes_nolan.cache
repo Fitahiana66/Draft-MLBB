@@ -1,0 +1,205 @@
+# Nolan, Cosmic Wayfinder
+
+> Nolan is the assassin whose damage does not exist until two of his rifts touch. Pick him when your draft has peel for a short setup window and a squishy backline you can actually reach. Pick anything else when the enemy already locked Phoveus, Khufra, or Franco.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Chase, Burst
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 49.11%
+- Pick rate: 1.40%
+- Ban rate: 6.12%
+- Released: 2024
+- Page: https://mlbbhub.com/heroes/nolan
+
+## Guide
+
+### Nolan only works in one kind of draft
+
+Nolan is a setup-dependent one-shot jungler, not a flex assassin. His kit only does real damage when two rifts intersect, which means every pick is a multi-step action that takes a full second to resolve. Against a draft that can interrupt that second, he does nothing.
+
+Lock Nolan when your team looks like this. You already have a frontline initiator (Atlas, Tigreal, Khufra on your side, Franco) who forces the enemy to blow their defensive cooldowns before Nolan arrives. You have at least one lane threat the enemy has to respect, so their jungler cannot shadow you. Your carry is someone who needs a clean backline to scale, so picking off the enemy support or mage directly converts to objective pressure.
+
+Do not pick Nolan when any of these three things are true. The enemy already has Phoveus: his Astaros' Gaze passive shortens his skill cooldowns every time an enemy dashes or blinks nearby, and Nolan's kit is almost nothing but dashes. Get caught with a Sinner's Mark and Phoveus' ultimate locks onto you. The enemy support is Franco or Kaja: Nolan's ultimate purges debuffs, not suppression, so a single hook or Divine Judgment ends his combo before it starts. The enemy already has two hard-CC users with point-and-click lockdown (Saber + Khufra, Ruby + Minsitthar): Nolan cannot set up two rifts under a target who is being chain-locked off him.
+
+If you cannot point at a condition from the first list that your draft satisfies, Nolan is the wrong pick. "Assassin slot open" is not a reason.
+
+### The one thing that makes Nolan work
+
+Nolan's solo skills are deliberately undertuned. Expansion's raw hit lands weaker than most level-4 marksman autos. The real damage is Dimensional Rift, the passive: whenever two rifts touch, they detonate, pull enemies to the intersection, and deal a separate chunk of physical damage on top of the cast that placed them. Every rift is temporary and slows anything touching it, so the hero's entire job is to place two of them on the same target before the first one expires.
+
+That inverts how you play an assassin. Normal burst heroes land a stun, then press everything, then walk away. Nolan enters a fight with no damage on the board, spends his first cast and his dash to lay the first rift, and only starts dealing damage on the second cast. That is why supports and marksmen who would die in one rotation to Gusion can often kite a full Nolan combo: the combo has a setup beat.
+
+Three kit quirks matter more than the numbers. Cosmic Leap is the enhanced dash basic Nolan gets after a stretch of not dealing or taking hero damage, which means the first engage of every fight comes free from fog of war with a rift already placed on the target. Expansion leaves its rift on the first enemy hit, so poking a minion wave burns the cast without placing the rift where you need it. Fracture purges all debuffs on Nolan the moment it activates, which makes it a reactive cleanse against CC chains that were already chained onto him, not a preemptive shield.
+
+### The first four minutes: clear, spike, gank
+
+Nolan clears fast because every skill places a rift and S2's cooldown is short enough to chain through camps. Follow the order below. Do not improvise.
+
+1. **Take S2 first, walk to red buff, open the clear with S1 + S2 + auto.** S1 places a rift on the first camp unit hit, S2 dashes through and places a second rift, the two rifts overlap in the small camp radius and detonate through the whole stack. Red buff dies in one rotation with retribution timed on the camp leader. Full HP, roughly 18 seconds to next camp.
+2. **Cross to the two small camps and the scuttle, then invade blue.** Skill 1 at level 2, then the lite version of the same rotation. By the time you back, you are level 4 with Roam Boots or the Retribution component plus a second item's worth of gold.
+3. **First gank at the 2:30 mark on the side lane that pushed first.** Walk in from the river brush with Cosmic Leap charged. The enhanced basic dashes onto the target and drops the first rift; S1 in the opposite direction of their flash places the second rift behind them so the intersection pulls them back toward you, not away. If they Flicker the pull, the combo still connects because the rift detonation tracks them for the delay window.
+
+Burn Flicker only to cover a failed gank or to jump a wall after you secured a kill. Do not use it to close distance on the first engage. Cosmic Leap already is your gap close, and wasting Flicker to "double-dash in" leaves you with nothing if the target has one more escape than you expected.
+
+### The two-item spike at five minutes
+
+Nolan's fighting identity comes online when [Blade of the Heptaseas](/items/blade-of-the-heptaseas) and [Hunter Strike](/items/hunter-strike) are both complete, typically around the 5- to 6-minute mark with retribution-boosted farm. Before that spike, his burst is camp-clearing damage at best. After it, an undefended marksman dies inside one rotation.
+
+Heptaseas is the key item and the reason. Its Ambush passive primes the next basic attack after a no-damage window, and that window is the exact same one that arms Cosmic Leap. The two effects trigger on the same basic attack. A level-7 Nolan walking out of the river bush lands a Cosmic Leap enhanced basic that stacks the Heptaseas Ambush bonus and drops a rift; S2 dashes through and drops the second rift; the intersection pulls and detonates. The detonation adds damage to the opening attack and dash before you cast S1.
+
+Hunter Strike does two things at once. The cooldown reduction keeps S2 ready to dash twice per teamfight window, so a cleansed rift can be replaced. The Retribution passive (confusingly named, not the jungle spell) grants a big burst of movement speed after landing consecutive hits, which stacks with the slow from Heptaseas' Ambush and turns Nolan into the fastest hero on the map in the middle of a brawl. The chase problem solves itself.
+
+### Teamfight positioning: engage first, not last
+
+The reflex on an assassin is to let the initiator go in and clean up when the carries overextend. That reflex will get Nolan killed. His combo needs a stretch of no damage to prime Cosmic Leap and Heptaseas, which only happens from fog of war, not mid-teamfight. If Nolan is the third hero to enter a fight that already started, both primers are already broken.
+
+Three rules.
+
+1. **Engage from a flank before the main fight starts.** Ideal timing is when the enemy mid and jungler are rotating to an objective but the fight has not yet committed. Enter from brush with Cosmic Leap charged, one-shot whichever squishy walked closest to your side, then disengage with Fracture's backward dash. This is a single pick, not a teamfight; your team cleans up 5v4.
+2. **Do not tunnel the ultimate purge onto the first CC you see.** Fracture is a cleanse, not a preemptive shield. If you pop it the moment a Khufra ball is in the air, you still eat the knockup (skill was in progress). Save it for a chain: first CC lands, you purge it mid-chain to avoid the second CC (a Saber ult, a Ruby pull, a Chou suppression followup).
+3. **Target priority is whoever is farthest from their support.** Nolan's damage needs a clean combo window. A 99-percentile Khimer with Estes heal-stacked behind him is a bad target; the Harley 2 screens up who stepped off creep for a ward is the correct target, even if the Harley is 5 items.
+
+Your support matters more than people admit. If it is Estes, you can push the pick one layer deeper than safe because the heal covers your return. If it is Diggie, you get zero peel outside of Time Journey, so the first time you engage from brush is also the last pick you get that fight; make it count.
+
+### Itemization: two locked slots, four real decisions
+
+Two items are not negotiable: a [jungle boot](/items/ice-retribution) (Ice Retribution in most drafts, discussed below) and [Blade of the Heptaseas](/items/blade-of-the-heptaseas). The other four slots are actual conversations.
+
+**Jungle boot.** Default to [Ice Retribution](/items/ice-retribution) when the enemy has kite threats (Wanwan, Bruno, Kadita, any hero who creates distance). The movement-speed steal on cast is a second slow on top of Nolan's rift slow, and it is the only thing that reliably keeps a Wanwan from Purifying out of the combo. Pick [Bloody Retribution](/items/bloody-retribution) when your draft is snowball-forward and you want pure sustain between fights. Pick [Flame Retribution](/items/flame-retribution) only when the enemy has no kite threat and you are playing mirror-assassin matchups where the steal on enemy hero is the tie-breaker.
+
+**Slot 3: [Hunter Strike](/items/hunter-strike).** Locked when the enemy has a main tank you have to chase through. The CDR + movement combo is irreplaceable.
+
+**Slot 4: [Endless Battle](/items/endless-battle) or [Sky Piercer](/items/sky-piercer).** Endless Battle is the correct default. Its Divine Justice passive adds true damage to the next basic after a skill cast, and Nolan casts skills often enough that the proc lands on nearly every basic. Sky Piercer only wins over Endless Battle when you are already ahead and a fed target sits consistently in execute range after your combo, which is rare before the 12-minute mark.
+
+**Slot 5: [Malefic Roar](/items/malefic-roar) or [Blade of Despair](/items/blade-of-despair).** Malefic Roar is correct against 2+ items of armor on the enemy frontline or a Fredrinn/Thamuz matchup. BoD is correct when the enemy stays squishy (no tank, or the tank is 1-item behind) because its Despair passive spikes physical attack against targets below half HP, which matches exactly when the second rift detonates.
+
+**Slot 6: [Queen's Wings](/items/queens-wings).** Defensive slot. Its Demonize passive grants heavy damage reduction once you cross a low-HP threshold and shaves skill cooldowns, which means the second you cross it, your S2 is up and Fracture may be up. That is the escape item, not a damage item, and it is correct against any comp with 2+ burst threats on their side.
+
+Do not build Berserker's Fury on Nolan. His only basic attack that matters is the primed Cosmic Leap one, which is already enhanced by his passive and Heptaseas; crit chance does nothing for rift damage and is wasted stat budget.
+
+### Mistakes that lose Nolan games
+
+**Opening the combo with S2 instead of Cosmic Leap.** The enhanced basic attack from Cosmic Leap is about one-third of your opening damage and the first rift placement. If you open with S2 out of brush you burn the dash without the Heptaseas Ambush bonus or the Cosmic Leap bonus damage, and you have to stand in melee to press S1 for the second rift. Walk up, press nothing, auto-attack to trigger Cosmic Leap, then S2.
+
+**Ulting into a Phoveus who has not yet ulted.** Fracture's backward dash is a dash. Phoveus' ultimate is a global execution on any dasher. Using Fracture inside his range with his ult up is a free kill for him; the purge on Fracture does not save you because Phoveus' ult is locked in the moment it targets you. Against Phoveus, Fracture is for the purge only, inside your own jungle.
+
+**Counter-jungling at level 3 against a strong early jungler.** Nolan's two-camp invade into Fanny, Hayabusa, or Ling at equal level is a coin flip, and he loses the coin flip more often than not because his combo is slower than theirs. Take your own camps first. Invade only when you have a 2-level lead or the enemy jungler has been seen elsewhere.
+
+**Greedy Flicker on the engage instead of the escape.** Flicker can set up a creative angle, but Nolan already has two mobility tools (S2 and the Fracture dash-back), and neither should be your entry. Using Flicker to enter a fight leaves Fracture as your only disengage, and you do not want to spend the ultimate on an exit. Save Flicker for the jump-over-wall moment after a pick.
+
+### Key tips
+
+> [!TIP]
+> Cosmic Leap and Blade of the Heptaseas prime on the same no-damage window. They are designed to trigger together. Never break that window by poking minions before you gank. Every creep wave you last-hit on the way to lane costs you the single biggest damage amplifier in your kit.
+
+> [!NOTE]
+> Fracture purges all debuffs the instant it activates, including silences and roots in progress. If you are stunned by a single-source CC (Saber ult, Ruby S2), you can buffer Fracture during the stun animation and it will purge the tail end of the effect. Suppression is not a debuff and does not get purged. The difference between Saber's stun and Franco's ultimate matters.
+
+> [!TIP]
+> Later rift detonations on the same target deal less damage. Use the extra rift to finish that target when a reduced hit is enough. Keep the skill for another target or an exit when the first kill is already secure.
+
+> [!WARNING]
+> The Cosmic Leap primer resets on damage taken from heroes, not from minions or creeps. However, it also breaks if you deal hero damage. That means Retribution-stealing from an enemy hero (Ice/Flame/Bloody Retribution used offensively) breaks the primer. Do not preemptively retribution-steal from the target you are about to engage.
+
+## Skills
+
+### Dimensional Rift (Passive)
+
+Nolan's skills will leave a Rift. When a rift comes into contact with another rift, they will activate and pull enemies to their center and deal 240 (+140% Extra Physical Attack) Physical Damage after a short delay. Each time a rift activation hits an enemy, Nolan will gain 25 Energy. If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced by 40%. Cosmic Leap: If Nolan does not deal or take damage for 5s, he enhances his next Basic Attack to dash to the target, dealing (+120% Total Physical Attack) Physical Damage and leaving a Rift. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)
+
+### Expansion (Skill 1)
+
+Nolan cuts a rectangular area in front of him with his cosmic gauge, dealing 230 (+40% Total Physical Attack) Physical Damage and leaving a Rift at the first enemy hit.
+
+### Gauge (Skill 2)
+
+Nolan charges in the target direction and slashes with his cosmic gauge, dealing 70 (+13% Total Physical Attack) Physical Damage to enemies in his path and leaving a Rift.
+
+### Fracture (Ultimate)
+
+Nolan slashes at the target location 3 times, dealing 120 (+50% Extra Physical Attack) Physical Damage with each slash while leaving 3 rifts and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan dashes backward.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, approach the enemy using Nolan's 2nd Skill and enhanced Basic Attack, then activate the rift with his 1st Skill. Use Nolan's 2nd Skill to dash through the enemy, and unleash his Ultimate to activate all the rifts while dashing back to safety.
+- LANING COMBOS (laning): In the laning phase, use Nolan's 2nd Skill and enhanced Basic Attack to catch the enemy, then use his 1st Skill to activate the rift. Follow up with his 2nd Skill into his 1st Skill to activate another rift explosion.
+
+## Counters to Nolan (pick these against Nolan)
+
+- Natalia (Assassin): +3.7 pp edge. Across Nolan's measured matchups, Nolan is weakest once matches pass 16 minutes. Take the game long with Natalia.
+- Saber (Assassin): +3.4 pp edge. Saber has a statistical edge over Nolan based on ranked matchup data. Pick Saber to gain an advantage in draft.
+- Hayabusa (Assassin): +1.9 pp edge. Across Nolan's measured matchups, Nolan is weakest once matches pass 16 minutes. Take the game long with Hayabusa.
+- Hilda (Fighter/Tank): +1.8 pp edge. Hilda's sustain and durability allow them to outlast Nolan's burst combos and win extended trades.
+- Arlott (Fighter/Assassin): +1.7 pp edge. Across Nolan's measured matchups, Nolan is weakest once matches pass 16 minutes. Take the game long with Arlott.
+- Jawhead (Fighter): +1.5 pp edge. Across Nolan's measured matchups, Nolan is weakest once matches pass 16 minutes. Take the game long with Jawhead.
+
+## Heroes Nolan beats
+
+- Estes (Support): +4.2 pp edge for Nolan.
+- Natan (Marksman): +2.6 pp edge for Nolan.
+- Floryn (Support): +2.3 pp edge for Nolan.
+- X.Borg (Fighter): +2.3 pp edge for Nolan.
+- Valir (Mage): +2.1 pp edge for Nolan.
+- Bane (Fighter/Mage): +2.0 pp edge for Nolan.
+- Angela (Support): +1.8 pp edge for Nolan.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/nolan.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Rift Burst (Jungle)
+
+- Items: Tough Boots, Blade of the Heptaseas, Hunter Strike, Malefic Roar, Blade of Despair, Immortality
+- Core: Blade of the Heptaseas, Hunter Strike, Malefic Roar
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Magic Boots over Tough Boots when Use when the enemy has low chain control and shorter rift cycles matter more than tenacity.; Sky Piercer over Blade of Despair when Use only when Nolan is already converting early picks and can protect execute stacks through the next objective fight.; Rose Gold Meteor over Immortality when Use against magic burst when a shield and movement burst save the first dive better than a delayed revive.
+- Total cost: 11850 gold
+
+Default jungle setup for priming Cosmic Leap with Heptaseas, detonating the first rift pair, then using Hunter Strike and Ice Retribution to keep the target inside follow-up range.
+
+### Snowball Execute (Jungle)
+
+- Items: Magic Boots, Blade of the Heptaseas, Sky Piercer, Hunter Strike, Blade of Despair, Malefic Roar
+- Core: Blade of the Heptaseas, Sky Piercer, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Tough Boots over Magic Boots when Use when one stun or slow chain is the main reason Nolan loses his Sky Piercer stacks.; Immortality over Blade of Despair when Use once shutdown risk is higher than the value of the last raw damage slot.; Sea Halberd over Blade of Despair when Use when healing, shields, or high-extra-HP fighters keep targets above the execute threshold.
+- Total cost: 11240 gold
+
+High-risk snowball setup for games where Nolan gets early kills, turns those kills into Sky Piercer pressure, and uses Flame Retribution as one more burst check.
+
+### Anti-Sustain Armor (Jungle)
+
+- Items: Tough Boots, Blade of the Heptaseas, Hunter Strike, Sea Halberd, Malefic Roar, Rose Gold Meteor
+- Core: Blade of the Heptaseas, Hunter Strike, Sea Halberd
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Blade of Despair over Rose Gold Meteor when Use when enemy sustain is handled and Nolan can turn the last slot back into raw execution damage.; Immortality over Rose Gold Meteor when Use before final Lord fights when one revive is more valuable than a magic-burst shield.; Athena's Shield over Rose Gold Meteor when Use against front-loaded magic burst that kills Nolan before Lifeline can convert into a clean disengage.
+- Total cost: 10590 gold
+
+Anti-sustain jungle setup for games where the first pick is still the goal, but Sea Halberd and Malefic Roar are needed before the enemy frontline collapses.
+
+All builds for this hero: https://mlbbhub.com/builds/nolan.
+
+## Synergies
+
+- Tigreal: Nolan works well with Tanks that can initiate and CC the enemy so Nolan to focus on dealing as much damage as possible, such as Tigreal and Gatotkaca.
+- Gatotkaca: Nolan works well with Tanks that can initiate and CC the enemy so Nolan to focus on dealing as much damage as possible, such as Tigreal and Gatotkaca.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

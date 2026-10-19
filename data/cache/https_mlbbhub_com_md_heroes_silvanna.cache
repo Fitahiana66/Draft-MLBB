@@ -1,0 +1,209 @@
+# Silvanna, Imperial Knightess
+
+> Silvanna is a pick tool disguised as an EXP fighter. She wins when the draft gives her one high-value body to isolate and a second teammate close enough to punish the cage. She feels awful when you ask her to blind-frontline into peel, cleanse, or repeated displacement.
+
+## Snapshot
+
+- Role: Fighter
+- Lane: EXP
+- Specialty: Initiator, Magic Damage
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 51.23%
+- Pick rate: 1.01%
+- Ban rate: 1.73%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/silvanna
+
+## Guide
+
+### Pick her for the cage, not the lane
+
+Silvanna is not a comfort blind. She is a reaction pick whose value spikes when the enemy draft depends on one mobile damage dealer playing one step too far forward. If the opposing win condition is a Ling, Fanny, Pharsa, Clint, or any backliner that survives by leaving the fight on demand, Silvanna turns that escape pattern into a death sentence.
+
+Lock her when three conditions line up. First, the enemy has a carry you can identify before loading screen, not just "someone squishy." Second, your team has instant follow-up from mid or roam so the trapped target dies before help arrives. Third, the enemy lineup is light on displacement, cleanse, and suppress. Silvanna does not need a perfect lane. She needs one clean cage that turns a 5v5 into a 5v4.
+
+Bench her when the enemy already shows the tools that make Imperial Justice look fake. Valir can push her out of her own work. Akai can spin her off the trapped target. Franco and Kaja punish the dive before it cashes in. Ruby drags fights sideways and forces Silvanna to hit the wrong body. Double Purify drafts are another red flag, because a hero built around one hard commit should not be gambling into two free exits.
+
+EXP lane is still her most reliable home because the extra levels matter more than the extra gold. Jungle Silvanna exists, but it is a situational answer when your team needs hard catch from the core slot. If the lobby does not give you a clear target and a clear follow-up path, pick a real frontliner instead.
+
+### Silvanna is a private duel inside a public fight
+
+Silvanna is not a general-purpose initiator. She is a private duel inside a public fight.
+
+Everything in her kit points toward one idea: trap one hero, stay glued to that hero, and let repeated hits make the later part of the trade stronger than the first. Her passive rewards staying on target. Her first skill is not there to start every engage on sight; it is there to make sure the target cannot walk away once the fight has started. Her second skill is the actual verdict. The spin keeps pulling, keeps hitting, keeps stacking pressure, and forces the target to either leave immediately or die where they stand.
+
+That is why Silvanna feels unfair in the right draft and toothless in the wrong one. When the enemy cannot displace her and cannot cleanse the catch, every repeated hit becomes a countdown. When they can break the cage or drag her off the target, the whole hero collapses into a melee body with mediocre waveclear and no second plan.
+
+Play her like a specialist. She does not want to "start the fight." She wants to decide who is not allowed to play it.
+
+### Laning: the first 5 minutes
+
+Silvanna's first job in lane is not winning every trade. It is arriving at the first Turtle with health, level lead, and one spell still worth respecting.
+
+1. **Take Spiral Strangling first and angle it through both hero and wave.** The skill deals reduced damage to minions, so a pure waveclear cast is a bad trade. Stand off-center, clip the opposing EXP laner with the outer path, and make the lane shove only when it also taxes their HP bar.
+2. **Treat Cometic Lance as the answer, not the question.** Hold it until the enemy burns a dash, steps up for the cannon minion, or commits into your side of the lane. Missing the first hit removes your stick tool and your escape in the same breath.
+3. **Spend Vengeance only on real all-ins or the first objective fight.** Press it after Imperial Justice lands and your spin has already started. If you use it on a half trade at minute 2, the minute 3 rotation becomes harmless and the enemy gets to contest Turtle without respecting you.
+
+If you are even on lane by minute 4, that is fine. Silvanna is not farming for an endless side-lane. She is farming for one forced fight around river where a trapped jungler or mid laner decides the objective.
+
+### The power spike you are farming toward
+
+Silvanna's real two-item spike is Genius Wand plus Concentrated Energy, usually around minute 8 to 10 after boots.
+
+Genius Wand is the first half of the trick. Its passive strips magic defense every time you keep damage flowing, which is exactly what Silvanna does once Spiral Strangling starts ticking. The target enters the trade with one amount of magic defense and finishes the trade with far less, which means the later hits matter more than the early ones.
+
+Concentrated Energy is the second half. Silvanna has no trouble stacking Recharge because her damage arrives in repeated hits, not one burst packet. That means the item reaches its extra Magic Power and then its short magic-damage boost inside the same committed fight where she already wants to stand on top of someone. The bonus HP matters too, because Silvanna does not need another glass-cannon slot at this timing. She needs enough life to stay in the cage for the full spin.
+
+Before this pair, Silvanna threatens but still needs help finishing. After this pair, she starts killing cleanly off one caught carry or deleting half of an objective fight by removing the enemy jungler on entry. That is the window where you stop asking whether you can force and start asking which target is worth the spell cycle.
+
+### Teamfight positioning and target priority
+
+The common bad reflex is ulting the first body that crosses vision. Silvanna is not paid by crowd control duration. She is paid by clean kills on the right target.
+
+1. **Wait for one peel button to disappear.** If Valir still has knockback, Akai still has Heavy Spin, or Franco is still holding hook plus suppress, your engage is not ready yet. Let your tank or mage pull one answer first, then dive.
+2. **Place Imperial Justice on the exit path, not the center of the model.** Cast slightly behind a retreating target so the closest trapped hero is the one trying to leave, not the frontliner stepping in front.
+3. **Spin through one target, then reset your feet.** Once the pick is secured, do not stand in place autoing whoever is nearby just because the circle is still up. Reposition with the second cast of Cometic Lance if it is available, or step out and look for the next angle.
+
+The support-dependent edge case matters. If Angela, Mathilda, or Floryn is already connected to your dive, you can jump deeper and trust the sustain to finish the commit. Without that support layer, only dive targets your mid laner can reach immediately. Silvanna looks brave when she enters alone. She also dies alone.
+
+### Itemization: defaults vs flex slots
+
+Default boots are Tough Boots. Default damage spine is Genius Wand plus Concentrated Energy. After that, the build should answer the lobby, not a screenshot from an old guide.
+
+Boot choice is the first conversation. Stay on Tough Boots as the ranked default, because the control-duration reduction is what keeps Silvanna attached to a target that keeps trying to shake the cage. Swap to Arcane Boots when the enemy EXP lane is light on early crowd control and the first cage needs extra Magic Penetration to finish the trapped target. Swap to Warrior Boots when the EXP matchup is basic-attack heavy and you need to survive lane long enough to reach your first spike.
+
+The flex slots should be real decisions:
+
+- Take **Glowing Wand** into HP stackers, regen comps, or shield-heavy drafts. Scorch adds percent-HP pressure and Lifebane stops sustain heroes from outliving your full combo.
+- Take **Brute Force Breastplate** when fights are long and messy. Silvanna damages constantly, so Brute Force stacks naturally and gives the movement speed and control-duration reduction she needs to keep contact after the jump.
+- Take **Oracle** when the enemy is trying to wear you down instead of deleting you in one spell cycle. Bless increases received shield and HP regen by 25%, which makes Spiral Strangling's shield far more difficult to chew through.
+- Take **Winter Crown** when your job is diving one carry, forcing cooldowns, and living through the collapse. Start the spin first, then freeze when the counterburst arrives.
+- Take **Divine Glaive** the moment Athena's Shield, Radiant-style anti-magic buys, or stacked magic defense starts showing up. Silvanna hates half-winning a catch because the target finally bought enough resistance to walk away.
+
+If the draft already has enough damage and only needs you to force one more round of spells, finish with Immortality over greed. Silvanna does not need six damage items to matter. She needs enough damage to make the cage lethal and enough durability to survive being seen.
+
+### Mistakes that lose Silvanna games
+
+**Blind-picking her into repeated displacement.** Silvanna can punish mobility, but she hates being moved herself. Valir, Akai, Ruby, Franco, and Kaja all change the fight by denying her contact with the trapped target. If two of those tools are already visible, stop trying to outplay draft phase.
+
+**Throwing Cometic Lance before the target spends mobility.** This is the mechanical mistake that ruins more Silvanna fights than bad itemization. If you open with S1 into a ready dash or Purify, you have spent your stick tool and your exit path together. Walk first, threaten the ult, and force the response before you lance.
+
+**Hard-spinning every wave and arriving late to river.** Silvanna's second skill is not good enough on minions to justify burning it mindlessly. When you use your whole lane pattern just to clear, the enemy EXP gets first move to Turtle and your strongest early objective window disappears.
+
+**Ulting the tank because he is nearest.** A trapped frontliner is not automatically a good target. Ask whether killing that hero changes the next five seconds. If the answer is no and the enemy carry is still untouched, you used your best cooldown for noise instead of value.
+
+**Building only damage when your job is first entry.** One penetration item and one sustain item are enough for Silvanna to threaten squishies. After that, ranked games are usually decided by whether she survives the counterturn. Skip every defensive slot and the hero stops being a pick tool and becomes free shutdown gold.
+
+### Key tips
+
+> [!TIP]
+> Cast Imperial Justice slightly behind a retreating carry. The restraint checks the closest hero inside the circle, so back-edge placement catches the runner instead of the bodyguard stepping forward.
+
+> [!TIP]
+> Genius Wand stacks during Spiral Strangling. The first part of the spin is setup. The back half is where the target starts paying for staying inside the cage.
+
+> [!NOTE]
+> Oracle is not a generic tank buy on Silvanna. Buy it for long trades, because Bless increases her received shield by 25% and turns Spiral Strangling into a much harder commitment to break.
+
+> [!TIP]
+> Winter Crown can be pressed after Spiral Strangling starts. Frozen stops new casts, but it does not interrupt a skill that is already running, which lets Silvanna keep spinning while dodging the counterburst.
+
+## Skills
+
+### Knightess' Resolve (Passive)
+
+Silvanna's Basic Attacks deal 25 (+45% Total Physical Attack) (+75% Total Magic Power) Magic Damage. Silvanna's attacks apply a mark on enemy heroes for 5s on hit, each mark reducing their Hybrid Defense by 3-6 (up to 5 stacks). Silvanna's skills and Basic Attacks deal 30% extra damage to enemy heroes with the max number of marks.
+
+### Cometic Lance (Skill 1)
+
+Silvanna dashes forward. Upon reaching the max range or hitting a non-Minion enemy, she swings her lance, dealing 250 (+100% Total Magic Power) Magic Damage to nearby enemies and stunning them for 1s.
+
+### Spiral Strangling (Skill 2)
+
+Silvanna thrusts her lance in the target direction and spins it 6 times while gaining a 350 (+150% Total Magic Power) shield. Each spin deals 165 (+45% Total Magic Power) Magic Damage and slightly pulls targets toward the center. Silvanna spins 1 additional time for every 50% of extra Attack Speed she possesses. The skill deals only 50% damage against Minions. Spiral Strangling counts as a Basic Attack but cannot Crit.
+
+### Imperial Justice (Ultimate)
+
+Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing 350 (+110% Total Magic Power) Magic Damage to enemies in the area, slowing them by 40% for 1.5s, and restraining the closest enemy hero to the area for 3.5s. (This skill cannot be interrupted.) Silvanna gains 100% Attack Speed and 40% Lifesteal when in the Circle.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Silvanna can control back-row enemies with her [ULTIMATE] and then stun them with her [1st Skill]. Finally, she can deal damage with her [2nd Skill] and Basic Attacks.
+- LANING COMBOS (laning): Silvanna can poke enemies with her [2nd Skill] and use her 1st Skill to close the distance once they're low on HP. Then, she can control them and finish them off with her [ULTIMATE].
+
+## Counters to Silvanna (pick these against Silvanna)
+
+- Barats (Tank/Fighter): +3.4 pp edge. Across Silvanna's measured matchups, Silvanna is weakest in the early game. Apply pressure with Barats before Silvanna can scale.
+- Benedetta (Assassin/Fighter): +3.2 pp edge. Across Silvanna's measured matchups, Silvanna is weakest in the early game. Apply pressure with Benedetta before Silvanna can scale.
+- Khufra (Tank): +3.2 pp edge. Khufra's durability and kit give them a strong matchup advantage against Silvanna throughout the game.
+- Lapu-Lapu (Fighter): +3.2 pp edge. Across Silvanna's measured matchups, Silvanna is weakest in the early game. Apply pressure with Lapu-Lapu before Silvanna can scale.
+- Ling (Assassin): +3.1 pp edge. Across Silvanna's measured matchups, Silvanna is weakest in the early game. Apply pressure with Ling before Silvanna can scale.
+- Minotaur (Tank/Support): +3.0 pp edge. Across Silvanna's measured matchups, Silvanna is weakest in the early game. Apply pressure with Minotaur before Silvanna can scale.
+- Belerick (Tank): +3.0 pp edge. Across Silvanna's measured matchups, Silvanna is weakest in the early game. Apply pressure with Belerick before Silvanna can scale.
+- Edith (Tank/Marksman): +3.0 pp edge. Edith's durability and kit give them a strong matchup advantage against Silvanna throughout the game.
+
+## Heroes Silvanna beats
+
+- Aamon (Assassin): +2.7 pp edge for Silvanna.
+- Rafaela (Support): +2.2 pp edge for Silvanna.
+- Valentina (Mage): +2.2 pp edge for Silvanna.
+- Floryn (Support): +2.0 pp edge for Silvanna.
+- Angela (Support): +2.0 pp edge for Silvanna.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/silvanna.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-02. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### EXP Pickoff Bruiser (EXP)
+
+- Items: Tough Boots, Genius Wand, Concentrated Energy, Glowing Wand, Antique Cuirass, Immortality
+- Core: Genius Wand, Concentrated Energy, Glowing Wand
+- Emblem: Mage Emblem with Rupture, Bargain Hunter, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Arcane Boots over Tough Boots when Use when the enemy EXP lane lacks early crowd control and the first cage needs more Magic Penetration than tenacity.; Athena's Shield over Antique Cuirass when Use against front-loaded magic burst that can remove Silvanna before Spiral Strangling finishes, when the counterturn is magic rather than physical.; Divine Glaive over Immortality when Use when the enemy front line stacks Magic Defense and your team still needs Silvanna to finish trapped targets.; Winter Crown over Immortality when Use when the enemy saves counterburst for after your ultimate lands and stasis can protect the full spin.
+- Total cost: 11060 gold
+
+Default EXP lane setup for ranked games where Silvanna needs one reliable catch, repeated Magic Defense shred, anti-sustain burn, and enough durability to survive the counterturn.
+
+### EXP Sustain Duelist (EXP)
+
+- Items: Magic Boots, Feather of Heaven, Concentrated Energy, Oracle, Queen's Wings, Blood Wings
+- Core: Feather of Heaven, Concentrated Energy, Oracle
+- Emblem: Fighter Emblem with Rupture, Festival of Blood, Brave Smite
+- Battle spell: Flicker
+- Flex: Tough Boots over Magic Boots when Use when control duration is the reason Silvanna cannot stay attached after Imperial Justice.; Dominance Ice over Queen's Wings when Use against lifesteal marksmen, sustain fighters, or sustain frontliners that need the Lifebane aura and Fortress Shield hybrid defense.; Radiant Armor over Blood Wings when Use against repeated magic hits where stacked Magic Defense is better than a regenerating Magic Power shield.; Immortality over Blood Wings when Use before late Lord fights when one failed cage would decide the game.
+- Total cost: 10970 gold
+
+Long-trade EXP setup for matchups where Feather of Heaven, ultimate attack speed, shield amplification, and low-HP damage reduction let Silvanna keep fighting after the first target survives.
+
+### Jungle Tempo Cage (Jungle)
+
+- Items: Arcane Boots, Genius Wand, Concentrated Energy, Glowing Wand, Holy Crystal, Immortality
+- Core: Genius Wand, Concentrated Energy, Glowing Wand
+- Emblem: Mage Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Arcane Boots when Use when early ganks fail because enemy crowd control stops the second skill channel.; Divine Glaive over Holy Crystal when Use when objectives become front-to-back fights against two or more Magic Defense items.; Winter Crown over Immortality when Use when Silvanna must dive past the front line and dodge the first collapse after the cage lands.; Blood Wings over Immortality when Use while ahead when the shield and movement speed help chain ganks without giving up too much damage.
+- Total cost: 11880 gold
+
+Jungle variant for drafts that need Silvanna to farm level-four tempo, add Ice Retribution chase control, and turn one objective fight into a trapped enemy core.
+
+All builds for this hero: https://mlbbhub.com/builds/silvanna.
+
+## Synergies
+
+- Atlas: Pairing Silvanna with Tanks gives her sufficient space to dish out damage.
+For example, Atlas and Tigreal.
+- Tigreal: Pairing Silvanna with Tanks gives her sufficient space to dish out damage.
+For example, Atlas and Tigreal.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,193 @@
+# Wanwan, Agile Tiger
+
+> Wanwan is not a marksman who farms and wins by existing. She is a draft bet that says you can flank the enemy carry four times, hit every weakness, and cash the ultimate before a suppression lands. When that bet is wrong, her ult feels like a decoration on a squishy body.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Finisher, Burst
+- Difficulty: Hard
+- Tier this patch: C
+- Win rate: 48.36%
+- Pick rate: 0.13%
+- Ban rate: 0.12%
+- Released: 2019
+- Page: https://mlbbhub.com/heroes/wanwan
+
+## Guide
+
+### Is this a Wanwan game, or an Irithel game?
+
+Wanwan is the right pick when the map stays open and the fight stays mobile. She needs room to circle targets, angles her daggers can catch, and a team that does not fold the second she leaves the turret line. Pick her when your tank is an opener (Atlas, Tigreal, Johnson) and the enemy gold laner is a static one-shot type (Irithel without a peeler, Hanabi, Layla). The patch 2.1.67 ([patch notes](/patch-notes)) buff to her S1 damage and base HP actually matters here, because the floor of her lane presence is now higher than it used to be.
+
+Do not pick her into chain suppression. Franco plus Kaja, or Franco plus Barats, turns her S2 into a coin flip: the cleanse clears the first CC, the second one locks her for the kill. She is also a trap into compact map states. Nexus Defense, mid-inhib siege, and late-game setpieces around Lord happen in tight terrain where her dash passive cannot find weakness angles.
+
+Specific enemies that break her: [Franco](/heroes/franco), [Kaja](/heroes/kaja), [Barats](/heroes/barats), [Khufra](/heroes/khufra), [Akai](/heroes/akai), [Saber](/heroes/saber), [Natalia](/heroes/natalia), [Selena](/heroes/selena), [Granger](/heroes/granger). Specific allies that enable her: [Estes](/heroes/estes), [Diggie](/heroes/diggie), [Atlas](/heroes/atlas), [Grock](/heroes/grock), [Mathilda](/heroes/mathilda). If the enemy has two of the breakers and your roam is neither Diggie nor Estes, she is the wrong lock.
+
+### What her kit is actually doing
+
+Wanwan's entire kit is one sentence: hit four different spots on a target, then delete them. The passive paints the four weaknesses on every enemy after the first basic attack, and the ultimate is physically ungated until all four are cleared. Every other ability exists to close the angle gap: S1 throws daggers through a line and catches any weakness pointed that direction, S2 fans needles in a circle and hits all four on a trapped target, and the dash after each auto is how you physically walk around the hero to line up the last side.
+
+That design is why she scales with attack speed and on-hit effects rather than raw physical attack. Every basic attack is a passive trigger, a weakness check, a dash, and a ticking clock on the first weakness expiring. The hero who gets off 6 autos in 3 seconds plays a completely different game from the one who gets off 3, and the gap is almost entirely about positioning discipline rather than raw gold.
+
+### Laning: the first 8 minutes
+
+1. **Take S1 at level 1, not S2.** The 2.1.67 rework made base dagger damage 120 at rank 1 instead of 60, which is enough to contest the second-wave trade against most gold laners. Open the wave with an auto, throw S1 across the wave, and the returning daggers clear the back line while also painting a weakness on the enemy carry for the follow-up.
+2. **Save S2 mana for actual CC, not poke.** The same patch flattened S2 mana cost to 125 at every level. Using it to fan-poke in lane is now a pure mana burn. Only press it when an enemy skill is mid-cast or already on you. Missing that window is the single most common reason a Wanwan hits 7 minutes with no gold and no mana.
+3. **Bait the first gank into your S2, then reset.** Junglers who pathed top-side check gold lane around the 2:30 and 5:00 marks. If your tank did not ping, pull wave to your tower, stand near the tri-bush, and play for the over-extension. The S2 cleanse plus dash-chain is enough to survive most level-4 ganks and punish the jungler for the pathing cost.
+
+You should hit level 4 with Swift Boots and the start of Demon Hunter Sword around 4:30 to 5:30 on a clean lane. If you are two levels behind at 6:00, the lane is lost and you need to rotate under turret rather than keep trading.
+
+### The power spike you are farming toward
+
+Demon Hunter Sword plus Corrosion Scythe is the unlock. Both items are on-hit multipliers rather than raw damage, and together they convert her auto-attack engine from poke into an execution window. DHS adds a percent-of-current-HP tick to every auto and heals you per hit, which is what lets her survive the second skirmish instead of needing to back after the first one. Corrosion Scythe stacks a flat damage-per-hit buff up to 5 times and layers an attack-speed ramp on top, which is what lets the ult chain into a second target instead of timing out on the first.
+
+The window is between the 9 and 11 minute mark, assuming a clean lane and one solo kill or assist. Before that window, a Wanwan playing aggressive is a Wanwan feeding. After that window, the ult is genuinely a three-kill reset, because the on-hit layer scales every shot the ult fires and the chain-condition triggers before the enemy team can rotate peel. The moment both items finalize, your team should call a fight, not farm a camp.
+
+### Teamfight positioning and target priority
+
+The reflex is to stand behind the tank and auto. That reflex is wrong on Wanwan, and it is why most solo-queue Wanwans look average even at high MMR. Her passive needs four different angles on a target, which the backline simply cannot give her. Standing on the tank's shoulder means every weakness is on the same side.
+
+1. **Flank wide, not through.** Take the side lane bush, wait for your tank to engage, and enter the fight from 90 degrees off the engage axis. That single angle gives you the first two weaknesses for free on whichever enemy steps up to fight your tank.
+2. **Pick the second-squishiest target, not the carry.** Going directly for the enemy marksman means their support, roam, and fighter all have skills pointed the direction you have to enter. Go for the mid laner or the sidelane fighter first. Their positioning is looser and their peel is worse, and clearing them opens the ult chain to the real carry anyway.
+3. **Hold S2 until the lock lands, not before.** The mistake is pressing S2 the moment a fight starts because it feels safe. The cleanse is only valuable against the CC that actually kills you: Franco hook, Kaja suppression, Khufra cannonball. Every other CC you dash out of. Saving S2 for the real lock turns one pick attempt into a failed pick.
+
+Support-conditional edge case: if your roam is [Estes](/heroes/estes) or [Mathilda](/heroes/mathilda), you can flank a half-second earlier and trust the pull or heal to cover the repositioning. If your roam is [Johnson](/heroes/johnson) or [Franco](/heroes/franco), wait for the lock before you enter, because they do not have the follow-up to rescue a flank that goes sideways.
+
+### Itemization: 3 locked slots plus 3 real conversations
+
+Swift Boots, Demon Hunter Sword, and Corrosion Scythe are locked. Do not deviate. The attack-speed floor from boots plus DHS plus CS is what makes every later item actually contribute. Skipping boots for Magic Boots because the enemy has two mages is a trap: Wanwan needs the attack-speed stat more than she needs the CDR, and her S2 cleanse already covers most magic burst.
+
+Slot 4 is the first real choice. Windtalker is the default because Typhoon adds a third on-hit layer and the movement speed helps the flank setup. Golden Staff is the pick when you need to burn a thick frontline fast, because Endless Strike raises the attack-speed cap and makes every third basic attack trigger her on-hit effects two extra times, which is exactly what the ult scales on. It stacks cleanly with Corrosion Scythe: the two share no passive, so nothing overwrites. Sea Halberd slides in here if the enemy has [Estes](/heroes/estes), [Uranus](/heroes/uranus), or [Alice](/heroes/alice) whose heal or shield output needs cutting, since the Lifebane passive cuts both by 40% for 3 seconds per hit.
+
+Slot 5 is the defense or burst flex. Wind of Nature is the answer to burst assassins and hyper-fighters: the 2-second physical immunity on an active is exactly one Lancelot combo or one Paquito full rotation. Immortality comes in when the enemy has multi-source pick potential rather than single-target burst, because the second chance is worth more than the immunity window. Blade of Despair is the fallback, not the default: 160 physical attack is technically the highest raw stat on the shelf, but it does not scale with her on-hit layer, so it only out-damages the alternatives in a full late-game slug fest that a Wanwan usually does not survive anyway.
+
+Slot 6 is Malefic Roar if the enemy stacked armor (two of [Khufra](/heroes/khufra), [Gatotkaca](/heroes/gatotkaca), [Esmeralda](/heroes/esmeralda), [Ruby](/heroes/ruby)). Otherwise, a second defensive slot over a second offensive slot. Dying in the first 3 seconds of a fight as Wanwan is worth zero damage on paper.
+
+Emblem is [Marksman Emblem](/emblems/marksman) with Fatal, Weapon Master, and Weakness Finder. The Weakness Finder slow, which reprocs constantly as her basic attacks shave its cooldown, is the single most underrated synergy on her kit, because it keeps the target inside the flank arc for the next two dashes. Battle spell is Inspire. The attack-speed boost and defense penetration line up exactly with the ult window, and the small heal per hit stacks with DHS. Flicker is second-best for the repositioning. Purify is a trap: her S2 already cleanses, and doubling up wastes the slot.
+
+### Mistakes that lose Wanwan games
+
+**Pressing S2 as the first skill in a fight.** The cleanse only works on the debuff currently active, not the one about to land. Using it preemptively means you eat the real CC naked with S2 down and nothing left to peel it. The correct sequence is: dash in, take the first CC, watch what it is, then decide whether this is the CC worth burning cleanse on. Franco hook, Kaja ultimate, Vexana ult, Eudora stun: yes. A slow, a poke, or a soft root: no.
+
+**Ulting into Khufra's bouncing ball window.** Khufra's S2 knocks her out of the ult chain and turns the invincibility into a sitting target for his team's follow-up. If you see Khufra still holding S2 when you line up the ult, wait for him to throw it at your tank first, then ult 1.5 seconds after. This is a two-heartbeat delay, not a rework of your gameplan, and it is the difference between a triple kill and a 0-3 fight.
+
+**Trying to 1v1 a burst assassin at one item.** Demon Hunter Sword alone does not give you enough sustain to tank a full Lancelot or Hayabusa combo. The correct response to a level-6 assassin diving your lane is not to S2-dash-auto trade: it is to dash sideways off the lane into fog, force them to chase, and let your jungler close. Wanwan 1v1s start winning at two items, not one.
+
+**Flanking before the tank engages.** The temptation is to take the flank path early because the ult comes online and you want to find the pick. What happens is the flank path has no vision, the enemy jungler is pathing back from their camp, and you get caught out by a single skill-shot before your team is in fight range. Flank when your tank's engage is already committed, not before. The 2-second difference is the entire teamfight.
+
+**Chasing a 1-HP runner into fog.** Post-ult Wanwan on the movement-speed spike feels invincible, and she is not. Rotating enemies catch her on the respawn of a single skill, and the kill she is chasing pays a fraction of what she abandons: a Turtle, a turret, a Lord setup. Hit the objective, let the runner back.
+
+### Key tips
+
+> [!TIP]
+> **The ult is castable at 3 weaknesses if the fourth is trivial.** If the target's last unhit angle is behind a wall you cannot physically reach in time, sometimes the right play is to ult a different target and chain-kill into the first one via the reset. Three marks on the real target plus a full rotation on a squishy opener often nets both kills, not just one.
+
+> [!NOTE]
+> **Inspire synergizes with the ult window, not the lane.** Using Inspire to push a wave or chunk a tower in lane is a legal play, but the 75-second cooldown means you will not have it for the next fight. Treat it like a second ultimate: hold it for the teamfight the ult opens, not for poke.
+
+> [!TIP]
+> **Attack speed caps at a point most Wanwans never think about.** Past the 2.5 attacks-per-second threshold, each additional attack-speed stat returns less than a raw-damage stat. That is why her 3rd-4th items pivot to on-hit damage and penetration, not another attack-speed stick. Golden Staff is the exception because it explicitly raises the cap.
+
+> [!NOTE]
+> **Your passive shows weakness positions to you, and only to you.** This is an information edge your teammates do not have. Calling out "tank's weakness is north side, hit him from the jungle path" over voice is the difference between a teamfight and a gank. Use it.
+
+## Skills
+
+### Tiger Pace (Passive)
+
+Enemy heroes hit by Wanwan's attacks will have their weaknesses and positions exposed for 5s. When hitting an enemy's weakness, Wanwan deals 67 (+3*Hero Level) extra True Damage and increases their damage taken from her subsequent attacks by 10% for 5s. Wanwan can dash a short distance after each arrow fired from her Basic Attack. The dash speed scales with her Attack Speed.
+
+### Swallow’s Path (Skill 1)
+
+Wanwan throws a Fire Swallow in the target direction, triggering Tiger Pace while dealing 120 (+40% Total Physical Attack) Physical Damage to enemies in its path. The Fire Swallow then turns into 3 rotating Swallow Daggers. After a short delay, these Swallow Daggers will fly back to Wanwan one after another, dealing 120 (+40% Total Physical Attack) Physical Damage to enemies on their way back and slowing them by 30% for 1.5s. Enemies hit twice by the Swallow Daggers will be immobilized for 0.5s.
+
+### Needles in Flowers (Skill 2)
+
+Wanwan removes all debuffs on herself and triggers Tiger Pace. Meanwhile, she shoots Deadly Needles in all directions, dealing 150 (+60% Total Physical Attack) Physical Damage to enemies hit.
+
+### Crossbow of Tang (Ultimate)
+
+Wanwan leaps into the air and becomes untargetable, firing arrows at the target enemy hero for 2.5s in rapid succession, dealing 60 (+35% Total Physical Attack) Physical Damage per arrow. If the target is killed during this attack, Wanwan will switch to another enemy hero in her attack range, gain 30% Attack Speed, and extend the skill duration by 1s (this effect can trigger up to 3 times). Wanwan can trigger Tiger Pace upon killing an enemy and at the end of the duration. Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% Movement Speed during the duration. This damage is regarded as Basic Attack damage, and the firing rate scales with Wanwan's Attack Speed.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Basic Attacks to dash with her Passive and adjust position for damage, and then land as many hits as possible with her 1st Skill. After hitting all Weaknesses, reap kills with her Ultimate.
+- LANING COMBOS (laning): In the laning phase, Wanwan can poke enemies with her 1st Skill and then use Basic Attacks to dash with her Passive and adjust Swallow Daggers' paths to control enemies. After hitting an enemy's three Weaknesses, she can finish them off with her Ultimate.
+
+## Counters to Wanwan (pick these against Wanwan)
+
+- Phoveus (Fighter): +5.9 pp edge. Phoveus's sustain and durability allow them to outlast Wanwan's burst combos and win extended trades.
+- Bruno (Marksman): +3.4 pp edge. Bruno's burst damage can eliminate Wanwan before they can deal sustained damage in team fights.
+- Cyclops (Mage): +3.3 pp edge. Cyclops has a statistical edge over Wanwan based on ranked matchup data. Pick Cyclops to gain an advantage in draft.
+- Lunox (Mage): +3.0 pp edge. Lunox's burst damage can eliminate Wanwan before they can deal sustained damage in team fights.
+- Khufra (Tank): +2.6 pp edge. Khufra's durability and kit give them a strong matchup advantage against Wanwan throughout the game.
+- Faramis (Support/Mage): +2.2 pp edge. Faramis has a statistical edge over Wanwan based on ranked matchup data. Pick Faramis to gain an advantage in draft.
+- Irithel (Marksman): +2.1 pp edge. Irithel's burst damage can eliminate Wanwan before they can deal sustained damage in team fights.
+- Yi Sun-shin (Assassin/Marksman): +1.4 pp edge. Yi Sun-shin has a statistical edge over Wanwan based on ranked matchup data. Pick Yi Sun-shin to gain an advantage in draft.
+
+## Heroes Wanwan beats
+
+- Yin (Fighter/Assassin): +4.4 pp edge for Wanwan.
+- Ixia (Marksman): +3.9 pp edge for Wanwan.
+- Atlas (Tank): +3.8 pp edge for Wanwan.
+- Thamuz (Fighter): +3.1 pp edge for Wanwan.
+- Hanabi (Marksman): +2.8 pp edge for Wanwan.
+- Guinevere (Fighter): +2.7 pp edge for Wanwan.
+- Brody (Marksman): +2.3 pp edge for Wanwan.
+- Beatrix (Marksman): +2.2 pp edge for Wanwan.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/wanwan.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Default (Gold)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Malefic Gun, Wind of Nature
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Inspire
+- Flex: Windtalker over Malefic Gun when Use when wave clear and cheap attack speed matter more than extra range against short engage.; Rose Gold Meteor over Wind of Nature when Use against magic or mixed burst where physical immunity will not stop the first collapse.; Sea Halberd over Malefic Gun when Use when healing, shielding, or high-extra-HP bruisers keep the marked target alive through Crossbow of Tang.
+- Total cost: 10970 gold
+
+Default ranked setup that rushes Wanwan's attack-speed engine, then adds range and one physical-burst answer for the first decisive ultimate.
+
+### Front-to-Back Anti-Tank (Gold)
+
+- Items: Swift Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Sea Halberd, Malefic Roar
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Inspire
+- Flex: Malefic Gun over Malefic Roar when Use when the enemy has moderate armor but range control matters more than scaling penetration.; Wind of Nature over Malefic Roar when Use if a physical diver can bypass your front line before you finish opening the first target.; Windtalker over Sea Halberd when Use when the enemy front line is durable but not protected by healing, shields, or high-extra-HP sustain.
+- Total cost: 11050 gold
+
+Tank-breaking setup for grouped fights where Wanwan can work through the nearest durable target before chasing resets.
+
+### Burst Insurance (Gold)
+
+- Items: Tough Boots, Corrosion Scythe, Demon Hunter Sword, Golden Staff, Rose Gold Meteor, Immortality
+- Core: Corrosion Scythe, Demon Hunter Sword, Golden Staff
+- Emblem: Marksman Emblem with Swift, Weapon Master, Weakness Finder
+- Battle spell: Aegis
+- Flex: Wind of Nature over Rose Gold Meteor when Use when the main threat is physical burst and you can time Wind Chant before the lethal hit.; Athena's Shield over Immortality when Use against front-loaded magic burst that decides the fight before a revive can matter.; Radiant Armor over Immortality when Use against repeated magic damage that chips Wanwan before every objective fight.
+- Total cost: 10870 gold
+
+Defensive setup for burst-heavy drafts where living long enough to expose all weaknesses is worth more than a greedy sixth damage slot.
+
+All builds for this hero: https://mlbbhub.com/builds/wanwan.
+
+## Synergies
+
+- Franco: She's best with Supporting Tanks with powerful crowd control, like Franco and Belerick. They can help Wanwan hit more Weaknesses and unlock her Ultimate.
+- Belerick: She's best with Supporting Tanks with powerful crowd control, like Franco and Belerick. They can help Wanwan hit more Weaknesses and unlock her Ultimate.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

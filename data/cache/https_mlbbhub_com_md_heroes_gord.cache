@@ -1,0 +1,195 @@
+# Gord, Professor of the Mystics
+
+> Gord is a 2016 poke mage kept relevant in 2026 by being one of the cheapest magic-damage pressure tools in the game and one of the easiest to abuse. His entire kit hangs on a single stun skillshot, and every teamfight you win with him comes down to whether you land it from a spot the enemy assassin cannot reach.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Poke, Burst
+- Difficulty: Easy
+- Tier this patch: A
+- Win rate: 52.94%
+- Pick rate: 0.60%
+- Ban rate: 0.57%
+- Released: 2016
+- Page: https://mlbbhub.com/heroes/gord
+
+## Guide
+
+### The two drafts that make Gord playable
+
+Gord is not a hero you pick because you like mages. He is a situational counter-pick mid. He is the right call in exactly two draft shapes.
+
+The first is an immobile enemy frontline. Fredrinn, Barats, Lolita, Ruby, Phoveus, Minotaur, Gatotkaca, Johnson, Grock: heroes who have to walk into melee range to start a fight. Gord's Mystic Injunction turns any stationary target into a guaranteed damage pool, and his ultimate is a delete button for any hero who cannot dash out of the beam. When the enemy has no blink, no dash, and no forced disengage, Gord farms their frontline like minions.
+
+The second is a team that already has lockdown for him. Gord has no peel of his own, so your draft needs to hold the enemy still while he channels. Atlas, Khufra, Tigreal, Ruby, Chou, Franco, Johnson: anyone who can initiate-and-stun gives Gord the standing target his ultimate needs.
+
+Both conditions together is when Gord is a premium pick. One of the two is fine. Neither is a disaster waiting to happen.
+
+The disqualifying test: run down the enemy team and count dashes, blinks, and invisibility. Ling, Fanny, Hayabusa, Hanzo, Benedetta, Natalia, Helcurt, Saber, Gusion, Harley. If two or more of those are on the opposing side and your team has no reliable stun initiator, do not lock Gord. He will spend the game kiting assassins he cannot escape and firing ultimates at empty air.
+
+Patch 2.1.95 ([patch notes](/patch-notes)) trimmed his early-to-mid-game damage, cutting the passive base and the ultimate base. He is less of a kill threat in the exact minutes this guide focuses on, so the spike and positioning rules below matter more, not less. He is still not a safe blind pick; pick conditions still apply.
+
+### The stun is the whole hero
+
+Gord is a mage whose entire kit pretends he has mobility. He has none.
+
+Mystic Projectile is the pivot. It is the only lockdown in the kit, and everything else is a damage payoff for that brief stun window. Mystic Injunction is a damage-over-time zone, not a burst skill; it only works on targets that cannot walk out of it. Mystic Gush is a channeled beam that requires the target to stand roughly still through most of the channel to feel the full damage. Take the stun away and the rest of the kit fires into empty ground.
+
+The passive, Mystic Favor, is the reason Gord can duel at all. Four skill hits on the same target within a short window, and the next skill damage lands as bonus true damage with a slow attached. Since patch 2.1.61 the proc scales with hero level instead of leaning as hard on magic power, which means it carries its weight with zero items at level 10 in ways it used to need two completed items to do. Land skills, not autos: Mystic Injunction's ticks and Mystic Gush's ticks stack the passive faster than any other mage, and the proc is why a full channel on one target beats spraying the field across three.
+
+The specialty on the hero-select screen reads "Poke, Burst". It is actually "Lock, then Burn". The burst is fake burst: it is a stun that chains into a damage pool plus a tracking beam. Everything in the kit is a payoff timer, and the stun is what starts the clock.
+
+### Laning: the first six minutes
+
+1. **Take Mystic Injunction first.** The S2 zone zones and chips the first wave while costing less mana than S1. Mystic Projectile is a stun you save for heroes, not minions. Farm lane safely and hold S1 for when their jungler shows up.
+2. **At level 2, take S1 and hold it for a kill threat.** Do not spam Mystic Projectile at their mid laner from max range. You telegraph the skillshot cast animation, they see the orb on screen, they sidestep. Walk up inside tower aggro range, catch them pushed forward, then S1 into S2: the stun keeps them in the field, the field's ticks feed the passive, and the true-damage proc closes out a mid laner already below half HP.
+3. **Never Flicker forward.** Flicker is survival. The moment you Flicker aggressively on Gord, you have used your only escape and the enemy jungler knows it. Save Flicker for when a Fanny cables through, a Ling leaps in, or a Saber ults: Flicker sideways into your own frontline and let the stun buy your team the rotation.
+
+### The power spike you are farming toward
+
+The spike is [Enchanted Talisman](/items/enchanted-talisman) plus either [Glowing Wand](/items/glowing-wand) or [Genius Wand](/items/genius-wand), usually around the six-to-eight-minute mark.
+
+Talisman is the foundational item. The cooldown reduction and mana regen passive is what lets Gord cycle S1 and S2 every rotation without backing. Before Talisman he runs dry after three fights. After Talisman he cycles the whole kit on cooldown and wave-clears without thinking.
+
+The second item is a real choice. Against a frontline stacking HP and low magic defense (Belerick, Ruby, Hylos, Estes), Glowing Wand is correct. Scorch burns a percentage of their max HP per second on top of your damage, and Lifebane cuts their healing and shields in half, which is the entire reason your team wins fights against heal-stacked comps. Against a team already buying Athena's Shield and Oracle, Genius Wand is correct. Its magic defense shred stacks three times on the same target, so your ultimate hits reduced defense on the third tick instead of buffered defense.
+
+What changes at the spike: before Glowing Wand or Genius Wand, Gord's ultimate is a zoning tool. After, his ultimate is a kill confirm. The same beam that scratched tanks at minute five is a genuine threat at minute eight, and the S1 stun sets up the exact standing window to make that beam connect. Your team can now force objectives at Lord. The fight they could not commit to at minute five is the fight you win at minute eight.
+
+Do not rush [Blood Wings](/items/blood-wings). The shield is seductive and useless on the wrong timing. If you cannot kill anyone, a bigger health bar only delays the inevitable. Magic damage first, shield last.
+
+### Teamfight positioning: fire the beam sideways
+
+The reflex on Mystic Gush is to aim forward at your target. That reflex is usually wrong.
+
+The beam can be steered mid-cast using the left joystick. If you fire it directly at an enemy, anyone with a dash sidesteps the initial direction and eats maybe a couple of ticks out of the full channel. If you fire the beam past their flank and rotate the joystick across their position, the beam tracks them through the sidestep, and the damage cone covers the reactive movement. Sideways-fire-then-rotate is the correct mechanical pattern. Forward-fire is the tell of a new Gord.
+
+Three positioning rules:
+
+1. **Stand at max ultimate range with a wall or your own tower behind you.** Your physical defense does not save you from a full assassin combo. A wall denies the behind-you angle. A tower punishes the commit.
+2. **Cast Mystic Injunction at the objective, not at the enemy.** Put the damage zone on Lord, Turtle, or the tower the enemy has to defend. Forcing them to choose between eating the full damage pool or giving up the objective is how Gord wins neutral fights without firing a single S1.
+3. **Mystic Projectile bounces along its path and explodes on first enemy hit.** The orb hops in a straight line in the direction you cast; it does not ricochet off walls. Fire it through brush to catch enemies who cannot see the cast animation, and use choke points to tighten the dodge angle.
+
+One support-conditional edge: if your team runs Atlas or Khufra, you can push one unit further up the map than your instincts say. Their lockdown gives you the full ultimate channel window. If your support is Rafaela or Estes, you do not get that window. Play further back, fire for poke damage, and let your tank eat the engage first.
+
+### Mistakes that lose Gord games
+
+**Opening fights with S1 at max range.** Max-range Mystic Projectile has a long travel time and a visible cast animation. Competent players see the orb leave your hand and walk around it. Reserve S1 for point-blank stun confirmations after your tank has already engaged, or for predictable paths like enemies retreating through brush and heroes dashing through a choke.
+
+**Pressing the ultimate on a Fanny, Ling, or Hayabusa.** These heroes have mobility that outpaces the beam's rotation speed. Your ult channel locks you in place for the full duration, and that is enough for any of them to loop back and kill you mid-cast. If the enemy assassin is not already stunned or CC'd, hold ult. Fire it on the second-priority target: the immobile mage, the stationary marksman, the support rooted in place.
+
+**Burning Flicker to reposition for a better ultimate angle.** Flicker is a long-cooldown survival tool. The best Gord ultimate angle with no Flicker available is worth less than a mediocre ultimate angle with Flicker available. If you die firing the perfect beam, you traded your life for 40% of a tank's HP. That is not a trade.
+
+**Ignoring the passive proc window.** Four skill hits on the same hero, and the next skill damage lands as bonus true damage. Most Gord players cast S1, S2, and ult as separate events, then forget that the proc is a finisher: land a few skill instances on one target and the true damage closes out a kill your raw skill damage cannot. Skill hits are the engine, not autos.
+
+**Buying Blood Wings before a magic damage item.** Blood Wings is a late-game shield, not a second-item purchase. Buying it at minute eight means you have Talisman, Boots, Blood Wings, and zero amplified damage. You will outlive the teamfight and lose it.
+
+### Key tips
+
+> [!TIP]
+> Track the ultimate by pulling your left joystick across the arena, not toward the target. The beam rotates across a wide cone from your initial cast direction. Use the full sweep to punish sidesteps.
+
+> [!TIP]
+> Your passive deals true damage. Tanks with Radiant Armor and Oracle still take the proc at full value. Target the tank when their damage dealer repositions behind cover; the passive does not care about their magic defense.
+
+> [!NOTE]
+> Mystic Projectile sits on a short cooldown, so a whiff is not the end of the trade. Your poke cadence in the mid-to-late game stays tight, which is exactly why you can re-engage after a miss while the enemy is still recovering.
+
+> [!NOTE]
+> Genius Wand's magic defense shred stacks three times on the same target within a short window. Landing a couple of S2 ticks plus an S1 before the ultimate stacks the debuff, so your beam connects against a target with meaningfully less magic defense than they started with.
+
+## Skills
+
+### Mystic Favor (Passive)
+
+After Gord hits an enemy 4 times with skills within a short period of time, the next skill damage will deal an additional 120 (+8*Hero Level) (+40% Total Magic Power) True Damage and slow them by 20% for 1s (the slow effect stacks up to 2 times).
+
+### Mystic Projectile (Skill 1)
+
+Gord conjures a Mystic Orb that bounces in the target direction and explodes on the first enemy hit, dealing 225 (+65% Total Magic Power) Magic Damage to enemies in the area, while stunning them and revealing their locations for 1s.
+
+### Mystic Injunction (Skill 2)
+
+Gord creates an energy field in the target area, dealing 30 (+10% Total Magic Power) Magic Damage every 0.25s to enemies within (up to 16 times).
+
+### Mystic Gush (Ultimate)
+
+Gord unleashes an energy beam in the target direction, dealing 90 (+32% Total Magic Power) Magic Damage to enemies hit every 0.2s (up to 16 times). The direction of the beam can be adjusted using the Joystick.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): Gord should look to stun the enemy heroes with his 1st Skill, then follow up with his 2nd Skill and Ultimate to get a quick kill on them.
+- LANING COMBOS (laning): Gord should look to stun the enemy heroes with his 1st Skill, then follow up with his 2nd Skill and Ultimate to get a quick kill on them.
+
+## Counters to Gord (pick these against Gord)
+
+- Natalia (Assassin): +3.3 pp edge. Natalia has a statistical edge over Gord based on ranked matchup data. Pick Natalia to gain an advantage in draft.
+- Helcurt (Assassin): +2.7 pp edge. Helcurt has a statistical edge over Gord based on ranked matchup data. Pick Helcurt to gain an advantage in draft.
+- Ling (Assassin): +2.5 pp edge. Ling has a statistical edge over Gord based on ranked matchup data. Pick Ling to gain an advantage in draft.
+- Benedetta (Assassin/Fighter): +2.1 pp edge. Benedetta's durability and kit give them a strong matchup advantage against Gord throughout the game.
+- Harley (Assassin/Mage): +2.0 pp edge. Harley has a statistical edge over Gord based on ranked matchup data. Pick Harley to gain an advantage in draft.
+- Gusion (Assassin): +1.7 pp edge. Gusion has a statistical edge over Gord based on ranked matchup data. Pick Gusion to gain an advantage in draft.
+
+## Heroes Gord beats
+
+- Barats (Tank/Fighter): +3.6 pp edge for Gord.
+- Fredrinn (Fighter/Tank): +2.6 pp edge for Gord.
+- Yve (Mage): +2.4 pp edge for Gord.
+- Lolita (Support/Tank): +2.4 pp edge for Gord.
+- Phoveus (Fighter): +2.3 pp edge for Gord.
+- Ruby (Fighter): +1.9 pp edge for Gord.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/gord.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Control Default (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Glowing Wand, Ice Queen Wand, Divine Glaive, Holy Crystal
+- Core: Enchanted Talisman, Glowing Wand, Ice Queen Wand
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Impure Rage
+- Battle spell: Flicker
+- Flex: Arcane Boots over Magic Boots when Use when the enemy mid cannot punish you early and flat Magic Penetration matters more than rotation frequency.; Wishing Lantern over Ice Queen Wand when Use when your team already has enough slows and Gord is free to channel into high-HP targets.; Blood Wings over Holy Crystal when Use when late fights are decided by whether Gord survives the first dive attempt after casting Mystic Gush.
+- Total cost: 11840 gold
+
+Default mid build for ranked games where Gord needs cooldown tempo, anti-sustain burn, and Ice Queen Wand slows to keep enemies inside his repeated skill hits.
+
+### Frontline Melter (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Glowing Wand, Wishing Lantern, Divine Glaive, Holy Crystal
+- Core: Enchanted Talisman, Glowing Wand, Wishing Lantern
+- Emblem: Mage Emblem with Inspire, Bargain Hunter, Impure Rage
+- Battle spell: Flicker
+- Flex: Ice Queen Wand over Holy Crystal when Use when enemy fighters can walk out of Mystic Injunction before Wishing Lantern damage matters.; Genius Wand over Wishing Lantern when Use when the enemy has low to moderate Magic Defense and your team benefits more from stacked shred than current-HP damage.; Blood Wings over Holy Crystal when Use when the enemy front line cannot kill you quickly but their assassin can punish every ultimate channel.
+- Total cost: 12050 gold
+
+Tank-killing setup for front-to-back drafts where Gord can repeatedly hit the same durable target and turn Mystic Gush into a high-HP punish tool.
+
+### Anti-Dive Survival (Mid)
+
+- Items: Tough Boots, Enchanted Talisman, Ice Queen Wand, Winter Crown, Divine Glaive, Blood Wings
+- Core: Enchanted Talisman, Ice Queen Wand, Winter Crown
+- Emblem: Mage Emblem with Agility, Pull Yourself Together, Impure Rage
+- Battle spell: Purify
+- Flex: Magic Boots over Tough Boots when Use when the enemy dive threat is damage-heavy but not crowd-control-heavy enough to justify Fortitude.; Glowing Wand over Blood Wings when Use when sustain or shield heroes are the reason your team cannot finish targets after the first stun.; Immortality over Blood Wings when Use in late base or Lord defense when one failed Purify or Winter Crown timing would end the game.
+- Total cost: 10790 gold
+
+Defensive mid setup for hard engage, chain CC, and assassin drafts where Gord must survive the first lockout before his zone control matters.
+
+All builds for this hero: https://mlbbhub.com/builds/gord.
+
+## Synergies
+
+- Hylos: Gord works well with tanky heroes with reliable CCs, like Hylos and Belerick.
+- Belerick: Gord works well with tanky heroes with reliable CCs, like Hylos and Belerick.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

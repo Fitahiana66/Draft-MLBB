@@ -1,0 +1,212 @@
+# Kaja, Nazar King
+
+> Kaja is no longer a kidnapper. The 2.1.95 rework replaced his single-target suppress with an area restraint cage, turned his dash into terrain-ignoring flight, and put Paralysis on every skill. He is the roam who decides where the teamfight happens, not the one who deletes a single carry.
+
+## Snapshot
+
+- Role: Support
+- Lane: Roam
+- Specialty: Initiator, Charge
+- Difficulty: Medium
+- Tier this patch: B
+- Win rate: 49.89%
+- Pick rate: 0.54%
+- Ban rate: 15.82%
+- Released: 2018
+- Page: https://mlbbhub.com/heroes/kaja
+
+## Guide
+
+### The drafts that make the cage worth it
+
+Kaja is picked for one reason: to make a teamfight happen on his team's terms. The rework in patch 2.1.95 ([patch notes](/patch-notes)) turned him from a single-target suppressor into an area-restraint initiator, and that changes when you draft him.
+
+**Pick him when:**
+
+1. Your team has AoE follow-up that punishes a locked group. Pharsa, Odette, Gord, and Ixia are the advertised partners. The cage holds a clump in place, and their ultimates turn that clump into a wipe instead of a trade.
+2. The enemy backline is slow or grouped by necessity. The cage's value scales with how many heroes it catches. Against an immobile carry like Layla or Vexana, it is a death sentence they have no dash to walk out of.
+3. The enemy relies on reset-dashes to escape and over-commits to do it. Fanny, Ling, and Natalia live on dash resets, and a restraint they cannot leave once it locks is exactly the tool that ends their fight. The old suppress held one of them; the cage holds the pair who both dashed in.
+
+**Do not pick him when:**
+
+1. The enemy has dash-heavy duelists who read the cast window. Kagura, Gusion, Chou, and Suyou can each leave the circle before it locks, and then you have spent your ultimate and your flight on a short walk. The knockback and stun cover some of the delay, but a prepared Kagura still leaves.
+2. The enemy frontline is hard-CC interceptors. Tigreal, Atlas, Khufra, and Franco exist to punish the exact engage this kit makes. Soaring Wings into them means you fly in and get locked yourself before the cage ever leaves your hand.
+3. Diggie is locked. Time Journey still grants the whole team CC immunity, and that includes a restraint. A competent Diggie pre-casts it over the clump you want to cage, and your ultimate becomes a slow animation while his team moves for free.
+4. Your team has no burst or AoE payoff. The cage does not kill. If your comp is poke with no engage reward, you are a roamer with a long cooldown and nothing behind it.
+
+If you cannot name the hero who turns a locked clump into kills, Kaja is the wrong roam.
+
+### Kaja wins by choosing the fight
+
+Kaja's kit is one idea: he decides where the fight happens, then makes the enemy stand still long enough for his team to take it.
+
+Divine Binding is the point. It lands on an area, restrains every enemy inside, and Kaja can shrink or move the zone to drag the clump where he wants it. It is not a pick tool anymore. It is a teamfight tool, and reading it as anything else is how returning Kaja players waste their games.
+
+Soaring Wings is how he gets to the right group. The dash carries control immunity, so nothing stops the approach. On arrival it knocks the group back and stuns them, then he enters the Soaring state: flying over terrain, hitting everything around him with his basics. Every hit on a hero or creep extends the flight, and entering the state is what cuts the cooldown, which is how he stays airborne through a whole fight. That loop is the whole engage: fly over the wall, land the knockback and stun, cage them before the stun wears off, and keep attacking from the air while the cage does its work.
+
+Paralysis, from the Wings of Lightning passive, makes the clump weak while it stands there. Every skill hit slows and cuts damage output, which is why Kaja survives the cage he creates: the people inside are hitting him at reduced strength. Ring of Order is the sustain and the scout: it heals him per enemy hit, reveals the position of everyone it tags, and applies the same Paralysis, so he pokes and stays healthy while waiting for the right cage angle. Patch 2.2.16 cut the ring's cooldown, so that waiting game costs him less.
+
+The lesson: Kaja does not delete. He delays, then delivers the group to his carries. A cage on the right group wins a fight. A cage on the wrong one just makes you a roamer with a long cooldown.
+
+### First five minutes as the flight roamer
+
+1. **Level 1: take Soaring Wings, not Ring of Order.** The dash is the escape and the invade tool. If a Saber or Lancelot collapses on your jungler's red-buff steal, the knockback and stun disengage. Ring of Order's heal will not save you if the invade goes wrong.
+2. **Level 2 rotation: tag mid with the ring.** Ring of Order's heal and the position reveal it leaves on everything it tags win the 2v1 poke against most mids. You are not looking for a kill before level 4. You are looking to force the enemy mid to spend resources so your jungler gets the first objective uncontested.
+3. **First Conceal cage at level 4: pick the lane whose fight is already grouped.** Fly over the wall, land the knockback and stun, drop the cage on the pair, and drag them toward your tower. One cage that locks two enemies at 2:30 is worth more than a perfect single pick at 5:00, because it snowballs a whole lane instead of one kill.
+
+### The spike that makes the cage a rotation
+
+Kaja's real spike is Fleeting Time landing, roughly the 9-to-11 minute mark in a game that is going fine.
+
+The new ultimate's cooldown is the constraint on this hero. It is long, and missing a cage means the teamfight happens without you. Fleeting Time's Timestream refunds a large slice of the ultimate's cooldown on every kill or assist, which is exactly what an area restraint produces. Before it, Kaja cages once per teamfight and then spectates. After it, a winning fight chains into a second cage for the retreat chase, and the Soaring Wings cooldown cut and flight extensions keep him in the fight between cages instead of walking back from the objective.
+
+The defensive companion is Dominance Ice: hybrid defense to survive the cage you land in, Fortress Shield scaling with every enemy hero nearby (and a cage is nothing if not a crowd), and the Lifebane aura that cuts shield and regen for exactly the people standing in it. Together they turn Kaja from the roam who dives and dies into the one who walks out of the cage he creates.
+
+### Cage the group, not the carry
+
+The wrong reflex is to treat Divine Binding like the old single-target suppress and hold it for the perfect pick. The correct reflex is to read it as an area tool, which makes the question "where is the group" instead of "which hero is cleanest."
+
+1. **Lead with Soaring Wings so the stun spends the cage's delay.** Divine Binding takes a moment to lock. Cage the group the moment the landing stuns them, and the delay passes while they cannot move, so the restraint locks before anyone can dash out. Caging first hands anyone with a dash a free window to leave the circle.
+2. **Drag the cage toward your team, not away from it.** Kaja can shrink and move the zone. Pull the clump one step toward Pharsa or Odette and their ultimates do the rest. Drag it the other way and you have repositioned the enemy team for free.
+3. **Do not cage a single backline carry unless the fight is otherwise decided.** One restrained target is the old hero's habit. The rework pays when the cage catches two or three. If only one is catchable, you are probably in the wrong fight.
+
+Support-dependent edge case: with an AoE carry as your follow-up, you are the engage, so commit the cage on their cooldown and trust the lockdown. With a sustain or shield support like Estes or Floryn, you can afford the longer flight and a deeper cage because someone is healing you through the retaliation. With Mathilda, she can extract you after the cage lands, so your dive can go deeper than your own survivability would allow.
+
+### Two locks and four real conversations
+
+Kaja has two locked slots. Everything else is matchup-reactive.
+
+**Locked: Tough Boots into Conceal.** The roam blessing is the engage enabler; the active conceal and movespeed are how you reach the right group before it scatters. Tough Boots' Fortitude cuts CC duration, which matters because the counterplay to Kaja is the CC that lands on him after he arrives and before the lasso leaves his hand.
+
+**Locked: Dominance Ice.** Discussed above. Non-negotiable for the hybrid defense, the Fortress Shield that scales with the crowd you cage, and the Lifebane aura that cuts shields and HP regen through the lockdown.
+
+**Flex slot 1, the ult-cycler: Fleeting Time.** The default. Timestream feeds the cage back on every kill and assist, and the cage generates both. If you want a second cage per teamfight, this is the item.
+
+**Flex slot 2, the greedy stacker: Thunder Belt.** The soaring state makes Kaja's basics area damage, and Thunder Belt's next-basic true damage hits everyone in that area while stacking hybrid defense per hero touched. It is the strongest carry-ish item on this kit, but only right when you can reliably land basics while flying instead of kiting for your life.
+
+**Flex slot 3, the magic answer.** Athena's Shield against mage burst; Radiant Armor against sustained magic poke. Athena's reduction window saves you from the Valentina or Yve burst that would otherwise delete you the moment the cage lands. Radiant is for the poke comps that grind you down before you ever reach the fight.
+
+**Flex slot 4, the physical answer.** Antique Cuirass against physical divers (Saber, Lancelot, Gusion). Deter's stacking physical reduction is what keeps a flight engage from turning into a death where you land.
+
+**Flex slot 5, the revive.** Immortality by default. Winter Crown only when the enemy has three or more burst mages and you need the on-demand invulnerability to survive the retaliation after a deep cage.
+
+The full-magic damage build (Arcane Boots, Starlium Scythe, Genius Wand, Holy Crystal, Divine Glaive) is the same gimmick it always was. Kaja's value is not the damage he deals; it is that the clump he cages hits at reduced strength and cannot leave. Trading Dominance Ice and Fleeting Time for magic power means you die inside the cage you created. Do not build it in ranked.
+
+### Mistakes that ground Kaja
+
+1. **Wasting Soaring Wings on a poke and arriving grounded.** The flight only extends when it hits a hero or creep, so a dash into empty ground burns the whole engage. If you use the dash to travel for no reason, you arrive with no engage and no escape, and the enemy roamer punishes it. Hold the flight for the commit.
+2. **Caging before the stun lands.** The cage has a lock-in delay. A Kagura, Gusion, or Chou leaves the circle in that window and your ultimate is gone. Land the knockback and stun first, then cage while they are held.
+3. **Caging a clump your team cannot kill.** The cage does not deal the damage. If Pharsa or Odette is not in range to follow up, you have locked the enemy into the one position where they can turn and fight you. Wait for the follow-up before you spend the cooldown.
+4. **Flying into the hard-CC frontline.** Tigreal, Atlas, Khufra, and Franco exist to punish the exact engage this kit makes. Soaring Wings into them means you fly in and get locked yourself, and then the cage never comes out. Take the flank route over terrain instead of the front door.
+5. **Playing him like old Kaja: waiting in a bush for one target.** The rework pays when the cage catches a group. Sitting in a river bush for a single carry's walk-past is how you end a game with two cages cast. Watch the map for the fight that is about to clump, and fly to it.
+
+### Key tips
+
+> [!TIP]
+> Keep hitting heroes or creeps to keep flying. Each hit extends the Soaring state, and entering it drops the cooldown, which is the difference between "fly in, cage, die" and "fly in, cage, fly out." Chain the extensions to stay airborne for the whole fight.
+
+> [!NOTE]
+> Flicker works during or after the cage cast. You can reposition Divine Binding with Flicker to shift it onto a target that sidesteps, or to pull the zone over a fleeing carry. The old Flicker-kidnap combo is gone, but the Flicker-cage is real.
+
+> [!TIP]
+> The stun spends the cage's delay. Cage the group the moment the landing stuns them and the restraint locks before they can move. This is the single most reliable way to beat the escape window, and it is why Soaring Wings is the engage, not an afterthought.
+
+> [!WARNING]
+> Purify will not free anyone from Divine Binding once it locks. The only out is leaving the circle during the cast window, which means any enemy with a dash walks out if you cage before the knockback and stun land. Lead with the flight, then cage.
+
+## Skills
+
+### Wings of Lightning (Passive)
+
+Kaja's skill damage applies the Paralysis effect to enemy units, briefly slowing heroes or summoned units and reducing their damage by 8% for 5s.
+
+### Ring of Order (Skill 1)
+
+Kaja summons a ring of Primal Lightning that expands and returns to him. Enemies hit take 160 (+70% Total Magic Power) Magic Damage and recover 78 (+45% Total Magic Power) HP to Kaja. Healing from subsequent hits is reduced to 33%.
+
+### Soaring Wings (Skill 2)
+
+Kaja dashes to the target area, gaining Control Immunity during the dash. On arrival, he deals 250 (+120% Total Magic Power) Magic Damage, knocking back and stunning nearby enemies for 0.5s, then enters the Soaring state. The Soaring state lasts 6.6s. During this time, he ignores obstacles and gains 15% Movement Speed, but his turn radius is restricted. He can use Basic Attacks while moving, dealing 100 (+25% Total Magic Power) (+ 2% target's Max HP) Magic Damage to surrounding enemies. Upon entering the Soaring state, the cooldown of Soaring Wings is reduced to 4s (unaffected by Cooldown Reduction). Hitting a hero or creep extends the Soaring state by 2.6s.
+
+### Divine Binding (Ultimate)
+
+Kaja hurls a Primal Lightning Lasso at the target area. After a 0.5s delay, all enemy heroes remaining in the area take 360 (+80% Total Magic Power) Magic Damage and are trapped for 2.5s. While active, Kaja can drag the lasso, shrinking its radius and pulling enemies at the boundary along with him (does not interrupt their skills).
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): For initiating teamfights, use Kaja's 2nd Skill to soar, use the terrain to reposition. Follow up with his 1st Skill to slow and reduce their damage, then immediately cast his Ultimate and let the team clean up.
+- LANING COMBOS (laning): In the laning phase, use Kaja's 1st Skill to poke and recover HP. If the enemy engages, use his 2nd Skill to take off, then kite with his aerial Basic Attacks. Kite when attacked, attack when they're out of steam.
+
+## Counters to Kaja (pick these against Kaja)
+
+- Odette (Mage): +4.5 pp edge. Odette has a statistical edge over Kaja based on ranked matchup data. Pick Odette to gain an advantage in draft.
+- Lunox (Mage): +2.9 pp edge. Across Kaja's measured matchups, Kaja is weakest once matches pass 16 minutes. Take the game long with Lunox.
+- Zhask (Mage): +2.3 pp edge. Across Kaja's measured matchups, Kaja is weakest once matches pass 16 minutes. Take the game long with Zhask.
+- Chip (Support/Tank): +2.3 pp edge. Across Kaja's measured matchups, Kaja is weakest once matches pass 16 minutes. Take the game long with Chip.
+- Hanabi (Marksman): +2.2 pp edge. Hanabi has a statistical edge over Kaja based on ranked matchup data. Pick Hanabi to gain an advantage in draft.
+
+## Heroes Kaja beats
+
+- Valir (Mage): +3.2 pp edge for Kaja.
+- Akai (Tank): +2.8 pp edge for Kaja.
+- Beatrix (Marksman): +2.4 pp edge for Kaja.
+- Baxia (Tank): +2.3 pp edge for Kaja.
+- Grock (Tank/Fighter): +2.3 pp edge for Kaja.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/kaja.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Cage Engage Roam (Roam)
+
+- Items: Tough Boots, Dominance Ice, Fleeting Time, Athena's Shield, Antique Cuirass, Immortality
+- Core: Dominance Ice, Fleeting Time, Athena's Shield
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Radiant Armor over Athena's Shield when Use against sustained magic poke where Athena's Shield is consumed before the real engage.; Blade Armor over Antique Cuirass when Use when the main physical threat is a basic-attack marksman rather than a skill-burst fighter.; Warrior Boots over Tough Boots when Use against low-CC physical drafts where stacked physical defense matters more than control reduction.
+- Total cost: 11200 gold
+
+Default ranked setup after the 2.1.95 rework. Conceal and Flicker buy the approach angle, Dominance Ice turns the crowd caught in Divine Binding into hybrid defense, and Fleeting Time cycles the 60s cage back on the kills and assists the cage itself creates.
+
+### Encourage Frontline Roam (Roam)
+
+- Items: Warrior Boots, Dominance Ice, Antique Cuirass, Radiant Armor, Guardian Helmet, Immortality
+- Core: Dominance Ice, Antique Cuirass, Radiant Armor
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Tough Boots over Warrior Boots when Use when chain crowd control or magic poke is the main reason Kaja cannot reach ult range.; Athena's Shield over Radiant Armor when Use against one-shot magic burst from heroes who front-load their damage into one combo.; Blade Armor over Guardian Helmet when Use when a fed marksman is forced to hit Kaja during peel fights and regen is too slow to matter.
+- Total cost: 11400 gold
+
+Durability-first roam setup for games where Kaja must stand in front with the tank line instead of only hunting flank angles.
+
+### Soaring Thunderbolt Roam (Roam)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Antique Cuirass, Athena's Shield, Immortality
+- Core: Thunder Belt, Dominance Ice, Antique Cuirass
+- Emblem: Tank Emblem with Vitality, Tenacity, Concussive Blast
+- Battle spell: Flicker
+- Blessing: Conceal
+- Flex: Radiant Armor over Athena's Shield when Use against sustained magic poke that grinds Kaja down before he ever reaches cage range.; Guardian Helmet over Immortality when Use when Kaja survives the fights but cannot rotate again without backing, and the extra HP feeds Thunderbolt harder than a revive would.; Blade Armor over Antique Cuirass when Use when the main physical threat is a basic-attack marksman rather than a skill-burst fighter.
+- Total cost: 10970 gold
+
+Damage-through-defense variant. Thunderbolt scales off total hybrid defense and hits everyone around the target, which is exactly what the Soaring state's area basic attacks deliver, so every defensive item in this list is also a damage item. Take it when the draft already has a main tank and Kaja is free to fly at the clump.
+
+All builds for this hero: https://mlbbhub.com/builds/kaja.
+
+## Synergies
+
+- Odette: He also pairs well with allies with AoE, like Odette, Pharsa, and Ixia. Kaja can hold enemies in place while they pile on the damage. The perfect set!
+- Pharsa: He also pairs well with allies with AoE, like Odette, Pharsa, and Ixia. Kaja can hold enemies in place while they pile on the damage. The perfect set!
+- Ixia: He also pairs well with allies with AoE, like Odette, Pharsa, and Ixia. Kaja can hold enemies in place while they pile on the damage. The perfect set!
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

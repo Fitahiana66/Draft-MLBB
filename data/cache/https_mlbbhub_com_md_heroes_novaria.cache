@@ -1,0 +1,206 @@
+# Novaria, Star Rebel
+
+> Novaria is not a burst mage. She is a siege weapon: slow to aim, devastating when the setup lands, and completely unplayable when the enemy refuses to stand still. She punishes slow, tanky teams from ranges most mages cannot reach, but she depends on specific conditions in the draft and in the fight to function at all.
+
+## Snapshot
+
+- Role: Mage
+- Lane: Mid
+- Specialty: Burst, Poke
+- Difficulty: Hard
+- Tier this patch: B
+- Win rate: 49.83%
+- Pick rate: 1.26%
+- Ban rate: 3.93%
+- Released: 2023
+- Page: https://mlbbhub.com/heroes/novaria
+
+## Guide
+
+### The draft conditions that unlock Novaria
+
+Patch 2.1.95 ([patch notes](/patch-notes)) reworked S2's movement speed into a decaying burst that makes the skill easier to use at an average level, on top of the earlier mana-cost cut. The draft conditions that make her correct are the same as they were before.
+
+Pick Novaria when all three of the following are true: the enemy team has at least two high-HP frontliners who cannot easily gap-close, your team has a fighter or tank who can intercept dive, and the enemy mid laner is immobile enough to be zoned safely. Eudora, Aurora, and Pharsa sitting in mid are targets Novaria can out-range and out-zone all game. Kagura and Harith are not.
+
+Avoid Novaria when:
+- The enemy draft has two or more mobile assassins: Ling, Fanny, and Natalia all reach her before S2 can get her out
+- Helcurt is in the enemy lineup; his ultimate silences nearby enemies, which cuts off S2 exactly when she needs it most
+- Yin is in the enemy lineup; his ultimate pulls Novaria into a one-on-one zone where her range advantage disappears completely
+- Your team has no frontline; you will be the first target every teamfight without a tank to absorb the initial dive
+
+The disqualifying test: if you cannot name which heavy frontliners on the enemy team are going to stand inside your Astral Ring and absorb percent HP explosions, Novaria is the wrong pick.
+
+### The one thing that makes Novaria work
+
+The Astral Ring does not deal damage. That is the thing most players miss. The ultimate's entire purpose is to make what comes next unavoidable.
+
+With enemy hitboxes massively enlarged and vision revealed around them, an S1 dropped at a target's feet will almost certainly connect on explosion, and an S2 fired from range becomes a skill shot that is nearly impossible to dodge. The passive slow aura compounds this: enemies under Astral Ring cannot reposition without fighting both the slow and the enlarged collision area.
+
+The percent HP damage on sphere explosions is what makes this worthwhile against tanky targets. A Khufra who built three defensive items still takes the same percentage of his maximum HP when the sphere goes off. The more health and magic defense the enemy front line accumulates, the more Novaria's kit scales by design. She is the answer to the team that decided to out-tank your team rather than out-burst it.
+
+Every piece of the kit is in service of one moment: a clean Astral Ring on two or more enemies, followed by S1 landing at their feet and S2 connecting from maximum travel distance. Everything else in the game plan builds toward or protects that window.
+
+### Laning: the first eight minutes
+
+This is a poke lane, not a kill lane. The goal is farm, mana conservation, and safe harassment until Clock of Destiny starts paying off.
+
+1. **Take S1 at level 1 and use it for wave control first, harassment second.** Placing the sphere between yourself and the incoming minion wave clears the back-line casters while the slow zone keeps the enemy laner from trading freely. Burning S1 purely for hero poke before minions arrive wastes the cooldown.
+2. **At level 2, take S2 and immediately practice the distance mechanic from behind your tower.** The sphere must travel from where it is summoned to deal full damage; summoning it close and firing immediately does minimum damage. Get comfortable with the delay before you need to use it under pressure.
+3. **Hold S2 as your escape, not your poke tool.** Against an aggressive jungler, the burst of movement speed on S2 is your only real mobility. Burning it for a mediocre poke when Ling or Fanny is nearby is how Novaria players die at level 4 with no way out. Flameshot handles harassment; S2 handles survival.
+
+### The power spike you are farming toward
+
+Clock of Destiny is the first item, and it wants to be built before you need to fight. Its Destiny passive stacks hybrid defense whenever you deal magic damage, so the earlier you complete it, the earlier you start stacking defense just by poking, and the flat mana on the item lets you keep poking without backing.
+
+Lightning Truncheon is the second item, and it is the direct beneficiary of Clock's magic power. The Resonate passive bounces extra magic damage to up to 3 nearby enemies every 6 seconds off your next damaging skill, and the strength of that bounce scales with your magic power. Clock of Destiny stacks that stat while Lightning Truncheon converts it into a burst window that fires on every significant skill hit.
+
+Before these two items are complete, Novaria's poke is inconvenient but not threatening. After them, an Astral Ring into S1 placement into S2 at full travel distance, with a Lightning Truncheon proc attached to the explosion, removes a squishy target from the fight. Target window: 10 to 12 minutes, after both items finish.
+
+Do not rush the power spike by fighting early. A death at level 5 with a half-built Clock delays the spike by 2-3 minutes, and that is 2-3 minutes of item gold and hybrid-defense stacks you never get back.
+
+### Teamfight positioning and target priority
+
+The wrong reflex when a teamfight breaks out is to fire the ultimate immediately at the nearest cluster. The ult is most effective when you are already in a safe position before you press it, not when you fire it while retreating.
+
+1. **Find your position at maximum S2 range before the fight starts, not during it.** The movement burst on S2 only saves you if you are already at the edge of range when the dive comes. Walking to a better position once the fight starts means dying on the way there. During the objective setup phase, scout the geometry and position yourself at the edge of useful range near terrain.
+2. **Aim the Astral Ring at tanks, not at squishies.** The percent HP damage on sphere explosions is the reason to play Novaria; it scales with the enemy's maximum health. Ulting the enemy support to make them easier to kill is wasting the ring on a target your carries can already delete. The Khufra or Tigreal standing in the middle of your team and eating repeated sphere explosions is the correct target.
+3. **Do not hold the ult waiting for the perfect angle.** The cooldown punishes hesitation. A ring on two enemies who are slightly out of position is more valuable than a saved ult that never fires because the fight ended before you got the angle you wanted.
+
+If your support is Atlas or Khufra, time the Astral Ring to land as their CC locks enemies in place; the combination is usually decisive. If your support is Estes or Floryn with no hard CC initiation, you carry the fight-starting role entirely, which makes the pre-fight positioning rule non-negotiable.
+
+### Itemization: defaults vs flex slots
+
+Two locked items, four real decisions.
+
+Clock of Destiny and Lightning Truncheon are not negotiable. Clock first, Lightning Truncheon second, no exceptions. Build Clock before you need to fight.
+
+**Arcane Boots** are the default boot choice. Ten flat magic penetration on a mage whose sphere damage already has partial HP scaling is the correct priority. No other boot option competes for standard Novaria.
+
+The flex slots start at item 3:
+
+- **Genius Wand** is the default third item. Its magic defense reduction stacks with every hit source: S1's tick damage, S1's explosion, S2's impact. Against any enemy with meaningful magic resistance, it outperforms straight magic power items. Build it unless the enemy team is running zero defense items.
+- **Divine Glaive** moves up to item 3 or 4 when the enemy team has stacked two or more magic resistance items (Oracle plus Athena's Shield is the common pattern). Against a team that bought no magic defense, the percentage penetration contributes far less than additional power.
+- **Blood Wings** is the default sixth item. The survivability shield regenerates 20 seconds after taking damage, which means it often has a second charge available for teamfights with gaps in between. It also adds to the magic power that feeds Lightning Truncheon.
+- **Holy Crystal** replaces Blood Wings when you are meaningfully ahead and need kill speed over durability. The Mystery passive scales with level, so its value is highest when you are close to or at level 15.
+- **Fleeting Time** is worth considering in coordinated team play where you expect to hit multiple Astral Rings per fight. Each kill or assist reduces the ult's remaining cooldown by 30%, which can bring a fight-ending ultimate back for the next contest. Not a default, but not wrong either.
+
+### Mistakes that lose Novaria games
+
+**Firing S2 at close range.** The sphere's damage scales hard with how far it travels from where it was summoned. Summoning it directly beside yourself and immediately launching generates a fraction of the maximum hit. The correct sequence is: summon the sphere far away, wait for it to draw toward you, then aim at the target from behind terrain or at range. Players who fire the moment the sphere appears are essentially playing without S2 damage.
+
+**Initiating against Helcurt.** Helcurt's ultimate silences nearby enemies. Triggering it with S2 as the sphere draws toward you locks out your follow-up S1 and any movement commands for the duration. Against Helcurt, do not initiate the trade. Play through S1 zone denial only, hold S2 for escape, and let his team come to you rather than pressing into his silence window.
+
+**Using Astral Ring on a single sidelane target.** The ult costs mana at every level and sits on a long cooldown. Spending it to secure one sidelane kill before a major objective fight burns the tool that could have changed the teamfight outcome. Reserve it for grouped enemies unless the single target is the enemy carry who will otherwise reach a decisive item before the next contest.
+
+**Ignoring the movement burst on S2.** Novaria gains a burst of movement speed the moment S2's sphere is summoned, and it is her only real repositioning tool. Players who panic-run in open space during a dive are not using it. Before every fight, know the path that takes you out of the enemy's reach; burning the burst in the wrong direction is how Novaria players die having survived the hardest part of the fight.
+
+**Continuing to fight after burning both escapes.** Once S2 is on cooldown and Flameshot is spent, Novaria has no repositioning tools. Most deaths happen in this window. If both are on cooldown, retreat to a position where terrain protects you and wait for at least S2 to return before committing to another trade.
+
+### Key tips
+
+> [!TIP]
+> The Astral Ring hitbox enlargement persists through dashes and blinks. An enemy who flashes away immediately after being hit by the ult still carries the enlarged hitbox. Do not assume the dash negated the effect.
+
+> [!NOTE]
+> Genius Wand reaches its maximum magic defense reduction stack before S1's explosion if the enemy stands in the sphere's tick-damage zone until it goes off. This means the explosion itself hits a target who is already at reduced magic resistance, which makes standing inside the sphere and tanking the tick the most costly play the enemy can make.
+
+> [!TIP]
+> Pre-summon S2 before a teamfight rather than during it. The sphere holds at your position before it can be launched, so you enter a lord or turtle contest with a fully charged shot already waiting rather than spending the opening of the fight summoning it.
+
+> [!NOTE]
+> Flameshot knocks back nearby enemies on cast and deals increased damage at maximum range. It is a defensive spell as much as an offensive one. When a melee assassin closes in after S2 is on cooldown, Flameshot in their face buys the distance needed to survive until S2 returns. Most players treat it purely as bonus damage and miss the peel value entirely.
+
+## Skills
+
+### Star Trail (Passive)
+
+Astral Sphere continuously slows nearby enemies by 20% and reveals their position.
+
+### Astral Meteor (Skill 1)
+
+Novaria summons an Astral Sphere at the target location, dealing 75 (+25% Total Magic Power) Magic Damage every 0.33s and continuously slowing enemies (up to 2.5 times). After 2s, the Astral Sphere explodes, dealing 260 (+50% Total Magic Power) (+ 4% target's Max HP) Magic Damage and slowing enemies by 2.5 times.
+
+### Astral Recall (Skill 2)
+
+First Cast: Novaria summons an Astral Sphere at a distance and draws it toward her. She gains 80% Movement Speed (decays to 30%) and can pass through obstacles. Use Again: Upon catching the Astral Sphere, she can cast Star Shatter to launch it in the target direction within 5s. Upon hitting an enemy hero, it deals 260 (+95% Total Magic Power) (+ 5% target's Max HP) Magic Damage to them and nearby heroes. The damage will increase based on the Astral Sphere's travel distance (draw + launch), up to 2.2 times the original damage.
+
+### Astral Echo (Ultimate)
+
+Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% and applying Astral Ring on them. This increases their hitbox by 2.5 times and reveals their position for 5s.
+
+Skill upgrade priority: 3-2-1-0-1/1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Novaria's Ultimate to gain vision of the battlefield, then summon an Astral Sphere with her 2nd Skill. After catching the Astral Sphere, launch it to damage the enemy and use her 1st Skill to thwart enemy heroes that try to get close.
+- LANING COMBOS (laning): In the laning phase, initiate by using Novaria's 2nd Skill to gain extra Movement Speed and summon an Astral Sphere. Then, slow the enemy with her 1st Skill and use her 2nd Skill again to launch the Astral Sphere to deal damage.
+
+## Counters to Novaria (pick these against Novaria)
+
+- Natalia (Assassin): +3.1 pp edge. Natalia has a statistical edge over Novaria based on ranked matchup data. Pick Natalia to gain an advantage in draft.
+- Ling (Assassin): +2.7 pp edge. Ling has a statistical edge over Novaria based on ranked matchup data. Pick Ling to gain an advantage in draft.
+- Estes (Support): +2.0 pp edge. Estes has a statistical edge over Novaria based on ranked matchup data. Pick Estes to gain an advantage in draft.
+- Moskov (Marksman): +1.8 pp edge. Moskov has a statistical edge over Novaria based on ranked matchup data. Pick Moskov to gain an advantage in draft.
+- Khaleed (Fighter): +1.7 pp edge. Khaleed's sustain and durability allow them to outlast Novaria's burst combos and win extended trades.
+
+## Heroes Novaria beats
+
+- Diggie (Support): +2.2 pp edge for Novaria.
+- Valir (Mage): +2.1 pp edge for Novaria.
+- Hanabi (Marksman): +1.9 pp edge for Novaria.
+- X.Borg (Fighter): +1.9 pp edge for Novaria.
+- Belerick (Tank): +1.8 pp edge for Novaria.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/novaria.
+
+## Curated builds
+
+Reviewed against patch 2.1.95 on 2026-08-18. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Mid Lane Standard (Mid)
+
+- Items: Arcane Boots, Clock of Destiny, Lightning Truncheon, Genius Wand, Divine Glaive, Blood Wings
+- Core: Clock of Destiny, Lightning Truncheon, Divine Glaive
+- Emblem: Mage Emblem with Rupture, Bargain Hunter, Impure Rage
+- Battle spell: Flameshot
+- Flex: Holy Crystal over Blood Wings when Use when your frontline is protecting you and the enemy backline is reachable through Astral Echo. Raw Magic Power is stronger than the shield in clean poke games.; Winter Crown over Blood Wings when Enemy has a committed backline diver such as Ling, Fanny, Hayabusa, Natalia, or Gusion. Frozen buys the one window Novaria needs to reset through a wall.; Glowing Wand over Genius Wand when Enemy sustain is keeping frontliners alive through poke. Lifebane matters more than early Magic Defense shred against healer or regen-heavy drafts.
+- Total cost: 11040 gold
+
+Default protected-mid setup. Clock of Destiny and Lightning Truncheon create the first real poke spike, then penetration keeps Star Shatter relevant once enemies buy magic defense.
+
+### Frontline Control (Mid)
+
+- Items: Magic Boots, Enchanted Talisman, Ice Queen Wand, Glowing Wand, Wishing Lantern, Divine Glaive
+- Core: Enchanted Talisman, Ice Queen Wand, Glowing Wand
+- Emblem: Mage Emblem with Agility, Bargain Hunter, Impure Rage
+- Battle spell: Flameshot
+- Flex: Clock of Destiny over Ice Queen Wand when Your team already has enough slows and needs you to scale harder into objective fights. Clock adds durability and mana without giving up the poke plan.; Genius Wand over Wishing Lantern when Enemy frontliners are buying magic defense earlier than health. Genius Wand softens targets before Divine Glaive becomes the main damage multiplier.; Blood Wings over Wishing Lantern when Enemy poke reaches you before fights start. Blood Wings turns repeated pre-fight chip into a shield trade instead of a forced recall.
+- Total cost: 11090 gold
+
+Use this into tanky or sustain-heavy drafts where Novaria's job is repeated scouting, slows, and HP pressure rather than a single burst pick.
+
+### Roam Vision (Roam)
+
+- Items: Rapid Boots, Enchanted Talisman, Ice Queen Wand, Glowing Wand, Divine Glaive, Winter Crown
+- Core: Enchanted Talisman, Ice Queen Wand, Glowing Wand
+- Emblem: Support Emblem with Agility, Pull Yourself Together, Focusing Mark
+- Battle spell: Flicker
+- Blessing: Encourage
+- Flex: Magic Boots over Rapid Boots when Enemy keeps forcing combat before you can rotate. Magic Boots keeps scouting and Astral Echo uptime steadier than the extra 15 Movement Speed.; Blood Wings over Winter Crown when Enemy lacks hard backline dive but chips you with long-range magic or marksman poke. The shield has more uptime than Frozen in slow sieges.; Dire Hit over Encourage when Use when Novaria plays alone on the flank all game, so the aura reaches nobody and the Force movement speed is worth more than the ally stats.; Sky Piercer over Winter Crown when Only buy when your team is already snowballing and you are finishing revealed low-HP targets without dying. Drop it if stacks stay low or dives reach you.
+- Total cost: 10790 gold
+
+Roam Novaria is a vision and tempo pick, not a primary damage source. Encourage feeds the carries she scouts for, where the revamped Dire Hit would spend its Force on every Astral Meteor poke, and Support Emblem shortens Flicker and Winter Crown windows.
+
+All builds for this hero: https://mlbbhub.com/builds/novaria.
+
+## Synergies
+
+- Beatrix: Novaria works well with other long-range heroes like Beatrix and Layla because her Ultimate makes any target a sitting duck for her team to pick off.
+- Layla: Novaria works well with other long-range heroes like Beatrix and Layla because her Ultimate makes any target a sitting duck for her team to pick off.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

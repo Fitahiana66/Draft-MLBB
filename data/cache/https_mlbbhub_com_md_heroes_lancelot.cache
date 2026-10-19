@@ -1,0 +1,214 @@
+# Lancelot, Blade of Roses
+
+> Lancelot does not fight. He phases through fights, dealing damage during the windows he physically cannot be touched. Time the invincibility frames correctly and he is one of the cleanest assassins in the game; time them wrong and he is a liability with a pretty dash animation.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Chase, Burst
+- Difficulty: Medium
+- Tier this patch: D
+- Win rate: 43.14%
+- Pick rate: 0.55%
+- Ban rate: 0.45%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/lancelot
+
+## Guide
+
+### Is this a Lancelot draft?
+
+Lancelot is a draft gamble. He pays off under specific conditions and bleeds rating anywhere else. Two questions decide the pick: can you hit isolated targets, and can you dodge the abilities that matter.
+
+Pick Lancelot when the enemy leans on skill-shot CC. Tigreal flicker-ult, Atlas chains, Khufra ball, Aurora freeze, any linear stun. Thorned Rose and Phantom Execution both grant full invincibility, which means skill-shot heroes throw their biggest abilities at a target that does not exist. Pick him when the enemy backline is squishy and lacks self-peel: Pharsa, Cecilion, Layla, Change, or Lunox in light form.
+
+Avoid Lancelot when the enemy has point-and-click CC. Kaja's ult, Franco's hook plus suppress, Saber's ult, Phoveus' ult all bypass invincibility because they target you, not a piece of ground. You cannot I-frame a suppress. Avoid him when the enemy has heavy persistent AoE (X.Borg flame, Valir zones, Pharsa rain) because you land into the damage field the instant your I-frame ends and die mid-animation. Avoid him when your team has no frontline, because without a tank to absorb the first CC, you are the first target the enemy sees.
+
+If the enemy drafted two suppress heroes, do not pick Lancelot. No amount of mechanical skill outplays a targeted suppress.
+
+### The one thing that makes Lancelot work
+
+Lancelot is an invincibility-frame assassin. Every skill in his kit either gives him I-frames or enables the next I-frame window, and his passive rewards chaining them together.
+
+Soul Cutter stacks bonus damage on every dash or charge, capping out across roughly one full combo. That means by the time you finish your S1-S2-ult rotation, every hit in the sequence is dealing meaningfully more than its tooltip. The passive rewards fluid execution: the more abilities you chain without pausing, the harder each one hits.
+
+Puncture applies a Sword Mark to the first unmarked enemy it touches, and if it lands, the cooldown resets. This is not just a gap closer. It is a mark-chain tool. In a teamfight with three enemies clustered, a clean Lancelot dashes through all of them in sequence, applying marks, resetting S1, and building passive stacks before his S2 ever comes out.
+
+Thorned Rose is a multi-strike in a forward cone that makes Lancelot untargetable and invincible for its entire duration. Enemies standing in the center eat every strike. This is the primary damage tool and the primary survival tool at the same time. Every fight you take is a timing decision: when do you spend the invincibility window.
+
+Phantom Execution is the second I-frame, with an executioner's strike at the end of the charge. Invincible during the dash, finishing blow on any squishy who survived your S2 with a sliver of HP.
+
+The entire hero is a rhythm game. S1 to close and mark, S2 for damage plus I-frames, ult for the finishing strike plus I-frames. Get the rhythm right and you kill without taking a single point of damage. Get it wrong and you die in the gap between S2 ending and ult starting.
+
+### Laning: the first few minutes
+
+Lancelot jungles. His clear speed is average compared to Ling or Hayabusa, but his gank setup is stronger than both because of how Puncture's mark reset works.
+
+1. **Start blue buff, clear toward red.** Lancelot uses mana, not energy, and the CDR from blue matters for your S2 rotation speed. Full clear through both buffs by roughly the two-minute mark.
+2. **At level 4, look for the lane with a pushed-up enemy.** Your gank pattern is S1 through the minion wave (marking the minion, resetting S1), then S1 again through the enemy hero (marking them, resetting S1 again), then a third S1 for the gap close, S2 on top of them, ult for the finishing strike. This three-S1 chain is Lancelot's signature and it only works if there is a minion or creep between you and the target to chain marks through.
+3. **Never force a gank without the mark-chain setup.** Walking up to a hero and using S1 directly gives you one dash on its full cooldown. Walking through a creep first gives you three dashes in a couple of seconds. The difference between these two approaches is the difference between a clean kill and a wasted rotation.
+
+Mana is tight at level 4. A full S1-S2-ult combo eats most of your bar, so you get one real gank attempt before needing to recall or take blue again. Do not spam S2 on jungle camps to clear faster.
+
+### The power spike you are farming toward
+
+Lancelot's first core is Blade of the Heptaseas. Its Ambush passive fires after not dealing or taking damage for a brief stretch, which describes every gank approach because you are traveling between camps without auto-attacking anything. Before Heptaseas, your S1-S2 combo chunks a squishy to around half health. After Heptaseas, the Ambush basic plus ult finishes the job in one pass.
+
+The real two-item spike is Heptaseas plus War Axe. Heptaseas supplies the opening burst; War Axe stacks physical attack on every attack and converts a portion of your damage into true damage once it reaches full stacks, which matters because Thorned Rose's multiple strikes each bank another stack of Fighting Spirit. The CDR is the other half of the spike: it brings S2 back up fast enough that you have I-frames ready for the disengage, not just the engage. This is the window where Lancelot flips from farming to hunting.
+
+Endless Battle goes third. Divine Justice makes your post-skill basic attack deal extra true damage, which triggers naturally off the auto you sneak in between S1 and S2. Chase Fate's movement-speed bump on the same proc covers the rotation to your next target. After three items, Lancelot one-rotations any non-tank hero in the game. The rest of the build is about surviving long enough to start the combo.
+
+### Teamfight positioning and target priority
+
+The reflex when a teamfight breaks out is to S1 through the enemy frontline and S2 onto the marksman. That reflex is correct about three games in ten.
+
+The reason it fails the other seven is that the S1 chain through the frontline builds your passive stacks but also announces your position the instant you leave fog. By the time you reach the backline, the enemy support has already repositioned and the marksman has popped Flicker or Wind of Nature.
+
+Three positioning rules:
+
+1. **Enter from the side, not through the front.** Use fog and jungle entrances to reach an angle where your S1 only needs to pass through one creep or minion before hitting the target. The shorter the S1 chain, the less time the enemy has to react.
+2. **Use S2 to dodge the one ability that kills you, not as your opening damage.** If you open with S2, you have no I-frames when the enemy Chou kicks you or Aurora freezes you mid-animation. Wait until you see the threatening ability fire, then S2 through it. The damage is the bonus. The I-frames are the point.
+3. **Hold ult until the target is low enough to die in one strike.** Phantom Execution's base plus your stacked passive is enough to finish any squishy from that point. Using it at the start of the combo wastes the finisher and leaves you with no second I-frame for the disengage.
+
+If your target builds Winter Crown, they will usually pop it the moment your S2 damage lands. Do not panic-ult during the freeze. Wait for the freeze to end, then ult immediately. The timing window is tight but predictable.
+
+### Itemization: defaults vs flex slots
+
+Three locked slots and three real conversations.
+
+**The three locks are Blade of the Heptaseas, War Axe, and Endless Battle.** Ambush burst plus stacking true damage plus Divine Justice true damage. This sequence covers every phase of the combo: the approach, the S2 stack-up, and the post-skill auto.
+
+**The boot slot.** Tough Boots is default because CC during the gap between I-frames kills you, and Fortitude's control duration reduction shortens the window the enemy has to respond to your mistakes. Warrior Boots are only correct when the enemy is full physical with no real CC, which is rare. Never Swift Boots: your damage comes from skills, not sustained autos.
+
+**The fifth slot:**
+
+- **Malefic Roar** against two or more armor stackers. Thorned Rose's strikes each check armor independently, so Armor Buster's scaling penetration multiplies across the whole S2.
+- **Hunter Strike** when you need the movement-speed burst for hard disengages after a kill. Retribution triggers after five damage instances in a row on the same target, which one full combo easily supplies.
+- **Rose Gold Meteor** against magic burst (Aurora, Eudora, Valentina). Lifeline triggers its shield during the ground time between your I-frames, which is exactly when you are vulnerable. It is a unique passive on a long cooldown, so count on one save per fight, not sustain. Winter Crown's Frozen is a separate active that does not conflict, so the pair gives you a second layer of insurance.
+- **Brute Force Breastplate** for extended teamfights. Brute Force stacks attack and movement speed on dealing damage, and full stacks grant control duration reduction, which is the stat Lancelot actually wants to survive the gap between dashes.
+
+**The sixth slot:** Immortality is the default because Lancelot's all-in playstyle means he dies if the combo fails. The revive gives you a second attempt. Blade of Despair is the "I am so far ahead that dying is not a concern" buy. Take it only when you have not died in the last ten minutes and the enemy team has no way to punish a cocky in.
+
+### Mistakes that lose Lancelot games
+
+**Opening with Thorned Rose instead of closing with it.** Leading on S2 feels aggressive because it deals damage and keeps you untargetable during the cast. It is also how you die. Without S2 banked, you have no I-frame ready when the enemy Chou kicks you or Khufra balls at you. Lead with S1 for the mark, auto once for the Heptaseas Ambush proc, then hold S2 to phase through their response. S2 is the trump card for dodging the one ability that kills you, not the opener.
+
+**Dashing anywhere inside Phoveus' passive range.** Phoveus' passive triggers on enemy dashes within his sight line, and Lancelot dashes three or four times per combo. Every S1, every S2, every ult hands Phoveus a free jump onto your position. Do not pick Lancelot into Phoveus. If Phoveus locks after your pick, do not engage any teamfight where he is present. Split-push on the opposite side of the map and rotate only with your entire team in front of you.
+
+**Ulting at full HP for the opening damage.** Phantom Execution looks like a big opening number because the base is high. It is not an opener. Its value is the finisher on any squishy already low, plus the second I-frame window for disengaging after your kill. Using it as the first skill in the combo burns your exit and wastes the finisher on a target that did not need it.
+
+**Forcing fights before the two-item spike.** Pre-Heptaseas, Lancelot's combo chunks a squishy. It does not kill them. A chunked enemy backs to base, heals, and is full HP by the next wave. Meanwhile you spent your mana and all three cooldowns for nothing. If the enemy has a dive counter (Khufra, Chou, Akai) and you are still on one item, do not invade, do not force objectives, do not answer the bait gank. Farm until your spike and take the fight on your terms.
+
+**Engaging before your tank absorbs the first CC.** Lancelot is a cleanup assassin, not an initiator. If you S1 in first, the enemy Tigreal flicker-ults you because you are the most threatening target on the screen. If your tank engages first, the CC burns on them and you walk into a fight where the enemy has nothing left to stop your combo. Wait for the initiation. Let your tank eat the chains. Then clean up.
+
+### Key tips
+
+> [!TIP]
+> Puncture's mark resets its cooldown even if the target dies from its damage. You can S1 through a low-HP minion, get the mark, get the reset, and immediately S1 again into the hero behind it. Always look for a creep or minion to chain through before engaging.
+
+> [!NOTE]
+> Thorned Rose only benefits from a fraction of your Spell Vamp, a hard-coded limitation specific to Lancelot. Your sustain in fights comes from the Endless Battle auto after S1, not from S2. Do not chase lifesteal or spell vamp items expecting them to carry you through extended fights.
+
+> [!TIP]
+> Buffer your ult immediately after S2 ends. There is a brief gap between S2 invincibility ending and ult invincibility starting where you are fully targetable, and that gap is where most Lancelots die. Pre-inputting ult during S2 collapses the gap to near zero. Practice this in training mode until there is no visible window between the two I-frames.
+
+> [!TIP]
+> Against Akai, save Thorned Rose for the wall pin. If you open S2 for damage, Akai pins you against a wall the instant it ends and you cannot move for the full pin duration. Hold S2 until you see the ball start spinning, then phase through the pin and counter-combo from the side. Reversing the skill order turns one of Lancelot's hardest matchups into a playable one.
+
+## Skills
+
+### Soul Cutter (Passive)
+
+Each time Lancelot charges, his damage is increased by 7.5% for 4s, up to 30%.
+
+### Puncture (Skill 1)
+
+Lancelot charges in the target direction, dealing 150 (+50% Total Physical Attack) Physical Damage to enemies along the way and applying a Sword Mark to the first unmarked enemy hit. The Sword Mark lasts 3s. If Lancelot successfully applies a Sword Mark to an enemy, the skill's cooldown will be reset.
+
+### Thorned Rose (Skill 2)
+
+Lancelot strikes in the target direction 3 times, each time dealing 220 (+120% Extra Physical Attack) Physical Damage to enemies hit (damage is reduced when multiple enemies are hit). He's untargetable during this process. Enemies in the center of the area take all the 3 hits and are slowed by 20% for 0.5s. The slow effect can stack.
+
+### Phantom Execution (Ultimate)
+
+After a short delay, Lancelot performs an executioner's strike in the target direction, dealing 350 (+170% Total Physical Attack) Physical Damage to enemies hit. He is invincible throughout the process.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Lancelot's 1st Skill on frontline enemies to springboard into their backline, then unleash his 2nd Skill on the backline for heavy damage. Follow up with his Ultimate to charge through the target and block their escape, and use his 1st Skill to continue to chase or retreat.
+- LANING COMBOS (laning): In the laning phase, clear Minions by repeatedly using Lancelot's 1st Skill thanks to the cooldown reset, and stack his Passive before approaching the enemy and hitting them with his 2nd Skill.
+
+## Counters to Lancelot (pick these against Lancelot)
+
+- Angela (Support): +2.7 pp edge. Angela's protective abilities and vision control make it difficult for Lancelot to find isolated targets.
+- Floryn (Support): +2.3 pp edge. Floryn's protective abilities and vision control make it difficult for Lancelot to find isolated targets.
+- Mathilda (Support/Assassin): +2.3 pp edge. Mathilda's protective abilities and vision control make it difficult for Lancelot to find isolated targets.
+- Marcel (Support): +2.2 pp edge. Marcel's CC abilities disrupt Lancelot's aggressive playstyle, preventing clean dives and resets.
+- Faramis (Support/Mage): +1.9 pp edge. Faramis's protective abilities and vision control make it difficult for Lancelot to find isolated targets.
+- Alucard (Fighter/Assassin): +1.8 pp edge. Alucard's durability and kit give them a strong matchup advantage against Lancelot throughout the game.
+
+## Heroes Lancelot beats
+
+- Atlas (Tank): +2.5 pp edge for Lancelot.
+- Yin (Fighter/Assassin): +2.2 pp edge for Lancelot.
+- Johnson (Tank/Support): +1.6 pp edge for Lancelot.
+- Alpha (Fighter): +1.6 pp edge for Lancelot.
+- Baxia (Tank): +1.5 pp edge for Lancelot.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/lancelot.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Pickoff Default (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Endless Battle, Blade of Despair, Immortality
+- Core: War Axe, Hunter Strike, Endless Battle
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Killing Spree
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Magic Boots over Tough Boots when Use when the enemy has low crowd control and shorter Puncture or Thorned Rose cycles matter more than tenacity.; Malefic Roar over Blade of Despair when Use when the front line stacks Physical Defense before Lancelot can reach the marksman or mage.; Rose Gold Meteor over Immortality when Use against magic burst when a shield and movement burst protect the first dive better than a delayed revive.
+- Total cost: 12270 gold
+
+Default jungle setup for stacking Soul Cutter through dash routes, using Ice Retribution to hold a marked target in Thorned Rose and Phantom Execution range.
+
+### Snowball Execute (Jungle)
+
+- Items: Tough Boots, Blade of the Heptaseas, Sky Piercer, Hunter Strike, Malefic Roar, Rose Gold Meteor
+- Core: Blade of the Heptaseas, Sky Piercer, Hunter Strike
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Flame Retribution
+- Flex: Magic Boots over Tough Boots when Use when Lancelot is ahead and the enemy cannot punish shorter cooldown dash chains with reliable lock-on control.; Blade of Despair over Rose Gold Meteor when Use when snowball tempo is protected and one more damage slot can end fights before the enemy groups.; Immortality over Rose Gold Meteor when Use once Sky Piercer stacks are valuable enough that shutdown protection beats the Lifeline shield.
+- Total cost: 10040 gold
+
+High-risk snowball setup for early-kill games where Lancelot protects Sky Piercer stacks and Flame Retribution adds one more burst check on the carry.
+
+### Bruiser Reset (Jungle)
+
+- Items: Tough Boots, War Axe, Hunter Strike, Endless Battle, Queen's Wings, Malefic Roar
+- Core: War Axe, Hunter Strike, Queen's Wings
+- Emblem: Assassin Emblem with Rupture, Seasoned Hunter, War Cry
+- Battle spell: Retribution
+- Blessing: Bloody Retribution
+- Flex: Brute Force Breastplate over Endless Battle when Use when repeated skirmishes demand control reduction and movement speed more than the Divine Justice basic attack window.; Athena's Shield over Malefic Roar when Use against front-loaded magic burst that forces Lancelot out before Queen's Wings can stabilize the fight.; Immortality over Malefic Roar when Use for final Lord fights when a revive creates more value than a last armor-piercing damage slot.
+- Total cost: 11450 gold
+
+Bruiser jungle setup for games where Lancelot must enter twice around Turtle or Lord instead of relying on one clean backline execute.
+
+All builds for this hero: https://mlbbhub.com/builds/lancelot.
+
+## Synergies
+
+- Atlas: Lancelot works well with heroes who can pull enemies together, like Atlas and Tigreal, because they allow him to hit more enemies with his AOE skills.
+- Tigreal: Lancelot works well with heroes who can pull enemies together, like Atlas and Tigreal, because they allow him to hit more enemies with his AOE skills.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

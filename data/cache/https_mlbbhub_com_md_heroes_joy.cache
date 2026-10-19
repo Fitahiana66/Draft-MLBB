@@ -1,0 +1,213 @@
+# Joy, Pirate Fairy
+
+> Joy is the highest-skill assassin in the roster after Fanny, and she punishes you for picking her into the wrong draft harder than almost any other hero. The game does not let you brute-force her: every fight is a rhythm test, and missing a beat costs the kill.
+
+## Snapshot
+
+- Role: Assassin
+- Lane: Jungle
+- Specialty: Chase, Damage
+- Difficulty: Hard
+- Tier this patch: C
+- Win rate: 49.16%
+- Pick rate: 0.13%
+- Ban rate: 0.19%
+- Released: 2022
+- Page: https://mlbbhub.com/heroes/joy
+
+## Guide
+
+### Is this a Joy game?
+
+Joy is a magic-damage jungle assassin who needs four things from a draft to be the right call: at least one squishy backline target you can isolate, no ranged anti-dash hero on the enemy team, a frontline of your own that can hold a 2-3 second window while you cycle dashes, and a pace that lets you reach the Genius Wand timing without being denied jungle camps. When all four are true, she is one of the best pick-off threats in the game. When even one is missing, you are griefing.
+
+The disqualifying tests are sharp. If the enemy locks Phoveus, lock something else: his passive activates the moment any enemy uses a blink or dash, and Joy's whole kit is dashes. He will end every engagement on top of you, because every dash you take is feeding his passive. Minsitthar's King's Calling drops a field where enemies cannot use movement skills, which deletes your S2. Khufra's S2 hard-counters your dash chain because his bouncing ball stops blinks mid-cast and chains a stun. Then the suppression line: Franco hook into ult, Kaja link, Barats grab. Suppression is not "long crowd control": it specifically locks you out of pressing skills, which means no S2, no ultimate, no escape.
+
+You also need a frontline. Joy has a soft base stat line and no built-in tank stat. If your team picks four damage dealers and a roam Saber, you have nobody to hold the choke while you dance through the enemy backline. You will get one combo off, then die in the open.
+
+If you cannot name which of those conditions your current draft is in, Joy is the wrong pick.
+
+### The one thing that makes Joy work
+
+Joy is a metronome with claws. Her entire kit is built around the tight recast window on Meow, Rhythm of Joy!, and every other ability exists to feed that window or cash it in.
+
+Her S1 (Look, Leonin Crystal!) is not a damage spell. It is a beat target: a stationary object she can dash to in order to keep the rhythm alive when no enemy is in range. Her S2 dashes in a direction, and a hit (on an enemy or the Crystal) reopens that recast window and banks 1 Beat Energy. Land four dashes in succession and the fourth one doubles its damage and grants a shield. Land enough Beat Energy and the ultimate (Ha, Electrifying Beats!) stops being a damage spell and becomes a status reset: cast it with 3 Beat Energy and Joy cleanses every debuff on her, then becomes immune to slows for the entire pulse window.
+
+This is why she does not have mana. Mana would gate the rhythm. Cooldowns gate the rhythm instead, and the rhythm itself is the resource. Hitting her S2 on time is not "good play"; it is the only play.
+
+The reflex Joy players have to unlearn is treating her like a burst assassin who blows everything in 2 seconds. She is not. She is a sustained engagement: drop, dash, dash, dash, dash, ultimate, continue dashing on-beat through the whole pulse window. Players who try to one-shot a marksman and leave will hit twice and run out of damage. Players who commit to the full rhythm cycle, including the in-ult dashes, will land all eight pulses at full amplification and walk out with the spell vamp that perfect rhythm grants.
+
+### Laning: the first 4 minutes
+
+Joy is jungle-only in any serious draft. She does not lane.
+
+1. **Take blue buff first, no exceptions.** She has zero mana, so the buff's mana refund is wasted, but the cooldown reduction lets her dash cycle reset faster. Clear blue with S1 → S2 → basic, then walk to your roam-side small camps.
+2. **Hit level 4 before showing your face.** Joy at level 3 has S1 and S2 but no ultimate. Joy at level 4 has all three skills and the full Beat Energy loop. The one-level gap turns a failed gank into a 1-versus-1 you actually win, so do not invade or counter-gank the enemy jungle until you have ult.
+3. **First gank goes mid, not side.** Mid lane has the shortest distance from your blue buff to a squishy target, and most mids in the current pool (Pharsa, Kagura, Valentina) have one escape and zero burst tools to threaten you mid-combo. Drop S1 in their retreat path, dash through them once to slow, then chain three more dashes on rhythm. If they Flickered the first dash, the slow from the Crystal still makes the second dash land.
+
+> [!TIP]
+> The Crystal counts as a "beat target" for S2 recasts. If the enemy moves out of range mid-combo, dash to the Crystal instead of to them. You keep the chain alive and reposition for free.
+
+### The power spike you are farming toward
+
+Arcane Boots plus Genius Wand. That is the spike. Around the 7-to-9 minute mark, depending on how clean your jungle pathing is, Joy gets the magic penetration she needs to make her per-pulse damage actually hurt squishies.
+
+Genius Wand is non-negotiable as her first item. The passive shreds 3 + (0.3 * hero level) magic defense per skill hit, stacking 3 times. Joy lands hits with every dash, so a single dash chain walks the target up to full stacks, which means every subsequent pulse, basic attack, and ult tick lands against a target with effectively negative magic defense for low-level squishies. Without Genius Wand, your dashes tickle. With it, they delete.
+
+Concentrated Energy is the second item, finished by the 11-to-12 minute mark. It does two things: the stacking magic power passive caps at 12% bonus magic damage after six skill hits, which she reaches mid-combo on a single target, and the 400 HP turns her soft base line into one that survives a stray poke from a fed mage. Before this item lands, you cannot dive a fed mage. After it lands, you can.
+
+Once those two are online, Joy stops being a hero who farms and becomes a hero who hunts. Pick a side lane, walk to the bush behind their tower, drop Crystal, full combo, leave with Spell Vamp from the ult cycle.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a teamfight starting is to dash into the middle and start the rhythm. That reflex loses games. Joy's combo locks her in place for the entire rhythm cycle; if you start it mid-fight, every CC ability the enemy has is pointed at the moving target, which is you.
+
+1. **Wait until the first hard CC has been spent.** Joy has no CC of her own, so your job is not initiation, it is execution. Let the tank engage, count the Khufra ball or the Atlas pull, then start your dash chain on the squishy who is now committed to staying in the fight.
+2. **Open from a flank, not from a head-on dash.** Joy's S2 has a fixed direction, and four dashes in the same direction puts you in the enemy backline whether you want to be there or not. If you open head-on, the second dash pushes you past the marksman and into the enemy tank's CC range. Coming in from the side keeps the marksman in your dash path for the full chain.
+3. **Cast ultimate with exactly 3 Beat Energy, not 1 or 2.** With 1 or 2 Beat Energy, the ultimate is just damage. With 3, it cleanses every debuff on you and grants slow immunity for the full pulse window. Inside that window, you can dash through Selena root, Aurora freeze, Khufra ball, anything that does not suppress. Saving the ult for the 3rd Beat Energy is the difference between dying to one CC chain and running the entire combo through it.
+
+If your support is Estes or Mathilda, you can open earlier and from sloppier angles because the heal or the link will save the missed beat. If your support is Diggie or Floryn, you have no save tools and must time the engage perfectly, because their kits do not pull you out.
+
+### Itemization: 3 locked slots plus 3 real conversations
+
+Joy locks Arcane Boots, Genius Wand, and Concentrated Energy. Everything after that is a draft-dependent decision.
+
+The fourth slot is the first real choice. **Glowing Wand** is the default: the burn passive deals 1.5% of the target's max HP per second for 3 seconds, which scales against the tanks who otherwise eat your magic damage, and the Lifebane passive cuts shield and HP regen by 50%, which is an enormous answer to Estes, Floryn, and Mathilda comps. **Holy Crystal** replaces Glowing Wand if the enemy has zero healing and zero high-HP tanks: the 21-35% bonus magic power scales harder against squishy comps where you do not need percent-HP damage.
+
+The fifth slot is the anti-tank conversation. **Divine Glaive** is the answer when the enemy stacks two or more magic resistance items: the Spellbreaker passive scales 0.1% extra magic penetration per point of enemy magic defense up to 20%, which means it is wasted against squishies but mandatory against any tank who built Athena's Shield. If the enemy has no anti-magic items, skip Divine Glaive entirely and take Starlium Scythe instead, which converts your basic attack between dashes into 100 (+100% Total Magic Power) true damage, plus 10% CDR for faster cycle resets.
+
+The sixth slot is whatever the late game needs. **Ice Queen Wand** layers a 30% slow over your dash chain, which makes you uncatchable in a chase but adds nothing to a 2-second teamfight. **Clock of Destiny** is the survival pick: stacking hybrid defense and the 50%-HP recovery proc let you live a second cycle in extended brawls. Both are correct in the right game.
+
+> [!NOTE]
+> Joy does not need crit, attack speed, or pure physical items. Her basic attack converts to magic damage scaling on her passive (65% Total Magic Power), so every gold goes into magic power, magic penetration, or sustain.
+
+For Assassin Emblem, the standard loadout is Rupture for adaptive penetration on top of Genius Wand, Master Assassin for the +7% damage to isolated heroes (which is exactly what she does to picked-off targets), and Killing Spree as the core talent for the post-kill 15% lost-HP recovery and 20% movement speed. The Killing Spree reset is what lets her pick off two squishies in a row instead of one.
+
+### Mistakes that lose Joy games
+
+**Opening with S2 instead of S1.** Without the Crystal placed first, your second dash has no fallback target if the enemy steps sideways. Drop Crystal first, every time. The Crystal is your safety net for the rhythm chain, and the slow it applies makes the first dash easier to land. Players who lead with S2 and miss are giving up the entire combo.
+
+**Picking her into Phoveus.** Phoveus's passive (Demonic Force) charges every time an enemy hero uses a blink or dash within range. Joy uses 4 dashes per combo plus more during her ultimate. By the time you finish your first chain, his cooldowns have been refreshed by your dashes and his ultimate is ready to leap onto you mid-rotation. If you see Phoveus in the loading screen and you locked Joy, you have already lost.
+
+**Casting the ult with 1 Beat Energy because the damage looks ready.** The ult's value is the cleanse and slow immunity at 3 Beat Energy, not the raw damage. Ulting at 1 Beat Energy gives you the full pulse window with no debuff protection. The first Aurora freeze, Selena Abyssal Trap, or Khufra ball locks you in place for the rest of the window and you lose the combo. Stack to 3 first, even if it means one more dash than feels necessary.
+
+**Cancelling the rhythm to chase a low-HP escape.** If you are at dash 2 of 4 and the enemy starts to flee, the temptation is to stop the chain and walk-up auto-attack to finish them. Do not. The fourth dash doubles its damage; the auto-attack does not. Continue the chain. If they live through dash 4, the slow from the Crystal you should have re-dropped during dash 3 will catch them.
+
+**Forcing a fight before the Genius Wand timing.** Pre-Genius Wand, Joy's per-pulse damage is too low to threaten any squishy with one defensive item. Players who try to invade at level 6 with jungle boots and a single component item will dump a full chain into the marksman and feed first blood, because the chain needs the shred to be lethal. Joy is not an early-game gank threat; she is a mid-game pick-off threat. Wait for the spike.
+
+### Key tips
+
+> [!TIP]
+> The recast window on S2 starts the moment your dash hits, not the moment it is cast. If you are getting "missed beats" with what feels like correct timing, you are probably mashing too early. Wait until the dash animation visually connects, then tap.
+
+> [!NOTE]
+> Joy's basic attack deals magic damage, so a weave between S2 dashes counts as damage for Genius Wand and Concentrated Energy stacks. During a long combo, weaving one basic attack between dashes 2 and 3 adds a magic-defense shred stack and accelerates the Concentrated Energy ramp.
+
+> [!TIP]
+> The shield from a successful 4th-beat S2 stacks on top of the ultimate's defense buff. Cycling 4-beat S2 → ult → continued on-beat dashes is the highest-survival sequence she has, and it is what lets her dive a Layla under tower without dying to the tower shots between pulses.
+
+> [!WARNING]
+> Joy does not benefit from Lifesteal, Crit, Attack Speed, or any pure Physical item, despite her Physical Attack base stat. Her basic-attack damage scales off Total Magic Power through her passive. Building anything physical on her is a misread of her kit.
+
+> [!NOTE]
+> Retribution is mandatory; she has no other viable battle spell. Flicker looks tempting because she is mobile, but a 4th dash always covers more distance than a Flicker, and the evolved Bloody Retribution steals HP from the hero it hits, which closes one of her few sustain gaps.
+
+## Skills
+
+### Humph, Joy's Angry! (Passive)
+
+Joy becomes Angry! each time her skill hits a non-Minion enemy, dealing 100 (+80% Total Magic Power) Magic Damage and increasing her Movement Speed by 60% that decays over 4s (hitting the Leonin Crystal will also grant the Movement Speed effect). This effect has a cooldown of 4s for each target. Joy's Basic Attack will deal 65 (+65% Total Physical Attack) (+65% Total Magic Power) Magic Damage.
+
+### Look, Leonin Crystal! (Skill 1)
+
+Joy summons a Leonin Crystal at the target location, dealing 200 (+40% Total Magic Power) Magic Damage to nearby enemies and slowing them by 30% for 1s. The Leonin Crystal lasts up to 2s.
+
+### Meow, Rhythm of Joy! (Skill 2)
+
+Joy dashes in the target direction, dealing 120 (+40% Total Magic Power) Magic Damage to enemies in her path. Hitting an enemy or the Leonin Crystal allows Joy to cast this skill again within 0.8s and gain 1 Beat Energy. Casting this skill on the beat increases the skill damage by 100% and grants a 80 (+60% Total Magic Power) shield that lasts 3s. This skill can be cast up to 4 times in succession.
+
+### Ha, Electrifying Beats! (Ultimate)
+
+Joy gains 15 (+10% Total Magic Power) Hybrid Defense and 30% Movement Speed. Over the next 3s, she pulses 8 times, dealing 120 (+40% Total Magic Power) Magic Damage each time to nearby enemies. Each Meow, Rhythm of Joy! cast on the beat increases this skill's damage by 40%. If perfect rhythm is achieved by hitting every beat with Meow, Rhythm of Joy!, Joy also gains 40% Spell Vamp while this skill is active. This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat Energy will remove all debuffs and make her immune to slow effects while this skill is active.
+
+Skill upgrade priority: 3-2-1.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, Joy should summon a Leonin Crystal with her 1st Skill and use it as a springboard for her 2nd Skill to enter the battle. Continue to chain her 2nd Skill on the beat to unlock her Ultimate. Finally, use her Ultimate to finish off the enemy.
+- LANING COMBOS (laning): In the laning phase, Joy should place her 1st Skill on top of the enemy, then use her 2nd Skill to dash through both targets and continue to chain her 2nd Skill on the beat for damage.
+
+## Counters to Joy (pick these against Joy)
+
+- Moskov (Marksman): +3.5 pp edge. Moskov has a statistical edge over Joy based on ranked matchup data. Pick Moskov to gain an advantage in draft.
+- Cyclops (Mage): +3.0 pp edge. Across Joy's measured matchups, Joy is weakest in the early game. Apply pressure with Cyclops before Joy can scale.
+- Melissa (Marksman): +3.0 pp edge. Across Joy's measured matchups, Joy is weakest in the early game. Apply pressure with Melissa before Joy can scale.
+- Odette (Mage): +2.6 pp edge. Odette has a statistical edge over Joy based on ranked matchup data. Pick Odette to gain an advantage in draft.
+- Fredrinn (Fighter/Tank): +2.5 pp edge. Fredrinn's durability and kit give them a strong matchup advantage against Joy throughout the game.
+- Bruno (Marksman): +2.4 pp edge. Bruno has a statistical edge over Joy based on ranked matchup data. Pick Bruno to gain an advantage in draft.
+- Kalea (Support/Fighter): +2.2 pp edge. Across Joy's measured matchups, Joy is weakest in the early game. Apply pressure with Kalea before Joy can scale.
+- Hirara (Assassin): +2.2 pp edge. Across Joy's measured matchups, Joy is weakest in the early game. Apply pressure with Hirara before Joy can scale.
+
+## Heroes Joy beats
+
+- Lolita (Support/Tank): +4.8 pp edge for Joy.
+- Sun (Fighter): +4.7 pp edge for Joy.
+- X.Borg (Fighter): +3.2 pp edge for Joy.
+- Khaleed (Fighter): +2.7 pp edge for Joy.
+- Hanabi (Marksman): +2.6 pp edge for Joy.
+- Guinevere (Fighter): +2.4 pp edge for Joy.
+- Suyou (Assassin/Fighter): +2.2 pp edge for Joy.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/joy.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-13. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Jungle Pickoff Tempo (Jungle)
+
+- Items: Arcane Boots, Genius Wand, Starlium Scythe, Holy Crystal, Blood Wings, Divine Glaive
+- Core: Genius Wand, Starlium Scythe, Holy Crystal
+- Emblem: Mage Emblem with Rupture, Wilderness Blessing, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Tough Boots over Arcane Boots when Use when control duration matters more than early magic penetration during the first dash chain.; Glowing Wand over Blood Wings when Use when shield, healing, or high-HP frontliners are keeping targets alive through the ultimate pulses.; Winter Crown over Blood Wings when Use when one late-game burst combo can kill Joy after she commits Beat Energy into the backline.
+- Total cost: 11980 gold
+
+Default jungle setup for games where Joy can reach Genius Wand into Starlium Scythe and punish isolated carries with full-rhythm entries.
+
+### Jungle Anti-Sustain (Jungle)
+
+- Items: Tough Boots, Genius Wand, Glowing Wand, Holy Crystal, Divine Glaive, Winter Crown
+- Core: Genius Wand, Glowing Wand, Divine Glaive
+- Emblem: Mage Emblem with Rupture, Seasoned Hunter, Lethal Ignition
+- Battle spell: Retribution
+- Blessing: Ice Retribution
+- Flex: Arcane Boots over Tough Boots when Use when the enemy has light crowd control and Joy needs more early kill pressure from magic penetration.; Blood Wings over Winter Crown when Use while ahead when extra shield, movement, and magic power are worth more than a stasis active.; Starlium Scythe over Winter Crown when Use when Joy can weave basic attacks between dashes without being punished by instant burst.
+- Total cost: 11630 gold
+
+Safer jungle setup for sustain-heavy or tankier drafts where Glowing Wand and Divine Glaive matter more than pure pickoff damage.
+
+### EXP Sustain Duel (EXP)
+
+- Items: Tough Boots, Genius Wand, Concentrated Energy, Oracle, Glowing Wand, Divine Glaive
+- Core: Genius Wand, Concentrated Energy, Oracle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Starlium Scythe over Oracle when Use when Joy is winning lane and can convert dash resets into basic-attack burst instead of needing shield amplification.; Brute Force Breastplate over Oracle when Use against mixed skirmish damage where cooldown, movement, and control reduction keep the rhythm chain alive.; Winter Crown over Divine Glaive when Use when a late-game pickoff comp can delete Joy before Vengeance and spell vamp stabilize the fight.; Radiant Armor over Oracle when Use against repeated magic damage that chips Joy down before objective fights begin.
+- Total cost: 10600 gold
+
+EXP lane setup for dueling and second-entry fights where Joy needs sustain, shield value, and enough magic damage to threaten the backline.
+
+All builds for this hero: https://mlbbhub.com/builds/joy.
+
+## Synergies
+
+- Angela: Joy works best with heroes with that can provide powerful support or have strong initiation, like Angela and Hylos.
+- Hylos: Joy works best with heroes with that can provide powerful support or have strong initiation, like Angela and Hylos.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

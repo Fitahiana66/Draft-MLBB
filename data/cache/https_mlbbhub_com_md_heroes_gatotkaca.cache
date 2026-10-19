@@ -1,0 +1,197 @@
+# Gatotkaca, Mighty Legend
+
+> Gatotkaca is a tank that punishes tunneling. His kit is built around one bet: the enemy team will keep attacking him after he taunts them, and he will get stronger the more they do. Break that assumption and he is a slow, escape-less statue with a telegraphed ultimate.
+
+## Snapshot
+
+- Role: Tank, Fighter
+- Lane: Roam, EXP
+- Specialty: Crowd Control, Burst
+- Difficulty: Medium
+- Tier this patch: D
+- Win rate: 45.17%
+- Pick rate: 0.57%
+- Ban rate: 0.30%
+- Released: 2017
+- Page: https://mlbbhub.com/heroes/gatotkaca
+
+## Guide
+
+### Is Gatotkaca the right roam this game?
+
+Gatotkaca wants a second CC hero on the team. His ultimate has a visible indicator, a windup, and one of the longest cooldowns in his kit, which means a solo engage against anyone with a dash or a purify is a free dodge. Pair him with a setup hero who can freeze the fight first (Angela bind, Chou S1 flick, Mathilda pull, Xavier stun) and his ult becomes a teamfight-ender. Pair him with nothing and he becomes the tank who walks in, yells, and dies alone.
+
+Patch 2.1.88 ([patch notes](/patch-notes)) nudged his base HP and physical defense up to keep roam tanks relevant after the roaming-attribute adjustments, so he eats the early jungle invade a little better than he used to. It changes none of the above: he still needs a partner to land the ult.
+
+Lock him when: your team already has hard CC and you need a body that absorbs focus fire. He is at his best protecting a hypercarry marksman like Melissa or Lesley, or front-lining for a poke mage like Pharsa who needs time to set up.
+
+Do not lock him when: the enemy draft has Karrie, Diggie, Lunox, or Baxia. Karrie's true damage voids his entire armor-conversion identity. Diggie's ultimate makes his team CC-immune, so your taunt and ult do nothing. Lunox's Chaos ultimate is invulnerable and phases through your taunt. Baxia's passive cuts your healing and shield effects, which neuters your enhanced basic sustain. If your current draft cannot answer at least three of those four, pick someone else.
+
+Do not lock him when your team is already pick-off heavy (Gusion, Ling, Natalia). Gatotkaca does not create picks. He creates teamfights.
+
+### The one thing that makes Gatotkaca work
+
+Gatotkaca is the only tank in the game who becomes mechanically correct to leave alive. His passive converts lost HP into physical defense, his enhanced basic attack heals him, and his taunt forces the enemy to keep feeding that loop. Every correct play with Gatotkaca ends with him at 15% HP, 200 bonus armor, and a full Rage bar swinging one enhanced basic that puts him back above 50%.
+
+That is the bet. The kit is built to make enemies regret attacking him, and to make them regret ignoring him even more. His S1 plants a burning slow zone that punishes anyone standing near him, so melee heroes cannot just walk around him to reach the backline. His S2 taunt yanks a target into autoattacking him for the duration. His ultimate airborne pulls fringe enemies inward, so even the marksman who kited to the edge of the circle gets dragged into the center stun.
+
+Every part of the kit exists to make sure the fight happens on top of Gatotkaca. If you are playing him and the fight is happening 400 units away from you, you are playing him wrong.
+
+### Roam: the first six minutes
+
+Start at blue buff, give it to your jungler, and path straight to the midlane wave by second 20. Gatotkaca's level 2 is a threat zone. Take S1 first.
+
+1. **Ward before you fight, not after.** Gatotkaca has no escape. A single gank on him without vision is an auto-death because you cannot dash out of a Saber combo. Buy the trinket, ward the enemy jungle entrance by 1:00, and rotate from vision-secured bushes only.
+2. **Level 2 gank priority is the matchup your carry is losing.** Walk into the lane from a warded bush, use S2 to close distance (not to taunt), then S1 to drop the slow zone on retreat angle. The kill comes from your carry; your job is the lockdown and the damage floor.
+3. **Do not burn Flicker to engage before level 4.** You have S2 sprint distance scaling with channel time. A full-channel S2 covers more ground than most heroes realize. Flicker is your only real escape tool before Immortality, and burning it to chase a 40%-HP Layla at level 3 gets you solo-killed on the next gank attempt.
+
+### The power spike you are farming toward
+
+The real turning point is Cursed Helmet plus Thunder Belt, usually online around the 9 to 11 minute mark if you are hitting your rotation gold. Before Cursed Helmet, Gatotkaca is a CC bot with one good ability. After Cursed Helmet, he is a damage aura: the item's Burning Soul passive ticks 1.2% Max HP magic damage per second to every nearby enemy, and because he already builds 1200 bonus HP on the item itself, that tick hurts. Thunder Belt then adds a true-damage proc that arms on a short timer and fires on his next basic attack, with the damage scaling off his Total Physical Defense and Total Magic Defense, which means every defensive stat he buys also raises his offensive ceiling.
+
+That is the spike. After those two items, a full-duration taunt into a Cursed Helmet aura does meaningful damage on its own, his enhanced basic attack from Steel Bones drops a non-trivial health chunk with the Thunder Belt proc, and he gains the stat threshold where he can actually survive the channel on his S2 without being bursted out of it. Before those items, he is an initiator. After them, he is a frontline that the enemy physically has to deal with or lose the fight.
+
+### Teamfight positioning and target priority
+
+The reflex when you see a squishy marksman is to Flicker into her and taunt. That reflex is usually wrong on Gatotkaca. A taunted marksman deals autoattack damage to you, which feeds your passive, but the rest of her team is free to peel or reposition. The better target is almost always the enemy frontline or jungler, because taunting them stops their engage and leaves their backline exposed to your team.
+
+1. **Initiate with the ultimate, not the taunt.** Your ultimate has the longest cooldown in your kit and the highest impact. Open fights with it while the enemy is clumped (chokepoints, objective pits, bush exits), then follow with S2 to lock whoever tried to flash out.
+2. **Position on the side of the fight, not in front of it.** Gatotkaca's ultimate drags fringe enemies to the center, so you want to jump in from an angle the enemy did not expect. Jumping straight forward onto a prepared frontline means they just side-step the circle.
+3. **Stand on top of your carry when you are not engaging.** His S2 taunt is a peel tool, not just an engage tool. If your Melissa is being dove by a Hayabusa, a half-channel S2 into the assassin shuts the dive down cold because he has to autoattack you while your carry walks away.
+
+If your support is Estes or Rafaela, you are allowed to dive deeper. Their healing back-fills the exact loop Gatotkaca needs. If your support is a poke mage like Valir or Diggie, you do not get to dive; you get to peel.
+
+### Itemization: four locked slots and two real conversations
+
+Tough Boots, Cursed Helmet, Thunder Belt, and Dominance Ice are the core four. Everything after is situational.
+
+The fifth slot is the first real conversation. Against a heavy magic team (Pharsa, Kagura, Esmeralda), Athena's Shield is correct because its passive pre-applies 25% magic damage reduction before the damage hits. Against a heavy physical team (Yu Zhong, Fredrinn, Melissa), Antique Cuirass is correct because its Deter passive stacks up to three times against skill damage and drops incoming physical damage by 18% at full stacks. Against comps that heal (Estes, Alice, Uranus), skip both and go Dominance Ice earlier for the anti-heal.
+
+The sixth slot is the second real conversation. Immortality is the default, but Queen's Wings is the better pick when your team already has a peel support and you are expected to front-line dive deep. Its Demonize passive triggers below 40% HP and reduces damage by 30% plus cuts 2 seconds off your skill cooldowns. That is the exact moment Gatotkaca wants to press S2 again.
+
+The worst common build choice is Glowing Wand. Skip it. Wand gives 400 HP and no defensive stats, and Gatotkaca does not have enough magic power scaling in his kit to justify a magic damage item. If the narrative in your head is "I want more damage," Thunder Belt and Cursed Helmet already do that, and they do it through items that also keep you alive.
+
+Tough Boots over Warrior Boots is the default because his taunt duration and slow uptime matter more than a small armor bonus. Warrior Boots is correct only against a specifically autoattack-heavy comp like Karrie, Claude, or Wanwan, where the Valor stack actually sees uptime.
+
+### Mistakes that lose Gatotkaca games
+
+**Full-channel S2 engages against any hero with a dash.** The patch 2.1.40 nerf changed S2 taunt from a fixed duration to one that scales with channel time, so a rushed cast barely taunts at all. A lot of Gatotkaca mains did not update their engage pattern. You still have to full-channel for max taunt, which means you are standing still and visible for roughly a second before the sprint starts. Any competent Fanny, Ling, or Saber will dash out before the taunt connects. Against mobile heroes, use half-channel S2 as a gap-closer and commit the taunt only after you have vision on their dash cooldown.
+
+**Opening a fight without vision on the enemy assassin.** Gatotkaca has no escape tool until he has Flicker back up. If the enemy Hayabusa or Lancelot is unseen for more than 15 seconds, do not engage. Your ultimate does not save you from being collapsed on mid-jump, and the airborne on your ult does not interrupt shadow-form abilities.
+
+**Ultimate into a Diggie Time Journey.** This one keeps happening at mid-ranks. Diggie's ultimate grants his whole team CC immunity for a long window, and Gatotkaca players still press Avatar of Guardian thinking the airborne will go through. It does not. The knock-up gets eaten, you land in the middle of five enemies with your strongest ability on its long cooldown, and you die. If Diggie has ult up, bait it first by pressing S2 into a safe target before committing the ultimate.
+
+**Ulting to finish one low-HP enemy.** The ultimate is a long-cooldown teamfight tool, not a single-target execute. Using it to secure a kill on a 10% HP Miya means your team fights the next teamfight three minutes later without your strongest ability. Walk up and enhanced-basic her instead.
+
+**Building Magic Power items because your skills scale with Total Magic Power.** It is technically true that his ratios include magic power, but the ratios are not high enough to beat what defensive items give him through Thunder Belt's true damage scaling. Holy Crystal and Clock of Destiny are traps on this hero. If you want damage, buy more defense.
+
+### Key tips
+
+> [!TIP]
+> Cancel S2 immediately if the taunt misses or the target dashes. Cancelling refunds a large chunk of the remaining cooldown, so a missed cast costs far less than letting the animation finish. Most Gatotkaca players let it play out and pay the full cooldown for nothing.
+
+> [!NOTE]
+> His enhanced basic attack from Steel Bones arms well before a full Rage bar, so you do not need to farm the entire meter before trading. Take a couple of hits from a wave, drop one enhanced basic for the heal and the bonus damage, then disengage. This is how he out-sustains EXP laners without burning S1 mana.
+
+> [!TIP]
+> Flicker through thin walls, not over them. The skill tooltip does not make this obvious, but Flicker can cross walls that are narrow enough, which gives Gatotkaca an escape route through jungle walls that most enemies will not path-predict. Walk the map once in practice mode to learn which walls are thin enough.
+
+> [!WARNING]
+> Do not buy Blade Armor thinking it counters basic attacks. The damage reflect is real, but Gatotkaca already has an armor-conversion passive, a 1200 HP item (Cursed Helmet) that does its own AOE damage, and a Thunder Belt that returns true damage. Blade Armor is a stat-redundant slot. Take Antique Cuirass for the physical matchup instead.
+
+## Skills
+
+### Steel Bones (Passive)
+
+Gatotkaca gains Physical Defense equal to 2% of his lost HP (up to 200). He gains 5 Rage (up to 100) for every 300 damage taken (calculated before reduction). Upon reaching 25 Rage, Gatotkaca's next Basic Attack is enhanced, consuming all Rage to deal (+100% Total Physical Attack) (+200% Total Magic Power) (+ 8.2-11 * Consumed Rage) Magic Damage (scales with hero level) and recover (8 * Consumed Rage) HP.
+
+### Blast Iron Fist (Skill 1)
+
+Gatotkaca slams the ground, creating a shattered zone in the target direction while dealing 200 (+150% Total Magic Power) Magic Damage to enemies within. Enemies in the shattered zone will take 100 (+20% Total Magic Power) Magic Damage per second and be slowed by 30%.
+
+### Unbreakable (Skill 2)
+
+Gatotkaca begins channeling, then sprints in the target direction with a battle cry, taunting enemies on the path to attack him, dealing 200 (+100% Total Magic Power) Magic Damage for 0.9 - 1.5s. The taunt duration and sprint distance scale with the channel time. Canceling the skill reduces 50% of the remaining cooldown.
+
+### Avatar of the Guardian (Ultimate)
+
+Gatotkaca jumps to the target location, dealing 500 (+300% Total Magic Power) Magic Damage to nearby enemies and knocking them airborne for 1s. Enemies near the center of the area will be knocked airborne for a longer duration, while enemies on the fringes will be pulled to the center. The camera will move with the skill indicator but won't grant extra sight.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): In teamfights, use Gatotkaca's Ultimate to dive into the enemy team, then use his 2nd Skill to taunt them, and slow them with his 1st Skill before finishing with Basic Attacks.
+- LANING COMBOS (laning): In the laning phase, use Gatotkaca's 2nd Skill to CC the enemy by charging up to extend the range while aiming, then follow up with his 1st Skill and Basic Attacks.
+
+## Counters to Gatotkaca (pick these against Gatotkaca)
+
+- X.Borg (Fighter): +3.6 pp edge. X.Borg's sustain and durability allow them to outlast Gatotkaca's burst combos and win extended trades.
+- Lesley (Marksman/Assassin): +3.0 pp edge. Lesley has a statistical edge over Gatotkaca based on ranked matchup data. Pick Lesley to gain an advantage in draft.
+- Angela (Support): +2.3 pp edge. Angela has a statistical edge over Gatotkaca based on ranked matchup data. Pick Angela to gain an advantage in draft.
+- Uranus (Tank): +2.3 pp edge. Uranus's durability and kit give them a strong matchup advantage against Gatotkaca throughout the game.
+- Aldous (Fighter): +2.3 pp edge. Aldous's durability and kit give them a strong matchup advantage against Gatotkaca throughout the game.
+- Hylos (Tank): +2.3 pp edge. Hylos's durability and kit give them a strong matchup advantage against Gatotkaca throughout the game.
+- Chang'e (Mage): +1.4 pp edge. Chang'e has a statistical edge over Gatotkaca based on ranked matchup data. Pick Chang'e to gain an advantage in draft.
+
+## Heroes Gatotkaca beats
+
+- Odette (Mage): +2.7 pp edge for Gatotkaca.
+- Saber (Assassin): +2.4 pp edge for Gatotkaca.
+- Zilong (Fighter/Assassin): +2.3 pp edge for Gatotkaca.
+- Miya (Marksman): +2.0 pp edge for Gatotkaca.
+- Yin (Fighter/Assassin): +1.8 pp edge for Gatotkaca.
+- Aurora (Mage): +1.6 pp edge for Gatotkaca.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/gatotkaca.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-08-02. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Roam Vengeance Punish (Roam)
+
+- Items: Tough Boots, Cursed Helmet, Thunder Belt, Dominance Ice, Oracle, Immortality
+- Core: Cursed Helmet, Thunder Belt, Dominance Ice
+- Emblem: Tank Emblem with Vitality, Tenacity, Brave Smite
+- Battle spell: Vengeance
+- Blessing: Encourage
+- Flex: Athena's Shield over Oracle when Use when burst magic can remove you before Rage, Vengeance, and Brave Smite stabilize the engage.; Radiant Armor over Oracle when Use into repeated magic damage that keeps tagging you during Lord and mid-river fights.; Antique Cuirass over Oracle when Use when physical skill burst is the main threat and Dominance Ice already covers sustain suppression.; Blade Armor over Oracle when Use only when the enemy marksman must basic attack through your taunt to win fights.
+- Total cost: 10420 gold
+
+Default roam setup for forcing enemies to hit Gatotkaca while Cursed Helmet, Thunder Belt, Vengeance, and team buffs punish the contact.
+
+### EXP Thunder Frontline (EXP)
+
+- Items: Tough Boots, Thunder Belt, Dominance Ice, Oracle, Antique Cuirass, Immortality
+- Core: Thunder Belt, Dominance Ice, Oracle
+- Emblem: Fighter Emblem with Firmness, Festival of Blood, Brave Smite
+- Battle spell: Vengeance
+- Flex: Warrior Boots over Tough Boots when Use into physical EXP lanes when control chains are light and the first trades decide lane access.; Cursed Helmet over Antique Cuirass when Use when wave clear and body-range damage matter more than reducing physical skill burst.; Athena's Shield over Antique Cuirass when Use against one-shot magic burst that can kill you before your second enhanced basic attack.; Guardian Helmet over Immortality when Use before the final Lord stage when repeated rotations matter more than a single revive.
+- Total cost: 10680 gold
+
+EXP lane setup for steady Thunder Belt stacking, anti-sustain utility, and long brawls where Vengeance converts focus fire into value.
+
+### EXP Hybrid Dive (EXP)
+
+- Items: Tough Boots, Thunder Belt, Concentrated Energy, Glowing Wand, Brute Force Breastplate, Immortality
+- Core: Thunder Belt, Concentrated Energy, Glowing Wand
+- Emblem: Mage Emblem with Rupture, Tenacity, Lethal Ignition
+- Battle spell: Flicker
+- Flex: Dominance Ice over Glowing Wand when Use when the enemy sustain comes from heroes near Gatotkaca rather than the target he is burning. Lifebane does not stack across the two, and Fortress Shield scales hybrid defense in grouped fights.; Oracle over Brute Force Breastplate when Use when your team has healing or shielding that lets you stay in the second rotation.; Radiant Armor over Brute Force Breastplate when Use against repeated magic poke that reaches you before the dive begins.; Winter Crown over Immortality when Use when you need to buy two seconds after landing Avatar of the Guardian and no other active equipment is in the build.
+- Total cost: 10580 gold
+
+Lead-only EXP variant for games with another primary tank, adding magic threat while keeping enough durability to finish the dive.
+
+All builds for this hero: https://mlbbhub.com/builds/gatotkaca.
+
+## Synergies
+
+- Kagura: Gatotkaca works best with heroes with strong CC and damage, such as Kagura and Vale who can give his Ultimate even more value.
+- Vale: Gatotkaca works best with heroes with strong CC and damage, such as Kagura and Vale who can give his Ultimate even more value.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T11:32:00.689Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.

@@ -1,0 +1,209 @@
+# Beatrix, Dawnbreak Soldier
+
+> Beatrix is four marksmen stuffed into one hero, and most of her losses come from players bringing the wrong one to a fight. Her passive ties Spell Vamp directly to her Lifesteal, which turned her ultimate into a sustain tool. That changes the build, it does not change the draft rules: she still folds the moment the enemy has a hard answer to backline play.
+
+## Snapshot
+
+- Role: Marksman
+- Lane: Gold
+- Specialty: Finisher, Damage
+- Difficulty: Hard
+- Tier this patch: B
+- Win rate: 51.00%
+- Pick rate: 0.63%
+- Ban rate: 0.40%
+- Released: 2021
+- Page: https://mlbbhub.com/heroes/beatrix
+
+## Guide
+
+### When Beatrix is the correct lock
+
+Beatrix is not a blind-pick marksman. She needs the draft to protect her because almost nothing in her own kit does. One short-cooldown blink (Tactical Reposition), a long-animation weapon swap (Masterful Gunner), no CC immunity, no burst escape. The second the enemy locks a reliable answer to her positioning, her ceiling stops mattering.
+
+Pick her when the enemy has two or more immobile targets who cannot close on her (Layla, Melissa with a committed ult, Luo Yi, Popol and Kupa, Brody), when your team has already locked a dedicated peel support before you pick (Angela, Diggie, Estes, Mathilda), and when the enemy draft has no reliable suppression or silence. The third condition is the one players skip. Saber ultimate, Kaja ultimate, Helcurt silence, Natalia stealth, Franco hook: each of those individually erases Beatrix from a fight before her swap animation finishes, and two in the same draft makes her unplayable regardless of your mechanics.
+
+Avoid her when the enemy stacks two or more high-mobility assassins (Ling plus any of Natalia, Hayabusa, Saber, Helcurt), when your team has no peel-capable support and expects you to self-carry, and when the enemy draft stacks hook-into-CC chains (Franco plus Khufra, Atlas plus Franco). Those chains remove her positioning permanently and she has no tool to contest either half.
+
+If you cannot name the specific enemy you plan to kite and the specific ally you plan to hide behind, lock Melissa or Moskov instead.
+
+### Beatrix is a range-selection problem, not a DPS carry
+
+The thesis is not "she has versatility." The thesis is that her passive turns every ability into a range-selection decision, and the player who picks the wrong pair has already lost before the fight starts.
+
+Renner is the sniper: a very-long-range single-shot that punishes anyone standing still but gets dodged by any dash. Bennett is the waveclear-plus-zoning tool: an AOE bombard that slows on hit and feeds every other item in your build. Wesker is the burst weapon: a five-shot volley with sharp damage falloff at range, so it deletes squishies only when the fight is already on top of you. Nibiru is the finisher: a chain of quick shots with the lowest damage ratios of the four, built to kill targets who are already on the ground rather than open fights.
+
+Masterful Gunner lets you carry two of those four at once. Need Backup, the reselection window that opens once you leave combat, lets you swap the pair entirely. Everything else is reading the draft. Against a Luo Yi plus Layla backline you run Renner primary because you are poking immobile targets from seven-plus meters. Against a Lancelot jungle who will dive you every rotation, you run Wesker secondary because the only clean answer to a melee assassin at touching range is deleting him inside his combo window. Picking the wrong pair costs more Beatrix games than any mechanical misplay does.
+
+The passive is the other half of the puzzle. Beatrix now gains extra Spell Vamp equal to her total Lifesteal, and her Wesker ultimate inherits the full Spell Vamp ratio. Translation: every point of Lifesteal on your sheet is also a point of healing on your ultimate and on Bennett's bombs. This reshapes your build toward items that carry raw Lifesteal (Wind of Nature, Demon Hunter Sword indirectly through Marksman emblem) rather than flat-PA stacking. She is no longer an armor-ignoring glass cannon, she is a self-sustaining kiter who can survive a wave of focus that would have killed her before the passive.
+
+### Gold lane: the first five minutes
+
+1. **Set Bennett as primary on spawn.** Out of the fountain the crate presents your pair in a fixed order. Swap Wesker to secondary immediately so Bennett remains primary for lane. Bennett clears the first wave noticeably faster than Renner or Wesker thanks to the AOE basic, which wins you the level-two timing race.
+2. **Level two, roll in and roll out.** Unlock Tactical Reposition and use it to close the gap for two or three Bennett basic attacks, then roll back. The roll fully reloads your ammo so you do not lose a damage cycle. This is your harassment pattern for the entire lane phase: never stand still inside their poke range, always trade with forward momentum and retreat with the reload.
+3. **Do not press Masterful Gunner in lane.** The weapon swap locks you out of Tactical Reposition during the animation. The trade of a long cooldown against a short vulnerability window is bad math when the enemy jungler is off-camera. Commit to Bennett primary for the first five minutes unless the enemy laner is visibly about to base.
+4. **Save Flicker for disengage, not engage.** Your ultimate window is strong enough that Flicker does not need to find kills in lane. It exists to cancel a Saber suppression, break a Franco hook line-of-sight, or reset a fight that went sideways. Flicker plus Renner's Apathy is a late-game finishing pattern, not a level-four pick.
+5. **Level four, your weapon ultimate comes online.** This is the first moment Beatrix is a threat to the enemy laner rather than an equal. Do not press it the moment you hit level four: hold it until the enemy laner has cooldowns down and is sitting at half HP. A Bennett ultimate fired at full-HP enemies with escapes still up is a wasted ultimate.
+
+### Blade of Despair plus Malefic Gun: the kill window
+
+The two-item window at roughly 8 to 11 minutes is where Beatrix stops being a farming marksman and becomes a fight condition. The pair matters because of what each item unlocks at a specific threshold, not because of the combined raw stats.
+
+Blade of Despair carries the Despair passive, which grants 25% extra Physical Attack for two seconds when you damage any non-minion enemy below 50% HP. On Bennett this means the AOE bomb that tags three half-HP enemies activates Despair on all of them at once: every follow-up basic attack and every Renner snipe lands at +25% PA while the window is open. That is the execute threshold the hero was missing before first item.
+
+Malefic Gun is the second major, and it earns the slot over Malefic Roar because Beatrix's damage is basic-attack-shaped. Its Armor Buster passive grants a flat 30% physical penetration against high-armor targets, and its Malefic Energy passive extends her basic attack range and grants movement speed on hit. For Beatrix the range extension is the real prize: it pushes Bennett's AOE and Renner's aim window further from the fight, and the on-hit movespeed compounds the kiting you are already doing. Armor Buster converts your attack into damage through the enemy's defense curve instead of wasting it against the frontliner.
+
+Before two items Beatrix does not initiate: her damage into a 100-armor tank is genuinely poor. After two items she can solo-carry a Turtle contest if the support holds the tank and the draft did not hand the enemy a dive assassin.
+
+### Positioning: the max-range reflex fight
+
+The reflex when the fight starts is to pick the closest tank and unload Wesker because the shots look fast and satisfying. The reflex is almost always wrong. Beatrix's sustained damage into a high-armor frontline without penetration is lower than most marksmen in her tier: Wesker's volley decays sharply on the same target, and Renner sits behind a long cooldown. You bleed cooldowns on the tank and then have nothing for the carry.
+
+Three rules for teamfight positioning.
+
+1. **Target the lowest-HP hero, not the closest one.** Your Blade of Despair passive only activates on sub-50% enemies. Find whoever is about to fall under that threshold in the first two seconds of the fight and commit your next Renner or Bennett ultimate into them. Despair is where your real damage lives.
+2. **Stay at your own max range, not the fight's max range.** A common mistake is creeping forward to match the fight's center of mass. Your range is further than the fight's range. If your support is holding a point seven meters ahead of you, you should be seven meters behind them, not beside them. Renner reaches. You do not need to close.
+3. **Swap weapons on range change, not on panic.** If a Ling dives your backline and you are holding Renner primary, you swap to Wesker or Nibiru and eat the animation window. If the enemy is still at six-plus meters, do not swap. The animation is a free punish for any melee within dash range, so swap only when the range forces it.
+
+If your support is Angela, her shield absorbs one Lancelot combo and her slow applies the debuff that lets you pre-position. If your support is Diggie, his field covers the two highest-threat moments (Franco hook, Saber ultimate) but does nothing against Natalia stealth, so play one extra step back against unseen-threat drafts.
+
+### Itemization: three locks, three conversations
+
+The core is three items locked and three items as real conversations about the enemy draft.
+
+**Locked**: Swift Boots (the attack speed feeds Bennett's AOE reload cycle and Wesker's five-shot volley, not optional), Blade of Despair (first major item for the sub-50% Despair threshold), Malefic Gun (second major for the flat penetration plus the range extension that pushes your safe poke further).
+
+**Flex slot A: the sustain slot.** Wind of Nature is the strongest single buy here because its 10% Lifesteal becomes 10% Spell Vamp on your ultimate and on Bennett's bombs through her passive, and its active grants two seconds of Physical Damage immunity that buys you the only real escape window Beatrix has against a Ling or Lancelot dive. Against a poke comp with no dive threat, swap to Demon Hunter Sword instead: the 8% current-HP on-hit damage finishes low-HP escapers that Renner would miss, and the HP recovery per basic attack continues the sustain theme.
+
+**Flex slot B: the utility slot.** Against a tank-heavy draft (two or more of Khufra, Edith, Ruby, Gloo, Terizla, Esmeralda), buy Hunter Strike for the 10% cooldown reduction on Tactical Reposition and Masterful Gunner. Against a heavy-healing comp (Estes, Floryn, Uranus, Yu Zhong), swap to Sea Halberd for the Lifebane anti-heal plus the 8% extra damage against high-HP targets.
+
+**Flex slot C: the sixth-slot conversation.** If the game is even and the enemy has no real dive threat left, Berserker's Fury works as a cheap Physical Attack stick: the crit chance cannot itself crit on Beatrix, but her passive turns Crit Chance into flat Physical Attack, so the stat is not wasted on her. If the game is on a knife-edge and your deaths are the reason fights are ending, Immortality over the damage slot is correct.
+
+**Emblem**: Marksman Emblem with Fatal, Weapon Master and the Weakness Finder core talent. Beatrix cannot crit, so Fatal's crit damage does nothing for her. Its crit chance still counts, because her passive turns Crit Chance into flat Physical Attack, so the talent is not wasted. Weapon Master adds 8% to the bonus Physical Attack you get from items, emblem, talents and skills, so it grows with Blade of Despair and the rest of the build. Weakness Finder makes a basic attack slow the target by 50% and cut their attack speed by 30% for 1 second. It has a 10 second cooldown, and every basic attack takes 1 second off it (down to 3 seconds at best). Use it to start a chase or to peel, not as a slow that is always on. If you would rather win lane on burst than kite all game, Assassin Emblem with Weapon Master is the greedier alternative the build snapshot pairs with a Hunter Strike first item.
+
+**Battle spell**: Flicker, every game. Retribution only if you are jungling, and you are not jungling.
+
+### Mistakes that lose Beatrix games
+
+1. **Weapon-swapping on reflex instead of on range change.** The swap animation is a free punish window for Saber, Kaja, and any melee assassin inside dash range. Players swap between weapons because the new weapon looks stronger rather than because the fight range changed. Commit to a pair at the start of each fight and swap only when the enemy closes or the current target dies.
+2. **Firing Renner's Apathy into a full-HP, undebuffed target.** The snipe is a large number on paper that disappears in a fight where the target is still above 50% HP (Despair dead) and has no slow applied (every dash hero walks out of the aim window). Always tag the target with a Bennett basic first to apply the slow, wait for them to dip under half HP from the bombs, then fire Renner. Out of that order it is a wasted ultimate.
+3. **Opening a fight with Nibiru primary against a team that has CC.** Nibiru's ultimate is a channelled volley that any hard CC cancels. Using it to initiate against an untouched enemy with CC cooldowns up is a cancelled ult plus a dead Beatrix. Nibiru is for finishing isolated, already-low targets after a teamfight has already tilted, not for starting one.
+4. **Farming with Renner primary.** Renner's reload cadence is the slowest of the four weapons, so staying on it through farm mode is a meaningful CS deficit by the eight-minute mark. Bennett clears a wave in half the time thanks to the AOE, and Wesker is faster on single-camp jungle.
+5. **Picking her into a Saber-plus-Helcurt pair without a CC-immunity support.** This is a draft error that shows up as a mechanical error ("I got suppressed and died"). The combined locks suppress or silence Beatrix for the full duration it takes her to press any meaningful button. If the enemy locks Saber or Kaja after you, your support must carry CC immunity (Diggie field, Khaleed cleanse) or the game is already lost at draft.
+
+### Key tips
+
+> [!TIP]
+> Wind of Nature is mandatory against any Ling, Lancelot, Fanny, or Hayabusa draft. The two-second Physical immunity is the single window where Beatrix survives an assassin landing on top of her, and the 10% Lifesteal feeds her Spell Vamp passive so the item pulls double duty. It is not a comfort pick, it is a survival condition.
+
+> [!NOTE]
+> Need Backup only opens once you have left combat. You cannot reselect your weapons mid-fight, even after a kill, if you are still taking damage. Always pre-plan your pair based on the next fight's likely range, not the last fight's outcome.
+
+> [!TIP]
+> Bennett's ultimate applies its slow on every single bombardment tick, and Weakness Finder from the Marksman emblem adds a short slow on a basic attack every few seconds. Drop Bennett's ultimate inside a choke, then keep basic-attacking anyone who steps through. Together they make the zone very hard to cross for any target without a dash ready.
+
+> [!NOTE]
+> Against Saber and Kaja specifically, your secondary weapon should always be Wesker regardless of primary. Wesker's five-shot burst is the only output that delivers meaningful damage inside the half-second between their ultimate animation starting and the suppression locking in. Anything else wastes the only offensive window you get against those two.
+
+## Skills
+
+### Mechanical Genius (Passive)
+
+Beatrix's talent for mechanics allowed her to produce 4 weapons of truly awe-inspiring firepower. Renner Basic Attack - Longshot: Fires a powerful shot in the target's direction, dealing (+365% Total Physical Attack) - (+400% Total Physical Attack) Physical Damage to the first target hit (75% damage against creeps). This shot can be dodged or blocked by others. Beatrix cannot Crit. She converts every 1% Crit Chance into 2 Physical Attack. She gains Spell Vamp equal to 100% of her Lifesteal.
+
+### Masterful Gunner (Skill 1)
+
+Passive: Beatrix can carry 2 weapons at once, increasing her Physical Attack by 5. Active: Beatrix takes 0.5s to swap her primary weapon with the secondary weapon, gaining a new Basic Attack and Ultimate.
+
+### Tactical Reposition (Skill 2)
+
+Beatrix rolls forward while fully reloading her current weapon.
+
+### Renner's Apathy (Skill 3)
+
+Beatrix calmly sets up Renner on the battlefield and takes aim. When releasing the skill, she deals 700 (+280% Total Physical Attack) Physical Damage to the first enemy hit. Beatrix can aim for up to 8s, and she can cancel it early to reduce the cooldown by 50%. This shot can penetrate Minions and only deals 75% damage to non-hero units.
+
+### Need Backup (Ultimate)
+
+Having escaped battle for 3s, Beatrix can call for her butler Morgan to provide her with a backup weapons crate. Beatrix must then choose two from the crate to serve as her primary and secondary weapons. Her weapon selection is interrupted if she commits any action or is controlled during this period.
+
+Skill upgrade priority: 3-1-2.
+
+## Combos
+
+- TEAMFIGHT COMBOS (teamfight): For teamfights, we recommend using Bennett as Beatrix's primary weapon and Nibiru as her secondary weapon. During a teamfight, Beatrix can use Bennett's Ultimate to strike the enemy team. Then she can use her 1st Skill to switch to Nibiru, and cast Nibiru's Ultimate to attack the enemy. She can finish off the enemy heroes with her Basic Attacks and her 2nd Skill.
+- LANING COMBOS (laning): In the laning phase, we recommend using Renner as Beatrix's primary weapon and Wesker as her secondary weapon. She can use Renner's ranged Basic Attack to poke the enemy, and her 2nd Skill to reload and fire again. She can then switch to Wesker to finish off the target enemy.
+
+## Counters to Beatrix (pick these against Beatrix)
+
+- Natalia (Assassin): +3.0 pp edge. Across Beatrix's measured matchups, Beatrix is weakest once matches pass 16 minutes. Take the game long with Natalia.
+- Granger (Marksman): +2.4 pp edge. Granger's burst damage can eliminate Beatrix before they can deal sustained damage in team fights.
+- Kaja (Support): +2.4 pp edge. Kaja has a statistical edge over Beatrix based on ranked matchup data. Pick Kaja to gain an advantage in draft.
+- Saber (Assassin): +2.2 pp edge. Saber has a statistical edge over Beatrix based on ranked matchup data. Pick Saber to gain an advantage in draft.
+- Wanwan (Marksman): +2.2 pp edge. Wanwan's burst damage can eliminate Beatrix before they can deal sustained damage in team fights.
+- Chou (Fighter): +2.1 pp edge. Across Beatrix's measured matchups, Beatrix is weakest once matches pass 16 minutes. Take the game long with Chou.
+- Moskov (Marksman): +2.0 pp edge. Across Beatrix's measured matchups, Beatrix is weakest once matches pass 16 minutes. Take the game long with Moskov.
+- Irithel (Marksman): +1.9 pp edge. Irithel's burst damage can eliminate Beatrix before they can deal sustained damage in team fights.
+
+## Heroes Beatrix beats
+
+- Estes (Support): +5.2 pp edge for Beatrix.
+- Hanabi (Marksman): +3.3 pp edge for Beatrix.
+- Belerick (Tank): +3.2 pp edge for Beatrix.
+- Edith (Tank/Marksman): +2.8 pp edge for Beatrix.
+- Baxia (Tank): +2.6 pp edge for Beatrix.
+- Minotaur (Tank/Support): +2.4 pp edge for Beatrix.
+- Lapu-Lapu (Fighter): +1.8 pp edge for Beatrix.
+- Julian (Assassin/Fighter): +1.5 pp edge for Beatrix.
+
+Full counter analysis, both directions, with matchup notes: https://mlbbhub.com/counter/beatrix.
+
+## Curated builds
+
+Reviewed against patch 2.1.67 on 2026-05-06. The live patch is 2.2.16a, so these have not been re-read against it yet.
+
+### Gold Lane Range Burst (Gold)
+
+- Items: Swift Boots, Blade of Despair, Hunter Strike, Haas's Claws, Sea Halberd, Malefic Gun
+- Core: Blade of Despair, Hunter Strike, Malefic Gun
+- Emblem: Assassin Emblem with Rupture, Weapon Master, Quantum Charge
+- Battle spell: Flicker
+- Flex: Wind of Nature over Sea Halberd when Use when the main threat is physical burst and the enemy does not rely on heavy healing or shields.; Rose Gold Meteor over Sea Halberd when Use against mixed dive or magic burst where Wind of Nature does not stop the first engage.; Immortality over Haas's Claws when Use in the final Lord fight when one death decides the game and your team can protect the revive.
+- Total cost: 11920 gold
+
+Default gold lane setup for Renner and Bennett pressure, rushing raw Physical Attack and penetration before Malefic Gun extends Beatrix's safe damage range.
+
+### Attack-Effect DPS (Gold)
+
+- Items: Swift Boots, Demon Hunter Sword, Corrosion Scythe, Golden Staff, Malefic Gun, Wind of Nature
+- Core: Demon Hunter Sword, Corrosion Scythe, Golden Staff
+- Emblem: Marksman Emblem with Rupture, Weapon Master, Quantum Charge
+- Battle spell: Flicker
+- Flex: Sea Halberd over Wind of Nature when Use when sustain, shields, or high-extra-HP fighters are more dangerous than physical burst.; Rose Gold Meteor over Wind of Nature when Use against magic burst or mixed assassins that can force Wind Chant too early.
+- Total cost: 10970 gold
+
+Sustained DPS setup for Nibiru and Wesker games where Beatrix can keep basic-attacking and convert attack effects into front-to-back pressure.
+
+### CC-Safe Late Game (Gold)
+
+- Items: Tough Boots, Blade of Despair, Malefic Gun, Haas's Claws, Rose Gold Meteor, Immortality
+- Core: Blade of Despair, Malefic Gun, Rose Gold Meteor
+- Emblem: Assassin Emblem with Rupture, Weapon Master, Quantum Charge
+- Battle spell: Purify
+- Flex: Wind of Nature over Rose Gold Meteor when Use when the decisive threat is physical damage after crowd control has already been answered by Purify.; Athena's Shield over Immortality when Use against single-window magic burst that must be blocked before revive value matters.; Radiant Armor over Immortality when Use against repeated magic damage that chips Beatrix through extended objective fights.
+- Total cost: 11790 gold
+
+Defensive setup for CC-heavy drafts where Beatrix needs Purify, Tough Boots, and one lifeline item to keep range long enough to fire.
+
+All builds for this hero: https://mlbbhub.com/builds/beatrix.
+
+## Synergies
+
+- Khufra: Beatrix works best with tank heroes with good CC abilities, as they can help improve the accuracy of Beatrix's skills. Like Khufra and Atlas.
+- Atlas: Beatrix works best with tank heroes with good CC abilities, as they can help improve the accuracy of Beatrix's skills. Like Khufra and Atlas.
+
+## Data provenance
+
+Season 42, patch 2.2.16a (Patch 2.2.16a). Win, pick and ban rates are rolling seven-day ranked figures from Moonton's official GMS and MAPI endpoints, refreshed daily. Snapshot generated at 2026-10-19T04:59:52.757Z.
+
+Full machine-readable index: https://mlbbhub.com/llms.txt. Current meta dump: https://mlbbhub.com/llms-full.txt. Agent instructions: https://mlbbhub.com/agents.md. All URLs: https://mlbbhub.com/sitemap.xml.
